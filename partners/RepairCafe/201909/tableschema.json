@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "Open Repair Data from Repair Café 2019-09",
-      "path": "",
+      "path": "https://raw.githubusercontent.com/openrepair/data/master/partners/RepairCafe/201909/OpenRepairData_RepairCafe_20190909.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

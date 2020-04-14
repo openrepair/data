@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "Open Repair Data from anstiftung 2019-09",
-      "path": "",
+      "path": "https://raw.githubusercontent.com/openrepair/data/master/partners/anstiftung/201909/OpenRepairData_v0.1_anstiftung_201909.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

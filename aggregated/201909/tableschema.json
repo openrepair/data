@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "Open Repair Data 2020-03 aggregated",
-      "path": "",
+      "path": "https://raw.githubusercontent.com/openrepair/data/master/aggregated/201909/OpenRepairData_v0.1_aggregated_201909.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
