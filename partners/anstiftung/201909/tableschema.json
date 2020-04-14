@@ -1,0 +1,140 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "Open Repair Data from anstiftung 2019-09",
+      "path": "",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "format": "default",
+            "title": "ID",
+            "description": "Unique identifier.",
+            "constraints": {
+                "pattern": "[0-9]+-[a-z]+",
+                "unique": "true"
+            }
+          },
+          {
+            "name": "data_provider",
+            "type": "string",
+            "format": "default",
+            "title": "Data Provider",
+            "description": "Name of the organisation that collates and exports the data."
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "format": "default",
+            "title": "Country",
+            "description": "3 char ISO country code.",
+            "constraints": {
+                "pattern": "[A-Z]{3}",
+                "minimum": "3",
+                "maximum": "3"
+            }
+          },
+          {
+            "name": "language",
+            "type": "string",
+            "format": "default",
+            "title": "Language",
+            "description": "Language of the metadata values (not the Problem Text)."
+          },
+          {
+            "name": "product_category",
+            "type": "string",
+            "format": "default",
+            "title": "Product Category",
+            "description": "Type of product."
+          },
+          {
+            "name": "brand",
+            "type": "string",
+            "format": "default",
+            "title": "Brand",
+            "description": "Product brand name. Optional.",
+            "missingValues": ["Unknown"]
+          },
+          {
+            "name": "model",
+            "type": "string",
+            "format": "default",
+            "title": "Model",
+            "description": "Product model. Optional.",
+            "missingValues": ["Unknown"]
+          },
+          {
+            "name": "year_of_manufacture",
+            "type": "string",
+            "format": "default",
+            "title": "Year of Manufacture",
+            "description": "Product age. Optional.",
+            "constraints": {
+                "pattern": "[?0-9]{4}"
+            },
+            "missingValues": ["????"]
+          },
+          {
+            "name": "repair_status",
+            "type": "string",
+            "format": "default",
+            "title": "Repair Status",
+            "description": "Result of the repair attempt.",
+            "constraints": {
+                "enum": "[Fixed, Repairable, End of life, Unknown]"
+            }
+          },
+          {
+            "name": "group_identifier",
+            "type": "string",
+            "format": "default",
+            "title": "Repair Group",
+            "description": "Name of the group that held the event."
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "format": "yyyy-mm-dd",
+            "description": "Date the repair event was held on.",
+            "title": "Repair Event Date"
+          },
+          {
+            "name": "problem",
+            "type": "string",
+            "format": "default",
+            "title": "Problem Text",
+            "description": "Description of the fault and solution."
+          }
+        ],
+        "primaryKey": "id"
+      },
+      "format": "CSV",
+      "title": "anstiftung Open Repair dataset to September 9th 2020"
+    }
+  ],
+  "name": "OpenRepairData_v0.1_anstiftung_201909",
+  "title": "anstiftung Open Repair Data from June 2018 to September 9th 2019",
+  "description": "Dataset from the Open Repair Alliance.",
+  "homepage": "https://openrepair.org/open-data/",
+  "contributors": [
+    {
+      "title": "Monique Szpak",
+      "role": "author"
+    },
+    {
+      "title": "Neil Mather",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}
