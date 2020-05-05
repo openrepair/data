@@ -2,7 +2,7 @@
   "profile": "tabular-data-package",
   "resources": [
     {
-      "name": "Open Repair Data 2020-03 aggregated",
+      "name": "Open Repair Data 2019-00 aggregated",
       "path": "https://raw.githubusercontent.com/openrepair/data/master/aggregated/201909/OpenRepairData_v0.1_aggregated_201909.csv",
       "profile": "tabular-data-resource",
       "schema": {
@@ -113,11 +113,11 @@
         "primaryKey": "id"
       },
       "format": "CSV",
-      "title": "Aggregated Open Repair dataset to March 30th 2020"
+      "title": "Aggregated Open Repair dataset to September 9th 2019"
     }
   ],
-  "name": "OpenRepairData_v0.1_aggregated_202003",
-  "title": "Open Repair Data aggregated from June 2012 to March 30th 2020",
+  "name": "OpenRepairData_v0.1_aggregated_201909",
+  "title": "Open Repair Data aggregated from June 2012 to September 9th 2019",
   "description": "Dataset from the Open Repair Alliance.",
   "homepage": "https://openrepair.org/open-data/",
   "contributors": [
