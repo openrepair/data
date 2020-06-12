@@ -1,6 +1,6 @@
 # Open Repair Data
 
-Partner dataset: 15,594 records from 2012-06-12 to 2020-03-31 provided by [The Restart Project](https://restarters.net/)
+Partner dataset to 2020-03-31 provided by [The Restart Project](https://restarters.net/)
 
 ## Repository
 
@@ -23,5 +23,3 @@ With additions. For details see the tableschema.json
 ## Notes
 
 The `product_category` values are under discussion and subject to change.
-
-The `language` values denote the language of the metadata (`product_category`, `repair_status`) and may be omitted or switched to denote the language of the `problem` values in the future. 

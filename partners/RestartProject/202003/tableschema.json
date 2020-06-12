@@ -2,7 +2,7 @@
   "profile": "tabular-data-package",
   "resources": [
     {
-      "name": "Open Repair Data from The Restart Project 2020-03",
+      "name": "Open Repair Data from The Restart Project to 2020-03",
       "path": "https://raw.githubusercontent.com/openrepair/data/master/partners/RestartProject/202003/OpenRepairData_v0.1_RestartProject_202003.csv",
       "profile": "tabular-data-resource",
       "schema": {
@@ -23,7 +23,7 @@
             "type": "string",
             "format": "default",
             "title": "Data Provider",
-            "description": "Name of the organisation that collates and exports the data."
+            "description": "Name of the organisation that collects the data."
           },
           {
             "name": "country",
@@ -36,13 +36,6 @@
                 "minimum": "3",
                 "maximum": "3"
             }
-          },
-          {
-            "name": "language",
-            "type": "string",
-            "format": "default",
-            "title": "Language",
-            "description": "Language of the metadata values (not the Problem Text)."
           },
           {
             "name": "product_category",

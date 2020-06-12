@@ -1,0 +1,133 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "",
+	  "path": "https://raw.githubusercontent.com/openrepair/data/master/partners/<Partner>/<yyyymm>/OpenRepairData_v0.1_aggregate_202003.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "format": "default",
+            "title": "ID",
+            "description": "Unique identifier.",
+            "constraints": {
+                "pattern": "[0-9]+-[a-z]+",
+                "unique": "true"
+            }
+          },
+          {
+            "name": "data_provider",
+            "type": "string",
+            "format": "default",
+            "title": "Data Provider",
+            "description": "Name of the organisation that collects the data."
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "format": "default",
+            "title": "Country",
+            "description": "3 char ISO country code.",
+            "constraints": {
+                "pattern": "[A-Z]{3}",
+                "minimum": "3",
+                "maximum": "3"
+            }
+          },
+          {
+            "name": "product_category",
+            "type": "string",
+            "format": "default",
+            "title": "Product Category",
+            "description": "Type of product."
+          },
+          {
+            "name": "brand",
+            "type": "string",
+            "format": "default",
+            "title": "Brand",
+            "description": "Product brand name. Optional.",
+            "missingValues": ["Unknown"]
+          },
+          {
+            "name": "model",
+            "type": "string",
+            "format": "default",
+            "title": "Model",
+            "description": "Product model. Optional.",
+            "missingValues": ["Unknown"]
+          },
+          {
+            "name": "year_of_manufacture",
+            "type": "string",
+            "format": "default",
+            "title": "Year of Manufacture",
+            "description": "Product age. Optional.",
+            "constraints": {
+                "pattern": "[?0-9]{4}"
+            },
+            "missingValues": ["????"]
+          },
+          {
+            "name": "repair_status",
+            "type": "string",
+            "format": "default",
+            "title": "Repair Status",
+            "description": "Result of the repair attempt.",
+            "constraints": {
+                "enum": "[Fixed, Repairable, End of life, Unknown]"
+            }
+          },
+          {
+            "name": "group_identifier",
+            "type": "string",
+            "format": "default",
+            "title": "Repair Group",
+            "description": "Name of the group that held the event."
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "format": "yyyy-mm-dd",
+            "description": "Date the repair event was held on.",
+            "title": "Repair Event Date"
+          },
+          {
+            "name": "problem",
+            "type": "string",
+            "format": "default",
+            "title": "Problem Text",
+            "description": "Description of the fault and solution."
+          }
+        ],
+        "primaryKey": "id"
+      },
+      "format": "CSV",
+      "title": "[Partner] Open Repair Data to March 30 2020"
+    }
+  ],
+  "name": "OpenRepairData_v0.1_aggregate_202003",
+  "title": "Aggregated Open Repair Data to March 30 2020",
+  "description": "Dataset from the Open Repair Alliance. ",
+  "homepage": "https://openrepair.org/open-data/",
+  "contributors": [
+    {
+      "title": "Monique Szpak",
+      "role": "author"
+    },
+    {
+      "title": "Neil Mather",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}
