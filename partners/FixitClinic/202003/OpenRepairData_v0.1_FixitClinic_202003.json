@@ -816,7 +816,7 @@
         "repair_status": "Unknown",
         "group_identifier": "Fixit Clinic",
         "date": "2018-03-03",
-        "problem": "Laptop ~ I need to clone the hard drive, and potentially reinstall the OS.  Hard drive and OS had no problem before  submitting laptop to Central Computer in Santa Clara for warranty repair, and now they allege there is a problem.  Historically this laptop had a manufacturing defect that Apple refused to repair under warranty.  The laptop was purchased in February 2012, even though it is considered late 2011 with a 2010 mfg date.  Supposedly the GPU failed due to a defect in the lead free solder.  I submitted it to "
+        "problem": "Laptop ~ I need to clone the hard drive, and potentially reinstall the OS.  Hard drive and OS had no problem before  submitting laptop to Central Computer in Santa Clara for warranty repair, and now they allege there is a problem.  Historically this laptop had a manufacturing defect that Apple refused to repair under warranty.  The laptop was purchased in February 2012, even though it is considered late 2011 with a 2010 mfg date.  Supposedly the GPU failed due to a defect in the lead free solder.  I submitted it to Central Computer for repair without knowing that they don't do their own work and contract it out.  They have worked on it three different times, and no one really knows what they did on the first repair.  The laptop failed after 60 days, and failed three weeks later after the 2nd repair.  I am about to pickup the laptop after the 3rd repair, but apparently Central Computer now alleges something is wrong with the hard drive.  The hard drive was tested and in good working order after the 2nd repair, so I am a bit suspicious.  "
     },
     {
         "id": "fixitclinic_91",
@@ -4352,7 +4352,7 @@
         "repair_status": "Repairable",
         "group_identifier": "Fixit Clinic",
         "date": "2019-07-31",
-        "problem": "Halogen lamp with dimmer switch.   ~ I use this lamp and it\u2019s twin as bedside table lamps, because they have a dimmer switch and can be dimmed down low for least-impact before bed lighting. About two weeks ago the on off\/dimmer switch started having an intermittent delayed response  before the light would turn on. At first turning it off and in again once got it working, then  it had to be turned on and off  a few times, but still would start. Last week it quit entirely. I tried replacing the halogen bulb (which we\u2019ve  done numerous times sinc"
+        "problem": "Halogen lamp with dimmer switch.   ~ I use this lamp and it\u2019s twin as bedside table lamps, because they have a dimmer switch and can be dimmed down low for least-impact before bed lighting. About two weeks ago the on off\/dimmer switch started having an intermittent delayed response  before the light would turn on. At first turning it off and in again once got it working, then  it had to be turned on and off  a few times, but still would start. Last week it quit entirely. I tried replacing the halogen bulb (which we\u2019ve  done numerous times since we purchased it more than ten years ago) but it still won\u2019t start."
     },
     {
         "id": "fixitclinic_474",
