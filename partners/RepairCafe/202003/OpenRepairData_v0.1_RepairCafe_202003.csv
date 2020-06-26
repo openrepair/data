@@ -3035,7 +3035,7 @@ repaircafe_3792,"Repair Café",NLD,"Small kitchen item",Unknown,Unknown,????,Unk
 repaircafe_3793,"Repair Café",NLD,"Decorative or safety lights",Unknown,Unknown,????,Fixed,0036,2017-12-15,"defecte lichtslang ~ werkt niet"
 repaircafe_3795,"Repair Café",NLD,"Small home electrical",Philips,Unknown,1975,Fixed,0017,2017-12-16,doorgebrand
 repaircafe_3796,"Repair Café",NLD,"Musical instrument",Casio,Unknown,2006,Fixed,0017,2017-12-16,"hij doet niets meer; schakelaar haalt niets uit"
-repaircafe_3797,"Repair Café",NLD,"Portable radio",Philips,Unknown,????,#N/A,0017,2017-12-16,"cd is stuk"
+repaircafe_3797,"Repair Café",NLD,"Portable radio",Philips,Unknown,????,Unknown,0017,2017-12-16,"cd is stuk"
 repaircafe_3799,"Repair Café",NLD,Vacuum,Nilfisk,Unknown,????,Unknown,0017,2017-12-16,"gestopt tijdens gebruik ~ kortsluiting="
 repaircafe_3800,"Repair Café",NLD,Vacuum,"AEG Electrolux",Unknown,2010,Fixed,0017,2017-12-16,"doet niets"
 repaircafe_3801,"Repair Café",NLD,"Portable radio",Philips,Unknown,2007,Unknown,0017,2017-12-16,"Cd speler doet het niet  ~ Software "
@@ -3043,7 +3043,7 @@ repaircafe_3804,"Repair Café",NLD,"Small kitchen item",Princess,Unknown,2008,Fi
 repaircafe_3805,"Repair Café",NLD,Lamp,Unknown,Unknown,1968,Fixed,0017,2017-12-16,"doet niets meer"
 repaircafe_3808,"Repair Café",NLD,Watch/clock,Quartz,Unknown,1997,Fixed,0017,2017-12-16,"wijzer staat niet goed. ~ onbekend"
 repaircafe_3810,"Repair Café",NLD,"Small kitchen item",Moulinex,Unknown,????,Fixed,0017,2017-12-16,"deur gaat niet meer open ~ Stukje plastic afgebroken waardoor deur blokkeerde"
-repaircafe_3811,"Repair Café",NLD,Misc,Unknown,Unknown,????,#N/A,0017,2017-12-16,
+repaircafe_3811,"Repair Café",NLD,Misc,Unknown,Unknown,????,Unknown,0017,2017-12-16,
 repaircafe_3812,"Repair Café",NLD,Vacuum,Bosch,Unknown,2002,Fixed,0023,2017-12-18,"zuigt niet meer voldoende ~ slijtage onderdeel"
 repaircafe_3813,"Repair Café",NLD,"Small kitchen item",Philips,Unknown,2009,Fixed,0023,2017-12-18,"verwarmt niet ~ verwarmingselement"
 repaircafe_3815,"Repair Café",NLD,Kettle,Philips,Unknown,????,Fixed,0004,2017-12-21,"verkalkt ~ te lang stilgestaan, kalk?"
