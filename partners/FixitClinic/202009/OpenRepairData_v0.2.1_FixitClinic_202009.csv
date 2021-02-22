@@ -1,0 +1,488 @@
+id,data_provider,country,partner_product_category,product_category,brand,year_of_manufacture,repair_status,repair_barrier_if_end_of_life,group_identifier,event_date,problem
+fixitclinic_1,"Fixit Clinic",USA,Iron,Iron,Sunbeam,2016,Unknown,,"Fixit Clinic",2018-01-02,"Steam selector switch broken, tip of soleplate broken"
+fixitclinic_2,"Fixit Clinic",USA,Iron,Iron,Sunbeam,????,Unknown,,"Fixit Clinic",2018-01-02,
+fixitclinic_3,"Fixit Clinic",USA,"Artificial christmas tree lights","Decorative or safety lights",GE,????,Unknown,,"Fixit Clinic",2018-01-13,
+fixitclinic_4,"Fixit Clinic",USA,"12"" Table Fan",Fan,Holmes,????,Unknown,,"Fixit Clinic",2018-01-14,
+fixitclinic_5,"Fixit Clinic",USA,"upright vacuum ",Vacuum,"Hoover ",????,Unknown,,"Fixit Clinic",2018-01-14,
+fixitclinic_6,"Fixit Clinic",USA,"CD player","Hi-Fi separates",Curtis,????,Unknown,,"Fixit Clinic",2018-01-14,
+fixitclinic_7,"Fixit Clinic",USA,Fan,Fan,Aries,????,Unknown,,"Fixit Clinic",2018-01-14,
+fixitclinic_8,"Fixit Clinic",USA,blender,"Food processor","kitchen aid",2008,Unknown,,"Fixit Clinic",2018-01-14,"A part required replacing. The directions supplied with the new part(s) made replacement procedure unclear."
+fixitclinic_9,"Fixit Clinic",USA,"SSW Radio /Dual Conversion12 Bands/Dual Clock/FM Stereo/SW/MW/PLL Synthesized Receiverual Clock Radio","Portable radio",SONY,????,Repairable,,"Fixit Clinic",2018-01-19,
+fixitclinic_10,"Fixit Clinic",USA,"Sewing machine ","Sewing machine","Brother ",????,Unknown,,"Fixit Clinic",2018-01-21,"Only sews backwards"
+fixitclinic_11,"Fixit Clinic",USA,"Rice cooker","Small kitchen item","Black and Decker",????,"End of life",,"Fixit Clinic",2018-01-21,
+fixitclinic_12,"Fixit Clinic",USA,"FM/AM Radio Cassette-Corder","Portable radio",Son,????,Fixed,,"Fixit Clinic",2018-01-21,
+fixitclinic_14,"Fixit Clinic",USA,Toaster,Toaster,Cuisinart,????,Repairable,,"Fixit Clinic",2018-01-21,
+fixitclinic_16,"Fixit Clinic",USA,"ipad ",Tablet,"Apple ",2014,Fixed,,"Fixit Clinic",2018-01-27,"Not accepting password "
+fixitclinic_18,"Fixit Clinic",USA,"Sewing machine","Sewing machine","Singer ""Featherweight""  ",2008,Fixed,,"Fixit Clinic",2018-01-27,"Bobbin threader not working "
+fixitclinic_20,"Fixit Clinic",USA,"Lamp ",Lamp,N/A,2008,Repairable,,"Fixit Clinic",2018-01-27,"Needs rewiring and new switch"
+fixitclinic_23,"Fixit Clinic",USA,"Cuisinart Food Mixer ","Food processor","Cuisinart ",2008,Fixed,,"Fixit Clinic",2018-01-27,"No power "
+fixitclinic_24,"Fixit Clinic",USA,"Christmas Song Village",Toy,"Roman Inc",2008,Fixed,,"Fixit Clinic",2018-01-27,"Stopped Singing"
+fixitclinic_25,"Fixit Clinic",USA,"Barbie CD Player - Pink with radio",Toy,"Not sure?",????,Fixed,,"Fixit Clinic",2018-01-27,"Skipping when moved at all "
+fixitclinic_26,"Fixit Clinic",USA,"Immersion Blender","Food processor","Cusinart Smart Stick Hand Blender ",2013,Fixed,,"Fixit Clinic",2018-01-27,"Won't blend without terrible noise - gear coming out "
+fixitclinic_27,"Fixit Clinic",USA,Fan,Fan,Holmes,2014,Fixed,,"Fixit Clinic",2018-01-27,"Doesn't Spin "
+fixitclinic_28,"Fixit Clinic",USA,Clock,Watch/clock,Personalization,2009,Fixed,,"Fixit Clinic",2018-01-27,"Clock hands fell off "
+fixitclinic_29,"Fixit Clinic",USA,Lamp,Lamp,Unknown,2008,Repairable,,"Fixit Clinic",2018-01-27,"Needs new socket and rewiring "
+fixitclinic_31,"Fixit Clinic",USA,Lamp,Lamp,?,2008,Fixed,,"Fixit Clinic",2018-01-27,"I want a three way socket installed "
+fixitclinic_32,"Fixit Clinic",USA,Vacuum,Vacuum,"Meili ",????,Repairable,,"Fixit Clinic",2018-01-27,"Cord doesn't retract "
+fixitclinic_33,"Fixit Clinic",USA,"Sewing machine","Sewing machine","Viking Husqvarna ",2008,Fixed,,"Fixit Clinic",2018-01-27,"Function slide is not working "
+fixitclinic_35,"Fixit Clinic",USA,"room air purifier",Aircon/dehumidifier,"Austin Air",????,Repairable,,"Fixit Clinic",2018-01-28,
+fixitclinic_37,"Fixit Clinic",USA,"desk lamp",Lamp,"unknown/ Danish",????,Fixed,,"Fixit Clinic",2018-01-28,
+fixitclinic_38,"Fixit Clinic",USA,Laptop,Laptop,"Lenovo ",2013,Unknown,,"Fixit Clinic",2018-01-28,"2017 , Screen Broken"
+fixitclinic_39,"Fixit Clinic",USA,Lamp,Lamp,Unknown,????,Fixed,,"Fixit Clinic",2018-01-29,
+fixitclinic_40,"Fixit Clinic",USA,"Kid's keyboard",Toy,Canto,????,Repairable,,"Fixit Clinic",2018-01-29,
+fixitclinic_41,"Fixit Clinic",USA,"Bedside lamp",Lamp,Target,????,Fixed,,"Fixit Clinic",2018-01-29,
+fixitclinic_43,"Fixit Clinic",USA,"Sewing machine","Sewing machine","Sears Kenmore ",2008,Repairable,,"Fixit Clinic",2018-01-29,"Stopped working "
+fixitclinic_45,"Fixit Clinic",USA,"Wireless headphones",Headphones,C02Y,2017,Unknown,,"Fixit Clinic",2018-01-30,"Not charging "
+fixitclinic_46,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Unknown,2008,Fixed,,"Fixit Clinic",2018-01-30,"Doesn't work "
+fixitclinic_47,"Fixit Clinic",USA,"plastic food processor top ","Food processor",Braun,2008,Fixed,,"Fixit Clinic",2018-01-30,"Chute part melted, want to cut top part off so I can use the pusher "
+fixitclinic_48,"Fixit Clinic",USA,LAMP,Lamp,"Unclear (older model - ceramic body)",2013,Fixed,,"Fixit Clinic",2018-01-30,"It will not light "
+fixitclinic_50,"Fixit Clinic",USA,"Computer & Bluetooth keyboard ","PC accessory","Apple/Logitech ",????,Unknown,,"Fixit Clinic",2018-01-30,"Keyboards have problems "
+fixitclinic_51,"Fixit Clinic",USA,"Toaster ",Toaster,"Black & Decker",????,Fixed,,"Fixit Clinic",2018-01-30,"Difficult to engage ""plunger/starter"" arm "
+fixitclinic_52,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Kenmore,2008,Fixed,,"Fixit Clinic",2018-01-30,"Tension needs adjustments and needs cleaning "
+fixitclinic_53,"Fixit Clinic",USA,"Sewing machine","Sewing machine","Janome ",2008,Fixed,,"Fixit Clinic",2018-01-30,"Bobbin pops out "
+fixitclinic_56,"Fixit Clinic",USA,"Swedish Candelabra ",Lamp,"? ",2008,Fixed,,"Fixit Clinic",2018-01-30,"Stopped working suddenly- used every year at Christmas "
+fixitclinic_57,"Fixit Clinic",USA,"Small Heater","Small home electrical","Nantucket Breeze",????,Unknown,,"Fixit Clinic",2018-01-30,"Got used- doesn't work "
+fixitclinic_59,"Fixit Clinic",USA,radio,"Portable radio",Unknown,????,Fixed,,"Fixit Clinic",2018-01-31,
+fixitclinic_60,"Fixit Clinic",USA,"wired in light fixture",Lamp,"not sure",2008,"End of life",,"Fixit Clinic",2018-02-02,"threaded part which holds bulb broke off"
+fixitclinic_61,"Fixit Clinic",USA,"Wall Clock",Watch/clock,Sunbeam,????,Fixed,,"Fixit Clinic",2018-02-08,
+fixitclinic_62,"Fixit Clinic",USA,"Swiffer WetJet floor mop","Small home electrical",Swiffer,????,Fixed,,"Fixit Clinic",2018-02-09,
+fixitclinic_63,"Fixit Clinic",USA,headphones,Headphones,sennheiser,????,Fixed,,"Fixit Clinic",2018-02-09,
+fixitclinic_64,"Fixit Clinic",USA,Ozonator,Aircon/dehumidifier,"Living Air",????,Fixed,,"Fixit Clinic",2018-02-09,
+fixitclinic_65,"Fixit Clinic",USA,"Electric Dog Polisher","Small home electrical",Mitshubishi,2008,Unknown,,"Fixit Clinic",2018-02-10,"fails to start-up "
+fixitclinic_66,"Fixit Clinic",USA,toaster,Toaster,dualit,2008,Repairable,,"Fixit Clinic",2018-02-10,"mechanical timer"
+fixitclinic_68,"Fixit Clinic",USA,blender,"Food processor",Cuisinart,????,Fixed,,"Fixit Clinic",2018-02-11,
+fixitclinic_69,"Fixit Clinic",USA,"Magic Bullet  blender","Food processor",Unknown,????,Repairable,,"Fixit Clinic",2018-02-11,
+fixitclinic_70,"Fixit Clinic",USA,Fan,Fan,Windbreeze,????,Repairable,,"Fixit Clinic",2018-02-12,
+fixitclinic_72,"Fixit Clinic",USA,"electric toothbrush (recharageable)","Hair & beauty item",Braun,????,Fixed,,"Fixit Clinic",2018-02-14,
+fixitclinic_77,"Fixit Clinic",USA,smartphone,Mobile,Apple,????,Fixed,,"Fixit Clinic",2018-02-16,
+fixitclinic_78,"Fixit Clinic",USA,Fan,Fan,Windchaser,????,Repairable,,"Fixit Clinic",2018-02-20,
+fixitclinic_79,"Fixit Clinic",USA,"Hot Water Kettle",Kettle,Melitta,2008,Fixed,,"Fixit Clinic",2018-02-20,"Does not heat, the thermal fuse opened up.  "
+fixitclinic_81,"Fixit Clinic",USA,"Weed wacker","Power tool",Ryobi,????,Repairable,,"Fixit Clinic",2018-02-25,
+fixitclinic_83,"Fixit Clinic",USA,"clock radio w/cd player","Portable radio",Unknown,????,Fixed,,"Fixit Clinic",2018-02-26,"cd player just spins and spins; no without player disk"
+fixitclinic_84,"Fixit Clinic",USA,mixer,"Food processor",KitchenAid,2008,Fixed,,"Fixit Clinic",2018-02-27,"Planetary mechanism had fallen off "
+fixitclinic_85,"Fixit Clinic",USA,microwave,"Small kitchen item",Kenmore,2014,Fixed,,"Fixit Clinic",2018-03-02,"did not turn on"
+fixitclinic_87,"Fixit Clinic",USA,"Coffee Grinder","Food processor",Rancilio,????,Fixed,,"Fixit Clinic",2018-03-02,
+fixitclinic_88,"Fixit Clinic",USA,Toaster,Toaster,"Hamilton Beach",????,Fixed,,"Fixit Clinic",2018-03-02,
+fixitclinic_89,"Fixit Clinic",USA,Laptop,Laptop,"Apple ",2010,Unknown,,"Fixit Clinic",2018-03-03,"I need to clone the hard drive, and potentially reinstall the OS.  Hard drive and OS had no problem before  submitting laptop to Central Computer in Santa Clara for warranty repair, and now they allege there is a problem.  Historically this laptop had a manufacturing defect that Apple refused to repair under warranty.  The laptop was purchased in February 2012, even though it is considered late 2011 with a 2010 mfg date.  Supposedly the GPU failed due to a defect in the lead free solder.  I submitted it to Central Computer for repair without knowing that they don't do their own work and contract it out.  They have worked on it three different times, and no one really knows what they did on the first repair.  The laptop failed after 60 days, and failed three weeks later after the 2nd repair.  I am about to pickup the laptop after the 3rd repair, but apparently Central Computer now alleges something is wrong with the hard drive.  The hard drive was tested and in good working order after the 2nd repair, so I am a bit suspicious.  "
+fixitclinic_91,"Fixit Clinic",USA,clock,Watch/clock,Copal,????,Fixed,,"Fixit Clinic",2018-03-04,
+fixitclinic_93,"Fixit Clinic",USA,Headphones,Headphones,Sony,????,Fixed,,"Fixit Clinic",2018-03-04,
+fixitclinic_94,"Fixit Clinic",USA,"Cat fountain","Small home electrical",Petwell,????,Fixed,,"Fixit Clinic",2018-03-04,
+fixitclinic_95,"Fixit Clinic",USA,"lamp switch",Lamp,unknown,????,Repairable,,"Fixit Clinic",2018-03-04,
+fixitclinic_96,"Fixit Clinic",USA,"Two food processors","Food processor","Both were Cuisinart",????,Unknown,,"Fixit Clinic",2018-03-04,
+fixitclinic_97,"Fixit Clinic",USA,Laptop,Laptop,"MacBook Pro",????,Repairable,,"Fixit Clinic",2018-03-06,
+fixitclinic_98,"Fixit Clinic",USA,"Music Sampler","Hi-Fi separates",Yamaha,2008,Repairable,,"Fixit Clinic",2018-03-21,"Encoders need to be replaced "
+fixitclinic_99,"Fixit Clinic",USA,mixer,"Food processor",KitchenAid,????,Repairable,,"Fixit Clinic",2018-03-25,
+fixitclinic_102,"Fixit Clinic",USA,"SDHD Camera Card",Misc,SanDisk,????,Unknown,,"Fixit Clinic",2018-03-25,
+fixitclinic_104,"Fixit Clinic",USA,lamp,Lamp,"hand made",????,Fixed,,"Fixit Clinic",2018-03-26,
+fixitclinic_105,"Fixit Clinic",USA,"electric waffle iron","Small kitchen item","Dominion Electrical Mfg, Mansfield, OH",????,Repairable,,"Fixit Clinic",2018-03-26,
+fixitclinic_107,"Fixit Clinic",USA,"Timex Ironman Watch",Watch/clock,Timex,????,Repairable,,"Fixit Clinic",2018-03-26,
+fixitclinic_108,"Fixit Clinic",USA,Lamp,Lamp,N/A,????,Fixed,,"Fixit Clinic",2018-03-26,
+fixitclinic_110,"Fixit Clinic",USA,"cordless drill","Power tool",DeWALT,????,Fixed,,"Fixit Clinic",2018-03-26,
+fixitclinic_111,"Fixit Clinic",USA,"Food Saver  vacume packaging machine","Small kitchen item","Food Saver",????,Unknown,,"Fixit Clinic",2018-03-29,
+fixitclinic_112,"Fixit Clinic",USA,"Drum Machine","Musical instrument",Roland,2008,Repairable,,"Fixit Clinic",2018-03-30,"Power Supply issue. Also, a bigger issue. I think something is wrong with the tempo. it seems to not be consistent. "
+fixitclinic_113,"Fixit Clinic",USA,"Analog synth","Musical instrument",Paia,2008,Unknown,,"Fixit Clinic",2018-04-01,"It was fully functional and then now there is no output though its indication lights still show it powers on and receives midi signal. The light for “gate” no longer lights up. "
+fixitclinic_115,"Fixit Clinic",USA,Laptop,Laptop,"IBM thinkpad",????,Repairable,,"Fixit Clinic",2018-04-06,"It wont login. An error message keeps popping up"
+fixitclinic_116,"Fixit Clinic",USA,"Wireless speaker ","Hi-Fi separates",Bose,????,Repairable,,"Fixit Clinic",2018-04-07,
+fixitclinic_118,"Fixit Clinic",USA,printer,Printer/scanner,HP,2010,Repairable,,"Fixit Clinic",2018-04-26,"paper jam error with no paper jammed. "
+fixitclinic_119,"Fixit Clinic",USA,"tablet and ipod",Tablet,"Amazon / Apple",2008,Repairable,,"Fixit Clinic",2018-04-27,"Won't turn on / won't charge"
+fixitclinic_121,"Fixit Clinic",USA,"Panini grill","Small kitchen item",KRUPS,????,Fixed,,"Fixit Clinic",2018-04-29,"One of the thermal fuses did not work (240 Cs)"
+fixitclinic_124,"Fixit Clinic",USA,"electric handmixer","Food processor","Kitchen Aid",????,Unknown,,"Fixit Clinic",2018-05-07,
+fixitclinic_127,"Fixit Clinic",USA,"Cell phone",Mobile,Samsung,2015,Repairable,,"Fixit Clinic",2018-05-18,"Sim card reader broken off."
+fixitclinic_128,"Fixit Clinic",USA,"Cell phone",Mobile,"LG Sprint",2015,Repairable,,"Fixit Clinic",2018-05-18,"I won't turn on, glass screen cracked, last time I tried to charge it it smelled like it was burning."
+fixitclinic_129,"Fixit Clinic",USA,"Power wheels car",Toy,Mercedes,2016,Repairable,,"Fixit Clinic",2018-05-18,"Won't turn on"
+fixitclinic_130,"Fixit Clinic",USA,"2016 MacBook Pro ",Laptop,Apple,2016,Repairable,,"Fixit Clinic",2018-05-22,"A friend replaced my broken screen and somehow broke the connecting wires and lost my WiFi card :("
+fixitclinic_131,"Fixit Clinic",USA,Lawnmower,"Large home electrical","I will have to ask. I am doing this for a friend.",????,Repairable,,"Fixit Clinic",2018-05-30,
+fixitclinic_132,"Fixit Clinic",USA,toaster,Toaster,phillips,2011,Repairable,,"Fixit Clinic",2018-06-01,burns
+fixitclinic_133,"Fixit Clinic",USA,Laptop,Laptop,Toshiba,????,Fixed,,"Fixit Clinic",2018-06-11,
+fixitclinic_134,"Fixit Clinic",USA,"Lamp with music box",Lamp,"looks like specialty hand-made item",????,Fixed,,"Fixit Clinic",2018-06-11,
+fixitclinic_135,"Fixit Clinic",USA,"Music box with movable parts",Toy,"Made and bought in Japan",????,Fixed,,"Fixit Clinic",2018-06-11,
+fixitclinic_136,"Fixit Clinic",USA,"Breville  Smart oven","Small kitchen item",Breville,????,Fixed,,"Fixit Clinic",2018-06-11,
+fixitclinic_137,"Fixit Clinic",USA,"Electric wall clock",Watch/clock,Unknown,????,Fixed,,"Fixit Clinic",2018-06-12,
+fixitclinic_140,"Fixit Clinic",USA,"Kitchen mixer","Food processor",Oster,2008,Repairable,,"Fixit Clinic",2018-06-20,"Burned out rheostat "
+fixitclinic_141,"Fixit Clinic",USA,tablet,Tablet,"android nexus",2014,Repairable,,"Fixit Clinic",2018-07-01,"Broken screen"
+fixitclinic_142,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Juki,????,Fixed,,"Fixit Clinic",2018-07-02,
+fixitclinic_143,"Fixit Clinic",USA,"Aromatherapy machine","Hair & beauty item",Doterra,????,Fixed,,"Fixit Clinic",2018-07-02,
+fixitclinic_144,"Fixit Clinic",USA,"Live streaming glasses","Handheld entertainment device","Anina / Mokioo",????,Fixed,,"Fixit Clinic",2018-07-02,
+fixitclinic_145,"Fixit Clinic",USA,"Android Tablet",Tablet,Google,????,Fixed,,"Fixit Clinic",2018-07-02,
+fixitclinic_147,"Fixit Clinic",USA,"Desktop computer ","Desktop computer",HP,2008,Fixed,,"Fixit Clinic",2018-07-15,"Fan failed error message at boot up "
+fixitclinic_148,"Fixit Clinic",USA,"Smart phone",Mobile,Apple,2016,Fixed,,"Fixit Clinic",2018-07-15,"I had trouble charging my phone. It would not change at times. "
+fixitclinic_149,"Fixit Clinic",USA,"Musical duck",Toy,Unknown,????,Fixed,,"Fixit Clinic",2018-07-15,
+fixitclinic_150,"Fixit Clinic",USA,"portable 8 track/radio","Portable radio",Realistic,????,Repairable,,"Fixit Clinic",2018-07-15,
+fixitclinic_151,"Fixit Clinic",USA,"Princess telephone",Misc,"Western Electric",????,Unknown,,"Fixit Clinic",2018-07-16,
+fixitclinic_152,"Fixit Clinic",USA,Lamp,Lamp,"Don’t know",????,Fixed,,"Fixit Clinic",2018-08-10,
+fixitclinic_153,"Fixit Clinic",USA,Smartwatch,Watch/clock,Pebble,2014,Repairable,,"Fixit Clinic",2018-08-10,"Can't turn on. Assuming that the charger didn't actual charge the watch"
+fixitclinic_154,"Fixit Clinic",USA,"plug in wall heater","Small home electrical",Arvin,????,Fixed,,"Fixit Clinic",2018-08-11,
+fixitclinic_155,"Fixit Clinic",USA,speakers,"Hi-Fi separates",bose,2014,Unknown,,"Fixit Clinic",2018-08-11,"doesn't turn on"
+fixitclinic_156,"Fixit Clinic",USA,"AM/FM Radio","Portable radio",Capello,????,Unknown,,"Fixit Clinic",2018-08-11,
+fixitclinic_158,"Fixit Clinic",USA,"mini refridge","Small kitchen item","Black & Decker",????,Repairable,,"Fixit Clinic",2018-08-11,
+fixitclinic_160,"Fixit Clinic",USA,"Breville convection toaster oven","Small kitchen item",Breville,????,Fixed,,"Fixit Clinic",2018-08-11,
+fixitclinic_161,"Fixit Clinic",USA,"Breville convection toaster oven","Small kitchen item",Breville,????,Fixed,,"Fixit Clinic",2018-08-11,
+fixitclinic_162,"Fixit Clinic",USA,"track lighting fixture","Decorative or safety lights","don't know",????,"End of life",,"Fixit Clinic",2018-08-11,
+fixitclinic_163,"Fixit Clinic",USA,"roomba vacuum ",Vacuum,iRobot,????,Fixed,,"Fixit Clinic",2018-08-11,
+fixitclinic_166,"Fixit Clinic",USA,"waffle iron","Small kitchen item",Sunbeam,????,Fixed,,"Fixit Clinic",2018-08-11,
+fixitclinic_169,"Fixit Clinic",USA,"Nightlight/ flashlight",Lamp,Unknown,????,Repairable,,"Fixit Clinic",2018-08-11,
+fixitclinic_170,"Fixit Clinic",USA,cameracanon,"Digital compact camera",canon,????,Unknown,,"Fixit Clinic",2018-08-11,
+fixitclinic_171,"Fixit Clinic",USA,"Laptop ",Laptop,Apple,????,Unknown,,"Fixit Clinic",2018-08-18,
+fixitclinic_173,"Fixit Clinic",USA,Lamp,Lamp,Unknown,????,Repairable,,"Fixit Clinic",2018-08-19,
+fixitclinic_174,"Fixit Clinic",USA,lamp,Lamp,unknown,????,Fixed,,"Fixit Clinic",2018-08-19,
+fixitclinic_175,"Fixit Clinic",USA,"61 key synth (musical instrument)","Musical instrument",Yamaha,????,Repairable,,"Fixit Clinic",2018-08-19,
+fixitclinic_177,"Fixit Clinic",USA,"Portable dehumidifier ",Aircon/dehumidifier,Edgestar,????,Repairable,,"Fixit Clinic",2018-08-19,
+fixitclinic_178,"Fixit Clinic",USA,"Tiny solar light string","Decorative or safety lights","Don’t know",????,Unknown,,"Fixit Clinic",2018-08-19,
+fixitclinic_181,"Fixit Clinic",USA,"Vacuum cleaner",Vacuum,Hoover,????,Fixed,,"Fixit Clinic",2018-08-20,
+fixitclinic_182,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Singer,????,Repairable,,"Fixit Clinic",2018-08-22,
+fixitclinic_184,"Fixit Clinic",USA,"Electric Scooter",Misc,"Razor ",2014,Repairable,,"Fixit Clinic",2018-09-06,"Power light turns on but engine does not turn.  "
+fixitclinic_185,"Fixit Clinic",USA,"Electric Scooter",Misc,Racer,2015,Unknown,,"Fixit Clinic",2018-09-08,"Doesn't work"
+fixitclinic_187,"Fixit Clinic",USA,camcorder,"DSLR/video camera",Sony,2015,Unknown,,"Fixit Clinic",2018-09-08,"Can't get video file off the camcorder"
+fixitclinic_188,"Fixit Clinic",USA,Laptop,Laptop,toshiba,2010,Repairable,,"Fixit Clinic",2018-09-11,"broken screen"
+fixitclinic_189,"Fixit Clinic",USA,toaster,Toaster,PB,2018,Unknown,,"Fixit Clinic",2018-09-16,"no idea sorry"
+fixitclinic_190,"Fixit Clinic",USA,Laptop,Laptop,toshiba,????,Repairable,,"Fixit Clinic",2018-09-17,
+fixitclinic_192,"Fixit Clinic",USA,flashlight,"Decorative or safety lights",Unknown,????,Fixed,,"Fixit Clinic",2018-09-17,"doesn't lit"
+fixitclinic_193,"Fixit Clinic",USA,earphone,Headphones,skullcandy,2012,Repairable,,"Fixit Clinic",2018-09-17,"no sound "
+fixitclinic_194,"Fixit Clinic",USA,"Paper Shredder","Paper shredder",Ativa,????,Fixed,,"Fixit Clinic",2018-09-30,
+fixitclinic_195,"Fixit Clinic",USA,Trimmer,"Hair & beauty item",Panasonic,????,Fixed,,"Fixit Clinic",2018-09-30,
+fixitclinic_197,"Fixit Clinic",USA,"Waterpik-Water Flosser","Hair & beauty item","Water Pik Inc",2014,Repairable,,"Fixit Clinic",2018-10-01,"The external 1/4"" plastic pipe is broken due to old age, and water leaks out, need to glue it to fix the broken pipe."
+fixitclinic_199,"Fixit Clinic",USA,"Dora the Explorer music player",Toy,Unknown,????,Fixed,,"Fixit Clinic",2018-10-01,
+fixitclinic_200,"Fixit Clinic",USA,"Christmas Exterior Inflatables",Toy,Unknown,2016,Repairable,,"Fixit Clinic",2018-10-02,"Fan motor does not work, can't inflate."
+fixitclinic_201,"Fixit Clinic",USA,toaster,Toaster,oster,????,"End of life",,"Fixit Clinic",2018-10-02,
+fixitclinic_202,"Fixit Clinic",USA,"travel clock",Watch/clock,braun,2008,Repairable,,"Fixit Clinic",2018-10-04,"doesn't work anymore"
+fixitclinic_203,"Fixit Clinic",USA,shredder,"Paper shredder",Unknown,????,Unknown,,"Fixit Clinic",2018-10-07,
+fixitclinic_204,"Fixit Clinic",USA,"Shredder ","Paper shredder",Unknown,????,Fixed,,"Fixit Clinic",2018-10-07,
+fixitclinic_206,"Fixit Clinic",USA,Radii,"Portable radio","Tivoli Henry kloss",????,Fixed,,"Fixit Clinic",2018-10-07,
+fixitclinic_207,"Fixit Clinic",USA,"Gas lantern",Lamp,Coleman,????,Repairable,,"Fixit Clinic",2018-10-07,
+fixitclinic_208,"Fixit Clinic",USA,toaster,Toaster,breville,????,Repairable,,"Fixit Clinic",2018-10-07,
+fixitclinic_209,"Fixit Clinic",USA,Laptop,Laptop,Lenovo,????,Fixed,,"Fixit Clinic",2018-10-08,
+fixitclinic_210,"Fixit Clinic",USA,"Toy helicopter w/remote control",Toy,"Can't remember, maybe Radio Shack?",????,Unknown,,"Fixit Clinic",2018-10-08,
+fixitclinic_212,"Fixit Clinic",USA,fan,Fan,"no model",????,Unknown,,"Fixit Clinic",2018-10-08,"No work"
+fixitclinic_213,"Fixit Clinic",USA,Lamp,Lamp,"Restoration Hardware",????,Fixed,,"Fixit Clinic",2018-10-08,
+fixitclinic_215,"Fixit Clinic",USA,"Radio/cassette player/cdplayer","Portable radio",JVC,????,Unknown,,"Fixit Clinic",2018-10-09,
+fixitclinic_216,"Fixit Clinic",USA,"impact driver","Power tool",Milwaukee,????,Fixed,,"Fixit Clinic",2018-10-12,
+fixitclinic_219,"Fixit Clinic",USA,"ink jet printer",Printer/scanner,"canon - older model (5 years?)",????,Repairable,,"Fixit Clinic",2018-10-14,
+fixitclinic_220,"Fixit Clinic",USA,Vacuum,Vacuum,Dyson,????,Repairable,,"Fixit Clinic",2018-10-21,"Brush didn't rotate"
+fixitclinic_221,"Fixit Clinic",USA,"Music system","Hi-Fi integrated",Bose,????,Fixed,,"Fixit Clinic",2018-10-21,"Case was partially off"
+fixitclinic_222,"Fixit Clinic",USA,Laptop,Laptop,"HP ",2015,Repairable,,"Fixit Clinic",2018-10-21,"Won't display screen at boot up"
+fixitclinic_223,"Fixit Clinic",USA,lamp,Lamp,"Restoration Hardware",????,Fixed,,"Fixit Clinic",2018-10-22,
+fixitclinic_224,"Fixit Clinic",USA,"Electric water kettle",Kettle,Aroma,????,"End of life",,"Fixit Clinic",2018-10-28,
+fixitclinic_225,"Fixit Clinic",USA,Lamp,Lamp,Unknown,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_227,"Fixit Clinic",USA,"Vintage toaster",Toaster,Toastmaster,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_229,"Fixit Clinic",USA,"Stereo with speakers","Hi-Fi separates",Unknown,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_230,"Fixit Clinic",USA,Lamp,Lamp,Unknown,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_231,"Fixit Clinic",USA,Fan,Fan,Vornado,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_233,"Fixit Clinic",USA,Lamp,Lamp,Unknown,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_234,"Fixit Clinic",USA,"Stereo / CD Tape player","Hi-Fi separates",Unknown,????,"End of life",,"Fixit Clinic",2018-10-28,
+fixitclinic_235,"Fixit Clinic",USA,Microwave,"Small kitchen item",Unknown,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_237,"Fixit Clinic",USA,"Tape deck with loose cassette spindle","Hi-Fi separates",Unknown,????,Unknown,,"Fixit Clinic",2018-10-28,
+fixitclinic_238,"Fixit Clinic",USA,Iron,Iron,Sunbeam,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_239,"Fixit Clinic",USA,Iron,Iron,Rowenta,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_240,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Singer,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_242,"Fixit Clinic",USA,"Coffee Maker","Coffee maker",Unknown,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_243,"Fixit Clinic",USA,"Remote Control","TV and gaming-related accessories",Unknown,????,"End of life",,"Fixit Clinic",2018-10-28,
+fixitclinic_244,"Fixit Clinic",USA,"Remote Controls (2)","TV and gaming-related accessories",Unknown,????,"End of life",,"Fixit Clinic",2018-10-28,
+fixitclinic_246,"Fixit Clinic",USA,Speakers,"Hi-Fi separates",Unknown,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_247,"Fixit Clinic",USA,"Laptop charger",Battery/charger/adapter,Unknown,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_248,"Fixit Clinic",USA,IPhone,Mobile,Unknown,????,Unknown,,"Fixit Clinic",2018-10-28,
+fixitclinic_249,"Fixit Clinic",USA,"Immersion blender","Food processor",Unknown,????,"End of life",,"Fixit Clinic",2018-10-28,
+fixitclinic_250,"Fixit Clinic",USA,"Coffee grinder","Food processor",Unknown,????,"End of life",,"Fixit Clinic",2018-10-28,
+fixitclinic_251,"Fixit Clinic",USA,"Travel alarm clock ",Watch/clock,REI,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_252,"Fixit Clinic",USA,"Radio and CD player","Portable radio","Innovative Tech",????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_253,"Fixit Clinic",USA,"TV / DVD player combo","TV and gaming-related accessories",Unknown,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_255,"Fixit Clinic",USA,"Heater ","Small home electrical",Vornado,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_257,"Fixit Clinic",USA,"DAT recorder","TV and gaming-related accessories",Sony,????,Unknown,,"Fixit Clinic",2018-10-28,
+fixitclinic_258,"Fixit Clinic",USA,"VCR ","TV and gaming-related accessories",DAEWOO,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_259,"Fixit Clinic",USA,"Sewing machine","Sewing machine","Singer ",????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_260,"Fixit Clinic",USA,"Hot rollers","Hair & beauty item",Remington,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_261,"Fixit Clinic",USA,"Small fan",Fan,Vornado,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_262,"Fixit Clinic",USA,"Hand vacuum",Vacuum,"Black and Decker",????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_263,"Fixit Clinic",USA,"Wall clock",Watch/clock,"Custom art clock",????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_264,"Fixit Clinic",USA,"Coffee grinder","Food processor",Unknown,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_266,"Fixit Clinic",USA,"Electric drill","Power tool",Unknown,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_267,"Fixit Clinic",USA,"Remote control","TV and gaming-related accessories",Unknown,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_268,"Fixit Clinic",USA,Computer,"Desktop computer",MacBook,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_269,"Fixit Clinic",USA,"Battery powered string of lights","Decorative or safety lights",Unknown,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_270,"Fixit Clinic",USA,"Steam mop","Large home electrical",Haan,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_271,"Fixit Clinic",USA,"Belt sander","Power tool",Unknown,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_272,"Fixit Clinic",USA,"CD Player","Hi-Fi separates",Denon,????,Repairable,,"Fixit Clinic",2018-10-28,
+fixitclinic_273,"Fixit Clinic",USA,Laptop,Laptop,Dell,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_274,"Fixit Clinic",USA,"Vintage floor lamp",Lamp,Unknown,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_278,"Fixit Clinic",USA,"Electric scooter",Misc,Racer,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_280,"Fixit Clinic",USA,"Watch ",Watch/clock,Seville,????,Fixed,,"Fixit Clinic",2018-10-28,
+fixitclinic_281,"Fixit Clinic",USA,Camcorder,"DSLR/video camera",Sony,????,Unknown,,"Fixit Clinic",2018-10-28,
+fixitclinic_282,"Fixit Clinic",USA,"DVD Recorder","TV and gaming-related accessories",Sony,????,Unknown,,"Fixit Clinic",2018-11-01,
+fixitclinic_283,"Fixit Clinic",USA,"DVD player / recorder","TV and gaming-related accessories",Dawoo,????,Repairable,,"Fixit Clinic",2018-11-01,
+fixitclinic_284,"Fixit Clinic",USA,"Hot Rollers - Tight Curls","Hair & beauty item",Remington,????,Fixed,,"Fixit Clinic",2018-11-02,
+fixitclinic_285,"Fixit Clinic",USA,"Electric water boiler/ thermo pot",Kettle,Zojirushi,2014,Repairable,,"Fixit Clinic",2018-11-03,"After washing the pot, the control panel no longer works when plugged in. Although I was careful not to get the exterior wet, water just have gotten into the control panel. However, if it is plugged in, the water inside the pot begins to boil but does not stop as the control panel no longer regulates the temperature. When the water in the pot boiled, the steam got into the control panel area and the panel is cloudy from the water/ steam."
+fixitclinic_286,"Fixit Clinic",USA,"air purifer",Aircon/dehumidifier,"Sharper Image ",????,"End of life",,"Fixit Clinic",2018-11-03,
+fixitclinic_287,"Fixit Clinic",USA,"Car cd player- alpine","Portable radio",Alpine,????,"End of life",,"Fixit Clinic",2018-11-03,
+fixitclinic_288,"Fixit Clinic",USA,"Sewing machine","Sewing machine",singer,????,Fixed,,"Fixit Clinic",2018-11-04,
+fixitclinic_289,"Fixit Clinic",USA,"Weed Cutter/Wacker","Power tool","Troy Built",2016,Fixed,,"Fixit Clinic",2018-11-05,"U8nable to thread cutting line"
+fixitclinic_290,"Fixit Clinic",USA,Laptop,Laptop,HP,????,"End of life",,"Fixit Clinic",2018-11-05,
+fixitclinic_292,"Fixit Clinic",USA,mixer,"Food processor","kitchen aid",????,Repairable,,"Fixit Clinic",2018-11-05,
+fixitclinic_293,"Fixit Clinic",USA,"Remote Control for Remote Control Car",Toy,"Sharper Image ",2008,Fixed,,"Fixit Clinic",2018-11-05,"Front wheels for turning were not working."
+fixitclinic_294,"Fixit Clinic",USA,"antique brass floor lamp",Lamp,n/a,????,Repairable,,"Fixit Clinic",2018-11-05,
+fixitclinic_295,"Fixit Clinic",USA,"GE tape deck","Hi-Fi separates",GE,????,Unknown,,"Fixit Clinic",2018-11-06,
+fixitclinic_296,"Fixit Clinic",USA,Chainsaw,"Power tool",Craftsman,????,Fixed,,"Fixit Clinic",2018-11-06,
+fixitclinic_300,"Fixit Clinic",USA,"DVD player","TV and gaming-related accessories",Bose,????,Unknown,,"Fixit Clinic",2018-11-09,
+fixitclinic_301,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Singer,2009,Repairable,,"Fixit Clinic",2018-11-10,"the bobbin thread not been picked by needle, so not forming a stitch."
+fixitclinic_302,"Fixit Clinic",USA,"Electric drill","Power tool",Unknown,????,Fixed,,"Fixit Clinic",2018-11-14,
+fixitclinic_303,"Fixit Clinic",USA,"floor lamp",Lamp,unknown,2008,Repairable,,"Fixit Clinic",2018-11-19,"The lamp does not illuminate.  It happened so long ago, that I don't recall whether it started flickering intermittently, or just blew out one day.  (My gut tells me probably the latter.)  "
+fixitclinic_304,"Fixit Clinic",USA,flashlight,"Decorative or safety lights",coleman,????,Fixed,,"Fixit Clinic",2018-11-26,
+fixitclinic_305,"Fixit Clinic",USA,Laptop,Laptop,Apple,????,Fixed,,"Fixit Clinic",2018-12-10,
+fixitclinic_306,"Fixit Clinic",USA,Dishwasher,"Large home electrical",Zanussi,2008,Unknown,,"Fixit Clinic",2018-12-29,"The utensil tray rollers are damaged and do not pull out smoothly they wobble and get out of the rails but dishes can be set when pulled out carefully"
+fixitclinic_307,"Fixit Clinic",USA,GPS,Tablet,Garmin,????,Unknown,,"Fixit Clinic",2019-01-10,
+fixitclinic_308,"Fixit Clinic",USA,tablet,Tablet,Apple,????,Fixed,,"Fixit Clinic",2019-01-10,"needed new battery"
+fixitclinic_309,"Fixit Clinic",USA,Blender,"Food processor",Preethi,2012,Repairable,,"Fixit Clinic",2019-01-12,"Not turning on"
+fixitclinic_310,"Fixit Clinic",USA,tablet,Tablet,Nexus,2013,Repairable,,"Fixit Clinic",2019-01-12,"not turning on "
+fixitclinic_312,"Fixit Clinic",USA,"portable heater ","Small home electrical","Lasko ",2015,Repairable,,"Fixit Clinic",2019-01-12,"Fan is broken "
+fixitclinic_313,"Fixit Clinic",USA,"Laptop ",Laptop,"Dell ",2015,Repairable,,"Fixit Clinic",2019-01-12,"Hinge is broken "
+fixitclinic_314,"Fixit Clinic",USA,Tablet,Tablet,Nexus,????,"End of life",,"Fixit Clinic",2019-01-12,
+fixitclinic_315,"Fixit Clinic",USA,"blender ","Food processor","preethi ",????,"End of life",,"Fixit Clinic",2019-01-12,
+fixitclinic_317,"Fixit Clinic",USA,Laptop,Laptop,Dell,????,Repairable,,"Fixit Clinic",2019-01-12,
+fixitclinic_318,"Fixit Clinic",USA,"camera ","Digital compact camera","Lumix (pasonic)",????,Repairable,,"Fixit Clinic",2019-01-12,"clean the battery cage "
+fixitclinic_319,"Fixit Clinic",USA,"Watch ",Watch/clock,"Colber ",2009,Repairable,,"Fixit Clinic",2019-01-12,"Clamp not working "
+fixitclinic_320,"Fixit Clinic",USA,"watch ",Watch/clock,"colber ",????,Fixed,,"Fixit Clinic",2019-01-12,
+fixitclinic_322,"Fixit Clinic",USA,"Computers ","Desktop computer","Toshiba ",2012,Repairable,,"Fixit Clinic",2019-01-12,"slow prosessing and not connecting to internet "
+fixitclinic_323,"Fixit Clinic",USA,"Camera ","Digital compact camera",Canon,2014,Repairable,,"Fixit Clinic",2019-01-12,"Lens does not open "
+fixitclinic_324,"Fixit Clinic",USA,"Romote controll car ",Toy,trankr,2012,Repairable,,"Fixit Clinic",2019-01-12,"not sure "
+fixitclinic_325,"Fixit Clinic",USA,"camera ","Digital compact camera",canon,????,Repairable,,"Fixit Clinic",2019-01-12,
+fixitclinic_326,"Fixit Clinic",USA,"Laptop ",Laptop,toshiba,????,Fixed,,"Fixit Clinic",2019-01-12,
+fixitclinic_327,"Fixit Clinic",USA,"RC vehicle ",Toy,Unknown,????,Fixed,,"Fixit Clinic",2019-01-12,
+fixitclinic_331,"Fixit Clinic",USA,"Sewing machine","Sewing machine","Singer ",2009,Fixed,,"Fixit Clinic",2019-01-29,"Needs new belt installed, oiled, adjusted, cleaned "
+fixitclinic_332,"Fixit Clinic",USA,"Notepad Computer",Laptop,"Microsoft ",2009,Repairable,,"Fixit Clinic",2019-01-29,"Computer time still being addressed. "
+fixitclinic_333,"Fixit Clinic",USA,"Remote Control ","TV and gaming-related accessories",Sens,????,Unknown,,"Fixit Clinic",2019-01-29,"Remote not working with DVD "
+fixitclinic_334,"Fixit Clinic",USA,"Sewing machine","Sewing machine","Kenmore ",2009,Fixed,,"Fixit Clinic",2019-01-29,"Needs a cleaning"
+fixitclinic_335,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Kenmore,????,Fixed,,"Fixit Clinic",2019-01-29,"Bobbin won't work "
+fixitclinic_336,"Fixit Clinic",USA,"CD Player","Hi-Fi separates",Unknown,2009,Repairable,,"Fixit Clinic",2019-01-29,"Stopped working "
+fixitclinic_337,"Fixit Clinic",USA,"Sewing machine","Sewing machine","Singer ",2010,Repairable,,"Fixit Clinic",2019-01-29,"Problem with bobbin lines"
+fixitclinic_340,"Fixit Clinic",USA,"Deck scrubber","Large home electrical",Regina,????,Fixed,,"Fixit Clinic",2019-01-29,"Electrical connectors broken"
+fixitclinic_341,"Fixit Clinic",USA,"Standing floor fan",Fan,Allaire,2010,Fixed,,"Fixit Clinic",2019-01-29,"Will not turn on "
+fixitclinic_343,"Fixit Clinic",USA,Lamp,Lamp,Unknown,2010,Fixed,,"Fixit Clinic",2019-01-29,"turn on/off switch broken "
+fixitclinic_346,"Fixit Clinic",USA,"Lamp ",Lamp,Unknown,2009,Fixed,,"Fixit Clinic",2019-01-29,Switch
+fixitclinic_347,"Fixit Clinic",USA,Lamp,Lamp,Unknown,2009,Fixed,,"Fixit Clinic",2019-01-29,Switch
+fixitclinic_349,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Singer,????,Fixed,,"Fixit Clinic",2019-01-29,Clunking
+fixitclinic_350,"Fixit Clinic",USA,"Night Light ","Decorative or safety lights",Unknown,2018,Fixed,,"Fixit Clinic",2019-01-29,"Broken "
+fixitclinic_352,"Fixit Clinic",USA,lamp,Lamp,"on/off switch",????,Repairable,,"Fixit Clinic",2019-01-29,"ON/OFF Switch"
+fixitclinic_355,"Fixit Clinic",USA,Lammp,Lamp,N/A,????,Fixed,,"Fixit Clinic",2019-01-29,"Chain didn't pull to turn light on "
+fixitclinic_358,"Fixit Clinic",USA,Tablet,Tablet,Samsung,????,Repairable,,"Fixit Clinic",2019-02-01,
+fixitclinic_359,"Fixit Clinic",USA,"Antique Lamp",Lamp,"none listed",2009,Repairable,,"Fixit Clinic",2019-02-01,"The lamp suddenly stopped lighting up for any bulb put in it. It shows no external signs of loose wires or a malfunctioning switch.  The symptom is consistent every time an attempt is made to turn it on. "
+fixitclinic_363,"Fixit Clinic",USA,"Instant Pressure cooker","Small kitchen item",gourmia,????,Fixed,,"Fixit Clinic",2019-02-02,
+fixitclinic_364,"Fixit Clinic",USA,radio,"Portable radio"," Red Cross Eton",2009,Repairable,,"Fixit Clinic",2019-02-02,"the tuner knob does not advance or reverse the station frequency"
+fixitclinic_365,"Fixit Clinic",USA,"Vacuum cleaner",Vacuum,Deik,????,Fixed,,"Fixit Clinic",2019-02-02,
+fixitclinic_366,"Fixit Clinic",USA,Shredder,"Paper shredder",Royal,????,Fixed,,"Fixit Clinic",2019-02-02,
+fixitclinic_367,"Fixit Clinic",USA,Dishwasher,"Large home electrical",Whirlpool,????,Fixed,,"Fixit Clinic",2019-02-02,
+fixitclinic_368,"Fixit Clinic",USA,Vacuum,Vacuum,Hoover,????,Repairable,,"Fixit Clinic",2019-02-02,
+fixitclinic_369,"Fixit Clinic",USA,"DVD Player","TV and gaming-related accessories",Sony,????,Fixed,,"Fixit Clinic",2019-02-02,
+fixitclinic_371,"Fixit Clinic",USA,Lamp,Lamp,Unknown,????,Repairable,,"Fixit Clinic",2019-02-02,
+fixitclinic_372,"Fixit Clinic",USA,Laptop,Laptop,toshiba,????,Fixed,,"Fixit Clinic",2019-02-02,
+fixitclinic_373,"Fixit Clinic",USA,Radio,"Portable radio",Sears,????,Fixed,,"Fixit Clinic",2019-02-02,
+fixitclinic_375,"Fixit Clinic",USA,Camera,"Digital compact camera",Cannon,????,Unknown,,"Fixit Clinic",2019-02-02,
+fixitclinic_376,"Fixit Clinic",USA,"toaster oven","Small kitchen item",Breville,????,Repairable,,"Fixit Clinic",2019-02-02,
+fixitclinic_377,"Fixit Clinic",USA,"Dewalt sander","Power tool",Dewalt,????,Repairable,,"Fixit Clinic",2019-02-02,
+fixitclinic_378,"Fixit Clinic",USA,Computer,"Desktop computer",Apple,????,Repairable,,"Fixit Clinic",2019-02-02,
+fixitclinic_379,"Fixit Clinic",USA,Vacuum,Vacuum,Shark,????,Fixed,,"Fixit Clinic",2019-02-02,
+fixitclinic_380,"Fixit Clinic",USA,Microwave,"Small kitchen item",Kenmore,????,"End of life",,"Fixit Clinic",2019-02-02,
+fixitclinic_383,"Fixit Clinic",USA,Lamp,Lamp,Unknown,????,Fixed,,"Fixit Clinic",2019-02-02,
+fixitclinic_384,"Fixit Clinic",USA,Laptop,Laptop,Dell,????,Fixed,,"Fixit Clinic",2019-02-10,
+fixitclinic_386,"Fixit Clinic",USA,"Hair dryer","Hair & beauty item",HerStyler,????,Fixed,,"Fixit Clinic",2019-02-12,"There was no heat."
+fixitclinic_388,"Fixit Clinic",USA,"Fabric steamer ","Small home electrical","Home Touch",????,Fixed,,"Fixit Clinic",2019-02-13,"Reset button wouldn't shut off"
+fixitclinic_389,"Fixit Clinic",USA,"Toaster oven","Small kitchen item",Cuisinesrt,2016,"End of life",,"Fixit Clinic",2019-02-13," Lower two heating elements no longer heating, no longer straight, but crooked "
+fixitclinic_390,"Fixit Clinic",USA,Laptop,Laptop,Apple,2014,Repairable,,"Fixit Clinic",2019-03-02,"Mouse get stuck on start up screen and could not log in or do anything. Key board is not responding either "
+fixitclinic_391,"Fixit Clinic",USA,"Computer ","Desktop computer",Apple,2014,Repairable,,"Fixit Clinic",2019-03-02,"Mouse get stuck on start up screen and could not log in or do anything. Keep board is not responding either "
+fixitclinic_392,"Fixit Clinic",USA,"Steam cleaner","Small home electrical",Reliable,????,Fixed,,"Fixit Clinic",2019-03-02,
+fixitclinic_393,"Fixit Clinic",USA,Lamp,Lamp,"Unknown ",????,Unknown,,"Fixit Clinic",2019-03-02,
+fixitclinic_394,"Fixit Clinic",USA,"2 space heaters","Small home electrical","Holmes and Lasko",????,Unknown,,"Fixit Clinic",2019-03-02,
+fixitclinic_395,"Fixit Clinic",USA,"Coffee grinder","Food processor","Hamilton beach",????,Fixed,,"Fixit Clinic",2019-03-02,
+fixitclinic_396,"Fixit Clinic",USA,"Tape deck purchased in Japan in 1975. Used in USA 1975-1980. Taken to UK in 1980 where I had the transmission changed to one compatible with UK electricity.","Hi-Fi separates",Sony,????,Fixed,,"Fixit Clinic",2019-03-02,
+fixitclinic_399,"Fixit Clinic",USA,Laptop,Laptop,Lenovo,????,Fixed,,"Fixit Clinic",2019-03-03,
+fixitclinic_400,"Fixit Clinic",USA,Toaster,Toaster,KitchenAid,????,Repairable,,"Fixit Clinic",2019-03-03,
+fixitclinic_402,"Fixit Clinic",USA,"CD player","Hi-Fi separates",Denon,????,Fixed,,"Fixit Clinic",2019-03-03,
+fixitclinic_404,"Fixit Clinic",USA,"Noise canceling / sound machine","Small home electrical",Homedics,????,"End of life",,"Fixit Clinic",2019-03-04,
+fixitclinic_407,"Fixit Clinic",USA,"Coffee Maker","Coffee maker","Mr. Coffee",2011,Repairable,,"Fixit Clinic",2019-03-09,"Lid hinge broke and will not stay on."
+fixitclinic_408,"Fixit Clinic",USA,"ham radio(remote only)","Portable radio",Kenwood,2009,Repairable,,"Fixit Clinic",2019-03-09,"the button does not press crisply"
+fixitclinic_410,"Fixit Clinic",USA,"rice cooker","Small kitchen item","black and decker",????,Fixed,,"Fixit Clinic",2019-03-09,
+fixitclinic_412,"Fixit Clinic",USA,"8mm VCR","DSLR/video camera",Sony,2009,Repairable,,"Fixit Clinic",2019-03-21,"Tape won't eject"
+fixitclinic_413,"Fixit Clinic",USA,"Hair dryer","Hair & beauty item",Chi,????,"End of life",,"Fixit Clinic",2019-03-24,
+fixitclinic_414,"Fixit Clinic",USA,"Desktop Alkaline Ionizer","Small home electrical","LifeMost Technology Co., Ltd.",????,Fixed,,"Fixit Clinic",2019-03-31,
+fixitclinic_415,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Singer,????,Repairable,,"Fixit Clinic",2019-03-31,
+fixitclinic_417,"Fixit Clinic",USA,"Table lamps (2)",Lamp,"Forgot-got tossed",????,Unknown,,"Fixit Clinic",2019-03-31,
+fixitclinic_419,"Fixit Clinic",USA,"sewing lamp with ",Lamp,ott,????,Fixed,,"Fixit Clinic",2019-04-01,
+fixitclinic_420,"Fixit Clinic",USA,"a table lamp",Lamp,unknown,2009,Fixed,,"Fixit Clinic",2019-04-01,"cat knocked it over-loose parts"
+fixitclinic_421,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Kenmore,????,Fixed,,"Fixit Clinic",2019-04-01,
+fixitclinic_422,"Fixit Clinic",USA,"3-light pole lamp",Lamp,"Don't know",2009,Unknown,,"Fixit Clinic",2019-04-08,"Switches do not turn on lights"
+fixitclinic_423,"Fixit Clinic",USA,"Watch, need to remove back to replace battery ",Watch/clock,"Swatch ",2017,Fixed,,"Fixit Clinic",2019-04-09,"Stop running, think it needs new battery"
+fixitclinic_424,"Fixit Clinic",USA," speaker","Hi-Fi separates",harman/kardon,2016,Repairable,,"Fixit Clinic",2019-04-15,"part power and head phone board 40-FILP2A-LUD2G"
+fixitclinic_425,"Fixit Clinic",USA,Laptop,Laptop,DELL,????,Unknown,,"Fixit Clinic",2019-04-20,Broken
+fixitclinic_426,"Fixit Clinic",USA,"wall clock",Watch/clock,philips,2009,Repairable,,"Fixit Clinic",2019-04-21,"clock mechanism (movement) broken"
+fixitclinic_427,"Fixit Clinic",USA,"Guitar effects pedal",Misc,Morley,????,Fixed,,"Fixit Clinic",2019-04-23,
+fixitclinic_428,"Fixit Clinic",USA,ipad,Tablet,Apple,????,Repairable,,"Fixit Clinic",2019-04-23,
+fixitclinic_429,"Fixit Clinic",USA,"Fitness Tracker","Handheld entertainment device",FitBit,2016,Fixed,,"Fixit Clinic",2019-04-23,"The band would not stay intact."
+fixitclinic_431,"Fixit Clinic",USA,"lift chair - apparently just the wiring","Large home electrical","Lazy Boy",????,Repairable,,"Fixit Clinic",2019-04-30,"wiring disconnected from remote control"
+fixitclinic_432,"Fixit Clinic",USA,"Hand massager","Hair & beauty item",Hitachi,????,Fixed,,"Fixit Clinic",2019-05-01,
+fixitclinic_434,"Fixit Clinic",USA,Lamp,Lamp,Unknown,????,Repairable,,"Fixit Clinic",2019-05-09,
+fixitclinic_435,"Fixit Clinic",USA,"LED work light (high intensity)",Lamp,Husky,????,Fixed,,"Fixit Clinic",2019-05-11,
+fixitclinic_436,"Fixit Clinic",USA,"Crock Pot","Small kitchen item","Hamilton Beach Scovill",2009,Unknown,,"Fixit Clinic",2019-05-15,"no longer heats when plugged in"
+fixitclinic_437,"Fixit Clinic",USA,"Stand mixer","Food processor",Kenwood,????,Repairable,,"Fixit Clinic",2019-05-16,
+fixitclinic_439,"Fixit Clinic",USA,"Music keyboard ","Musical instrument",Ensoniq,2009,Fixed,,"Fixit Clinic",2019-05-17,"Middle C# wouldn't sound properly, no velocity control, always full volume."
+fixitclinic_440,"Fixit Clinic",USA,"Coffee Maker","Coffee maker",Krups,2010,Fixed,,"Fixit Clinic",2019-05-17,"The espresso maker was working but the regular brew was not making coffee. The light came on but no hot water was pumped up to the grounds - ie. no brew. I bought an element and a thermostat before I figured out how to test the element  (which turned out to be fine).  The thermostat failed the test and when I replaced it... JAVA!!! Then a happy dance!"
+fixitclinic_441,"Fixit Clinic",USA,"Window AC",Aircon/dehumidifier,Unknown,????,Unknown,,"Fixit Clinic",2019-05-18,"Not cooling anymore "
+fixitclinic_443,"Fixit Clinic",USA,"two burner hot plate","Small kitchen item","I don't remember",????,Unknown,,"Fixit Clinic",2019-05-21,
+fixitclinic_444,"Fixit Clinic",USA,"Space Heater","Small home electrical",Vornado,????,Repairable,,"Fixit Clinic",2019-05-21,
+fixitclinic_446,"Fixit Clinic",USA,lamp,Lamp,unknown,????,Fixed,,"Fixit Clinic",2019-05-21,
+fixitclinic_447,"Fixit Clinic",USA,"Over-ear headphones",Headphones,Beats,????,Fixed,,"Fixit Clinic",2019-05-21,
+fixitclinic_449,"Fixit Clinic",USA,"personal fan",Fan,"arctic wind",????,Fixed,,"Fixit Clinic",2019-05-21,
+fixitclinic_450,"Fixit Clinic",USA,"ipod player and charged but not running makita drill","Handheld entertainment device","brookstone and makita respectively",????,Repairable,,"Fixit Clinic",2019-05-21,
+fixitclinic_451,"Fixit Clinic",USA,Lamp,Lamp,"Home Depot ",????,Unknown,,"Fixit Clinic",2019-05-21,
+fixitclinic_452,"Fixit Clinic",USA,"laser printer",Printer/scanner,HP,????,Repairable,,"Fixit Clinic",2019-05-22,
+fixitclinic_453,"Fixit Clinic",USA,"Floor lamp",Lamp,Ikea??,????,Repairable,,"Fixit Clinic",2019-05-22,
+fixitclinic_454,"Fixit Clinic",USA,Toaster,Toaster,Sunbeam,????,Repairable,,"Fixit Clinic",2019-05-22,
+fixitclinic_457,"Fixit Clinic",USA,"crt tv 2002","Flat screen",Sanyo,????,Unknown,,"Fixit Clinic",2019-05-27,
+fixitclinic_458,"Fixit Clinic",USA,"Lamp ",Lamp,"Unknown (antique)",2009,Fixed,,"Fixit Clinic",2019-05-28,"It flickered"
+fixitclinic_459,"Fixit Clinic",USA,"small flat screen TV","Flat screen",Magnavox,????,"End of life",,"Fixit Clinic",2019-05-28,
+fixitclinic_460,"Fixit Clinic",USA,"brass piano lamp",Lamp,Unknown,2009,Unknown,,"Fixit Clinic",2019-06-06,"Needs to be re-wired?  Won't turn on."
+fixitclinic_461,"Fixit Clinic",USA,"Coffee Grinder","Food processor",Krups,????,Repairable,,"Fixit Clinic",2019-06-10,"doesn't grind coffee"
+fixitclinic_462,"Fixit Clinic",USA,"Mini food chopper","Food processor","Black and Decker",2015,"End of life",,"Fixit Clinic",2019-06-10,"Head of chopper was totally immersed in water, motor was rusted"
+fixitclinic_463,"Fixit Clinic",USA,"Swiffer Wet Jet Mop","Small home electrical",Swiffer,2019,Unknown,,"Fixit Clinic",2019-06-13,"The motor in the jet is not working because there is no power supplied to it (we do not hear the motor's gears turning when we push the button that should make the mop shoot liquid out). "
+fixitclinic_464,"Fixit Clinic",USA,"A fan",Fan,Lasko,????,Repairable,,"Fixit Clinic",2019-06-15,"Sometimes it Won’t turn on due to broken/ crooked wire"
+fixitclinic_465,"Fixit Clinic",USA,"Tower Fan",Fan,Holmes,2009,Repairable,,"Fixit Clinic",2019-06-21,"No working when plugged in and cannot fix the stand, i.e. part came apart for fan stand.   "
+fixitclinic_467,"Fixit Clinic",USA,"Laptop ",Laptop,Hp,2017,Repairable,,"Fixit Clinic",2019-07-18,"Not coming on, blinking capslock light on the keyboard "
+fixitclinic_468,"Fixit Clinic",USA,"espresso machine","Small kitchen item","jura capresso",????,Repairable,,"Fixit Clinic",2019-07-19,
+fixitclinic_470,"Fixit Clinic",USA,"UBL clip 2 small Bluetooth speaker ","Hi-Fi separates",UBL,2017,Repairable,,"Fixit Clinic",2019-07-19,"The battery is no longer holding a charge. Nothing else is wrong with it, so I would like to replace the battery. I need help with the soldering part."
+fixitclinic_471,"Fixit Clinic",USA,"Ps3slim ","TV and gaming-related accessories",Sony,????,Repairable,,"Fixit Clinic",2019-07-21,
+fixitclinic_473,"Fixit Clinic",USA,"Halogen lamp with dimmer switch.  ",Lamp,"Lite Source INC Chino, CA",2009,Repairable,,"Fixit Clinic",2019-07-31,"I use this lamp and it’s twin as bedside table lamps, because they have a dimmer switch and can be dimmed down low for least-impact before bed lighting. About two weeks ago the on off/dimmer switch started having an intermittent delayed response  before the light would turn on. At first turning it off and in again once got it working, then  it had to be turned on and off  a few times, but still would start. Last week it quit entirely. I tried replacing the halogen bulb (which we’ve  done numerous times since we purchased it more than ten years ago) but it still won’t start."
+fixitclinic_474,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Brother,2016,Repairable,,"Fixit Clinic",2019-08-01,"The feed dogs don’t seem to work"
+fixitclinic_475,"Fixit Clinic",USA,"record player","Hi-Fi separates","Pioneer ",2009,Unknown,,"Fixit Clinic",2019-08-02,"will not start up"
+fixitclinic_477,"Fixit Clinic",USA,"Antique chandelier","Decorative or safety lights",Unknown,2009,Fixed,,"Fixit Clinic",2019-08-03,"Developed a short"
+fixitclinic_480,"Fixit Clinic",USA,"Washing machine","Large home electrical",Whi,2014,Repairable,,"Fixit Clinic",2019-08-03,"Flooded, does not drain properly"
+fixitclinic_481,"Fixit Clinic",USA,printer,Printer/scanner,epson,2013,Unknown,,"Fixit Clinic",2019-08-12,"Heads dried up"
+fixitclinic_482,"Fixit Clinic",USA,Printer,Printer/scanner,Unknown,2016,Repairable,,"Fixit Clinic",2019-08-13,
+fixitclinic_483,"Fixit Clinic",USA,Phone,Mobile,IPhone,2017,Repairable,,"Fixit Clinic",2019-08-13,"The screen is not working "
+fixitclinic_484,"Fixit Clinic",USA,Phone,Mobile,Iphone,2016,Repairable,,"Fixit Clinic",2019-08-13,"I can hear it"
+fixitclinic_486,"Fixit Clinic",USA,"Stand mixer","Food processor",Kenwood,????,Fixed,,"Fixit Clinic",2019-08-17,
+fixitclinic_488,"Fixit Clinic",USA,"iphone screen",Mobile,appleq,????,Repairable,,"Fixit Clinic",2019-08-18,
+fixitclinic_489,"Fixit Clinic",USA,"Sewing machine","Sewing machine",Kenmore,2009,Unknown,,"Fixit Clinic",2019-08-18,"seized after non-use, in storage"
+fixitclinic_490,"Fixit Clinic",USA,"electric drill","Power tool","unclear, from the 1940s (""copperline"")'",????,Fixed,,"Fixit Clinic",2019-08-19,
+fixitclinic_491,"Fixit Clinic",USA,Toaster,Toaster,Unknown,????,Unknown,,"Fixit Clinic",2019-08-19,
+fixitclinic_492,"Fixit Clinic",USA,"hand mixer","Food processor","black & decker",????,Fixed,,"Fixit Clinic",2019-08-19,
+fixitclinic_493,"Fixit Clinic",USA,"ipod touch 6th gen","Handheld entertainment device",apple,2016,Repairable,,"Fixit Clinic",2019-08-20,"The battery is slowly expanding the display out"
+fixitclinic_495,"Fixit Clinic",USA,"Cell phone",Mobile,"LG Nexus",????,Repairable,,"Fixit Clinic",2019-08-29,
+fixitclinic_498,"Fixit Clinic",USA,Laptop,Laptop,Compaq,2012,Repairable,,"Fixit Clinic",2019-08-30,"It won't turn on so i an confuse what should i do because it cannot be repaired."
+fixitclinic_499,"Fixit Clinic",USA,"ipod touch 6th gen","Handheld entertainment device",apple,????,"End of life",,"Fixit Clinic",2019-08-30,
+fixitclinic_500,"Fixit Clinic",USA,"Toaster oven","Small kitchen item",Panasonic,2016,Fixed,,"Fixit Clinic",2019-09-04,"Power switch broke"
+fixitclinic_501,"Fixit Clinic",USA,"Iphone 7+",Mobile,Apple,????,Unknown,,"Fixit Clinic",2019-09-12,
+fixitclinic_502,"Fixit Clinic",USA,"Beverage dispenser","Small kitchen item",Creativewar,????,Fixed,,"Fixit Clinic",2019-09-18,
+fixitclinic_503,"Fixit Clinic",USA,"Fabric steamer","Small home electrical","Home Touch",????,Repairable,,"Fixit Clinic",2019-09-18,
+fixitclinic_504,"Fixit Clinic",USA,"Laptop, I pad, CD player ",Laptop,Asus,2017,Repairable,,"Fixit Clinic",2019-09-28,Broken
+fixitclinic_505,"Fixit Clinic",USA,"Desktop computer","Desktop computer",Dell,2014,Repairable,,"Fixit Clinic",2019-09-30,"Too slow even after running antivirus and Malwarebytes"
+fixitclinic_506,"Fixit Clinic",USA,"stand mixer","Food processor",Kitchenaid,????,Fixed,,"Fixit Clinic",2019-10-01,
+fixitclinic_507,"Fixit Clinic",USA,watch,Watch/clock,Seiko,????,Fixed,,"Fixit Clinic",2019-10-01,
+fixitclinic_508,"Fixit Clinic",USA,watch,Watch/clock,Timex,????,Repairable,,"Fixit Clinic",2019-10-01,
+fixitclinic_509,"Fixit Clinic",USA,watch,Watch/clock,Timex,????,Unknown,,"Fixit Clinic",2019-10-01,
+fixitclinic_510,"Fixit Clinic",USA,watch,Watch/clock,Skagen,????,Repairable,,"Fixit Clinic",2019-10-01,
+fixitclinic_511,"Fixit Clinic",USA,"Handheld Pool Vaccum",Vacuum,"Catfish Pool Blaster",????,Repairable,,"Fixit Clinic",2019-10-04,
+fixitclinic_512,"Fixit Clinic",USA,Steamer,"Small home electrical",Bissel,????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_513,"Fixit Clinic",USA,Lamp,Lamp,China,????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_514,"Fixit Clinic",USA,"Ultra-violet Toothbrush sanitizing holder","Hair & beauty item",VIOlight,????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_516,"Fixit Clinic",USA,"8 track player","Hi-Fi separates",Panasonic,????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_517,"Fixit Clinic",USA,"Sensy wax melter","Small home electrical",sensy,????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_518,"Fixit Clinic",USA,"digital scale","Small kitchen item","my weight",????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_523,"Fixit Clinic",USA,fan,Fan,"san feng",????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_528,"Fixit Clinic",USA,"sound machine","Small home electrical","first years",????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_529,"Fixit Clinic",USA,dremel,"Power tool",dremel,????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_530,"Fixit Clinic",USA,razor,"Hair & beauty item","wahl peanut",????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_531,"Fixit Clinic",USA,"mini food processor","Food processor",cuisinart,????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_534,"Fixit Clinic",USA,"wax melter","Small home electrical",sensy,????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_535,"Fixit Clinic",USA,"small vacuum",Vacuum,bissell,????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_540,"Fixit Clinic",USA,"hand blender","Food processor",cuisinart,????,Fixed,,"Fixit Clinic",2019-10-04,
+fixitclinic_541,"Fixit Clinic",USA,"Rug shampooer.","Large home electrical",Bissell,2009,Repairable,,"Fixit Clinic",2019-10-05,"Not moving correctly when used; shampoo not dispensing properly"
+fixitclinic_542,"Fixit Clinic",USA,"Desk Lamp",Lamp,"None listed on item",????,Repairable,,"Fixit Clinic",2019-10-06,
+fixitclinic_543,"Fixit Clinic",USA,"Breville Toaster oven","Small kitchen item",Breville,????,Fixed,,"Fixit Clinic",2019-10-07,
+fixitclinic_544,"Fixit Clinic",USA,"Toaster Oven","Small kitchen item",Panasonic,2015,Fixed,,"Fixit Clinic",2019-10-08,"Power on Switch - on not functional"
+fixitclinic_546,"Fixit Clinic",USA,"wall lamp",Lamp,Unknown,????,Fixed,,"Fixit Clinic",2019-10-22,
+fixitclinic_547,"Fixit Clinic",USA,"LCD Television","Flat screen",ACER,????,Fixed,,"Fixit Clinic",2019-10-22,
+fixitclinic_548,"Fixit Clinic",USA,"Floor lamp",Lamp,"Hextra ",????,Repairable,,"Fixit Clinic",2019-10-27,
+fixitclinic_549,"Fixit Clinic",USA,"Portable Radio/CD Player","Portable radio",(missed),????,Fixed,,"Fixit Clinic",2019-10-27,
+fixitclinic_550,"Fixit Clinic",USA,"Coffee Grinder","Food processor",Bodum,????,Fixed,,"Fixit Clinic",2019-10-27,
+fixitclinic_561,"Fixit Clinic",USA,"paper shredder","Paper shredder",Fellows,????,Repairable,,"Fixit Clinic",2019-10-27,
+fixitclinic_563,"Fixit Clinic",USA,"table lamp",Lamp,Unknown,????,Fixed,,"Fixit Clinic",2019-10-27,
+fixitclinic_566,"Fixit Clinic",USA,Microwave,"Small kitchen item",Toshiba,????,Repairable,,"Fixit Clinic",2019-10-27,
+fixitclinic_567,"Fixit Clinic",USA,"Hard Drive","PC accessory",Unknown,????,Unknown,,"Fixit Clinic",2019-10-27,
+fixitclinic_568,"Fixit Clinic",USA,"DVD player","TV and gaming-related accessories",Spectronic,????,Fixed,,"Fixit Clinic",2019-10-27,
+fixitclinic_570,"Fixit Clinic",USA,"waffle maker","Small kitchen item","Black and Decker",????,Repairable,,"Fixit Clinic",2019-10-27,
+fixitclinic_572,"Fixit Clinic",USA,"home stereo for CD/ipod","Hi-Fi integrated",Panasonic,????,Fixed,,"Fixit Clinic",2019-10-27,
+fixitclinic_573,"Fixit Clinic",USA,"Old table lamp",Lamp,Unknown,????,Fixed,,"Fixit Clinic",2019-10-27,
+fixitclinic_574,"Fixit Clinic",USA,Lamp,Lamp,"None indicated. From the 1950’s. ",2009,Fixed,,"Fixit Clinic",2019-10-30,"Not working "
+fixitclinic_575,"Fixit Clinic",USA,"solar flashlight","Decorative or safety lights",Unknown,????,Repairable,,"Fixit Clinic",2019-10-30,
+fixitclinic_577,"Fixit Clinic",USA,"battery operated sound machine","Hi-Fi integrated",?,2018,Unknown,,"Fixit Clinic",2019-11-03,"no longer make the sound"
+fixitclinic_578,"Fixit Clinic",USA,Lamp,Lamp,None,????,Fixed,,"Fixit Clinic",2019-11-05,
+fixitclinic_579,"Fixit Clinic",USA,"Sewing machine foot pedal","Sewing machine","No label - over 50 years old",????,Repairable,,"Fixit Clinic",2019-11-07,
+fixitclinic_580,"Fixit Clinic",USA,"CD player","Hi-Fi separates",Aiwa,2009,Repairable,,"Fixit Clinic",2019-11-09,"CD won't play"
+fixitclinic_581,"Fixit Clinic",USA,"Electric tea pot ","Small kitchen item",Oster,2018,Repairable,,"Fixit Clinic",2019-11-12,"Doesn’t turn on "
+fixitclinic_582,"Fixit Clinic",USA,computer,"Desktop computer","air pple",2013,Fixed,,"Fixit Clinic",2019-11-18,"did not charge , noise fan"
+fixitclinic_583,"Fixit Clinic",USA,"curling iron","Hair & beauty item",Cricket,????,Fixed,,"Fixit Clinic",2019-11-19,
+fixitclinic_584,"Fixit Clinic",USA,"A talking photo album - https://dementia.livebetterwith.com/products/talking-photo-album-memories-brought-to-life?variant=29399394025547&currency=USD&sfdr_ptcid=31654_4_498792062&sfdr_hash=034e8e7c519df9f9d3dc07afe1905cd0&gclid=Cj0KCQiAoIPvBRDgARIsAHsCw0_","Handheld entertainment device","Sharper Image",????,Repairable,,"Fixit Clinic",2019-11-29,"It won't play the recorded ""captions"" anymore.  I've tried replacing the battery.  I don't want to reset it if I don't have to, because I'll have to re-record all the captions again if I do."
+fixitclinic_585,"Fixit Clinic",USA,Toaster,Toaster,Breville,2013,Repairable,,"Fixit Clinic",2019-12-05,"The lever at the side that drops/raises the toast won’t catch at the bottom so the toast doesn’t stay down."
+fixitclinic_586,"Fixit Clinic",USA,"Multiband radio","Portable radio",Panasonic,????,Fixed,,"Fixit Clinic",2019-12-09,
+fixitclinic_587,"Fixit Clinic",USA,"Wiring from sewing machine duplex outlet to light and foot pedal.","Sewing machine",NA,????,Fixed,,"Fixit Clinic",2019-12-09,
+fixitclinic_588,"Fixit Clinic",USA,"Cell phone",Mobile,LG,????,Repairable,,"Fixit Clinic",2019-12-09,
+fixitclinic_590,"Fixit Clinic",USA,"Clamp lamp",Lamp,Unknown,????,Fixed,,"Fixit Clinic",2019-12-17,
+fixitclinic_592,"Fixit Clinic",USA,calculator,"Handheld entertainment device",Staples,????,Unknown,,"Fixit Clinic",2019-12-18,
+fixitclinic_593,"Fixit Clinic",USA,Musicbox,"Handheld entertainment device",Unknown,????,Fixed,,"Fixit Clinic",2019-12-18,
+fixitclinic_595,"Fixit Clinic",USA,"waffle iron","Small kitchen item",Vittorino,????,Fixed,,"Fixit Clinic",2019-12-18,
+fixitclinic_596,"Fixit Clinic",USA,Toaster,Toaster,"Victorian ",2018,"End of life",,"Fixit Clinic",2019-12-18,"Lever would not stay down"
+fixitclinic_597,"Fixit Clinic",USA,"Upright vacuum",Vacuum,Hoover,????,Repairable,,"Fixit Clinic",2019-12-18,
+fixitclinic_599,"Fixit Clinic",USA,"Food processor","Food processor",Cuisinart,2009,Unknown,,"Fixit Clinic",2020-01-01,"I hadn’t used it in a year, and when I went to use it this week, couldn’t get it to turn on. I made sure al the parts were installed correctly multiple times. Lookedonline, and found the reset button, and that still did not work.  "
+fixitclinic_600,"Fixit Clinic",USA,"LCD TV","Flat screen",Samsung,2017,Repairable,,"Fixit Clinic",2020-01-04,"Sound but no picture."
+fixitclinic_601,"Fixit Clinic",USA,"A Scanner ",Printer/scanner,FUJITSU,????,Unknown,,"Fixit Clinic",2020-01-14,
+fixitclinic_606,"Fixit Clinic",USA,"Electric blanket control","Small home electrical",Biddeford,????,Repairable,,"Fixit Clinic",2020-01-31,"Stopped heating up for no apparent reason"
+fixitclinic_608,"Fixit Clinic",USA,"toaster - handle fell off",Toaster,"ktchen aid",????,Fixed,,"Fixit Clinic",2020-02-04,
+fixitclinic_611,"Fixit Clinic",USA,"Toy electric Guitar","Musical instrument",Unknown,????,Fixed,,"Fixit Clinic",2020-02-06,
+fixitclinic_614,"Fixit Clinic",USA,Iron,Iron,Rowetta,????,Fixed,,"Fixit Clinic",2020-02-09,
+fixitclinic_616,"Fixit Clinic",USA,boombox,"Hi-Fi integrated",hitachi,????,Repairable,,"Fixit Clinic",2020-02-09,
+fixitclinic_617,"Fixit Clinic",USA,"Mini component system",Misc,Sharp,????,Fixed,,"Fixit Clinic",2020-02-09,
+fixitclinic_618,"Fixit Clinic",USA,"Set of speakers","Hi-Fi separates","Altec Lansing",????,Repairable,,"Fixit Clinic",2020-02-09,
+fixitclinic_619,"Fixit Clinic",USA,Fan,Fan,"Caramo ",????,Fixed,,"Fixit Clinic",2020-02-09,
+fixitclinic_620,"Fixit Clinic",USA,"old lamp",Lamp,?,2009,Fixed,,"Fixit Clinic",2020-02-10,"needed a new cord"
+fixitclinic_621,"Fixit Clinic",USA,microwave,"Small kitchen item",GE,????,Fixed,,"Fixit Clinic",2020-02-10,
+fixitclinic_622,"Fixit Clinic",USA,"Floor lamp",Lamp,"Not sure ",????,Fixed,,"Fixit Clinic",2020-02-11,
+fixitclinic_623,"Fixit Clinic",USA,"espresso machine","Small kitchen item","Starbucks Barista",????,Repairable,,"Fixit Clinic",2020-02-12,
+fixitclinic_624,"Fixit Clinic",USA,Toaster,Toaster,Breville,????,Repairable,,"Fixit Clinic",2020-02-12,
+fixitclinic_625,"Fixit Clinic",USA,Fan,Fan,"Nantucket Breeze ",????,Unknown,,"Fixit Clinic",2020-02-12,
+fixitclinic_626,"Fixit Clinic",USA,"TV/DVD player","TV and gaming-related accessories",Sens,????,Repairable,,"Fixit Clinic",2020-02-12,
+fixitclinic_627,"Fixit Clinic",USA,"Photo album with voice recorder","Handheld entertainment device","Sharper Image",????,Unknown,,"Fixit Clinic",2020-02-12,
+fixitclinic_628,"Fixit Clinic",USA,"Sewing machine","Sewing machine","New Home ",????,Fixed,,"Fixit Clinic",2020-02-12,
+fixitclinic_629,"Fixit Clinic",USA,"Electric Shaver","Hair & beauty item",Conair,????,"End of life",,"Fixit Clinic",2020-02-12,
+fixitclinic_630,"Fixit Clinic",USA,"Electric Fan",Fan,"Zippi Fan",????,"End of life",,"Fixit Clinic",2020-02-12,
+fixitclinic_631,"Fixit Clinic",USA,"Desk Lamp",Lamp,"Pottery Barn",????,Fixed,,"Fixit Clinic",2020-02-12,
+fixitclinic_632,"Fixit Clinic",USA,Lamp,Lamp,Antique,????,Repairable,,"Fixit Clinic",2020-02-12,
+fixitclinic_635,"Fixit Clinic",USA,Lamp,Lamp,Unknown,????,Fixed,,"Fixit Clinic",2020-02-12,
+fixitclinic_638,"Fixit Clinic",USA,lamp,Lamp,Unknown,2009,Unknown,,"Fixit Clinic",2020-02-13,"plug in cord needs replacement"
+fixitclinic_639,"Fixit Clinic",USA,"Exercise m/c","Large home electrical",Schwinn,????,Repairable,,"Fixit Clinic",2020-02-20,
+fixitclinic_640,"Fixit Clinic",USA,"Washing machine","Large home electrical",kenmore,2009,Fixed,,"Fixit Clinic",2020-02-28,"Agitator would not spin back and forth "
+fixitclinic_642,"Fixit Clinic",USA,"2 older pottery lamps",Lamp,?,2009,Fixed,,"Fixit Clinic",2020-03-09,"The plugs were the older style, and the cords were dry and beginning to break apart."
+fixitclinic_643,"Fixit Clinic",USA,"Bread machine","Small kitchen item",Breadman,????,Fixed,,"Fixit Clinic",2020-03-09,
+fixitclinic_646,"Fixit Clinic",USA,"radio/cassette tape player","Hi-Fi separates","Radio Shack",2009,Unknown,,"Fixit Clinic",2020-03-21,"Radio is fine.  Cassette player will not advance or rewind a cassette."
+fixitclinic_648,"Fixit Clinic",USA,Laptop,Laptop,thinkpad,2012,Fixed,,"Fixit Clinic",2020-03-30,"The speakers where making a scratching sound and was not playing will"
+fixitclinic_649,"Fixit Clinic",USA,Soundbar,"Hi-Fi separates",Vizio,????,Repairable,,"Fixit Clinic",2020-04-01,
+fixitclinic_650,"Fixit Clinic",USA,"Single Server Coffee Maker","Coffee maker",Keurig,2015,Repairable,,"Fixit Clinic",2020-04-01,"The Water Reservoir has two giant cracks all the way up from the bottom, where it appears to have been impaled. The water filter valve was torn off as well."
+fixitclinic_651,"Fixit Clinic",USA,Printere,Printer/scanner,HP,2013,Repairable,,"Fixit Clinic",2020-04-14,"Black ink is not printing at all. "
+fixitclinic_652,"Fixit Clinic",USA,"DVD Video Recorder","TV and gaming-related accessories",Tosdhiba,2009,Repairable,,"Fixit Clinic",2020-04-23,"Power supply"
+fixitclinic_653,"Fixit Clinic",USA,"flatscreen TV","Flat screen","Sharp Aquos",2010,Repairable,,"Fixit Clinic",2020-04-30,"The power goes on, but the screen remains entirely black. No sound and no image, except for a very fleeting (infrequent) indication of a signal."
+fixitclinic_654,"Fixit Clinic",USA,"LCD TV","Flat screen",Sony,2009,Repairable,,"Fixit Clinic",2020-05-10,"One day it worked fine, the next when you turned it on, the power light went on and after a few seconds, it would turn off and there was no picture on the screen. "
+fixitclinic_655,"Fixit Clinic",USA,Laptop,Laptop,Microsoft,2018,Repairable,,"Fixit Clinic",2020-05-21,"Laptop asks for Bitlocker recovery key when turning it on after a Windows agent had taken remote control. However, I never setup any bitlocker recovery key and without it I am unable to access my files etc. "
+fixitclinic_656,"Fixit Clinic",USA,refrigerator,"Small kitchen item",Conserv,"earlier than 2011",Repairable,,"Fixit Clinic",2020-05-28,"the defrost stopped working years ago. a lot of ice forms in the ice tray shelf at the top of the freezer and water drips down in the fridge (sweat?) and freezes under the crisper drawers. also, food at the back of the fridge, on every shelf, has a tendency to freeze. I have to defrost monthly"
+fixitclinic_657,"Fixit Clinic",USA,Fan,Fan,Toastmaster,"earlier than 2011","End of life",,"Fixit Clinic",2020-06-07,Dead
+fixitclinic_658,"Fixit Clinic",USA,"Vintage speakers","Hi-Fi separates","AR Inc","earlier than 2011",Repairable,,"Fixit Clinic",2020-06-10,"I need to convert the wires so that I can hook the set up with a panasonic receiver."
+fixitclinic_659,"Fixit Clinic",USA,"Rotimatic ","Small kitchen item","Royimatic ",2017,Repairable,,"Fixit Clinic",2020-06-18,"Looks like fuse is blown up but I checked it with multimeter without removing from circuit board and meeter sounds beep so I guess fuse working fully. Now don't know what is causing continuity of power."
+fixitclinic_660,"Fixit Clinic",USA,"Wireless speaker","Hi-Fi separates",Sony,????,Unknown,,"Fixit Clinic",2020-06-20,
+fixitclinic_661,"Fixit Clinic",USA,"desk lamp",Lamp,Unknown,"earlier than 2011",Fixed,,"Fixit Clinic",2020-06-21,"I was using a CFL light bulb, and the connection was bad.  I changed the bulb to a LED, it is now working fine.  "
+fixitclinic_662,"Fixit Clinic",USA,"cuisinart food processor","Food processor",Cuisinart,"earlier than 2011",Repairable,,"Fixit Clinic",2020-06-24,"It won't turn on when plugged in"
+fixitclinic_664,"Fixit Clinic",USA,"Sewing machine ","Sewing machine",Jones,"earlier than 2011",Repairable,,"Fixit Clinic",2020-07-02,"Will not form stitches"
+fixitclinic_665,"Fixit Clinic",USA,"Cordless Handheld Vacuum",Vacuum,"Black and Decker",2017,Repairable,,"Fixit Clinic",2020-07-09,"Lithium battery dead"
+fixitclinic_667,"Fixit Clinic",USA,Blender,"Food processor",Philips,2016,Repairable,,"Fixit Clinic",2020-07-15,"It doesn't turn on anymore.It doesn't smell like burn. "
+fixitclinic_669,"Fixit Clinic",USA,Laptop,Laptop,dell,????,Unknown,,"Fixit Clinic",2020-07-24,
+fixitclinic_671,"Fixit Clinic",USA,"comment débrancher nappe écran sur tablette ",Tablet,irulu,????,Repairable,,"Fixit Clinic",2020-07-27,"je souhaite débrancher la nappe de l'écran qui est cassée. je ne vois pas comment le faire"
+fixitclinic_672,"Fixit Clinic",USA," koffieautomaat ","Coffee maker","Delonghi magnifica",????,Repairable,,"Fixit Clinic",2020-07-27,"Start up normally. But then grind only about 3 sec. then moves the browser up and down. And then the ground coffee light comes on. This will stay on for about 10-15 seconds and then go out.Machine is then standbay again. Do not know which component controls the meal."
+fixitclinic_673,"Fixit Clinic",USA,"Air purifier ",Aircon/dehumidifier,Blueair,????,Repairable,,"Fixit Clinic",2020-08-23,
+fixitclinic_676,"Fixit Clinic",USA,"pet trimmer",Misc,conair,2015,Repairable,,"Fixit Clinic",2020-08-25,"cannot turn on"
+fixitclinic_677,"Fixit Clinic",USA,"Radio Alarm Clock","Portable radio","General Electric","earlier than 2011",Unknown,,"Fixit Clinic",2020-08-27,"not working at all"
+fixitclinic_678,"Fixit Clinic",USA,"Casa Bugatti juicer vita ","Food processor",Bugatti,2015,Repairable,,"Fixit Clinic",2020-08-28,"Non response when you press down to start juicing "
+fixitclinic_679,"Fixit Clinic",USA,"Samsung powerbot",Vacuum,Samsung,2016,Repairable,,"Fixit Clinic",2020-09-04,"Makes a rattling noise"
+fixitclinic_680,"Fixit Clinic",USA,"Toaster Oven","Small kitchen item",Cuisinart,2017,Repairable,,"Fixit Clinic",2020-09-21,"Thermal Fuse Blown"
