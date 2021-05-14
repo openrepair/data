@@ -1,0 +1,133 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "",
+	  "path": "https://github.com/openrepair/data/blob/master/quests/mobiles/mobifix.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "format": "default",
+            "title": "ID",
+            "description": "Unique identifier.",
+            "constraints": {
+                "pattern": "mobifix-[0-9]+",
+                "unique": "true"
+            }
+          },
+          {
+            "name": "data_provider",
+            "type": "string",
+            "format": "default",
+            "title": "Data Provider",
+            "description": "Name of the organisation that collects the data."
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "format": "default",
+            "title": "Country",
+            "description": "3 char ISO country code.",
+            "constraints": {
+                "pattern": "[A-Z]{3}",
+                "minimum": "3",
+                "maximum": "3"
+            }
+          },
+          {
+            "name": "fault_type",
+            "type": "string",
+            "format": "default",
+            "title": "Fault Type",
+            "description": "Type of fault."
+          },
+          {
+            "name": "product_category",
+            "type": "string",
+            "format": "default",
+            "title": "Product Category",
+            "description": "Type of product."
+          },
+          {
+            "name": "brand",
+            "type": "string",
+            "format": "default",
+            "title": "Brand",
+            "description": "Product brand name. Optional.",
+            "missingValues": ["Unknown"]
+          },
+          {
+            "name": "model",
+            "type": "string",
+            "format": "default",
+            "title": "Model",
+            "description": "Product model. Optional.",
+            "missingValues": ["Unknown"]
+          },
+          {
+            "name": "repair_status",
+            "type": "string",
+            "format": "default",
+            "title": "Repair Status",
+            "description": "Result of the repair attempt.",
+            "constraints": {
+                "enum": "[Fixed, Repairable, End of life, Unknown]"
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "format": "default",
+            "title": "Age",
+            "description": "Product age. Optional.",
+            "constraints": {
+                "pattern": "[0-9]{4}"
+            },
+            "missingValues": [""]
+          },
+          {
+            "name": "event_date",
+            "type": "date",
+            "format": "yyyy-mm-dd",
+            "title": "Repair Event Date",
+            "description": "Date the repair event was held on."
+          },
+          {
+            "name": "problem",
+            "type": "string",
+            "format": "default",
+            "title": "Problem Text",
+            "description": "Description of the repair attempt."
+          }
+        ],
+        "primaryKey": "id"
+      },
+      "format": "CSV",
+      "title": "Results of Open Repair Data quests MobiFix and MobiFix:ORA"
+    }
+  ],
+  "name": "mobifix.csv",
+  "title": "Results of Open Repair Data quests MobiFix and MobiFix:ORA",
+  "description": "Dataset of mobile phone repair records from the Open Repair Alliance in ORDS format style with added `fault_type` and `age` values. ",
+  "homepage": "https://openrepair.org/open-data/insights/mobiles",
+  "contributors": [
+    {
+      "title": "Monique Szpak",
+      "role": "author"
+    },
+    {
+      "title": "Neil Mather",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}
