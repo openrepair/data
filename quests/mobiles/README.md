@@ -2,7 +2,7 @@
 
 This dataset is the result of two online quests where volunteer participants looked at about 1900 mobile phone repair attempts recorded at community events. For more information about repair events and data, visit the [Open Repair Alliance](https://openrepair.org/open-data/) website.
 
-[MobiFix](https://talk.restarters.net/t/get-involved-in-repair-data-with-mobifix/3142) was held in July 2020 using data from ORA partner The Restart Project.
+[MobiFix](https://talk.restarters.net/mobifix/status) was held in July 2020 using data from ORA partner The Restart Project.
 
 
 [MobiFix:ORA](https://restarters.net/mobifixora/status) was held in March 2021 using data from ORA partners anstiftung and Repair Café International.
