@@ -38,18 +38,18 @@
             }
           },
           {
-            "name": "fault_type_id",
+            "name": "step_barrier_id",
             "type": "integer",
             "format": "default",
-            "title": "Fault type ID",
-            "description": "ID of the fault type. Joins the battcat_fault_types primary key."
+            "title": "Step_or barrier ID",
+            "description": "ID of the step or barrier. Joins the `battcat_step_barrier` primary key."
           },
           {
-            "name": "fault_type",
+            "name": "step_barrier",
             "type": "string",
             "format": "default",
-            "title": "Fault type",
-            "description": "Type of fault from the battcat_fault_types title field."
+            "title": "Next step or barrier to repair",
+            "description": "Type of step or barrier from the `battcat_step_barrier` title field."
           },
           {
             "name": "product_category",
@@ -120,8 +120,8 @@
       "title": "Results of Open Repair Data quest BattCat"
     },
     {
-      "name": "battcat_fault_types.csv",
-      "path": "https://github.com/openrepair/data/blob/master/quests/batteries/battcat_fault_types.csv",
+      "name": "battcat_step_barrier.csv",
+      "path": "https://github.com/openrepair/data/blob/master/quests/batteries/battcat_step_barrier.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -141,7 +141,7 @@
             "type": "string",
             "format": "default",
             "title": "Title",
-            "description": "Name of the fault type."
+            "description": "Name of the step or barrier."
           },
           {
             "name": "repair_status",
@@ -157,12 +157,12 @@
         "primaryKey": "id"
       },
       "format": "CSV",
-      "title": "List of fault types for quest BattCat"
+      "title": "List of 'next steps' and 'barriers to repair' for quest BattCat"
     }
   ],
   "name": "battcat.csv",
   "title": "Results of Open Repair Data quest BattCat",
-  "description": "Dataset of battery-powered device repair records from the Open Repair Alliance in ORDS format style with added `fault_type` values. ",
+  "description": "Dataset of battery-powered device repair records from the Open Repair Alliance in ORDS format style with added `step_barrier` values. ",
   "homepage": "https://openrepair.org/open-data/insights/batteries",
   "contributors": [
     {
