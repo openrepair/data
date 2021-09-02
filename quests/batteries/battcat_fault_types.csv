@@ -1,0 +1,19 @@
+ID,Title,Repair Status
+1,Battery is not the main problem,Repairable
+2,Clean battery contacts,Repairable
+3,Fix connectors or casing,Repairable
+4,Fix the charging port,Repairable
+5,Replace the charger or charging cable,Repairable
+6,Replace with new battery,Repairable
+7,Other,Repairable
+8,Poor data,Repairable
+9,Battery is not the main problem,End of life
+10,Battery not readily available,End of life
+11,"Built-in or soldered battery, cannot remove",End of life
+12,Charger not readily available,End of life
+13,Damaged while replacing battery,End of life
+14,Difficult to remove battery,End of life
+15,New battery too expensive,End of life
+16,Unrepairable corrosion or leakage,End of life
+17,Other,End of life
+18,Poor data,End of life

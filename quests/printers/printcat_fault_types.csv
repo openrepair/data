@@ -1,0 +1,24 @@
+ID,Title,Description
+1,Card reader,
+2,Configuration,"Advice, set up, tutoring..."
+3,Control buttons,
+4,Display panel,LCD/LED screen problem
+5,External damage,Damage to the housing
+6,Imaging unit/drum,
+7,Ink cartridge,
+8,Internal damage,Problem with mechanisms such as gears
+9,Paper feed,Won't feed paper 
+10,Paper output,"Paper jammed, creased, skewed..."
+11,Power supply/connectors,
+12,Print quality,"Blurry, stripes, faded..."
+13,Printhead cleaning,
+14,Printhead failure,
+15,Scanner,
+16,Software issue/update,"Driver, app, update etc."
+17,Toner,
+18,USB port/cable,"Broken, loose, dirty..."
+19,Vendor lock-in,Features disabled
+20,Waste toner/ink box,
+21,WiFi,Not connecting...
+22,Other,Main fault is known but there is no option for it
+23,Unknown,Not enough info to determine the main fault

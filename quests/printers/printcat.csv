@@ -1,0 +1,774 @@
+id_ords,data_provider,country,fault_type_id,fault_type,product_category,brand,repair_status,year_of_manufacture,event_date,language,problem
+anstiftung_5528,anstiftung,DEU,2,Configuration,Printer/scanner,Anet,Fixed,2015,2020-08-25,de,"Er förderte das Material nicht richtig nach und druckte nicht gut. Wir schauten uns die Filamentzufuhr an und reinigten den Vortrieb. Der Besitzer hatte noch nicht viel Erfahrung mit solchen Geräte und so erklärten wir ihm noch ein paar Basics. Nachdem die Temperatur des Heizelements entsprechend des verwendeten Materials eingestellt war, druckte das Gerät wieder gut."
+restart_181,The Restart Project,GBR,2,Configuration,Printer/scanner,Canon,Repairable,????,2013-10-19,en,Printer - Adjustment needed - Needs professional adjustment
+restart_232,The Restart Project,GBR,2,Configuration,Printer/scanner,Unknown,Repairable,????,2013-11-16,en,Problem with adjustment of printer heads
+restart_6459,The Restart Project,GBR,2,Configuration,Printer/scanner,HP,Fixed,2013,2017-11-04,en,Out of alignment
+rcint_15617,Repair Café International,NLD,3,Control buttons,Printer/scanner,Unknown,End of life,????,2019-03-09,nl,knop weigert
+rcint_21563,Repair Café International,NLD,3,Control buttons,Printer/scanner,HP,End of life,2006,2019-09-14,nl,aan en uitknop fuctioneert niet meer
+rcint_27415,Repair Café International,NLD,3,Control buttons,Printer/scanner,Lexmark,End of life,2014,2020-01-04,nl,"printerknop zwart, doet het niet"
+rcint_4523,Repair Café International,NLD,3,Control buttons,Printer/scanner,Brother,End of life,????,2018-01-20,nl,Defecte schakelaar
+restart_4411,The Restart Project,GBR,3,Control buttons,Printer/scanner,Unknown,Fixed,????,2017-02-27,en,"Printer - No lights, no power, nothing - doctored switch and was repaired"
+rcint_12619,Repair Café International,NLD,4,Display panel,Printer/scanner,Samsung,End of life,????,2018-12-20,nl,donatie onderdelen
+rcint_31276,Repair Café International,NLD,4,Display panel,Printer/scanner,Canon,End of life,2017,2020-03-07,en,display defect
+rcint_31572,Repair Café International,FRA,4,Display panel,Printer/scanner,HP,End of life,????,2020-06-06,fr,Souci fonction démarrage afficheur de commande
+restart_3724,The Restart Project,GBR,4,Display panel,Printer/scanner,Dell,End of life,????,2016-11-19,en,LED screen not working.
+rcint_5324,Repair Café International,NLD,5,External damage,Printer/scanner,Canon,Repairable,2016,2018-02-24,nl,gebroken lade
+rcwales_1737,Repair Cafe Wales,GBR,5,External damage,Printer/scanner,Unknown,Fixed,????,2019-10-01,en,printer back won't close properly
+restart_17571,The Restart Project,GBR,5,External damage,Printer/scanner,Unknown,Fixed,2013,2020-07-01,en,Lid broken
+anstiftung_3956,anstiftung,DEU,6,Imaging unit/drum,Printer/scanner,Brother,Fixed,????,2019-10-19,de,Corondraht verschmutzt
+rcint_14916,Repair Café International,NLD,6,Imaging unit/drum,Printer/scanner,Canon,Fixed,2000,2019-02-23,en,Storing
+rcint_1839,Repair Café International,NLD,6,Imaging unit/drum,Printer/scanner,Samsung,End of life,2010,2017-08-24,nl,drum beschadigd
+restart_10982,The Restart Project,GBR,6,Imaging unit/drum,Printer/scanner,HP,Fixed,????,2019-01-19,en,Only scans quarter of page - advice given
+anstiftung_1593,anstiftung,DEU,7,Ink cartridge,Printer/scanner,HP,Unknown,????,2018-05-09,de,"Eingesetzte Tintenpatronen wurden nicht erkannt.Keine Originalpatronen, vermutlich das Problem."
+anstiftung_1735,anstiftung,DEU,7,Ink cartridge,Printer/scanner,Epson,Fixed,????,2018-01-11,de,Fortsetzung vom letzten Mal:wir konnten die zwischenzeitlich besorgte Tintenpatrone einsetzen.
+anstiftung_1743,anstiftung,DEU,7,Ink cartridge,Printer/scanner,HP,Unknown,????,2017-12-14,de,"Beim Einlegen der Ersatzpatronen hatte die Besitzerin etwas falsch gemacht und nun zeigte das Gerät einen Fehlercode an. Dieser wies auf ein defektes Tintensystem hin. Wir versuchten einige Tipps aus dem Internet, hatten aber keinen Erfolg. Da ist ein neuer Drucker nötig."
+anstiftung_1746,anstiftung,DEU,7,Ink cartridge,Printer/scanner,Epson,Repairable,????,2017-12-14,de,"Druckt nicht mehr, Patrone leer."
+anstiftung_1832,anstiftung,DEU,7,Ink cartridge,Printer/scanner,Unknown,Fixed,????,2017-09-14,de,"Hatte ein schlechtes Druckbild, eine Farbe fehlte völlig. Die Besitzerin hatte das Gerät schon zweimal in einer Werkstatt und die gab dann auf. Angeblich wurden dort neue Patronen eingesetzt, doch wir stellten sofort eine leere gelbe Patrone fest - somit war klar, warum die Farbe fehlte. Außerdem waren keine Originalpatronen eingesetzt, was auch zu Problemen beim Druckbild führen kann. Wir reinigten den Druckkopf und rieten der Besitzerin, es mit einem kompletten Satz neuer Originalpatronen nochmal zu versuchen."
+anstiftung_2282,anstiftung,DEU,7,Ink cartridge,Printer/scanner,Brother,Fixed,????,2017-08-17,de,"kleckste und zog Streifen beim Drucken. Wir haben diesbezüglich im Internet gesucht und sind fündig geworden. Über das Servicemenü konnten wir die Reinigung und danach auch die Ansaugung der Tinte aktivieren. Das Druckbild wurde deutlich besser. Wir gaben dem Besitzer noch den Tipp, die Patronen in Zukunft rechtzeitig zu wechseln, um einen Abriss der Tinte zu vermeiden."
+anstiftung_2941,anstiftung,DEU,7,Ink cartridge,Printer/scanner,Brother,Repairable,????,2018-04-26,de,"Ein Brother „MFC J470DW“ Multifunktionsdrucker erkannte die gelbe Farbpatrone nicht mehr. Sein Besitzer äußerte den Verdacht, dass in der Aufnahme eine Feder zur Kontaktierung des Patronenchips abgebrochen sein könnte. Nach Zerlegung des Gerätes und näherer Inaugenscheinnahme konnten wir dies zwar bestätigen, fanden im Gehäuse jedoch keine Spur des fehlenden Kontaktes. Das defekte Teil wurde ausgebaut und der Gast beraten, wie er hierfür passenden Ersatz bekommen kann. Sollte das nicht klappen, müssen wir sonst beim nächsten Mal eine geeignete Lösung mit Teilen aus der Bastelkiste improvisieren."
+anstiftung_3522,anstiftung,DEU,7,Ink cartridge,Printer/scanner,Minolta,Unknown,2013,2019-08-17,de,Streifen
+anstiftung_4751,anstiftung,DEU,7,Ink cartridge,Printer/scanner,Unknown,Unknown,????,2019-11-12,de,Patrone eingetrocknet
+anstiftung_5030,anstiftung,DEU,7,Ink cartridge,Printer/scanner,HP,Fixed,2017,2020-02-20,de,"An dem Drucker wurde kein schwarz mehr gedruckt. Bei der Überprüfung funktionierte es auf einmal wieder, wenn auch schlecht. Der Gast wird die kürzlich erworbene Patrone reklamieren."
+anstiftung_5378,anstiftung,DEU,7,Ink cartridge,Printer/scanner,HP,Repairable,2010,2020-06-04,de,"Patronen werden nicht erkannt.Patronenkontakte gereinigt und neu eingesetzt. Bei schwarzer Patrone wird Fehler gemeldet.Da noch in der Garantie, Empfehlung Einsendung an den Hersteller."
+anstiftung_5434,anstiftung,DEU,7,Ink cartridge,Printer/scanner,Unknown,Unknown,????,2020-07-05,de,fehlercode beim drucken. behältnis von druckerpatronen klemmt.
+anstiftung_5554,anstiftung,DEU,7,Ink cartridge,Printer/scanner,Samsung,Fixed,2017,2020-09-03,de,Erkennt Patrone nicht. Chip am Toner defekt. Gast kauft neuen Toner
+fixitclinic_651,Fixit Clinic,USA,7,Ink cartridge,Printer/scanner,HP,Repairable,2013,2020-04-14,en,Printere ~ Black ink is not printing at all. 
+rcint_10170,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Brother,End of life,2009,2018-10-06,nl,Zwarte cartridge werkt niet meer
+rcint_10224,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,End of life,2012,2018-10-06,nl,wagen is vastgelopen bij het wisselen van de cartridge.
+rcint_10261,Repair Café International,FRA,7,Ink cartridge,Printer/scanner,Epson,End of life,????,2018-10-06,fr,Tampon d'encre satur?© / Je n'arrive pas ?† trouver comment ouvrir pour le changer
+rcint_10382,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Epson,Fixed,2014,2018-10-13,nl,inktpatroon zit vast
+rcint_10727,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,End of life,1015,2018-10-27,nl,Zwate cartridge doet het niet
+rcint_12286,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,End of life,2008,2018-12-01,nl,cartrigde bijvullen
+rcint_12293,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Canon,End of life,2015,2018-12-01,nl,ingedroogde catridges
+rcint_12337,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Unknown,Fixed,????,2018-12-01,nl,Geeft inktprobleem
+rcint_12451,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Canon,Fixed,2016,2018-12-08,en,cartridgehouder
+rcint_13105,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Repairable,2008,2019-01-05,nl,Waarschijnlijk cartridge uitgedroogd
+rcint_14590,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Epson,Repairable,2016,2019-02-09,nl,pakt geen zwarte inkt
+rcint_14591,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Epson,Repairable,2016,2019-02-09,nl,pakt geen zwarte inkt
+rcint_15142,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Fixed,????,2019-03-02,nl,cartridge zit vast
+rcint_15555,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Repairable,2014,2019-03-09,nl,inktprobleem ondanks nieuwe cartridge
+rcint_15666,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Canon,End of life,????,2019-03-09,nl,Komt geen inkt.
+rcint_16237,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Repairable,????,2019-03-30,nl,zwartprint niet meer
+rcint_1707,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Canon,Fixed,2011,2017-08-05,nl,Cartridge uitgedroogd
+rcint_17522,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,End of life,2005,2019-05-02,nl,"Vraagt na elke gekleurde afdruk, zwarte cartridge vervangen"
+rcint_1772,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Repairable,2013,2017-08-05,nl,Zwarte catridge lekt en de paarse is leeg.
+rcint_18994,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Unknown,End of life,2016,2019-06-06,en,cardridges
+rcint_2070,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Epson,Repairable,2007,2017-09-02,nl,Cartridges of onderliggend probleem
+rcint_20872,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Fixed,2009,2019-08-31,nl,Inkt werk niet ws. omdat er geen HP merk is gebruikt
+rcint_20988,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,End of life,2014,2019-09-06,nl,Volle zwarte cartridge geeft geen inkt meer af
+rcint_22057,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Brother,End of life,2014,2019-09-27,nl,Inkt lekt overal uit de printer
+rcint_22601,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Repairable,????,2019-10-05,nl,Hoe inktpatronen te vervangen
+rcint_23078,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Brother,End of life,2016,2019-10-12,nl,wil cartridge niet pakken
+rcint_2369,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Canon,Repairable,????,2017-09-28,nl,cartridge slecht/leeg (huismerk)
+rcint_24791,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Brother,End of life,????,2019-11-09,nl,"Print niet meer, ondanks nieuwe cartridges."
+rcint_2546,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Repairable,2010,2017-10-07,nl,cardridges leeg
+rcint_27131,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Epson,End of life,????,2019-12-28,nl,"print niet meer na plaatsen ""action"" cartridges."
+rcint_27530,Repair Café International,GBR,7,Ink cartridge,Printer/scanner,Canon,End of life,????,2020-01-04,en,error b200
+rcint_2776,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,End of life,2003,2017-10-17,nl,niet de juiste cartridges
+rcint_28058,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Canon,Repairable,2010,2020-01-17,nl,geet aan dat de inkt op is maar er zitten nieuwe cartridges in!
+rcint_2890,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Fixed,????,2017-10-26,nl,verkeerde cartridges gebrikt
+rcint_29817,Repair Café International,FRA,7,Ink cartridge,Printer/scanner,Unknown,End of life,????,2020-02-15,fr,Problème de cartouche couleurs non reconnue
+rcint_29824,Repair Café International,FRA,7,Ink cartridge,Printer/scanner,Unknown,End of life,????,2020-02-15,fr,Reconnait les cartouches pleines comme vides
+rcint_29863,Repair Café International,DEU,7,Ink cartridge,Printer/scanner,HP,Repairable,????,2020-02-15,de,erkennt Patrone nicht
+rcint_31694,Repair Café International,FRA,7,Ink cartridge,Printer/scanner,Epson,End of life,????,2020-07-04,fr,l'encre noir ne fonctionne plus
+rcint_32086,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Repairable,????,2020-09-19,nl,cartridge wordt niet herkent
+rcint_3308,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Fixed,2013,2017-11-11,nl,Inktpatronen waren leeg
+rcint_4279,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Epson,Repairable,2011,2018-01-11,en,cartridge
+rcint_4412,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Canon,Repairable,2015,2018-01-13,nl,zwarte cartridge niet goed
+rcint_4786,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Repairable,2013,2018-02-03,nl,inkt op
+rcint_5977,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Repairable,2000,2018-03-30,en,Cartridge
+rcint_6879,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,End of life,2016,2018-05-05,nl,1 keer geen originele cartridge gebruikt
+rcint_7457,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Canon,Fixed,????,2018-06-02,nl,Waarschijnlijk geen originele cartridge
+rcint_7563,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Canon,End of life,2011,2018-06-02,nl,Geen inkt
+rcint_8834,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Fixed,2000,2018-08-25,nl,Inktpatroon zit vast
+rcint_9462,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,Brother,Repairable,????,2018-09-15,nl,Geen inkttoevoer
+rcint_9533,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Fixed,????,2018-09-21,nl,Doet het niet met nieuwe inktpatronen
+rcint_959,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Repairable,2012,2017-05-06,nl,lekkend inktpatroon
+rcint_988,Repair Café International,NLD,7,Ink cartridge,Printer/scanner,HP,Fixed,2005,2017-05-06,nl,Zwarte cartridge droog/leeg
+rcwales_1090,Repair Cafe Wales,GBR,7,Ink cartridge,Printer/scanner,Epsom,End of life,????,2019-05-01,en,Printer Not printing blank ink
+rcwales_212,Repair Cafe Wales,GBR,7,Ink cartridge,Printer/scanner,Unknown,End of life,????,2017-10-01,en,Printer turns on but ink cartridge stuck in middle
+rcwales_299,Repair Cafe Wales,GBR,7,Ink cartridge,Printer/scanner,Unknown,Fixed,????,2017-12-01,en,Printer Thinks it doesn't have any ink in it- doesn't print
+rcwales_4409,Repair Cafe Wales,GBR,7,Ink cartridge,Printer/scanner,Epson,Unknown,????,2020-02-01,en,printer rejects ink cartridges
+restart_11077,The Restart Project,SWE,7,Ink cartridge,Printer/scanner,Unknown,Repairable,2016,2019-01-20,en,"Error 5100, cartridge stuck?"
+restart_11319,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Canon,End of life,2014,2019-02-09,en,Ink has flooded.
+restart_121,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Canon,Repairable,????,2013-08-18,en,Printer - Black cartridge not working - Deep clean needed
+restart_1223,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Unknown,End of life,????,2015-02-17,en,Printer - Ink management -
+restart_13227,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Canon,Repairable,????,2019-05-18,en,No print. Test page blank. Need ink cartridges.
+restart_15447,The Restart Project,BEL,7,Ink cartridge,Printer/scanner,Unknown,Fixed,2017,2019-10-26,en,Printer does not while there is ink enoughcleaned contcats
+restart_15832,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,HP,Unknown,2016,2019-11-16,en,"ink cartridge carriage not finding position, jumping along guide erratically"
+restart_16654,The Restart Project,BEL,7,Ink cartridge,Printer/scanner,HP,Repairable,2013,2020-01-25,en,Does not work.The black acrtridge doesn't not work properly.Most probably a new black cartridge will resolve the issue.
+restart_16817,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,HP,End of life,????,2020-01-26,en,"Ink leaked. Not fixed, other error message than before."
+restart_17181,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Epson,Fixed,2015,2020-02-15,en,Issue with ink cartridge
+restart_1736,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,HP,Fixed,????,2015-09-26,en,extraction of ink from cartridge
+restart_230,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Unknown,Repairable,????,2013-11-16,en,Problem with the PO ink
+restart_2384,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Canon,Repairable,????,2016-03-12,en,unreliable - needs cartridges
+restart_2521,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Unknown,Repairable,????,2016-04-09,en,does not detect colour cartridge
+restart_2654,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,HP,Fixed,????,2016-05-14,en,Ink issue
+restart_309,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Epson,Fixed,????,2013-12-15,en,Printer - Stopped printing - Needed proprietary cartridges
+restart_3237,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Epson,Repairable,????,2016-09-10,en,New ink to be tried
+restart_3268,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Epson,Repairable,????,2016-09-17,en,"Error code, won't print. Got advice, will try replacing cartridges."
+restart_3886,The Restart Project,ITA,7,Ink cartridge,Printer/scanner,Canon,Fixed,????,2016-11-26,en,Printer with dried cartridges
+restart_6061,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,HP,Fixed,????,2017-09-23,en,"Printer head ink. Had wrong cartridge, advice given."
+restart_7718,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,HP ,Fixed,????,2018-04-07,en,Ink install problem
+restart_783,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Canon,Repairable,????,2014-07-10,en,Printer - Does not recognize cartridge - Needs more troubleshooting
+restart_8164,The Restart Project,USA,7,Ink cartridge,Printer/scanner,Epson,Repairable,2016,2018-05-05,en,needs a new cartridge
+restart_8690,The Restart Project,GBR,7,Ink cartridge,Printer/scanner,Unknown,Fixed,????,2018-07-07,en,Stopped printing mid-job.
+restart_9364,The Restart Project,ITA,7,Ink cartridge,Printer/scanner,Epson,End of life,2014,2018-09-29,en,container printer cartridges
+anstiftung_1348,anstiftung,DEU,8,Internal damage,Printer/scanner,Canon,Unknown,2011,2019-05-07,de,Platine kaputt
+anstiftung_2369,anstiftung,DEU,8,Internal damage,Printer/scanner,Unknown,Unknown,????,2017-03-16,de,Nach einem Sturz funktionierte er nicht mehr.Wir fanden einen unrettbaren Schaden auf der Hauptplatine vor. Er gab - auch nach der Demontage - keine Lebenszeichen von sich.
+anstiftung_2940,anstiftung,DEU,8,Internal damage,Printer/scanner,Unknown,Unknown,????,2018-05-17,de,"Multifunktionsdrucker mit Druckproblemen - die Blattzufuhr arbeitete fehlerhaft, sodass ein Blatt Papier nur selten korrekt eingezogen und bedruckt wurde. Wenn das Gerät das Papier annahm, erfolgte der Ausdruck zusätzlich versetzt. Nach etwas Recherche und ein wenig Schütteln fanden wir im Gerät eine abgebrochene Plastiknase. Wo diese abgebrochen war, ließ sich allerdings nicht feststellen. Dieser Drucker wird wohl früher oder später den selben Weg nehmen wie viele andere Elektrogeräte."
+anstiftung_3670,anstiftung,DEU,8,Internal damage,Printer/scanner,Unknown,Unknown,????,2019-08-07,de,Stuerung defekt
+anstiftung_4426,anstiftung,DEU,8,Internal damage,Printer/scanner,Philips,Repairable,2000,2020-01-08,de,"Das Faxgerät dachte, dass es an permanenter Verstopfung litt und zeigte häufig „Papierstau“ an. Nachdem wir das Gerät auseinandergenommen und verstanden hatten, wie es funktionieren soll, entdeckten wir eine defekte Gabellichtschranke, die dem Gerät immer vorgaukelte, dass Papier im Einzugsschacht wäre. Wenn die Besucher mit dem Ersatzteil wiederkommen, können wir weitermachen."
+anstiftung_5165,anstiftung,DEU,8,Internal damage,Printer/scanner,Epson,Unknown,????,2020-01-23,de,"Erneut versuchten wir uns heute an der Reparatur des Epson „XP-325“ Tintenstrahldruckers. Ein in die Einzugsmechanik geratener Fremdkörper hatte bei diesem eine Blockade verursacht, sodass der Drucker einen Papierstau mit der Fehlermeldung „E-01“ anzeigte. Der Papiereinzug funktionierte aber selbst nach Entfernen des feststeckenden Teils nicht mehr richtig. Wir vermuten, dass das Transportgetriebe mechanisch mit dem Antriebsmotor und der Elektronik synchronisiert ist und aufgrund der Blockade seine ursprüngliche Position verloren hat. Eine Neueinstellung wollte uns ohne Serviceunterlagen zum Gerät jedoch nicht gelingen."
+anstiftung_5467,anstiftung,DEU,8,Internal damage,Printer/scanner,Unknown,Fixed,????,2020-08-01,de,"Zahnrad gebrochen, mit Sekundenkleber repariert"
+anstiftung_5555,anstiftung,DEU,8,Internal damage,Printer/scanner,HP,Unknown,2016,2020-09-03,de,"Gerät untersucht, kein offensichtlicher Defekt. Halbleiter durchgemessen, eine defekte Diode gefunden und gewechselt. Trotzdem fehlt noch eine Spannung. Controller defekt - als Ersatzteil nicht zu bekommen."
+fixitclinic_118,Fixit Clinic,USA,8,Internal damage,Printer/scanner,HP,Repairable,2010,2018-04-26,en,printer ~ paper jam error with no paper jammed. 
+rcint_12016,Repair Café International,NLD,8,Internal damage,Printer/scanner,Canon,End of life,????,2018-12-01,nl,ratelend geluid en doet niets
+rcint_18198,Repair Café International,NLD,8,Internal damage,Printer/scanner,Canon,Fixed,2014,2019-05-17,nl,Onderdeel is losgeraakt
+rcint_20119,Repair Café International,NLD,8,Internal damage,Printer/scanner,HP,Fixed,2014,2019-07-18,en,storing met contact cartridges
+rcint_25825,Repair Café International,NLD,8,Internal damage,Printer/scanner,HP,Fixed,2016,2019-11-30,nl,Print niet en maakt lawaai
+rcint_27598,Repair Café International,FRA,8,Internal damage,Printer/scanner,HP,Fixed,????,2020-01-07,fr,Pièce plastique du chariot cassé
+rcint_29228,Repair Café International,GBR,8,Internal damage,Printer/scanner,Canon,End of life,2015,2020-02-01,en,Won't print. Clanking noise
+rcint_29740,Repair Café International,NLD,8,Internal damage,Printer/scanner,Epson,End of life,2018,2020-02-15,nl,kortsluiting?
+rcint_298,Repair Café International,NLD,8,Internal damage,Printer/scanner,HP,Repairable,????,2017-02-10,nl,electronisch defect
+rcint_3657,Repair Café International,NLD,8,Internal damage,Printer/scanner,Epson,Repairable,2016,2017-12-02,nl,hardwarematig probleem
+rcint_5310,Repair Café International,NLD,8,Internal damage,Printer/scanner,HP,End of life,2013,2018-02-24,nl,sensor beschadigd?
+rcint_5668,Repair Café International,NLD,8,Internal damage,Printer/scanner,HP,End of life,2015,2018-03-10,nl,hoogst waarschijnlijk een electronische fout
+rcwales_310,Repair Cafe Wales,GBR,8,Internal damage,Printer/scanner,Unknown,End of life,????,2018-03-01,en,Printer Doesnt work- major mechanical fault
+restart_12109,The Restart Project,GBR,8,Internal damage,Printer/scanner,HP,End of life,2018,2019-03-16,en,"Brand new printer, grinding noise and won't print"
+restart_16662,The Restart Project,BEL,8,Internal damage,Printer/scanner,HP,End of life,2013,2020-01-25,en,new ink cartridge added but does not work anymoreInk was leaking into the electronics which made the repair impossible
+restart_17770,The Restart Project,BEL,8,Internal damage,Printer/scanner,Unknown,Fixed,????,2020-09-19,fr,soudure circuit électronique
+restart_17813,The Restart Project,BEL,8,Internal damage,Printer/scanner,Unknown,Fixed,????,2020-09-22,fr,Chute de l'imprimante. N'imprime plus. Couvercle de la charnière des cartouches déboÃ®té. Ré-emboÃ®té et test de l'imprimante OK.
+restart_2842,The Restart Project,GBR,8,Internal damage,Printer/scanner,HP,End of life,????,2016-06-06,en,Paper jam - turned out to be liquid damage
+restart_3982,The Restart Project,GBR,8,Internal damage,Printer/scanner,HP,Fixed,????,2016-12-03,en,Light comes on but grinding noise - gears?NO OUTCOME RECORDED
+restart_4375,The Restart Project,ESP,8,Internal damage,Printer/scanner,Unknown,Fixed,????,2017-02-11,es,No calienta / Placa de control de motor y cabezals estÃ¡n quemados
+restart_8332,The Restart Project,GBR,8,Internal damage,Printer/scanner,Ricoh,Repairable,2018,2018-05-13,en,"After a drop, not starting up properly. Added ink and restarted, but had an error related to a mystery paper ""jam"" - suspect sensor was damaged"
+restart_8718,The Restart Project,GBR,8,Internal damage,Printer/scanner,Unknown,Repairable,????,2018-07-07,en,"Jammed up.  Loose cog found and reglued, but not tested."
+anstiftung_2558,anstiftung,DEU,22,Other,Printer/scanner,Unknown,Fixed,????,2016-01-07,de,Es trat schon mehrfach Papierstau auf. Nun ließ sich das Papier nicht mehr ohne Eingriff herauslösen. Beim Auseinandernehmen stellten wir als wahrscheinlichste Ursache eine verschmutzte Schiene in der Fixiereinheit fest. Nach Reinigung und Entfernung der letzten Papierreste lief das Gerät wieder anstandslos.
+anstiftung_2625,anstiftung,DEU,22,Other,Printer/scanner,Unknown,Unknown,1997,2015-06-04,de,Er hatte ein schlechtes Druckbild. Die Fehleranalyse ergab eine defekte Ansteuerung der Fixiereinheit - manuell betrieben funktionierte sie gut. Leider konnte die Ansteuerung nicht repariert werden und Ersatzteile sind auch nicht mehr zu bekommen.
+anstiftung_819,anstiftung,DEU,22,Other,Printer/scanner,Unknown,Unknown,????,2019-01-19,de,Ankommede Rufe funktionieren nicht
+anstiftung_836,anstiftung,DEU,22,Other,Printer/scanner,Unknown,Repairable,????,2019-02-23,de,Patronenwagen hängt
+rcint_11332,Repair Café International,NLD,22,Other,Printer/scanner,Samsung,Fixed,2013,2018-11-10,nl,wordt heel warm
+rcint_12584,Repair Café International,NLD,22,Other,Printer/scanner,HP,Fixed,2014,2018-12-13,nl,Wagen storing
+rcint_16405,Repair Café International,NLD,22,Other,Printer/scanner,Samsung,Fixed,2014,2019-04-06,nl,blijkt niet kapot
+rcint_17402,Repair Café International,NLD,22,Other,Printer/scanner,HP,Fixed,????,2019-04-27,nl,Deksel is los
+rcint_28176,Repair Café International,GBR,22,Other,Printer/scanner,Epson,Repairable,????,2020-01-18,en,belt snapped
+restart_10318,The Restart Project,GBR,22,Other,Printer/scanner,Unknown,Unknown,????,2018-11-17,en,"Scanner not working:solution: The item was only a printer, with no scanning function"
+restart_15731,The Restart Project,GBR,22,Other,Printer/scanner,Canon,Repairable,2018,2019-11-10,en,Startup issue.  MOtor diagnosed as being broken.  Advised to check if in warranty and take to original seller.
+restart_5865,The Restart Project,ESP,22,Other,Printer/scanner,Epson,Fixed,????,2017-09-02,en,There was a game piece inside.
+anstiftung_1108,anstiftung,DEU,9,Paper feed,Printer/scanner,HP,Repairable,????,2019-04-16,de,"Papiereinzug kaputt, nach Feuchtigkeitskontakt"
+anstiftung_1144,anstiftung,DEU,9,Paper feed,Printer/scanner,HP,Unknown,????,2019-04-17,de,"Papiereinzug defektDruckt nicht mehrhier nicht reparierbar, weil kein Zugang zum Service Manual"
+anstiftung_1198,anstiftung,DEU,9,Paper feed,Printer/scanner,Canon,Unknown,????,2019-02-07,de,"Der Papiereinzug eines Canon „Pixma MG 5750“ Multifunktionsdruckers funktionierte nur sehr unzuverlässig. Damit die Blätter richtig eingezogen werden, musste man häufig etwas nachhelfen. In der verbliebenen Zeit fanden wir keinen offensichtlichen Fehler, vermuten aber abgenutzte Moosgummiwalzen. Wenn das Gerät zu einem der kommenden Termine noch einmal wiedergebracht wird, können wir die Analyse fortsetzen und es dann hoffentlich reparieren."
+anstiftung_1271,anstiftung,DEU,9,Paper feed,Printer/scanner,Unknown,Repairable,????,2018-10-20,de,Papiereinzug defekt
+anstiftung_1541,anstiftung,DEU,9,Paper feed,Printer/scanner,Panasonic,Unknown,????,2018-10-11,de,"Papiereinzug klappt nicht.Gerät heruntergefallen, Teil gebrochen."
+anstiftung_1751,anstiftung,DEU,9,Paper feed,Printer/scanner,Samsung,Repairable,????,2019-04-23,de,"Der mitgebrachte Drucker stand eine ganze Weile im Keller. Nach anfänglichen Startschwierigkeiten beim Hochfahren des Druckers schafften wir es, dass er doch noch eine Testseite ausdruckte. Aber den unzuverlässigen Papiereinzug - den eigentlichen Fehler - konnten wir nicht beheben. Die Gummirolle vom Papiereinzug war abgenutzt und muss ersetzt werden."
+anstiftung_2077,anstiftung,DEU,9,Paper feed,Printer/scanner,Canon,Unknown,????,2018-10-23,de,Zieht Papier nicht ein. Fehler der Ansteuerung nicht gefunden
+anstiftung_2180,anstiftung,DEU,9,Paper feed,Printer/scanner,Canon,Repairable,????,2018-09-25,de,"Der Tischkopierer wollte kein Papier mehr einziehen. Hier haben wir einen Blattmitnehmer als Ursache festgestellt, den der Besucher neu besorgen will."
+anstiftung_2321,anstiftung,DEU,9,Paper feed,Printer/scanner,HP,Unknown,????,2017-06-01,de,"Er zog das Papier aufgrund einer fehlenden Einzugswalze nicht mehr richtig ein. Wo sich diese nun befindet, konnten wir nicht feststellen."
+anstiftung_2464,anstiftung,DEU,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2016-09-01,de,"Er begnügte sich nicht mehr mit nur einem Blatt Papier pro Druckvorgang, er wollte mehr und die Error-LED leuchtete. Wir reinigten daher die Einzugsmechanik. Zuerst zog er das Papier schief ein und gab es nicht rechtzeitig wieder frei. Aber nach einigen Testläufen hatte sich der Ablauf wieder eingespielt und der Drucker funktioniert wieder."
+anstiftung_2849,anstiftung,DEU,9,Paper feed,Printer/scanner,HP,Repairable,????,2018-01-25,de,"Er druckte lediglich eine Seite und signalisierte anschließend einen Papierstau. Bis auf eine fehlende Farbpatrone konnten wir allerdings keinerlei Fehler entdecken. Wir vermuten, dass die Patrone bei diesem Gerät benötigt wird, damit die Mechanik problemlos funktioniert. Der Gast will nun einen erneuten Druckversuch mit einer farbigen Patrone unternehmen und schauen, ob die Fehlermeldung danach noch auftritt."
+anstiftung_3036,anstiftung,DEU,9,Paper feed,Printer/scanner,Brother,Fixed,????,2019-06-06,de,"Das Papier wurde nicht mehr richtig eingezogen und verklemmte im Papierschacht.Papiereinzugswalzen wurden schon einmal in Fachwerkstatt gereinigt, hatte aber keinen dauerhaften Erfolg. Wir reinigten sie abermals gründlich und rieten dazu hochwertigeres Papier zu verwenden."
+anstiftung_3439,anstiftung,DEU,9,Paper feed,Printer/scanner,Epson,Unknown,????,2019-08-22,de,"Papierstau bei Einzug:Die Blockade wurde scheinbar durch eine Transportwalze verursacht, die auf einer Seite aus ihrer Arretierung gerutscht war und nun schief im Transportmechanismus hing. Die Reparatur scheiterte heute leider an der Zerlegung des Gerätes, das wenig reparaturfreundlich aufgebaut war. Beim nächsten Termin im Vereinshaus Anfang September, wenn unser Drucker-Experte wieder zugegen ist, werden wir hier jedoch weitermachen."
+anstiftung_345,anstiftung,DEU,9,Paper feed,Printer/scanner,Lexmark,Fixed,2007,2018-11-07,de,Papiereinzug geht nicht mehrTransportgummiwalze gewendet und Feder eingesetzt
+anstiftung_3961,anstiftung,DEU,9,Paper feed,Printer/scanner,Epson,Fixed,????,2019-09-05,de,"Fortsetzung der Reparatur von vor zwei Wochen (Gruna)am Multifunktionsdruckers mit defektem Papiertransportmechanismus.Heute, da unser Drucker-Spezialist wieder zugegen war, konnten wir hier jedoch einen neuen Anlauf wagen. Nach dem Auseinanderbauen zeigte sich, dass am Kunstsstoffteil des Wellenlagers eine Nase für die Fixierung abgebrochen und die Anpressfeder ins Gehäuse gefallen war. Mit etwas Geschick setzten wir das Wellenlager und die Feder neu ein und richteten so die Transportwalze wieder gerade aus."
+anstiftung_4170,anstiftung,DEU,9,Paper feed,Printer/scanner,Fujitsu,Fixed,2007,2019-11-14,de,"es kam immer wieder zum Papierstau. Wir fanden heraus, dass sich der Gummi der Transportrollen in den letzten 12 Jahren aufgelöst hatte. Wir entfernten die bröseligen Reste und bauten neue Rollen aus Klebeband und Schrumpfschlauch nach. Der Funktionstest war erfolgreich, das Gerät ist wieder in Ordnung."
+anstiftung_4272,anstiftung,DEU,9,Paper feed,Printer/scanner,Epson,Repairable,????,2019-11-28,de,"Im Papiereinzug war im Betrieb zuvor mal ein Radiergummi hineingefallen und hatte für einen Papierstau gesorgt. Nach Beseitigung der Blockade bestanden aber weiterhin Probleme beim Einziehen der Seiten. Wie zerlegten das Gerät und inspizierten die Transportwalzen. Dann überprüften und reinigten wir alle Schalter und Lichtschranken, die für die Einzugserkennung zuständig waren. Eine konkrete Fehlerursache entdeckten wir dabei allerdings nicht. Die Dame möchte mit dem Gerät eventuell zu einem späteren Termin nochmal wiederkommen, wenn unser Druckerspezialist wieder mit dabei ist. Vielleicht hat der ja noch eine Idee."
+anstiftung_4583,anstiftung,DEU,9,Paper feed,Printer/scanner,Canon,Unknown,????,2020-01-16,de,Das erste Gerät stellte Canon Drucker vom Typ „Pixma IP4200“ dar. Aufgrund eines mechanischen Defekts zog er kein Papier mehr ein. Um die Mechanik ggf. zu tauschen wurde der Besucher an einen örtlichen Elektroschrottverwerter verwiesen um dort nach einem „Organspender“ zu schauen.
+anstiftung_5016,anstiftung,DEU,9,Paper feed,Printer/scanner,HP,Fixed,2019,2020-02-19,de,"An dem Drucker wolte der Papiereinzug nicht so recht. Die Vermutung eines Fremdkörpers hatte sich nach der gemeinsamen Demontage bestätigt. Es war aber kein Zahnstocher, wie von der Besitzerin vermutet, sondern unbekannte Plasteteilchen. Wir reinigten alles und der Drucker konnte geheilt entlassen werden."
+anstiftung_5119,anstiftung,DEU,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2020-03-07,de,"Drucker druckt nicht, läuft an, aber zieht die Blätter nicht ein"
+anstiftung_5126,anstiftung,DEU,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2020-03-07,de,Papierandruckwalze defekt
+anstiftung_5314,anstiftung,DEU,9,Paper feed,Printer/scanner,HP,Fixed,2009,2020-05-28,de,Fehler: Papierstau und Quitschen beim DruckenEinzugsrollen getauscht
+anstiftung_5531,anstiftung,DEU,9,Paper feed,Printer/scanner,Samsung,Fixed,2015,2020-08-25,de,"Er hatte Probleme dabei, Papier einzuziehen und zeigte den Fehler „#A3-6110“ an. Wir untersuchten das Gerät und fanden die Ursache in rutschenden Magnetkupplungen. Als diese und auch die Papiereinzugsrollen gereinigt waren, ging der Drucker wieder zuverlässig."
+rcint_10682,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,End of life,2011,2018-10-26,nl,pakt geen papier
+rcint_10927,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,2010,2018-11-03,nl,papier transport storing
+rcint_11515,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,End of life,????,2018-11-16,fr,papier transport
+rcint_12241,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,End of life,2013,2018-12-01,nl,papierinvoer stagneert
+rcint_12445,Repair Café International,NLD,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2018-12-07,nl,Papiertransport werkt niet
+rcint_12487,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,2013,2018-12-08,nl,papier vastgelopen
+rcint_12597,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,End of life,2010,2018-12-14,nl,Papierinvoer stroef
+rcint_12745,Repair Café International,NLD,9,Paper feed,Printer/scanner,Samsung,Fixed,2009,2018-12-29,nl,voert papier slecht door en rook
+rcint_14296,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Fixed,????,2019-02-02,nl,"Kopieerfunctie werkt niet meer, papier blokkeert"
+rcint_14400,Repair Café International,NLD,9,Paper feed,Printer/scanner,Epson,End of life,2017,2019-02-04,nl,Printer geeft papier probleem aan
+rcint_14416,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,End of life,2014,2019-02-04,de,Papier kreukt
+rcint_15068,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,????,2019-03-01,nl,Pakt printerpapier niet
+rcint_15477,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Fixed,2016,2019-03-09,nl,pakt papier niet
+rcint_15766,Repair Café International,NLD,9,Paper feed,Printer/scanner,Dell,End of life,2014,2019-03-15,nl,Papier blokkeert
+rcint_15876,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,End of life,2015,2019-03-22,nl,Papierdoorvoer
+rcint_16117,Repair Café International,NLD,9,Paper feed,Printer/scanner,Brother,Fixed,2012,2019-03-28,nl,geeft aan dat er papier vast zit maar er lijkt niets in te zitten
+rcint_16484,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Fixed,????,2019-04-06,nl,"print niet, pakt geen papier"
+rcint_16777,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Fixed,????,2019-04-11,nl,neemt papier niet in
+rcint_17634,Repair Café International,NLD,9,Paper feed,Printer/scanner,Samsung,Fixed,2017,2019-05-04,nl,geen papier doorvoer
+rcint_17755,Repair Café International,NLD,9,Paper feed,Printer/scanner,Brother,Fixed,2013,2019-05-04,nl,papier werd niet meegenomen
+rcint_19068,Repair Café International,NLD,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2019-06-08,nl,papier blijft vastzitten
+rcint_19701,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,End of life,????,2019-07-06,nl,papierlade zit vast
+rcint_21555,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,2013,2019-09-14,nl,hapert
+rcint_23005,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,2016,2019-10-10,nl,papier loopt vast
+rcint_23131,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,End of life,????,2019-10-12,nl,Pakt geen papier
+rcint_23210,Repair Café International,NLD,9,Paper feed,Printer/scanner,Epson,End of life,2014,2019-10-12,nl,transporteerd papier scheef
+rcint_23229,Repair Café International,FRA,9,Paper feed,Printer/scanner,Unknown,Repairable,????,2019-10-12,fr,Defaut cartouche? la suite d'un bourrage papier
+rcint_24203,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,????,2019-11-02,nl,pakt papier niet
+rcint_24333,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,End of life,2014,2019-11-02,nl,pakt het papier nier meer
+rcint_24728,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,End of life,????,2019-11-09,nl,Trekt A4 krom
+rcint_24772,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Repairable,2010,2019-11-09,nl,Papierdoorvoer doet het niet goed.
+rcint_25909,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,End of life,????,2019-11-30,en,paperjam
+rcint_26056,Repair Café International,FRA,9,Paper feed,Printer/scanner,Unknown,Fixed,2015,2019-11-30,fr,allimentation papier
+rcint_26214,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Repairable,2005,2019-12-07,nl,"kliedert, en neemt meer bladen tegelijk"
+rcint_26239,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Fixed,????,2019-12-07,nl,cassettte zit vast
+rcint_26410,Repair Café International,NLD,9,Paper feed,Printer/scanner,Samsung,Fixed,2012,2019-12-07,nl,papier vastgelopen bij fixeerrol
+rcint_26471,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,2000,2019-12-07,nl,papierinvoer
+rcint_26664,Repair Café International,GBR,9,Paper feed,Printer/scanner,Canon,End of life,????,2019-12-07,en,fails to pick up paper
+rcint_26728,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,2018,2019-12-13,nl,Papier jam
+rcint_26954,Repair Café International,DEU,9,Paper feed,Printer/scanner,HP,End of life,????,2019-12-14,de,Zieht Papier nicht ein
+rcint_27201,Repair Café International,FRA,9,Paper feed,Printer/scanner,Canon,Fixed,????,2019-12-28,fr,Le papier se coince
+rcint_27327,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Fixed,????,2020-01-04,nl,papier vast gelopen
+rcint_27330,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,2018,2020-01-04,nl,papier gaat niet door
+rcint_27823,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,????,2020-01-11,nl,papierdoorvoer functioneert niet.
+rcint_28114,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Fixed,????,2020-01-18,nl,trekt papier niet door
+rcint_28409,Repair Café International,NLD,9,Paper feed,Printer/scanner,Samsung,End of life,????,2020-01-25,nl,papier-feeder werkt niet altijd
+rcint_28930,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Fixed,????,2020-02-01,nl,lade gaat niet dicht en het apparaat pakt geen papier
+rcint_29109,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,End of life,2016,2020-02-01,nl,Voert geen papier door
+rcint_29116,Repair Café International,NLD,9,Paper feed,Printer/scanner,Samsung,Repairable,2005,2020-02-01,nl,Papierinvoer kapot
+rcint_29138,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Repairable,????,2020-02-01,nl,Papierdoorvoer hapert
+rcint_30158,Repair Café International,GBR,9,Paper feed,Printer/scanner,Epson,Fixed,????,2020-02-15,en,Not picking up paper
+rcint_30436,Repair Café International,NLD,9,Paper feed,Printer/scanner,Epson,Fixed,????,2020-02-17,nl,pakt het papier niet
+rcint_30511,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,????,2020-02-24,nl,trekt papier scheef
+rcint_30830,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,End of life,????,2020-02-29,nl,pakt papier niet meer
+rcint_31046,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,2014,2020-03-07,nl,papiertoevoer stagneert
+rcint_32200,Repair Café International,CAN,9,Paper feed,Printer/scanner,HP,Unknown,2015,2020-09-26,en,Bottom paper tray feeder not working (not feeding any paper). Also top scanner feeder inconsistently feeding paper and/or jamming a lot.
+rcint_37,Repair Café International,FRA,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2016-05-21,fr,Les feuilles ne sont plus entrainées
+rcint_5117,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,2013,2018-02-10,nl,iets met de transportwieltje
+rcint_5706,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Fixed,????,2018-03-10,fr,papier
+rcint_7689,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,End of life,2012,2018-06-07,nl,blokkade of papier vast
+rcint_7815,Repair Café International,NLD,9,Paper feed,Printer/scanner,HP,Fixed,2003,2018-06-15,nl,Geen papiertransport
+rcint_7836,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,Fixed,2013,2018-06-16,nl,Sensor defect of papier in de weg
+rcint_8507,Repair Café International,GBR,9,Paper feed,Printer/scanner,Unknown,End of life,????,2018-07-28,en,"Paper stuck, clicking noise"
+rcint_9255,Repair Café International,NLD,9,Paper feed,Printer/scanner,Epson,Fixed,2010,2018-09-07,nl,papierinvoer doet het niet meer
+rcint_966,Repair Café International,NLD,9,Paper feed,Printer/scanner,Canon,End of life,2012,2017-05-06,nl,Papierrol defect
+rcwales_19,Repair Cafe Wales,GBR,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2017-04-01,en,Printer is not feeding paper through or printing
+rcwales_2485,Repair Cafe Wales,GBR,9,Paper feed,Printer/scanner,HP,End of life,????,2019-10-01,en,printer Not picking up paper
+rcwales_2812,Repair Cafe Wales,GBR,9,Paper feed,Printer/scanner,Canon,Repairable,????,2019-07-01,en,printer paper not loading
+rcwales_2931,Repair Cafe Wales,GBR,9,Paper feed,Printer/scanner,HP Deskjet,Fixed,????,2019-10-01,en,Ink-jet printer Paper feed defective
+rcwales_3960,Repair Cafe Wales,GBR,9,Paper feed,Printer/scanner,HP,End of life,????,2020-01-01,en,Printer Not picking up paper
+rcwales_4058,Repair Cafe Wales,GBR,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2020-01-01,en,printer paper jamming
+rcwales_4184,Repair Cafe Wales,GBR,9,Paper feed,Printer/scanner,Canon,Repairable,????,2020-03-01,en,printer paper loading problem & jam
+rcwales_4425,Repair Cafe Wales,GBR,9,Paper feed,Printer/scanner,Unknown,Unknown,????,2020-01-01,en,printer not loading paper
+rcwales_513,Repair Cafe Wales,GBR,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2018-04-01,en,"Laser printer When it starts printing, the paper feeds incorrectly and it gets stuck"
+restart_10157,The Restart Project,GBR,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2018-11-10,en,problem with rollers
+restart_11123,The Restart Project,BEL,9,Paper feed,Printer/scanner,Canon,Fixed,2014,2019-01-26,en,paper pick-up : cleaned & degrease rollers
+restart_11166,The Restart Project,GBR,9,Paper feed,Printer/scanner,HP,Repairable,????,2019-01-27,en,Apparent paper jam.  Faulty sensor.
+restart_11371,The Restart Project,BEL,9,Paper feed,Printer/scanner,Canon,Fixed,????,2019-02-09,nl,papier blijft vastzitten
+restart_11714,The Restart Project,BEL,9,Paper feed,Printer/scanner,Canon,Fixed,2017,2019-02-22,bn,paiper feeder
+restart_13023,The Restart Project,GBR,9,Paper feed,Printer/scanner,Epson,Repairable,2017,2019-05-11,en,Showing paper jam fault
+restart_13234,The Restart Project,GBR,9,Paper feed,Printer/scanner,HP,End of life,????,2019-05-18,en,Not picking up paper.
+restart_13588,The Restart Project,GBR,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2019-06-01,en,Paper not feeding.
+restart_13690,The Restart Project,GBR,9,Paper feed,Printer/scanner,Canon,End of life,2016,2019-06-08,en,Paper not feeding.  Part is broken internally
+restart_14598,The Restart Project,GBR,9,Paper feed,Printer/scanner,Epson,Repairable,2007,2019-09-08,en,Paper tray spring attachment broken - will not feed paper
+restart_1520,The Restart Project,GBR,9,Paper feed,Printer/scanner,HP,Fixed,????,2015-07-11,en,Paper feed problem. Found a work-around
+restart_15225,The Restart Project,GBR,9,Paper feed,Printer/scanner,Canon,Repairable,2014,2019-10-19,en,not feeding paper
+restart_15396,The Restart Project,NOR,9,Paper feed,Printer/scanner,Canon,Fixed,2014,2019-10-21,en,Photo paper gets stuck when printing
+restart_15612,The Restart Project,GBR,9,Paper feed,Printer/scanner,Epson,Fixed,2017,2019-11-02,en,Paper jam cleared. Paper seemed damp advised to keep in warm conditions
+restart_16029,The Restart Project,ITA,9,Paper feed,Printer/scanner,HP,Fixed,2009,2019-11-24,en,doesn't load paper
+restart_1731,The Restart Project,GBR,9,Paper feed,Printer/scanner,HP,Fixed,????,2015-09-26,en,Mononllaser printer. Paperjams. Adjusted loose spring on feeder wheel Probably fixed but needs testing and no driver available.
+restart_17780,The Restart Project,BEL,9,Paper feed,Printer/scanner,HP,Fixed,????,2020-09-19,fr,Ne prenait plus les feuilles. Une pièce de monnaie coincait le chargeur papier.
+restart_17834,The Restart Project,BEL,9,Paper feed,Printer/scanner,HP,Fixed,2016,2020-09-26,nl,papierinname geblokkeerd
+restart_2095,The Restart Project,GBR,9,Paper feed,Printer/scanner,Canon,Fixed,????,2016-01-11,en,Paper jam
+restart_2228,The Restart Project,GBR,9,Paper feed,Printer/scanner,Canon,End of life,????,2016-02-10,en,Paper not loading - unrepairable part
+restart_2494,The Restart Project,GBR,9,Paper feed,Printer/scanner,Canon,Repairable,????,2016-04-09,en,"won't feed, advice given"
+restart_283,The Restart Project,GBR,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2013-12-07,en,Printer - Paper jam error -
+restart_2869,The Restart Project,GBR,9,Paper feed,Printer/scanner,Unknown,Repairable,????,2016-06-11,en,"Laser printer, chews up paper. Needs testing, no cable."
+restart_2875,The Restart Project,GBR,9,Paper feed,Printer/scanner,Unknown,Repairable,????,2016-06-11,en,Won't feed. Ink needed.
+restart_2880,The Restart Project,GBR,9,Paper feed,Printer/scanner,Unknown,Repairable,????,2016-06-11,en,Not taking the paper Needs more time.
+restart_3278,The Restart Project,GBR,9,Paper feed,Printer/scanner,Samsung,Repairable,????,2016-09-17,en,Laser printer not pulling paper through. Needs to try it at home.
+restart_3895,The Restart Project,GBR,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2016-11-26,en,Paper jam
+restart_4143,The Restart Project,GBR,9,Paper feed,Printer/scanner,Canon,Repairable,????,2017-01-28,en,Roller for paper doesn't work
+restart_4701,The Restart Project,GBR,9,Paper feed,Printer/scanner,HP,Fixed,????,2017-04-01,en,Epic paper jam.
+restart_496,The Restart Project,GBR,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2014-03-08,en,Photocopier - paper jam -
+restart_5355,The Restart Project,GBR,9,Paper feed,Printer/scanner,HP,Repairable,????,2017-06-17,en,new roller needed. advice given on sourcing.
+restart_6033,The Restart Project,GBR,9,Paper feed,Printer/scanner,Epson,Fixed,????,2017-09-23,en,Not loading paper. Spring had come out and was replaced
+restart_6282,The Restart Project,ESP,9,Paper feed,Printer/scanner,Brother,End of life,????,2017-10-21,en,It won't get the sheets of paper.
+restart_6403,The Restart Project,GBR,9,Paper feed,Printer/scanner,Samsung,End of life,????,2017-10-28,en,paper jams. It won't feed
+restart_6745,The Restart Project,GBR,9,Paper feed,Printer/scanner,HP,Repairable,????,2017-11-29,en,paper not feeding properly. More time and tools needed
+restart_729,The Restart Project,GBR,9,Paper feed,Printer/scanner,Unknown,Fixed,????,2014-06-28,en,"Feeds two sheets of paper, cleaned it out."
+restart_7684,The Restart Project,ITA,9,Paper feed,Printer/scanner,Unknown,End of life,2013,2018-04-07,en,2 InkJet printers with problems in loading paper. Tried cleaning cylinders but still not working
+restart_7888,The Restart Project,GBR,9,Paper feed,Printer/scanner,canon,Repairable,2011,2018-04-21,en,paper jam. 
+restart_8771,The Restart Project,GBR,9,Paper feed,Printer/scanner,HP,Fixed,2011,2018-07-08,en,Paper feed / ink spray
+anstiftung_1177,anstiftung,DEU,10,Paper output,Printer/scanner,Brother,Fixed,????,2019-01-24,de,"In kaum einer Minute geklärt hatte sich das Problem eines Brother „HL2035“ Laserdruckers, an dem die rote Fehler-LED leuchtete und mit dem kein Druck mehr möglich war. Nachdem wir die rückseitige Wartungsklappe geöffnet hatten, offenbarte sich uns auch gleich die Ursache: Papierstau - ein Blatt war zwischen den Walzen stecken geblieben und musste nur entfernt werden, damit alles wieder lief."
+anstiftung_2820,anstiftung,DEU,10,Paper output,Printer/scanner,HP,Fixed,????,2018-07-19,de,"„Papierstau“ meldete der HP „Laserjet M1005 MFP“ Drucker einer bekümmerten Dame. Wir schraubten den Drucker auseinander und stellten fest: stimmt! Verstautes Papier hinaus, neues Papier an der - wohlbemerkt - richtigen Stelle hinein, und die Tintengeister erwachten zu neuem Leben."
+anstiftung_5570,anstiftung,DEU,10,Paper output,Printer/scanner,Brother,Fixed,2015,2020-09-10,de,"Er verursachte immer wieder Papierstau. Deshalb war er schon in einer Fachwerkstatt vorgestellt worden, die ein defektes Zahnrad diagnostizierte und einen Reparaturpreis von 300 € (!) aufrief. Das ist teurer als ein Neugerät und nicht sinnvoll. Die Besitzerin fragte uns nach einer Zweitmeinung und wir konnten keinen Fehler finden. Wir reinigten das Gerät und es druckte einwandfrei. Möglicherweise gab es eine Blockade, die sich durch den Transport wieder gelöst hat."
+rcint_11419,Repair Café International,NLD,10,Paper output,Printer/scanner,Brother,Fixed,2016,2018-11-15,nl,papier loopt vast
+rcint_12872,Repair Café International,NLD,10,Paper output,Printer/scanner,HP,End of life,????,2019-01-05,nl,papierstoring
+rcint_13297,Repair Café International,NLD,10,Paper output,Printer/scanner,Canon,End of life,????,2019-01-12,nl,Papier blijft hangen
+rcint_14445,Repair Café International,NLD,10,Paper output,Printer/scanner,HP,End of life,2014,2019-02-08,nl,Papier blijft steken
+rcint_16198,Repair Café International,NLD,10,Paper output,Printer/scanner,Canon,Repairable,2017,2019-03-30,nl,Papier loopt vast
+rcint_18544,Repair Café International,NLD,10,Paper output,Printer/scanner,HP,Fixed,2015,2019-05-25,nl,Vastgelopen en onderdeeltje afgebroken
+rcint_21439,Repair Café International,NLD,10,Paper output,Printer/scanner,Canon,End of life,????,2019-09-13,nl,papier wordt scheef door machine getrokken
+rcint_2191,Repair Café International,NLD,10,Paper output,Printer/scanner,Brother,End of life,????,2017-09-09,nl,papierstoring
+rcint_26551,Repair Café International,NLD,10,Paper output,Printer/scanner,HP,End of life,????,2019-12-07,nl,komt geen papier uit
+rcint_27094,Repair Café International,NLD,10,Paper output,Printer/scanner,Epson,Fixed,????,2019-12-21,nl,Papier vast.
+rcint_27852,Repair Café International,DEU,10,Paper output,Printer/scanner,Canon,Repairable,????,2020-01-11,de,Es kommt kein Papier raus
+rcint_29701,Repair Café International,NLD,10,Paper output,Printer/scanner,Samsung,Fixed,????,2020-02-12,nl,papierdoorvooer slecht
+rcint_30877,Repair Café International,CAN,10,Paper output,Printer/scanner,Unknown,End of life,2000,2020-02-29,en,jammed
+rcint_31270,Repair Café International,NLD,10,Paper output,Printer/scanner,Unknown,End of life,1994,2020-03-07,nl,Papier rol versleten
+rcint_4351,Repair Café International,NLD,10,Paper output,Printer/scanner,Canon,Fixed,????,2018-01-13,nl,papierresten in machine
+rcint_7610,Repair Café International,NLD,10,Paper output,Printer/scanner,Canon,Fixed,2011,2018-06-02,en,Error code 6A81
+rcint_7840,Repair Café International,NLD,10,Paper output,Printer/scanner,Canon,End of life,2014,2018-06-16,nl,Papierweg geblokkeerd
+rcint_8205,Repair Café International,NLD,10,Paper output,Printer/scanner,Canon,End of life,2008,2018-07-07,nl,Zegt: Verwijder papier - Papierstroring
+rcint_8241,Repair Café International,NLD,10,Paper output,Printer/scanner,HP,Repairable,2016,2018-07-07,nl,Papierstoring
+rcwales_4123,Repair Cafe Wales,GBR,10,Paper output,Printer/scanner,Unknown,End of life,????,2020-02-01,en,printer jammed
+restart_12511,The Restart Project,GBR,10,Paper output,Printer/scanner,Unknown,Repairable,????,2019-04-06,en,"roller came out, needs put back in. Not seen due to time"
+restart_211,The Restart Project,GBR,10,Paper output,Printer/scanner,HP,Repairable,????,2013-11-10,en,Printer - Paper jam error - No time
+restart_2518,The Restart Project,GBR,10,Paper output,Printer/scanner,Unknown,Fixed,????,2016-04-09,en,photocopier paper jam
+restart_7172,The Restart Project,CAN,10,Paper output,Printer/scanner,Unknown,Fixed,????,2018-02-13,fr,Bourrage papier mÃªme quand pas de papier
+restart_8003,The Restart Project,GBR,10,Paper output,Printer/scanner,Canon,Fixed,2015,2018-04-22,en,Jammed
+restart_869,The Restart Project,GBR,10,Paper output,Printer/scanner,Unknown,Repairable,????,2014-09-09,en,Printer - Paper jamming - Needs more
+anstiftung_2104,anstiftung,DEU,11,Power supply/connectors,Printer/scanner,Unknown,Repairable,????,2016-04-14,de,"Es regte sich nach dem Einschalten nichts. Wir demontierten das Netzteil, das servicefreundlich in einem Modul steckte, welches man aus dem Gerät ziehen konnte. Es lieferte nicht mehr alle benötigten Spannungen. Leider war dieses Modul vergossen, sodass es nur insgesamt gewechselt werden kann. Dann sollte der Drucker aber wieder funktionieren."
+anstiftung_2270,anstiftung,DEU,11,Power supply/connectors,Printer/scanner,Unknown,Repairable,????,2017-09-07,de,"Funktionierte nicht mehr.Wir stellten fest, dass im internen Schaltnetzteil die Spannung einbricht. Wir vermuten defekte Elektrolytkondensatoren, für die nun Ersatz bestellt werden muss."
+anstiftung_2498,anstiftung,DEU,11,Power supply/connectors,Printer/scanner,Unknown,Repairable,????,2016-06-16,de,"Druckte nicht mehr.Wir haben das Netzteilmodul untersucht und festgestellt, dass eine Spannung fehlt. Mit einem neuen Netzteil kann dem Gerät wieder Leben eingehaucht werden."
+anstiftung_4825,anstiftung,DEU,11,Power supply/connectors,Printer/scanner,Unknown,Fixed,????,2019-12-18,de,Stromversorgung geht nicht
+anstiftung_5140,anstiftung,DEU,11,Power supply/connectors,Printer/scanner,Unknown,Repairable,????,2020-03-07,de,Netzteil defekt
+anstiftung_5400,anstiftung,DEU,11,Power supply/connectors,Printer/scanner,OKI,Unknown,2013,2020-06-18,de,"Drucker startet nicht mehr, LED blinkt, mehr passiert nicht.Steckverbinde neu gesteckt, Elkos nachgemessen, Fehler nicht gefunden"
+anstiftung_5447,anstiftung,DEU,11,Power supply/connectors,Printer/scanner,HP,Unknown,????,2020-07-15,de,"Die grüne LED am externen Netzteil leuchtete nicht mehr und es gab keine Spannung aus. Wir untersuchten das Netzteil und fanden gleich einen explodierten SMD-Widerstand vor. Neben diesem Bauteil waren auch noch ein normaler Widerstand, die Primärsicherung, der N-Kanal-MOSFET und eine Schottky-Diode durchgebrannt. Die Bauteile könnte man ersetzen und das Netzteil damit reparieren, aber der Aufwand ist recht hoch. Im Internet ist ein gebrauchtes Ersatznetzteil für wenige Euro zu haben, da lohnt sich die Reparatur nicht."
+anstiftung_804,anstiftung,DEU,11,Power supply/connectors,Printer/scanner,Unknown,Fixed,????,2019-02-16,de,Schaltet nicht ein
+rcint_12298,Repair Café International,NLD,11,Power supply/connectors,Printer/scanner,Canon,End of life,2013,2018-12-01,nl,voeding stuk
+rcint_12971,Repair Café International,NLD,11,Power supply/connectors,Printer/scanner,HP,End of life,2010,2019-01-05,nl,startproblemen
+rcint_21057,Repair Café International,NLD,11,Power supply/connectors,Printer/scanner,Brother,Fixed,????,2019-09-07,nl,voedingsaansluiting los
+rcint_24390,Repair Café International,NLD,11,Power supply/connectors,Printer/scanner,Brother,End of life,2014,2019-11-02,nl,komt geen stroom meer op
+rcint_24775,Repair Café International,NLD,11,Power supply/connectors,Printer/scanner,Epson,Fixed,????,2019-11-09,nl,Stroomtoevoer verbogen
+rcint_2912,Repair Café International,NLD,11,Power supply/connectors,Printer/scanner,Canon,Repairable,????,2017-10-28,nl,Slechte of verkeerde kabel
+rcint_30841,Repair Café International,CAN,11,Power supply/connectors,Printer/scanner,Zircon,Fixed,2010,2020-02-29,en,bring battery to wire
+rcint_31019,Repair Café International,NLD,11,Power supply/connectors,Printer/scanner,Canon,End of life,2013,2020-03-07,nl,Start niet meer; iets in het stroomblok?
+rcint_9136,Repair Café International,NLD,11,Power supply/connectors,Printer/scanner,Unknown,End of life,????,2018-09-01,nl,Foutcode bij inschakelen
+rcwales_2412,Repair Cafe Wales,GBR,11,Power supply/connectors,Printer/scanner,Canon,Repairable,????,2019-07-01,en,printer will not turn on
+rcwales_2853,Repair Cafe Wales,GBR,11,Power supply/connectors,Printer/scanner,HP,Repairable,????,2019-09-01,en,printer no power
+rcwales_3058,Repair Cafe Wales,GBR,11,Power supply/connectors,Printer/scanner,HP,Unknown,????,2019-11-01,en,printer mains cable connection
+rcwales_4241,Repair Cafe Wales,GBR,11,Power supply/connectors,Printer/scanner,Unknown,End of life,????,2020-01-01,en,Printer Not switching on
+rcwales_505,Repair Cafe Wales,GBR,11,Power supply/connectors,Printer/scanner,Unknown,Repairable,????,2018-04-01,en,Canon pixma printer Won't switch on after cleaning a paper jam
+rcwales_556,Repair Cafe Wales,GBR,11,Power supply/connectors,Printer/scanner,Unknown,Repairable,????,2018-06-01,en,Printer Printer wont turn on
+restart_12101,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Samsung,Repairable,2013,2019-03-16,en,"won't switch on, lights blink"
+restart_14702,The Restart Project,BEL,11,Power supply/connectors,Printer/scanner,Unknown,Repairable,????,2019-09-14,nl,Power supply not working anymore - voeding werkt niet meer
+restart_15054,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,HP,End of life,2015,2019-10-05,en,electrical fault
+restart_15059,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Brother,Repairable,2018,2019-10-05,en,switch not working
+restart_17613,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Canon,Unknown,2018,2020-07-25,en,Won't switch on
+restart_17676,The Restart Project,BEL,11,Power supply/connectors,Printer/scanner,HP,End of life,????,2020-08-29,fr,ne s'allume plus
+restart_1912,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Unknown,Repairable,????,2015-11-21,en,No power. Needs parts
+restart_2271,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Canon,Repairable,????,2016-02-20,en,Power supply appeared damaged
+restart_4188,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Canon,End of life,????,2017-01-28,en,Not working. Diagnosed power supply not working and repair uneconomic
+restart_6203,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Unknown,End of life,????,2017-10-14,en,Power Supply
+restart_6518,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,HP,Repairable,????,2017-11-11,en,Power problem. Need new power supply
+restart_6541,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,HP,Repairable,????,2017-11-18,en,No power. new 2 pin cable needed
+restart_6753,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Epson,Fixed,????,2017-11-29,en,no power
+restart_9039,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,HP,Fixed,????,2018-09-09,en,Not powering on
+restart_9060,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Graphtec,Repairable,2008,2018-09-09,en,Does not power on
+restart_9619,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Unknown,Fixed,????,2018-10-13,en,Problem with plug
+restart_9977,The Restart Project,GBR,11,Power supply/connectors,Printer/scanner,Canon,Repairable,2013,2018-11-03,en,Power supply not working
+anstiftung_3431,anstiftung,DEU,12,Print quality,Printer/scanner,Unknown,Fixed,????,2019-01-04,de,Druckbild verschmiert
+anstiftung_3475,anstiftung,DEU,12,Print quality,Printer/scanner,Unknown,Fixed,????,2019-01-04,de,Druckbild verschmiert
+anstiftung_381,anstiftung,DEU,12,Print quality,Printer/scanner,Brother,Unknown,????,2018-11-17,de,Druckt sehr schlecht
+anstiftung_4142,anstiftung,DEU,12,Print quality,Printer/scanner,Unknown,Unknown,????,2019-11-10,de,Drückt nur teilweise
+anstiftung_892,anstiftung,DEU,12,Print quality,Printer/scanner,Unknown,Repairable,????,2019-03-06,de,"Schlechtes DruckbildNoch in Arbeit, weil Zeit reichte nicht aus"
+rcint_11007,Repair Café International,NLD,12,Print quality,Printer/scanner,Brother,Fixed,????,2018-11-03,nl,print slecht
+rcint_11023,Repair Café International,NLD,12,Print quality,Printer/scanner,Epson,Fixed,????,2018-11-03,nl,print geen zwart
+rcint_13575,Repair Café International,NLD,12,Print quality,Printer/scanner,Epson,Repairable,2013,2019-01-26,nl,Print onduidelijk.
+rcint_14761,Repair Café International,NLD,12,Print quality,Printer/scanner,HP,Fixed,2008,2019-02-21,nl,alles grijs
+rcint_15688,Repair Café International,NLD,12,Print quality,Printer/scanner,Epson,Repairable,2014,2019-03-09,nl,slechte print kwaliteit
+rcint_16199,Repair Café International,NLD,12,Print quality,Printer/scanner,Unknown,Repairable,2004,2019-03-30,nl,Slechte kleuren
+rcint_17581,Repair Café International,NLD,12,Print quality,Printer/scanner,Canon,End of life,????,2019-05-03,nl,geeft strepen op papier
+rcint_19755,Repair Café International,NLD,12,Print quality,Printer/scanner,Brother,Fixed,2010,2019-07-06,nl,print geen kleuren
+rcint_20449,Repair Café International,NLD,12,Print quality,Printer/scanner,HP,End of life,2016,2019-08-03,nl,geeft gele strepen en papieropname niet goed
+rcint_23188,Repair Café International,NLD,12,Print quality,Printer/scanner,Canon,End of life,????,2019-10-12,nl,Dubbele of wazige afdrukken
+rcint_23807,Repair Café International,NLD,12,Print quality,Printer/scanner,Canon,Repairable,????,2019-10-26,nl,"print met strepen, geen zwart"
+rcint_25167,Repair Café International,NLD,12,Print quality,Printer/scanner,Epson,Fixed,????,2019-11-16,nl,Strepen over de prints
+rcint_25491,Repair Café International,FRA,12,Print quality,Printer/scanner,Unknown,End of life,????,2019-11-23,fr,Mauvais impression malgré nettoyage des têtes + fuite d'encre d'intérieur
+rcint_28009,Repair Café International,NLD,12,Print quality,Printer/scanner,Canon,Repairable,2017,2020-01-16,nl,print alleen kleur en niet zwartwit
+rcint_28931,Repair Café International,NLD,12,Print quality,Printer/scanner,HP,End of life,2003,2020-02-01,nl,vlekt
+rcint_29386,Repair Café International,NLD,12,Print quality,Printer/scanner,Epson,End of life,????,2020-02-06,nl,print geen zwart
+rcint_30918,Repair Café International,FRA,12,Print quality,Printer/scanner,Canon,End of life,2019,2020-02-29,fr,Imprime en décalé
+rcint_4717,Repair Café International,NLD,12,Print quality,Printer/scanner,Canon,Repairable,2013,2018-01-27,nl,"print niet, er komt amper inkt op"
+rcwales_154,Repair Cafe Wales,GBR,12,Print quality,Printer/scanner,Unknown,Repairable,????,2017-09-01,en,Printer Doesn't print colour and greyscale is poor
+rcwales_2707,Repair Cafe Wales,GBR,12,Print quality,Printer/scanner,HP,Fixed,????,2019-05-01,en,Printer Only Printing on Half a Page
+rcwales_4168,Repair Cafe Wales,GBR,12,Print quality,Printer/scanner,Dell,Repairable,????,2020-03-01,en,printer unprinted streak down page
+restart_11526,The Restart Project,GBR,12,Print quality,Printer/scanner,Unknown,Repairable,????,2019-02-16,en,Photocopier - black marks appear on copy
+restart_1760,The Restart Project,ESP,12,Print quality,Printer/scanner,Unknown,End of life,????,2015-10-03,es,Imprime borroso - No hay piezas de cambio
+restart_1926,The Restart Project,GBR,12,Print quality,Printer/scanner,Canon,Repairable,????,2015-11-21,en,Fuzzy printing
+restart_2265,The Restart Project,GBR,12,Print quality,Printer/scanner,Epson,Repairable,????,2016-02-20,en,"Printing with lines, extra noise - tried cleaning print heads but no luck"
+restart_2845,The Restart Project,GBR,12,Print quality,Printer/scanner,HP,Repairable,????,2016-06-06,en,Not printing correctly
+restart_3006,The Restart Project,GBR,12,Print quality,Printer/scanner,HP,Repairable,????,2016-06-25,en,"fading red tones, attempted repair, produced too much red.. explaining visit"
+anstiftung_1626,anstiftung,DEU,13,Printhead cleaning,Printer/scanner,Epson,Fixed,????,2019-02-28,de,"Ein Epson „XS240W“ Multifunktionsdrucker lieferte beim Farbausdruck kein ordentliches Bild mehr. Scheinbar war der Druckkopf bereits ziemlich eingetrocknet. Nachdem wir mehrmals eine Druckkopfreinigung durchgeführt und Testausdrucke vorgenommen hatten, zeigt sich bereits ein deutlich verbessertes Druckbild, mit dem der Besitzer wieder zufrieden war. Wir empfahlen ihm noch, längere Standzeiten zu vermeiden und zukünftig besser Originaltinte für das Gerät zu verwenden."
+anstiftung_2341,anstiftung,DEU,13,Printhead cleaning,Printer/scanner,Unknown,Fixed,????,2017-05-04,de,Druckte nur noch Streifen.Wir konnten durch die Reinigung des Druckkopfes mit Wasser den Fehler beheben.
+anstiftung_2710,anstiftung,DEU,13,Printhead cleaning,Printer/scanner,Unknown,Fixed,????,2014-11-06,de,"Es sollte aus einem einjährigen Dornröschenschlaf geweckt werden. Der Druckkopf war verstopft, sodass wir das Gerät zerlegen und den Druckkopf reinigen mussten. Nachdem die klebrig gewordene Tinte entfernt war (eine schmutzige Angelegenheit), erwachte der Drucker zu neuem Leben."
+anstiftung_4439,anstiftung,DEU,13,Printhead cleaning,Printer/scanner,Canon,Unknown,2018,2020-01-15,de,"Der Drucker zeigte „ERRORCODE B200“. Wie wir nach Internetrecherchen feststellten ein häufiges Problem bei verschmutztem Druckkopf, bei diesem Drucker. Aber leider auch so verschmutzt, dass eine Reinigung nichts mehr brachte. Wir gaben dem Gast noch Hinweise zur Behandlung eines Tintenstrahldruckers um so etwas in Zukunft zu vermeiden."
+anstiftung_4967,anstiftung,DEU,13,Printhead cleaning,Printer/scanner,Brother,Repairable,2017,2020-02-01,de,"Druckbild kaum erkennbar, Druckkopf verschmutzt"
+anstiftung_5440,anstiftung,DEU,13,Printhead cleaning,Printer/scanner,Canon,Unknown,2013,2020-07-09,de,"Lief noch, aber verspritzte keine Tinte mehr. Wir haben den Druckkopf ausgebaut und versuchten die Verstopfung mit Alkohol zu behandeln, aber das führte erstmal nicht zum Erfolg. Der Gast wird es zu hause nocheinmal längere Zeit versuchen. Vielleicht kann er den Druckkopf wiederbeleben."
+anstiftung_559,anstiftung,DEU,13,Printhead cleaning,Printer/scanner,Unknown,Fixed,????,2018-12-18,de,reinigen
+anstiftung_709,anstiftung,DEU,13,Printhead cleaning,Printer/scanner,Unknown,Repairable,????,2019-01-30,de,Farbköpfe verstopft
+anstiftung_935,anstiftung,DEU,13,Printhead cleaning,Printer/scanner,HP,Unknown,????,2019-03-21,de,Gerät druckt kein schwarz. Gerät gereinigt.
+rcint_11891,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,HP,End of life,1993,2018-11-25,nl,Geeft strepen en na schoonmaken niet gelukt
+rcint_12950,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,Canon,Repairable,2016,2019-01-05,nl,vervuilde printerkop en verkeerde inkt
+rcint_13201,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,Brother,Fixed,2014,2019-01-10,nl,reinigt niet meer
+rcint_1905,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,Brother,Fixed,2015,2017-08-26,nl,verstopping van de printkop
+rcint_20438,Repair Café International,BEL,13,Printhead cleaning,Printer/scanner,HP,Fixed,2010,2019-08-02,en,Printhead clogged by dried ink
+rcint_20963,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,Samsung,Fixed,2011,2019-09-06,nl,Printer is vuil
+rcint_3296,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,HP,Fixed,2010,2017-11-11,nl,Vuil
+rcint_3455,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,Epson,Fixed,????,2017-11-19,nl,Vervuiling
+rcint_3857,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,Epson,Repairable,????,2017-12-10,nl,Slecht onderhoud
+rcint_4645,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,Samsung,Repairable,2015,2018-01-27,nl,printkop schoonmaken
+rcint_5078,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,Epson,Repairable,????,2018-02-08,nl,printkop deels verstopt
+rcint_5848,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,HP,Fixed,2015,2018-03-17,nl,"Printkop uitgedroogd, verstopt"
+rcint_5997,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,HP,Fixed,2006,2018-03-31,nl,ouderdom? vuil?
+rcint_6587,Repair Café International,NLD,13,Printhead cleaning,Printer/scanner,Unknown,Fixed,????,2018-04-21,nl,Vervuiling
+rcwales_230,Repair Cafe Wales,GBR,13,Printhead cleaning,Printer/scanner,Unknown,Repairable,????,2017-11-01,en,"Printer not working, possibly ink jets dried up"
+rcwales_3057,Repair Cafe Wales,GBR,13,Printhead cleaning,Printer/scanner,Canon,Fixed,????,2019-11-01,en,printer clogged with ink?
+rcwales_3541,Repair Cafe Wales,GBR,13,Printhead cleaning,Printer/scanner,Unknown,End of life,????,2020-01-01,en,printer ink is blocked
+restart_11483,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,HP,Fixed,????,2019-02-16,en,Blocked ink/cleaned out ink and now works
+restart_11994,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,HP,Fixed,2017,2019-03-10,en,"Ink not printing correctly.  Ran cleaning cycle, wiped printhead on cloth and printed test patterns."
+restart_1280,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Epson,Fixed,????,2015-03-21,en,Printer. Not working. Cleaned. Needs test print.
+restart_12878,The Restart Project,SWE,13,Printhead cleaning,Printer/scanner,Brother,Fixed,2014,2019-04-28,en,Not printing well. Needed cleaning.
+restart_13123,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Epson,Repairable,2016,2019-05-12,en,Ink head clogged.  Advice given.
+restart_13579,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Unknown,Fixed,????,2019-06-01,en,"Inside needs cleaning, ink clogged"
+restart_14348,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,HP,Repairable,????,2019-08-06,en,Inks dried not printing correctlyInk system requires cleaning. Time not available on this visit.
+restart_14462,The Restart Project,IRL,13,Printhead cleaning,Printer/scanner,Prusa,Fixed,????,2019-08-31,en,Clogged with PLA
+restart_16265,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Canon,Repairable,2009,2019-12-14,en,Needed cleaning
+restart_17096,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Epson,Fixed,2018,2020-02-15,en,"clogged, needed cleaning of nozzles"
+restart_1720,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,HP,Repairable,????,2015-09-26,en,"A3 printer. Not printing, no ink coming through. Needs more cleaning,"
+restart_17836,The Restart Project,BEL,13,Printhead cleaning,Printer/scanner,HP,Fixed,2016,2020-09-26,nl,"geen zwarte inkt, printkop bevuild"
+restart_1789,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Kodak,Repairable,????,2015-10-10,en,Needed cleaning. The man will do this and return if still not working.
+restart_2948,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Canon,Repairable,????,2016-06-21,en,Error message - suspect it's the print heads that need deep cleaning
+restart_3156,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,HP,Repairable,????,2016-07-26,en,Needs heads cleaned more.
+restart_3390,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Epson,Fixed,????,2016-10-15,en,Contactor cleaned
+restart_4142,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,HP,Fixed,????,2017-01-28,en,Doesn't print. Cleaned out dried ink.
+restart_5122,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Epson,Repairable,????,2017-05-20,en,Printer. Inspection & clean. May work with computer and more paper.
+restart_5255,The Restart Project,ITA,13,Printhead cleaning,Printer/scanner,HP,End of life,????,2017-06-10,en,"A lot of ink wasted, heads cleaning system blocked, not easy to open"
+restart_5957,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Unknown,Fixed,????,2017-09-09,en,It's printing in just one colour
+restart_6266,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,HP,Fixed,????,2017-10-21,en,"Wasn't pulling paper through. After a deep clean, we were able to get paper through. Print heads needed cleaning or cartridges needed replacing."
+restart_6973,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Unknown,Fixed,????,2018-01-20,en,cleaned print heads
+restart_7070,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Unknown,Repairable,????,2018-01-28,en,Needs cleaning
+restart_7863,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Epson,Fixed,????,2018-04-19,en,Printer heads were blocked. Dan and Ben worked on disassembling printer and cleaning print head
+restart_8186,The Restart Project,USA,13,Printhead cleaning,Printer/scanner,Epson,Fixed,????,2018-05-05,en,"makes lines on printingcleaned ink jets, cleaned cartridge"
+restart_9037,The Restart Project,GBR,13,Printhead cleaning,Printer/scanner,Epson,Fixed,2013,2018-09-09,en,Print is fuzzy.  Explained the printhead cleaning procedure and ran a couple of cycles.
+anstiftung_1322,anstiftung,DEU,14,Printhead failure,Printer/scanner,Canon,Unknown,2013,2019-04-23,de,"Fehlermeldung B200Trotz Druckkopfreinigung und Reset, nicht repariert"
+anstiftung_1681,anstiftung,DEU,14,Printhead failure,Printer/scanner,Canon,End of life,????,2018-03-08,de,"Fehlermeldung ""B 200"".Druckkopf beim Reinigungszyklus nicht auf der Parkposition, ""Timing Strip"" verschmutzt, müsste getauscht werden."
+anstiftung_1691,anstiftung,DEU,14,Printhead failure,Printer/scanner,Epson,Unknown,????,2018-02-08,de,zeigte Lücken im Ausdruck.Verbessern konnten wir nichts mehr und gaben lediglich noch ein paar Tipps zur Auswahl der Tinte und Pflege des Druckkopfes.
+anstiftung_2105,anstiftung,DEU,14,Printhead failure,Printer/scanner,Unknown,Unknown,????,2016-04-14,de,"hatte während des Druckens plötzlich nur noch weiße Seiten ausgeliefert und zeigte seitdem eine Fehlermeldung an. Zuerst vermuteten wir das bekannte Problem mit dem eingebauten Seitenzähler, den man zurücksetzen kann. Aber nach einiger Internetrecherche fanden wir heraus, dass der Fehler einen defekten Druckkopf bedeutete. Das Ersatzteil übersteigt leider den Preis eines neuen Druckers, weshalb sich eine Reparatur nicht lohnt."
+anstiftung_2434,anstiftung,DEU,14,Printhead failure,Printer/scanner,HP,Fixed,????,2016-11-17,de,Die Besitzerin hatte die schwarze Patrone selbst nachgefüllt. Allerdings war der Druckkopf komplett eingetrocknet. Glücklicherweise ist bei ihrem Modell der Druckkopf in der Patrone integriert und kann somit mit einer neuen Patrone gleich erneuert werden.
+anstiftung_2444,anstiftung,DEU,14,Printhead failure,Printer/scanner,Unknown,Unknown,????,2016-10-25,de,"Er druckte nicht mehr. Letztendlich haben wir einen defekten Druckkopf festgestellt. Ob die Reparatur lohnt, ist fraglich."
+anstiftung_2460,anstiftung,DEU,14,Printhead failure,Printer/scanner,Unknown,Unknown,????,2016-09-01,de,"Er zeigte beharrlich eine Fehlermeldung an. Alle Versuche, das zurückzusetzen, klappten nicht. Der Fehler war ein defekter Druckkopf. Der Besitzer wird ihn als Ersatzteilspender aufheben."
+anstiftung_2730,anstiftung,DEU,14,Printhead failure,Printer/scanner,Unknown,Unknown,????,2014-09-17,de,"Er druckte leider nicht mehr.Nach einigen Reparaturversuchen durch Rücksetzten des Fehlers und Ausbau und Reinigung des Druckkopfes mussten wir leider feststellen, dass das Gerät ohne einen neuen Druckkopf (leider sehr teuer) nur noch ein Scanner bleiben wird."
+anstiftung_4330,anstiftung,DEU,14,Printhead failure,Printer/scanner,HP,End of life,2016,2020-01-04,de,Druckkopf wird nicht mehr erkannt
+anstiftung_5147,anstiftung,DEU,14,Printhead failure,Printer/scanner,HP,Unknown,????,2020-03-10,de,Druckkopf Fehlercode
+fixitclinic_481,Fixit Clinic,USA,14,Printhead failure,Printer/scanner,epson,Unknown,2013,2019-08-12,en,printer ~ Heads dried up
+rcint_11652,Repair Café International,NLD,14,Printhead failure,Printer/scanner,Canon,Fixed,????,2018-11-23,nl,B200 foutmelding
+rcint_12550,Repair Café International,NLD,14,Printhead failure,Printer/scanner,Canon,Repairable,2014,2018-12-08,nl,Geeft foutmelding over printkop
+rcint_14618,Repair Café International,NLD,14,Printhead failure,Printer/scanner,HP,Fixed,????,2019-02-11,nl,print niet meer na printkop vervanging
+rcint_16648,Repair Café International,NLD,14,Printhead failure,Printer/scanner,Canon,Fixed,2015,2019-04-06,nl,Print niet Melding B200
+rcint_1903,Repair Café International,NLD,14,Printhead failure,Printer/scanner,Canon,End of life,2008,2017-08-26,nl,mogelijk printerkop
+rcint_20283,Repair Café International,GBR,14,Printhead failure,Printer/scanner,HP,Fixed,????,2019-07-27,en,Printer head
+rcint_21281,Repair Café International,NLD,14,Printhead failure,Printer/scanner,HP,Fixed,2014,2019-09-07,nl,melding printkop beschadigd
+rcint_2215,Repair Café International,NLD,14,Printhead failure,Printer/scanner,HP,End of life,2015,2017-09-09,nl,printerkop kapot
+rcint_2226,Repair Café International,NLD,14,Printhead failure,Printer/scanner,Canon,Repairable,2014,2017-09-09,en,printerkop
+rcint_23195,Repair Café International,NLD,14,Printhead failure,Printer/scanner,Canon,End of life,????,2019-10-12,nl,Geeft nu signaal dat printkop veranderd is.
+rcint_23979,Repair Café International,GBR,14,Printhead failure,Printer/scanner,Unknown,Fixed,????,2019-10-27,en,Printer head faulty
+rcint_2771,Repair Café International,NLD,14,Printhead failure,Printer/scanner,HP,End of life,????,2017-10-17,nl,printkop stuk
+rcint_3314,Repair Café International,NLD,14,Printhead failure,Printer/scanner,HP,End of life,2010,2017-11-11,en,Printerkop is defect
+rcint_3508,Repair Café International,NLD,14,Printhead failure,Printer/scanner,Canon,End of life,2012,2017-11-25,nl,snaar misschien verschoven?
+rcint_6760,Repair Café International,NLD,14,Printhead failure,Printer/scanner,Canon,End of life,????,2018-05-05,nl,B200 foutmelding
+rcwales_267,Repair Cafe Wales,GBR,14,Printhead failure,Printer/scanner,Unknown,Fixed,????,2017-11-01,en,Printer cartridge not moving
+rcwales_89,Repair Cafe Wales,GBR,14,Printhead failure,Printer/scanner,Unknown,End of life,????,2017-06-01,en,Printer Printer head?
+restart_3202,The Restart Project,ITA,14,Printhead failure,Printer/scanner,Epson,End of life,????,2016-08-28,it,Testina ko
+restart_7370,The Restart Project,GBR,14,Printhead failure,Printer/scanner,Canon,End of life,????,2018-03-03,en,"Print-head warning light. A restarter cleaned the print-head with alcohol, but the printer would not accept it. Theorised to be a programmed failure on the print-head chip, requiring a replacement part. Repairable, but likely discarded over part cost."
+restart_7372,The Restart Project,GBR,14,Printhead failure,Printer/scanner,HP,End of life,????,2018-03-03,en,"Error code for print head / ink system failure. A restarter cleaned the print-head with alcohol, but the printer would not accept it. Theorised to be a programmed failure on the print-head chip, requiring a replacement part. We found instructions for a factory reset on Youtube, but they did not work for us. Repairable, but likely discarded over part cost."
+restart_7768,The Restart Project,GBR,14,Printhead failure,Printer/scanner,Unknown,End of life,????,2018-04-07,en,heads need aligning
+restart_8806,The Restart Project,GBR,14,Printhead failure,Printer/scanner,Unknown,End of life,2013,2018-07-21,en,Not working - printer head damaged and couldn't be fixed.
+anstiftung_3362,anstiftung,DEU,15,Scanner,Printer/scanner,HP,Unknown,????,2019-07-04,de,"Scannermechanik macht laute Geräusche.Wie sich herausstellte, wurde die Referenzfahrt des Schlittens innerhalb der Scannereinheit beim Starten nicht korrekt ausgeführt. Wir studierten ausgiebig die Funktionsweise des Gerätes, konnten aber nicht erkennen, mit welcher Sensorik die Referenzposition detektiert wird. Auch eine Reinigung der Optik, über die eventuell Positionsmarken erkannt werden, brachte nicht den gewünschten Erfolg. Letztlich ließ sich die Fehlerursache nicht ermitteln. Der Besitzer wird das Gerät zunächst als Drucker weiternutzen und zu gegebener Zeit fachgerecht entsorgen."
+anstiftung_5113,anstiftung,DEU,15,Scanner,Printer/scanner,Unknown,End of life,????,2020-03-08,da,"Kopierfunktion defekt, Scansensor"
+fixitclinic_601,Fixit Clinic,USA,15,Scanner,Printer/scanner,FUJITSU,Unknown,????,2020-01-14,en,A Scanner 
+rcint_12121,Repair Café International,NLD,15,Scanner,Printer/scanner,Maginon,Fixed,2000,2018-12-01,nl,negatieven en foto's kunnen niet meer worden gescand
+rcint_26418,Repair Café International,NLD,15,Scanner,Printer/scanner,HP,Fixed,2015,2019-12-07,nl,wil niet meerdere papieren scannen
+rcint_27503,Repair Café International,NLD,15,Scanner,Printer/scanner,HP,Fixed,????,2020-01-04,nl,Scanner geeft foutmelding
+rcint_32222,Repair Café International,NLD,15,Scanner,Printer/scanner,HP,End of life,????,2020-09-28,nl,scant en kopieertniet
+rcwales_1471,Repair Cafe Wales,GBR,15,Scanner,Printer/scanner,Unknown,Repairable,????,2019-10-01,en,scanner not working
+rcwales_1925,Repair Cafe Wales,GBR,15,Scanner,Printer/scanner,Unknown,End of life,????,2019-10-01,en,Printer / scanner stopped working
+restart_15844,The Restart Project,GBR,15,Scanner,Printer/scanner,HP,Repairable,2017,2019-11-16,en,scanner faulty
+restart_16499,The Restart Project,GBR,15,Scanner,Printer/scanner,HP,Fixed,2010,2020-01-18,en,Not scanning.  Installed new driver.
+restart_2451,The Restart Project,GBR,15,Scanner,Printer/scanner,Canon,Fixed,????,2016-03-29,en,Scanner. Ticking noise and spoiled image - debris removed from inside
+restart_4597,The Restart Project,ESP,15,Scanner,Printer/scanner,Unknown,Repairable,????,2017-03-22,en,Scanner - lights up but does not go
+restart_736,The Restart Project,GBR,15,Scanner,Printer/scanner,Unknown,Fixed,????,2014-06-28,en,Scanner lid came off. Now reattached.
+anstiftung_1572,anstiftung,DEU,16,Software issue/update,Printer/scanner,Samsung,Unknown,????,2018-07-12,de,Keine Funktion nach Reinigungsaktion der Besitzerin. Fehlerlampe leuchtete.Keine Infos zu dem Fehler zu finden.
+anstiftung_2336,anstiftung,DEU,16,Software issue/update,Printer/scanner,Unknown,Fixed,????,2017-05-04,de,Er erkannte die Patronen nicht mehr.Wir konnten das durch einen Reset im Software-Menü wieder in Gang bringen.
+anstiftung_2642,anstiftung,DEU,16,Software issue/update,Printer/scanner,Unknown,Fixed,????,2015-05-07,de,"Es zeigte nur noch eine Fehlermeldung. Nach Internetrecherchen konnten wir den ""Fehler"" - ein eingebauter Zähler der Reinigungszyklen - zurücksetzen, das Gerät reinigen und es funktioniert wieder wie vorher."
+anstiftung_3557,anstiftung,DEU,16,Software issue/update,Printer/scanner,Unknown,Unknown,????,2019-09-08,de,Kopiervorgang bricht ab
+anstiftung_578,anstiftung,DEU,16,Software issue/update,Printer/scanner,Brother,Unknown,2014,2019-01-01,de,"der Drucker reagiert einfach nicht. Dioden leuchten, läßt sich aber nicht ansprechen via Computer ..."
+rcint_13389,Repair Café International,NLD,16,Software issue/update,Printer/scanner,Unknown,Fixed,????,2019-01-12,nl,Loopt vaak vast
+rcint_20742,Repair Café International,CAN,16,Software issue/update,Printer/scanner,HP,End of life,2014,2019-08-24,en,"Won't Print - error message ""Printer Load missing"""
+rcint_24425,Repair Café International,NLD,16,Software issue/update,Printer/scanner,HP,End of life,2015,2019-11-02,nl,Aansluiting op PC
+rcint_27058,Repair Café International,NLD,16,Software issue/update,Printer/scanner,Canon,End of life,2016,2019-12-21,nl,Geeft een foutmelding B200. Print niet meer.
+rcint_31565,Repair Café International,FRA,16,Software issue/update,Printer/scanner,Canon,Fixed,????,2020-06-06,fr,Alerte permanente / reservoir absorbeur d'encre (Message d'erreur)
+rcint_370,Repair Café International,NLD,16,Software issue/update,Printer/scanner,Brother,Fixed,2013,2017-02-24,nl,software te oud
+rcint_6691,Repair Café International,NLD,16,Software issue/update,Printer/scanner,HP,End of life,2005,2018-04-28,nl,wil geen verbinding maken
+restart_10616,The Restart Project,GBR,16,Software issue/update,Printer/scanner,HP,Fixed,????,2018-12-01,en,"The scanner function had stopped working. Copy funtion on the printer itself was working via touchscreen, so the accompanying laptop running Windows 10 was investigated. The printer driver was re-installed and this solved the problem. Defenestration is the only final solution to such problems."
+restart_10803,The Restart Project,NOR,16,Software issue/update,Printer/scanner,Nikon,Fixed,2003,2019-01-06,en,Will not connect to computer
+restart_12230,The Restart Project,BEL,16,Software issue/update,Printer/scanner,Canon,Repairable,2014,2019-03-23,en,"rinsing machanism broken, error code 5B02"
+restart_1274,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Mustek,End of life,????,2015-03-21,en,"Scanner, won't connect to PC. Can't be fixed."
+restart_13503,The Restart Project,BEL,16,Software issue/update,Printer/scanner,Unknown,Repairable,????,2019-05-25,nl,"printer - werkt niet meer, foutcode B203"
+restart_14272,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Epson,End of life,2016,2019-07-21,en,said it had a jam when it did not
+restart_14664,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Unknown,Fixed,????,2019-09-14,en,Won't connect to laptop. All fixed and manual guidance read.
+restart_15362,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Canon,End of life,2014,2019-10-20,en,"non existant ""foreign object detected"""
+restart_1566,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Canon,End of life,????,2015-07-11,en,"Doesn't print. Software problem, Not able to repair."
+restart_15867,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Epson,Fixed,2015,2019-11-16,en,driver failure
+restart_2495,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Canon,Repairable,????,2016-04-09,en,"software issue, doesn't work"
+restart_2716,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Brother,Fixed,????,2016-05-21,en,Problem is with computer
+restart_2832,The Restart Project,ITA,16,Software issue/update,Printer/scanner,Epson,Fixed,????,2016-05-29,en,"Printer, driver issue on GNU/Linux"
+restart_2949,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Canon,Repairable,????,2016-06-21,en,Series of error messages
+restart_3148,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Canon,End of life,????,2016-07-26,en,B200 error
+restart_3276,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Canon,Repairable,????,2016-09-17,en,"Not printing straight. Got advice on software issue, will try some things out."
+restart_4596,The Restart Project,ESP,16,Software issue/update,Printer/scanner,Unknown,End of life,????,2017-03-22,en,Printer - error with printing> not enough information to resolve problem
+restart_4919,The Restart Project,ITA,16,Software issue/update,Printer/scanner,HP,Fixed,????,2017-04-22,en,Painful driver installation (non supported anymore in Windows 8+)
+restart_5672,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Epson,End of life,????,2017-07-19,en,"Scanner, Continuity tested, boards look ok, but not responding to commands from PC"
+restart_5714,The Restart Project,GBR,16,Software issue/update,Printer/scanner,Unknown,Fixed,????,2017-07-22,en,Printer - cartridges not recognised. Fixed - forced reset
+anstiftung_2378,anstiftung,DEU,17,Toner,Printer/scanner,Brother,Fixed,????,2019-05-18,de,"Er druckte nicht mehr. Wir tauschten die Tonereinheit gegen einen mitgebrachten Ersatz aus und reinigten das Gerät inklusive Bildeinheit gründlich. Nun druckte er wieder, hatte aber leichte Schmutzspuren am Rand des Ausdrucks. Um das zu beheben, müsste eine neue Trommeleinheit eingebaut werden. Das ist dem Besitzer aber zu teuer. Er kann mit der erreichten Druckqualität gut leben."
+fixitclinic_452,Fixit Clinic,USA,17,Toner,Printer/scanner,HP,Repairable,????,2019-05-22,en,laser printer
+rcint_19138,Repair Café International,NLD,17,Toner,Printer/scanner,Samsung,End of life,????,2019-06-08,nl,Foutmelding over toner
+restart_1753,The Restart Project,ITA,17,Toner,Printer/scanner,Epson,Fixed,????,2015-09-27,en,Toner replacement
+restart_2717,The Restart Project,GBR,17,Toner,Printer/scanner,Brother,Repairable,????,2016-05-21,en,Doesn't work - needs new toner
+anstiftung_1038,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Unknown,????,2019-03-19,de,n.a.
+anstiftung_2733,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Fixed,????,2013-09-04,de,Funktionierte nicht mehr. Lösung nicht dokumentiert.
+anstiftung_2746,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Fixed,????,2012-06-20,de,Funktionierte nicht mehr. Fehler und Lösung nicht dokumentiert.
+anstiftung_2781,anstiftung,DEU,23,Unknown,Printer/scanner,Samsung,Unknown,????,2018-08-02,de,"An dem Laserdrucker funktionierte der Papiereinzug äußerst unzuverlässig - mal klappte es ohne Weiteres, mal zog der Drucker das Papier gar nicht und mal auch nur zur Hälfte ein. Wir hielten uns einige Zeit bei der Suche nach dem Fehler auf, konnten letztlich aber leider nichts finden. Da keine Zeit mehr zur vollständigen Demontage des Gerätes blieb, werden wir hier wohl beim nächsten Mal noch etwas genauer nachforschen."
+anstiftung_3336,anstiftung,DEU,23,Unknown,Printer/scanner,Kyocera,Fixed,????,2019-07-17,de,Druckt nicht
+anstiftung_3592,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Unknown,????,2015-11-08,de,defekt
+anstiftung_3692,anstiftung,DEU,23,Unknown,Printer/scanner,Canon,Unknown,????,2019-08-20,de,Druckt leere Seiten
+anstiftung_4070,anstiftung,DEU,23,Unknown,Printer/scanner,HP,Fixed,????,2019-11-09,de,startet nicht
+anstiftung_4149,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Unknown,????,2019-11-10,de,Defekt
+anstiftung_4303,anstiftung,DEU,23,Unknown,Printer/scanner,Canon,Unknown,2016,2019-12-06,de,Gerät nach lautem Knall ohne Funktion
+anstiftung_4371,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Unknown,????,2019-01-13,de,defekt
+anstiftung_4677,anstiftung,DEU,23,Unknown,Printer/scanner,Canon,Fixed,2014,2019-10-16,de,Fehlermeldung
+anstiftung_47,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Unknown,????,2017-10-21,de,???
+anstiftung_4794,anstiftung,DEU,23,Unknown,Printer/scanner,Canon,Fixed,????,2019-12-03,de,?
+anstiftung_4851,anstiftung,DEU,23,Unknown,Printer/scanner,Philips,Unknown,2000,2020-01-28,de,"Für das Faxgerät „Philips FAX Magic Vox“ vom RepairCafé im Weberbau hatten wir die Gabellichtschranken als Ersatzteil besorgt. Nach dem Einbau blieb aber der ersehnte Erfolg aus. Es wurde wieder Papierstau angezeigt. Nach genauerer Untersuchung stellte sich nun raus, dass die Lichtschranken in Ordnung waren. Damit mussten wir leider die Arbeiten daran einstellen – Fehler nicht gefunden."
+anstiftung_5345,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Unknown,????,2020-01-25,de,druckt nicht mehr - irreparabel
+anstiftung_5431,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Unknown,????,2020-07-05,de,nicht funktioniert
+anstiftung_641,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Unknown,????,2019-01-23,en,n.a.
+anstiftung_851,anstiftung,DEU,23,Unknown,Printer/scanner,Unknown,Fixed,????,2019-02-23,de,funktioniert nicht
+fixitclinic_219,Fixit Clinic,USA,23,Unknown,Printer/scanner,canon - older model (5 years?),Repairable,????,2018-10-14,en,ink jet printer
+fixitclinic_482,Fixit Clinic,USA,23,Unknown,Printer/scanner,Unknown,Repairable,2016,2019-08-13,en,Printer
+rcint_10052,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,????,2018-10-06,nl,kopieerd niet
+rcint_10125,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,????,2018-10-06,nl,doet het niet meer
+rcint_10135,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,????,2018-10-06,nl,print niet meer
+rcint_10423,Repair Café International,NLD,23,Unknown,Printer/scanner,Unknown,Repairable,2015,2018-10-13,nl,Spoelt niet
+rcint_10466,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,End of life,????,2018-10-13,nl,doet het niet meer
+rcint_10898,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,????,2018-11-02,nl,doet het niet meer
+rcint_10936,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2011,2018-11-03,nl,geeft error
+rcint_1100,Repair Café International,FRA,23,Unknown,Printer/scanner,Unknown,End of life,????,2017-05-20,fr,Ne répond plus (coupure de la connexion entre la machine et l'ordinateur)
+rcint_11309,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,2013,2018-11-10,nl,aanhoudende foutmelding ook na vervanging cartridges
+rcint_11373,Repair Café International,NLD,23,Unknown,Printer/scanner,Unknown,End of life,????,2018-11-10,nl,Weigert dienst
+rcint_11552,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,????,2018-11-17,nl,Is defect na annuleren van kopie
+rcint_1230,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,2000,2017-06-03,nl,onbekend
+rcint_1262,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Repairable,2012,2017-06-03,nl,onbekend
+rcint_12753,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,????,2018-12-29,nl,doet het niet meer
+rcint_12888,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,2008,2019-01-05,nl,werkt niet
+rcint_12889,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,????,2019-01-05,nl,lampje gaat steeds branden
+rcint_13121,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,End of life,2015,2019-01-05,en,defect
+rcint_13233,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2013,2019-01-12,nl,foutcode
+rcint_13492,Repair Café International,GBR,23,Unknown,Printer/scanner,Epson,Fixed,2015,2019-01-19,en,black doesn't print
+rcint_13567,Repair Café International,NLD,23,Unknown,Printer/scanner,Brother,Repairable,2007,2019-01-26,nl,"Na plaatsen nieuwe inktpatronen, verschijnt er niets op papier bij het printen. Te lang niet geprint?"
+rcint_13627,Repair Café International,NLD,23,Unknown,Printer/scanner,Unknown,Repairable,2000,2019-01-26,nl,Print niet meer
+rcint_13777,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Fixed,2011,2019-01-26,nl,geeft foutmelding
+rcint_14014,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,????,2019-02-01,nl,doet het niet meer
+rcint_14160,Repair Café International,NLD,23,Unknown,Printer/scanner,Brother,Fixed,2015,2019-02-02,nl,Wil niet aan of uit / wisselend
+rcint_14613,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Fixed,2010,2019-02-11,nl,doet het niet meer
+rcint_14628,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,????,2019-02-14,nl,"Stopte niet storing lekbak vol, geprobeerd te repareren en nu kan hij niet meer aan"
+rcint_14633,Repair Café International,NLD,23,Unknown,Printer/scanner,Lexmark,End of life,????,2019-02-14,nl,advies hoe het werkt
+rcint_1494,Repair Café International,FRA,23,Unknown,Printer/scanner,Unknown,Fixed,????,2017-06-18,fr,N'imprime plus
+rcint_14983,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,2017,2019-02-23,nl,Print niet meer
+rcint_15003,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2006,2019-02-23,nl,Print niet meer
+rcint_15098,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,2005,2019-03-01,nl,doet het niet meer
+rcint_15148,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Repairable,????,2019-03-02,nl,werkt niet
+rcint_15437,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2008,2019-03-08,nl,Printprobleem
+rcint_15741,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2009,2019-03-14,nl,doet niets meer
+rcint_15856,Repair Café International,NLD,23,Unknown,Printer/scanner,Samsung,Repairable,2009,2019-03-21,nl,stopte plotseling
+rcint_15955,Repair Café International,FRA,23,Unknown,Printer/scanner,HP,Repairable,2015,2019-03-23,fr,cartouche noire non reconnue
+rcint_15968,Repair Café International,GBR,23,Unknown,Printer/scanner,Unknown,End of life,????,2019-03-23,en,Black not working
+rcint_16043,Repair Café International,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2019-03-23,en,Not working
+rcint_16132,Repair Café International,NLD,23,Unknown,Printer/scanner,Samsung,Fixed,2016,2019-03-29,af,Ratelt
+rcint_16324,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,2000,2019-04-04,nl,doet het niet
+rcint_1633,Repair Café International,NLD,23,Unknown,Printer/scanner,Brother,Fixed,2000,2017-07-01,nl,Doet het niet
+rcint_16426,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Repairable,????,2019-04-06,vi,pixma
+rcint_16878,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,Fixed,2009,2019-04-13,nl,foutmelding
+rcint_16901,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2009,2019-04-13,nl,stopt
+rcint_17220,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,????,2019-04-20,nl,Gaat niet meer aan
+rcint_18242,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,Fixed,????,2019-05-18,nl,Print niet
+rcint_18724,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,????,2019-06-01,nl,print niet
+rcint_19671,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2000,2019-07-04,en,office jet 6500
+rcint_20096,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,????,2019-07-14,nl,doet niets
+rcint_20329,Repair Café International,GBR,23,Unknown,Printer/scanner,Unknown,End of life,????,2019-07-27,en,Not working
+rcint_2046,Repair Café International,NLD,23,Unknown,Printer/scanner,Unknown,Repairable,2016,2017-09-02,da,Onkend
+rcint_20591,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,????,2019-08-05,nl,doet het niet meer
+rcint_20937,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,????,2019-09-05,nl,wagenstoring
+rcint_21141,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,????,2019-09-07,nl,"af en toe print hij wel, dan weer niet"
+rcint_21253,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2010,2019-09-07,nl,onderdeel stuk
+rcint_21316,Repair Café International,NLD,23,Unknown,Printer/scanner,Uniden,Fixed,2000,2019-09-07,nl,Werkt niet
+rcint_21588,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2008,2019-09-14,nl,werkt niet
+rcint_22206,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2012,2019-09-28,nl,Gaat wel aan maar doet vervolgens niets
+rcint_22541,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,2012,2019-10-04,nl,doet het niet meer
+rcint_22633,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Fixed,2014,2019-10-05,nl,print niet
+rcint_22742,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,????,2019-10-05,nl,doet het niet
+rcint_23003,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2017,2019-10-10,nl,print niet
+rcint_23201,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,????,2019-10-12,nl,Geeft melding met code en moet steeds opnieuw aanzetten.
+rcint_24147,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2014,2019-11-02,nl,werkt niet
+rcint_24358,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2008,2019-11-02,nl,"lampje knippert, maar printer werkt niet"
+rcint_24938,Repair Café International,DEU,23,Unknown,Printer/scanner,HP,End of life,????,2019-11-09,de,diverse Störungen
+rcint_25330,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2016,2019-11-21,nl,doet niets meer
+rcint_25557,Repair Café International,GBR,23,Unknown,Printer/scanner,HP,Fixed,????,2019-11-23,en,Needs checking
+rcint_25780,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,2015,2019-11-30,nl,doet het niet
+rcint_25795,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,2014,2019-11-30,nl,doet het niet meer
+rcint_25889,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,????,2019-11-30,nl,print niet meer
+rcint_2591,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2015,2017-10-07,nl,Onbekend
+rcint_26120,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2006,2019-12-06,nl,Geen oorzaak kunnen vinden
+rcint_2617,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Repairable,2012,2017-10-07,nl,Onbekend
+rcint_26236,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Fixed,2011,2019-12-07,nl,print niet
+rcint_26321,Repair Café International,NLD,23,Unknown,Printer/scanner,Brother,Fixed,????,2019-12-07,nl,hij print niet bij A4
+rcint_26663,Repair Café International,GBR,23,Unknown,Printer/scanner,Canon,End of life,????,2019-12-07,en,orange warning light
+rcint_26721,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Repairable,2019,2019-12-12,nl,doet het niet
+rcint_27053,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,????,2019-12-20,nl,print niet
+rcint_27219,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2005,2020-01-03,nl,doet het niet meer
+rcint_27248,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Repairable,2016,2020-01-04,nl,print niet
+rcint_27334,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,????,2020-01-04,fr,divers fuotmeldingen
+rcint_27399,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2012,2020-01-04,nl,stopt na 2 printjes
+rcint_27497,Repair Café International,NLD,23,Unknown,Printer/scanner,Unknown,End of life,????,2020-01-04,nl,Print niet meer
+rcint_27745,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2017,2020-01-11,nl,foutmelding
+rcint_27788,Repair Café International,NLD,23,Unknown,Printer/scanner,Unknown,Repairable,????,2020-01-11,nl,Doet niets
+rcint_28066,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Fixed,????,2020-01-17,nl,geeft geen inkt af
+rcint_28152,Repair Café International,DEU,23,Unknown,Printer/scanner,Unknown,Fixed,????,2020-01-18,de,druckt nicht
+rcint_28373,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,Fixed,2014,2020-01-25,nl,Drukt niet goed af. Soms doet hij helemaal niets.
+rcint_29079,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,2002,2020-02-01,nl,print niet
+rcint_29132,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2015,2020-02-01,nl,print niet
+rcint_29156,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2017,2020-02-01,nl,"Drukt niet af in zwart, doorvoer werkt wel"
+rcint_29184,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,????,2020-02-01,nl,doet niets meer
+rcint_29414,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2012,2020-02-07,nl,doet het niet meer
+rcint_29847,Repair Café International,FRA,23,Unknown,Printer/scanner,Epson,Repairable,????,2020-02-15,fr,N'imprime pas
+rcint_29854,Repair Café International,FRA,23,Unknown,Printer/scanner,Unknown,End of life,????,2020-02-15,fr,Patine dans le vide
+rcint_30568,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2015,2020-02-27,en,storing
+rcint_30728,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2000,2020-02-29,nl,Onbekend
+rcint_30795,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Fixed,2016,2020-02-29,nl,geeft storing bij afdrukken
+rcint_31021,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2010,2020-03-07,nl,Werkt niet
+rcint_31345,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Fixed,????,2020-03-07,nl,Print niet
+rcint_31665,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,Fixed,????,2020-07-04,nl,print niet
+rcint_31697,Repair Café International,FRA,23,Unknown,Printer/scanner,Epson,Fixed,????,2020-07-04,fr,Souci d'impression
+rcint_31730,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,????,2020-07-18,nl,werkt niet
+rcint_31824,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,????,2020-08-15,nl,De printer gaat plotseling niet meer aan. Zo nu en dan knippert er wel een licthtje
+rcint_32124,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,????,2020-09-24,nl,print niet
+rcint_32164,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,2016,2020-09-26,nl,Doet het niet meer
+rcint_3516,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2010,2017-11-25,nl,weet niet
+rcint_3683,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Fixed,2013,2017-12-02,nl,Onbekend/n.v.t.
+rcint_3788,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Repairable,2014,2017-12-04,nl,onbekend
+rcint_4188,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,2012,2018-01-06,nl,onbekend
+rcint_4502,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2000,2018-01-19,nl,Onbekend
+rcint_4847,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,End of life,????,2018-02-03,nl,onbekend
+rcint_515,Repair Café International,FRA,23,Unknown,Printer/scanner,Unknown,Repairable,????,2017-03-18,fr,Ne s'allume plus
+rcint_5323,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,2012,2018-02-24,nl,niet van HP!!!
+rcint_5494,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,Fixed,2015,2018-03-03,en,n.v.t./onbekend
+rcint_5503,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2014,2018-03-03,nl,Onbekend
+rcint_5553,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2016,2018-03-03,nl,niet defect
+rcint_5645,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2005,2018-03-09,nl,Onbekend
+rcint_5835,Repair Café International,NLD,23,Unknown,Printer/scanner,Samsung,Fixed,2012,2018-03-17,en,?
+rcint_6036,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,Fixed,2005,2018-03-31,nl,doet niks meer
+rcint_6143,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,End of life,2005,2018-04-06,nl,Oorzaak niet bij inktpatronen
+rcint_6277,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,Repairable,2012,2018-04-07,nl,Onbekend
+rcint_6475,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Fixed,2000,2018-04-13,nl,Onbekend
+rcint_7160,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2011,2018-05-18,nl,doet niks
+rcint_7289,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2000,2018-05-26,nl,Niet bekend
+rcint_8094,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,2014,2018-07-06,nl,doet het niet meer
+rcint_8207,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Fixed,????,2018-07-07,nl,"print niet, doet niets + papierprop?"
+rcint_8233,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,????,2018-07-07,nl,Print niet
+rcint_8627,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Fixed,2008,2018-08-04,nl,Iets gebroken?
+rcint_8836,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,Repairable,2013,2018-08-25,nl,Geeft geen inkt op papier
+rcint_9256,Repair Café International,NLD,23,Unknown,Printer/scanner,Epson,Fixed,????,2018-09-07,nl,doet het niet meer
+rcint_9360,Repair Café International,NLD,23,Unknown,Printer/scanner,HP,End of life,2007,2018-09-08,nl,"Lampjes blijven knipperen, welloicht door ouderdom"
+rcint_9407,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,End of life,2008,2018-09-13,nl,printer weigert
+rcint_989,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Repairable,2012,2017-05-06,en,?
+rcint_9996,Repair Café International,NLD,23,Unknown,Printer/scanner,Canon,Repairable,2016,2018-10-06,nl,gaat niet aan
+rcwales_1012,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Unknown,Unknown,????,2018-09-01,en,Printer 
+rcwales_1258,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Canon,Fixed,????,2019-04-01,en,Cannon Printer Will not turn on
+rcwales_1856,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Unknown,End of life,????,2019-09-01,en,Printer not printing
+rcwales_2906,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Unknown,End of life,????,2019-10-01,en,printer not working
+rcwales_2978,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2019-11-01,en,Printer Not working
+rcwales_302,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Unknown,Fixed,????,2017-12-01,en,Printer 
+rcwales_3317,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,HP 5520,End of life,????,2020-02-01,en,printer not printing
+rcwales_3537,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Epsom,Repairable,????,2020-01-01,en,printer does not print properly
+rcwales_3895,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Unknown,Unknown,????,2020-01-01,en,printer not printing
+rcwales_3998,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2020-03-01,en,Printer doesn't work
+rcwales_511,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Unknown,Unknown,????,2018-04-01,en,Printer Printer does not print
+rcwales_584,Repair Cafe Wales,GBR,23,Unknown,Printer/scanner,Unknown,Fixed,????,2018-10-01,en,Printer Not printing correctly
+restart_10106,The Restart Project,GBR,23,Unknown,Printer/scanner,HP,End of life,2013,2018-11-10,en,Multiple error messages
+restart_10909,The Restart Project,GBR,23,Unknown,Printer/scanner,HP,Repairable,2015,2019-01-13,en,not printing
+restart_11017,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,End of life,????,2019-01-19,en,HP Printer: Won't print black ink:solution: Repair Not Possible
+restart_11029,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2019-01-19,en,"Dell Printer/Scanner: Switches on, won't do anything else:solution: Parts Required"
+restart_11298,The Restart Project,GBR,23,Unknown,Printer/scanner,Canon,End of life,2017,2019-02-09,en,Not working
+restart_11612,The Restart Project,BEL,23,Unknown,Printer/scanner,Unknown,Fixed,????,2019-02-17,no,Fout melding - Error message
+restart_1190,The Restart Project,ITA,23,Unknown,Printer/scanner,Unknown,End of life,????,2015-02-01,en,Printer
+restart_11956,The Restart Project,BEL,23,Unknown,Printer/scanner,Unknown,Fixed,????,2019-03-09,nl,"Printer, print niet meer. Koppen zuiver gemaakt en inktpatronen vervangen"
+restart_13334,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Fixed,????,2019-05-18,en,A3 printer - not printing
+restart_1418,The Restart Project,GBR,23,Unknown,Printer/scanner,Epson,Repairable,????,2015-05-09,en,Not working
+restart_14844,The Restart Project,ITA,23,Unknown,Printer/scanner,Unknown,Fixed,????,2019-09-28,en,It doesn't print
+restart_14857,The Restart Project,ITA,23,Unknown,Printer/scanner,Unknown,Repairable,????,2019-09-28,en,It doesn't print
+restart_14938,The Restart Project,BEL,23,Unknown,Printer/scanner,Unknown,Repairable,????,2019-09-28,nl,Foutmelding
+restart_14991,The Restart Project,ITA,23,Unknown,Printer/scanner,Samsung,Unknown,2016,2019-09-29,en,doens't print
+restart_151,The Restart Project,GBR,23,Unknown,Printer/scanner,Canon,End of life,????,2013-09-14,en,Printer - Error message -
+restart_157,The Restart Project,GBR,23,Unknown,Printer/scanner,HP,Fixed,????,2013-09-26,en,Printer - Error message -
+restart_1571,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2015-07-11,en,Doesn't print. Needs more time and power supply.
+restart_16052,The Restart Project,BEL,23,Unknown,Printer/scanner,Unknown,Fixed,????,2019-11-29,en,Refuses to print
+restart_16214,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,End of life,????,2019-12-07,en,Massive laser jet printer - second visit
+restart_16224,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,End of life,????,2019-12-07,en,passed repair
+restart_1642,The Restart Project,GBR,23,Unknown,Printer/scanner,Canon,Repairable,????,2015-08-23,en,Error printing in black.
+restart_16926,The Restart Project,GBR,23,Unknown,Printer/scanner,Canon,Repairable,2018,2020-02-01,en,Not running. Undetermined.
+restart_17618,The Restart Project,GBR,23,Unknown,Printer/scanner,Epson,Fixed,2016,2020-08-01,en,Would not print
+restart_17826,The Restart Project,BEL,23,Unknown,Printer/scanner,HP,End of life,2017,2020-09-26,nl,"printer/scanner: printer stuk, maar scanner blijft. dus deels te hergebruiken."
+restart_17841,The Restart Project,BEL,23,Unknown,Printer/scanner,Imprimante Epson,Repairable,2014,2020-09-26,fr,Plus d'impression
+restart_1945,The Restart Project,GBR,23,Unknown,Printer/scanner,Samsung,Repairable,????,2015-11-28,en,"Were able to get a green light at the event, but owner told us it was not fixed"
+restart_2130,The Restart Project,GBR,23,Unknown,Printer/scanner,Epson,End of life,????,2016-01-23,en,Doesn't print
+restart_2155,The Restart Project,GBR,23,Unknown,Printer/scanner,Canon,Repairable,????,2016-01-23,en,Doesn't print
+restart_2194,The Restart Project,ITA,23,Unknown,Printer/scanner,Canon,Fixed,????,2016-02-06,en,canon
+restart_2424,The Restart Project,ITA,23,Unknown,Printer/scanner,Unknown,End of life,????,2016-03-20,en,Already tried last year - nothing to do
+restart_252,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2013-11-16,en,Faulty
+restart_2697,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2016-05-18,en,Replacement part needed?
+restart_3101,The Restart Project,ARG,23,Unknown,Printer/scanner,Unknown,Fixed,????,2016-07-02,en,3.5kg
+restart_3558,The Restart Project,GBR,23,Unknown,Printer/scanner,HP,Fixed,????,2016-11-05,en,Switches on - doesn't work
+restart_3699,The Restart Project,GBR,23,Unknown,Printer/scanner,Samsung,Fixed,????,2016-11-16,en,Not working
+restart_3896,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Fixed,????,2016-11-26,en,Unknown - advice given
+restart_3913,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2016-11-26,en,Poor ink uptake - NO RESULT GIVEN
+restart_3998,The Restart Project,ARG,23,Unknown,Printer/scanner,Unknown,End of life,????,2016-12-04,en,5kg
+restart_433,The Restart Project,GBR,23,Unknown,Printer/scanner,Canon,End of life,????,2014-02-19,en,Printer - Stopped printing - Needs deeper clean
+restart_452,The Restart Project,ITA,23,Unknown,Printer/scanner,Unknown,End of life,????,2014-02-23,en,printerdoesn't work -
+restart_462,The Restart Project,ITA,23,Unknown,Printer/scanner,Unknown,End of life,????,2014-02-23,en,printer - doesn't work -
+restart_4693,The Restart Project,GBR,23,Unknown,Printer/scanner,Epson,Repairable,????,2017-04-01,en,Owner left early. Couldn't find a way to test it
+restart_5121,The Restart Project,GBR,23,Unknown,Printer/scanner,HP,End of life,????,2017-05-20,en,Printer. Problem not found
+restart_5767,The Restart Project,ARG,23,Unknown,Printer/scanner,HP,Fixed,????,2017-08-05,en,printer 3.7kg
+restart_6716,The Restart Project,NOR,23,Unknown,Printer/scanner,Canon,Repairable,2012,2017-11-25,en,No result.
+restart_6848,The Restart Project,GBR,23,Unknown,Printer/scanner,HP,End of life,????,2017-12-09,en,"""paper jam"" warning with no paper! couldn't solve."
+restart_7066,The Restart Project,GBR,23,Unknown,Printer/scanner,HP,Fixed,????,2018-01-28,en,B+W fixed
+restart_7146,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Unknown,????,2018-02-03,en,donation
+restart_7280,The Restart Project,CAN,23,Unknown,Printer/scanner,Unknown,Repairable,????,2018-02-22,fr,Nimprime pas des lignes
+restart_739,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Fixed,????,2014-06-28,en,Printer doesn't work
+restart_758,The Restart Project,GBR,23,Unknown,Printer/scanner,HP,End of life,????,2014-06-28,en,Doesn't print
+restart_7698,The Restart Project,GBR,23,Unknown,Printer/scanner,Canon,Repairable,????,2018-04-07,en,No function - error message
+restart_8176,The Restart Project,USA,23,Unknown,Printer/scanner,HP,Fixed,2015,2018-05-05,en,replacement part
+restart_8345,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2018-05-19,en,Advice given
+restart_8604,The Restart Project,GBR,23,Unknown,Printer/scanner,canon,End of life,????,2018-06-09,en,doesn't work
+restart_880,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2014-09-20,en,Not working
+restart_8930,The Restart Project,GBR,23,Unknown,Printer/scanner,Unknown,Repairable,????,2018-08-16,en,Not printing (scanner works). Orange flashing light
+restart_9340,The Restart Project,CAN,23,Unknown,Printer/scanner,Unknown,Repairable,????,2018-09-28,en,Error code
+restart_9540,The Restart Project,NOR,23,Unknown,Printer/scanner,Canon,Fixed,2012,2018-10-11,en,Doesn't work at all
+restart_991,The Restart Project,GBR,23,Unknown,Printer/scanner,HP,Repairable,????,2014-10-18,en,Printer - Not printing correctly - Needs more work
+restart_1095,The Restart Project,GBR,18,USB port/cable,Printer/scanner,HP,Repairable,????,2015-01-14,en,Printer - Bad connection to computer - Heartbreaking - spare is Ã‚£2
+restart_3831,The Restart Project,GBR,18,USB port/cable,Printer/scanner,Unknown,Repairable,????,2016-11-22,en,Needs advice on new cable - given
+restart_4212,The Restart Project,NOR,18,USB port/cable,Printer/scanner,Nikon,Fixed,????,2017-01-28,en,Bad connection
+restart_4511,The Restart Project,ITA,18,USB port/cable,Printer/scanner,Unknown,Fixed,????,2017-03-11,en,USB connector of a printer cable realigned with pliers
+anstiftung_4436,anstiftung,DEU,19,Vendor lock-in,Printer/scanner,Dell,Repairable,2016,2020-01-15,de,"Der Multifunktionsdrucker erkannte den Füllstand der gelben Kartusche nicht mehr, nach dem die Kartusche durch eine herstellerfremde baugleiche Kartusche ausgetauscht worden war. Wir hatten schon eine Vermutung aber überprüften trotzdem die funktionellen Bestandteile rund um die Kartuschentechnik. Abschließend machten wir noch ein Firmwareupdate. Der Kunde wird sich nun doch eine Original-Kartusche des Herstellers besorgen und sehen ob dies die Ursache des Problems war."
+restart_1336,The Restart Project,ITA,19,Vendor lock-in,Printer/scanner,Epson,End of life,????,2015-04-12,it,bloccata firmware
+restart_15991,The Restart Project,BEL,19,Vendor lock-in,Printer/scanner,Canon,End of life,????,2019-11-23,nl,printer: strepen
+anstiftung_5382,anstiftung,DEU,20,Waste toner/ink box,Printer/scanner,Samsung,Repairable,2012,2020-06-04,de,"Keine Funktion, auch alle LEDs dunkel.Netzteil getauscht, drucker geht wieder an. Allerding mit Fehlermeldung: Resttoner voll.Gast besorgt neuen Behälter"
+rcint_12313,Repair Café International,NLD,20,Waste toner/ink box,Printer/scanner,Canon,End of life,????,2018-12-01,nl,"Foutcode, absorbtiekussen vol"
+rcint_8524,Repair Café International,GBR,20,Waste toner/ink box,Printer/scanner,Unknown,End of life,????,2018-07-28,en,Ink waste bin full
+rcwales_2106,Repair Cafe Wales,GBR,21,WiFi,Printer/scanner,Cannon,Unknown,????,2019-05-01,en,Printer turns on but no conection to laptop
+restart_12446,The Restart Project,GBR,21,WiFi,Printer/scanner,Unknown,Fixed,????,2019-04-04,en,"Wi-fi issue. Advice given on use, solved"
+restart_14918,The Restart Project,NOR,21,WiFi,Printer/scanner,HP,Fixed,2019,2019-09-28,en,Won't speak to laptop (wifi)
+restart_2394,The Restart Project,GBR,21,WiFi,Printer/scanner,Lexmark,Repairable,????,2016-03-12,en,"Printer - Not connecting, needs testing"

@@ -1,0 +1,27 @@
+ID,Title,Description
+1,Power/battery,
+2,Screen,"Fault involves screen assembly - glass, touch, LCD..."
+3,Stuck booting,Powers on but OS does not load/errors
+4,Camera,
+5,Headphone jack,"Broken, loose, dirty..."
+6,Speaker/amplifier,"No sound, volume issues..."
+7,Charger,Problem with the charger not the phone itself
+8,On/Off button,
+9,Volume buttons,
+10,Other buttons,
+11,Software update,"Problem after update, lack of updates..."
+12,Storage problem,"Run out of storage space, corrupted storage..."
+13,USB/charging port,"Broken, loose, dirty..."
+14,Sim card slot,
+15,Microphone,
+16,Bluetooth,
+17,Memory card slot,
+18,External damage,Damage to the chassis/case
+19,Internal damage,"System board, internal component..."
+20,Liquid damage,"Spillage, submersion, humidity..."
+21,Performance,"Slow, software crashes a lot..."
+22,Software issue,Apps misbehaving
+23,Access issue,"Locked, forgot password..."
+24,Help/configuration,"Advised, changed settings..."
+25,Poor data,Not enough info to determine the main fault
+26,Other,Main fault is known but there is no option for it

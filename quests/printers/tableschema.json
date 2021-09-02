@@ -1,0 +1,182 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "printcat.csv",
+      "path": "https://github.com/openrepair/data/blob/master/quests/printers/printcat.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id_ords",
+            "type": "string",
+            "format": "default",
+            "title": "ID ORDS",
+            "description": "Unique identifier.",
+            "constraints": {
+              "pattern": "[a-z]+-[0-9]+",
+              "unique": "true"
+            }
+          },
+          {
+            "name": "data_provider",
+            "type": "string",
+            "format": "default",
+            "title": "Data provider",
+            "description": "Name of the organisation that collects the data."
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "format": "default",
+            "title": "Country",
+            "description": "3 char ISO country code.",
+            "constraints": {
+              "pattern": "[A-Z]{3}",
+              "minimum": "3",
+              "maximum": "3"
+            }
+          },
+          {
+            "name": "fault_type_id",
+            "type": "integer",
+            "format": "default",
+            "title": "Fault type ID",
+            "description": "ID of the fault type. Joins the printcat_fault_types primary key."
+          },
+          {
+            "name": "fault_type",
+            "type": "string",
+            "format": "default",
+            "title": "Fault type",
+            "description": "Type of fault from the printcat_fault_types title field."
+          },
+          {
+            "name": "product_category",
+            "type": "string",
+            "format": "default",
+            "title": "Product category",
+            "description": "Type of product."
+          },
+          {
+            "name": "brand",
+            "type": "string",
+            "format": "default",
+            "title": "Brand",
+            "description": "Product brand name. Optional.",
+            "missingValues": "[Unknown]"
+          },
+          {
+            "name": "repair_status",
+            "type": "string",
+            "format": "default",
+            "title": "Repair Status",
+            "description": "Result of the repair attempt.",
+            "constraints": {
+              "enum": "[Fixed, Repairable, End of life, Unknown]"
+            }
+          },
+          {
+            "name": "year_of_manufacture",
+            "type": "string",
+            "format": "default",
+            "title": "Year of manufacture",
+            "description": "Product's year of manufacture. Optional.",
+            "constraints": {
+              "pattern": "[0-9]{4}"
+            },
+            "missingValues": "[????]"
+          },
+          {
+            "name": "event_date",
+            "type": "date",
+            "format": "yyyy-mm-dd",
+            "title": "Repair event date",
+            "description": "Date the repair event was held on."
+          },
+          {
+            "name": "language",
+            "type": "string",
+            "format": "default",
+            "title": "Language",
+            "description": "2 char ISO language code.",
+            "constraints": {
+              "pattern": "[a-z]{2}",
+              "minimum": "2",
+              "maximum": "2"
+            }
+          },
+          {
+            "name": "problem",
+            "type": "string",
+            "format": "default",
+            "title": "Problem text",
+            "description": "Description of the repair attempt."
+          }
+        ],
+        "primaryKey": "id_ords"
+      },
+      "format": "CSV",
+      "title": "Results of Open Repair Data quest PrintCat"
+    },
+    {
+      "name": "printcat_fault_types.csv",
+      "path": "https://github.com/openrepair/data/blob/master/quests/printers/printcat_fault_types.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "format": "default",
+            "title": "ID",
+            "description": "Unique identifier.",
+            "constraints": {
+              "pattern": "[0-9]+",
+              "unique": "true"
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "format": "default",
+            "title": "Title",
+            "description": "Name of the fault type."
+          },
+          {
+            "name": "description",
+            "type": "string",
+            "format": "default",
+            "title": "Description",
+            "description": "Description of the fault type. Optional.",
+            "missingValues": ""
+          }
+        ],
+        "primaryKey": "id"
+      },
+      "format": "CSV",
+      "title": "List of fault types for quest PrintCat"
+    }
+  ],
+  "name": "printcat.csv",
+  "title": "Results of Open Repair Data quest PrintCat",
+  "description": "Dataset of printer repair records from the Open Repair Alliance in ORDS format style with added `fault_type` values. ",
+  "homepage": "https://openrepair.org/open-data/insights/printers",
+  "contributors": [
+    {
+      "title": "Monique Szpak",
+      "role": "author"
+    },
+    {
+      "title": "Neil Mather",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}

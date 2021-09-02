@@ -1,0 +1,648 @@
+id_ords,data_provider,country,fault_type_id,fault_type,product_category,brand,repair_status,year_of_manufacture,event_date,language,problem
+fixitclinic_16,Fixit Clinic,USA,23,Access issue,Tablet,Apple,Fixed,2014,2018-01-27,en,ipad  ~ Not accepting password
+rcint_22757,Repair Café International,NLD,23,Access issue,Tablet,Apple,Fixed,2014,2019-10-05,nl,komt er niet meer in
+rcint_23982,Repair Café International,GBR,23,Access issue,Tablet,Unknown,Fixed,????,2019-10-27,en,Forgotten password
+rcwales_1293,Repair Cafe Wales,GBR,23,Access issue,Tablet,amazon fire tablet,End of life,????,2019-05-01,en,amazon fire tablet unable to log in
+rcwales_2468,Repair Cafe Wales,GBR,23,Access issue,Tablet,Binatone,Repairable,????,2019-12-01,en,sat nav locked
+rcwales_3319,Repair Cafe Wales,GBR,23,Access issue,Tablet,Unknown,End of life,????,2020-02-01,en,kindle screen locked
+rcwales_649,Repair Cafe Wales,GBR,23,Access issue,Tablet,Unknown,Fixed,????,2018-01-01,en,iPad Apple ID Blocked
+rcwales_650,Repair Cafe Wales,GBR,23,Access issue,Tablet,Unknown,Fixed,????,2018-01-01,en,iPad Apple ID Blocked
+restart_10614,The Restart Project,GBR,23,Access issue,Tablet,Samsung,Repairable,2015,2018-12-01,en,blocked password + not charging
+restart_11699,The Restart Project,CAN,23,Access issue,Tablet,Unknown,Repairable,????,2019-02-21,en,Blocked/password problem
+restart_13143,The Restart Project,CAN,23,Access issue,Tablet,Unknown,Fixed,????,2019-05-14,en,Locked outside device : forgotten code
+restart_13144,The Restart Project,CAN,23,Access issue,Tablet,Unknown,Repairable,????,2019-05-14,en,Locked outside device : forgotten code
+restart_13626,The Restart Project,GBR,23,Access issue,Tablet,linx,Repairable,2014,2019-06-03,en,"Lost password, wouldn't factory reset"
+restart_14646,The Restart Project,CAN,23,Access issue,Tablet,Unknown,Repairable,????,2019-09-12,en,Blocked access
+restart_14924,The Restart Project,NOR,23,Access issue,Tablet,Apple,Repairable,2016,2019-09-28,en,Forgotten security code
+restart_16054,The Restart Project,BEL,23,Access issue,Tablet,Apple,Repairable,????,2019-11-29,en,Password not accepted
+restart_16832,The Restart Project,GBR,23,Access issue,Tablet,Apple,Repairable,2014,2020-02-01,en,iPad got locked during an update.  Trying to recover old Apple ID.:solution: Has been locked out of account so will contact Apple Support directly
+restart_1704,The Restart Project,GBR,23,Access issue,Tablet,Amazon,Fixed,????,2015-09-26,en,"Locked out of Amazon, showed owner a workaround"
+restart_2881,The Restart Project,GBR,23,Access issue,Tablet,Unknown,Repairable,????,2016-06-11,en,"Android, Locked"
+restart_5493,The Restart Project,GBR,23,Access issue,Tablet,EE,Repairable,????,2017-06-24,en,"Locked, need unlock PIN. Half fixed, also needs new screen."
+restart_6670,The Restart Project,GBR,23,Access issue,Tablet,IROPRO,Fixed,????,2017-11-25,en,password forgotten. factory reset - all okay
+restart_7053,The Restart Project,GBR,23,Access issue,Tablet,HP,Fixed,????,2018-01-27,en,issue with password. connected to wifi in order to get access to factory settings to modify password and get into device
+rcint_14446,Repair Café International,NLD,4,Camera,Tablet,Sharp,End of life,2015,2019-02-08,en,Videoingang defect
+restart_14847,The Restart Project,ITA,4,Camera,Tablet,Unknown,Fixed,????,2019-09-28,en,It doesn't take any photo
+restart_915,The Restart Project,GBR,4,Camera,Tablet,Apple,Fixed,????,2014-09-27,en,Tablet - Screen issue - Frontfacing camera broke
+rcwales_3251,Repair Cafe Wales,GBR,7,Charger,Tablet,Samsung,Fixed,????,2019-04-01,en,Tablet Charger replacement
+restart_1139,The Restart Project,GBR,7,Charger,Tablet,Tesco,Repairable,????,2015-01-24,en,Not charging. Needs new charger.
+restart_12232,The Restart Project,BEL,7,Charger,Tablet,Samsung,Fixed,????,2019-03-23,en,does not start upnew adapter used
+restart_1267,The Restart Project,GBR,7,Charger,Tablet,Alcatel,Repairable,????,2015-03-21,en,Not turning on. Needs new charger.
+restart_14271,The Restart Project,GBR,7,Charger,Tablet,kindle,Repairable,2016,2019-07-21,en,Power supply broken
+restart_2477,The Restart Project,GBR,7,Charger,Tablet,Apple,Fixed,????,2016-04-09,en,"Ipad cable, frayed"
+restart_3007,The Restart Project,GBR,7,Charger,Tablet,HP,Fixed,????,2016-06-25,en,issue with the plug
+restart_3871,The Restart Project,GBR,7,Charger,Tablet,Apple,Fixed,????,2016-11-24,en,No go - more powerful charger needed
+restart_4509,The Restart Project,ITA,7,Charger,Tablet,Apple,Fixed,????,2017-03-11,en,"Power Cable, used white Sugru"
+restart_5383,The Restart Project,GBR,7,Charger,Tablet,Samsung,Repairable,????,2017-06-17,en,child's tablet. needs right charger & lead & poss battery boost
+restart_7406,The Restart Project,NOR,7,Charger,Tablet,Denver,Fixed,????,2018-03-06,en,Broken lead
+restart_7889,The Restart Project,GBR,7,Charger,Tablet,amazon,Fixed,2014,2018-04-21,en,not charging. new cable needed
+restart_6390,The Restart Project,GBR,18,External damage,Tablet,TomTom,Fixed,????,2017-10-28,en,"Sat Nav - wire has come out, rewired"
+rcint_13067,Repair Café International,NLD,5,Headphone jack,Tablet,Apple,End of life,2018,2019-01-05,nl,Afgebroken jackplug in aansluiting
+rcint_27149,Repair Café International,NLD,5,Headphone jack,Tablet,Apple,Fixed,????,2019-12-28,nl,plugje van oortjes afgebroken en vast in apparaat
+restart_10977,The Restart Project,GBR,5,Headphone jack,Tablet,Unknown,End of life,????,2019-01-19,en,Jack needs soldering
+restart_13152,The Restart Project,CAN,5,Headphone jack,Tablet,Unknown,Fixed,????,2019-05-14,en,Audio jack jammed
+restart_1748,The Restart Project,ITA,5,Headphone jack,Tablet,Huawei,Fixed,????,2015-09-27,en,We remove a jack 3.5mm blocked inside
+restart_735,The Restart Project,GBR,5,Headphone jack,Tablet,Apple,Repairable,????,2014-06-28,en,Broken headphone socket.
+rcint_11955,Repair Café International,NLD,24,Help/configuration,Tablet,Unknown,Fixed,2000,2018-11-25,nl,Instellen
+rcint_1473,Repair Café International,NLD,24,Help/configuration,Tablet,TomTom,Fixed,????,2017-06-17,nl,Ontbrekende kennis en ervaring
+rcint_18899,Repair Café International,NLD,24,Help/configuration,Tablet,Huawei,Repairable,2017,2019-06-01,nl,Opslag vol
+rcint_8565,Repair Café International,USA,24,Help/configuration,Tablet,Apple,Fixed,????,2018-07-28,en,needs reconfiguring
+rcwales_2391,Repair Cafe Wales,GBR,24,Help/configuration,Tablet,Unknown,Fixed,????,2019-05-01,en,Android Tablet Cant find the bible app
+rcwales_287,Repair Cafe Wales,GBR,24,Help/configuration,Tablet,Unknown,Fixed,????,2017-12-01,en,iPad Privacy and internet connection issues
+rcwales_3210,Repair Cafe Wales,GBR,24,Help/configuration,Tablet,Unknown,Fixed,????,2019-10-01,en,tablet issues reaching internet
+restart_10463,The Restart Project,ISL,24,Help/configuration,Tablet,Apple,Fixed,2013,2018-11-22,en,Connectivity issues
+restart_12215,The Restart Project,CAN,24,Help/configuration,Tablet,Unknown,Fixed,????,2019-03-22,en,Trouble connecting to wifi
+restart_12597,The Restart Project,CAN,24,Help/configuration,Tablet,Unknown,Fixed,????,2019-04-11,en,Not connecting to wifi
+restart_12791,The Restart Project,CAN,24,Help/configuration,Tablet,Apple,Fixed,????,2019-04-23,en,Restauring/wiping for reuse
+restart_13133,The Restart Project,CAN,24,Help/configuration,Tablet,Unknown,Fixed,????,2019-05-14,en,Device not backing up data
+restart_1362,The Restart Project,GBR,24,Help/configuration,Tablet,Unknown,Fixed,????,2015-04-25,en,Tablet - Configuring antivirus -
+restart_13862,The Restart Project,GBR,24,Help/configuration,Tablet,Apple,Fixed,2014,2019-06-17,en,"Storage issues, needs iCloud help - training given"
+restart_14036,The Restart Project,GBR,24,Help/configuration,Tablet,Apple,Fixed,????,2019-07-01,en,Unable to download apps - New payment card registered.Problems with email scam - scam from Nigeria - deleted.
+restart_14037,The Restart Project,GBR,24,Help/configuration,Tablet,Samsung,Fixed,2019,2019-07-01,en,"Help required setting up. Tablet set-up, apps installed and help given in how to use tablet and apps."
+restart_14054,The Restart Project,GBR,24,Help/configuration,Tablet,Samsung,Fixed,2014,2019-07-06,en,No WiFi connection.  Needed date and time setting to be correct for TLS to work.
+restart_14175,The Restart Project,GBR,24,Help/configuration,Tablet,Apple,Fixed,2017,2019-07-15,en,Calendar not syncing with second iPad in Family calendar
+restart_14415,The Restart Project,CAN,24,Help/configuration,Tablet,Unknown,Fixed,????,2019-08-15,en,Configs to solve bugs
+restart_14487,The Restart Project,GBR,24,Help/configuration,Tablet,Apple,Fixed,2019,2019-09-02,en,"Various issues - back up, Apps, unable to link calendar to other iPad"
+restart_14488,The Restart Project,GBR,24,Help/configuration,Tablet,Apple,Fixed,2019,2019-09-02,en,"Various issues - back up, Apps, unable to link calendar to iPad listed above."
+restart_14616,The Restart Project,CAN,24,Help/configuration,Tablet,Unknown,Fixed,????,2019-09-12,en,Wanted to factory reset the device
+restart_1465,The Restart Project,GBR,24,Help/configuration,Tablet,Unknown,Repairable,????,2015-05-28,en,"Was actually under warranty, advice given."
+restart_15780,The Restart Project,GBR,24,Help/configuration,Tablet,Samsung,Fixed,2018,2019-11-11,en,"Help required setting up gmaill account, help required creating adverts for Gumtree"
+restart_15787,The Restart Project,GBR,24,Help/configuration,Tablet,Unknown,Fixed,????,2019-11-16,en,"Forgotten password, trying to clean data. - factory reset to wipe data so tablet can be passed on"
+restart_16238,The Restart Project,GBR,24,Help/configuration,Tablet,iPad,Fixed,2015,2019-12-09,en,Client unable to access data on holiday.Explained to client how to find data limits and access on 3 mifi. Also how to find out of hotel has public access wifi.
+restart_16241,The Restart Project,GBR,24,Help/configuration,Tablet,iPad,Fixed,2014,2019-12-09,en,Client needs help backing up data
+restart_16414,The Restart Project,GBR,24,Help/configuration,Tablet,Kobo,Repairable,2017,2020-01-11,en,"not used for a while, needs resetting"
+restart_1894,The Restart Project,GBR,24,Help/configuration,Tablet,Unknown,Fixed,????,2015-11-21,en,Advice needed.
+restart_2040,The Restart Project,GBR,24,Help/configuration,Tablet,Kobo,Fixed,????,2015-12-15,en,eReader Deleting files - just disabled sync
+restart_2200,The Restart Project,ITA,24,Help/configuration,Tablet,Unknown,Fixed,????,2016-02-06,en,reset to fabric defaults
+restart_2318,The Restart Project,GBR,24,Help/configuration,Tablet,Apple,Fixed,????,2016-03-04,en,email problem - software configuration issue
+restart_2898,The Restart Project,GBR,24,Help/configuration,Tablet,Apple,Fixed,????,2016-06-11,en,Got advice.
+restart_3011,The Restart Project,GBR,24,Help/configuration,Tablet,Unknown,Repairable,????,2016-06-25,en,advice given
+restart_3977,The Restart Project,GBR,24,Help/configuration,Tablet,Samsung,Fixed,????,2016-12-03,en,Advice on connection
+restart_4346,The Restart Project,GBR,24,Help/configuration,Tablet,Samsung,Fixed,????,2017-02-11,en,Advice needed on app for printer - advice on Canon app given
+restart_4363,The Restart Project,GBR,24,Help/configuration,Tablet,Archos,Fixed,????,2017-02-11,en,Delete chat group and add Skyp
+restart_4496,The Restart Project,GBR,24,Help/configuration,Tablet,ASUS,Fixed,????,2017-03-08,en,Can't access email
+restart_4751,The Restart Project,GBR,24,Help/configuration,Tablet,Unknown,Fixed,????,2017-04-13,en,Google settings issue
+restart_5296,The Restart Project,GBR,24,Help/configuration,Tablet,Microsoft,Repairable,????,2017-06-12,en,Need to back up device and something else Advice given on safe disposal
+restart_705,The Restart Project,GBR,24,Help/configuration,Tablet,Unknown,Fixed,????,2014-06-12,en,Netbook - Wifi configs bad -
+restart_7917,The Restart Project,GBR,24,Help/configuration,Tablet,Samsung,Fixed,????,2018-04-21,en,Help with functionaility
+restart_8524,The Restart Project,GBR,24,Help/configuration,Tablet,Unknown,Repairable,????,2018-06-02,en,not connecting with wifi
+restart_8725,The Restart Project,GBR,24,Help/configuration,Tablet,Unknown,Repairable,????,2018-07-07,en,wifi problem
+restart_8934,The Restart Project,GBR,24,Help/configuration,Tablet,Apple,Repairable,2016,2018-08-16,en,The iPad 2 had been given by a friend of the family who was no longer on speaking terms. It has the 'Find my iPhone' enables and tied to the AppleId of that friend. It needs the friend to disable the Find my iPhone which can be done remotely on iCloud. It is possible Apple can bypass this feature.
+restart_8940,The Restart Project,GBR,24,Help/configuration,Tablet,Android,Repairable,2018,2018-08-16,en,Site blocking apps
+rcwales_3120,Repair Cafe Wales,GBR,19,Internal damage,Tablet,Unknown,Fixed,????,2019-04-01,en,Tablet Dropped it doesn't turn on
+restart_1065,The Restart Project,GBR,19,Internal damage,Tablet,Unknown,Fixed,????,2014-12-06,en,Tablet - Not starting - Probably faulty contacts inside
+restart_12933,The Restart Project,HKG,19,Internal damage,Tablet,Google,Repairable,2013,2019-04-28,en,Tablet will not boot or be recognised by a computer - inspections suggests a short on the main power line
+restart_14353,The Restart Project,GBR,19,Internal damage,Tablet,Apple,End of life,2009,2019-08-10,en,Touch screen cables and buttons damaged
+restart_15758,The Restart Project,GBR,19,Internal damage,Tablet,Apple,Repairable,2014,2019-11-10,en,Issues with LCD connection.  New motherboard / LCD needed.
+restart_1617,The Restart Project,GBR,19,Internal damage,Tablet,Amazon,Repairable,????,2015-08-11,en,Could not wake from sleep after a drop.
+restart_3236,The Restart Project,GBR,19,Internal damage,Tablet,Samsung,Repairable,????,2016-09-10,en,Motherboard?
+restart_510,The Restart Project,GBR,19,Internal damage,Tablet,Apple,Repairable,????,2014-03-29,en,Tablet - Won't boot - Probably component-level repair
+restart_6532,The Restart Project,GBR,19,Internal damage,Tablet,Apple,Repairable,????,2017-11-15,en,Not powering up after being dropped
+restart_9764,The Restart Project,GBR,19,Internal damage,Tablet,Alba,Fixed,????,2018-10-20,en,Doesn't work - applied tape to apply pressure to broken ribbon protector
+restart_14181,The Restart Project,IRL,20,Liquid damage,Tablet,Samsung,Repairable,????,2019-07-18,en,S-Pen Not Working; Screen Water Damaged
+restart_16012,The Restart Project,ITA,20,Liquid damage,Tablet,Mediacom,Fixed,2017,2019-11-24,en,fruit juice dropped over
+restart_16045,The Restart Project,BEL,20,Liquid damage,Tablet,Apple,End of life,????,2019-11-29,en,Water damage
+rcint_18670,Repair Café International,NLD,8,On/Off button,Tablet,Kobo,Fixed,????,2019-06-01,nl,aan/uit knop werkt niet
+rcint_19630,Repair Café International,NLD,8,On/Off button,Tablet,Waiky,Fixed,2017,2019-06-29,nl,aan- en uitknop eruit
+restart_11250,The Restart Project,BEL,8,On/Off button,Tablet,TomTom,End of life,2012,2019-02-02,fr,bouton on off hors service
+restart_13960,The Restart Project,GBR,8,On/Off button,Tablet,Apple,Fixed,????,2019-06-25,en,Power button doesn't work properly - Midas Touch
+restart_15543,The Restart Project,CAN,8,On/Off button,Tablet,Unknown,Repairable,????,2019-10-30,en,Power button problem
+restart_15875,The Restart Project,GBR,8,On/Off button,Tablet,Unknown,Repairable,????,2019-11-16,en,On off switch fails - need to source new switch
+restart_15945,The Restart Project,GBR,8,On/Off button,Tablet,Apple,Repairable,2011,2019-11-23,en,Stuck at on
+restart_17113,The Restart Project,GBR,8,On/Off button,Tablet,Samsung,Repairable,????,2020-02-15,en,won't turn on
+restart_1739,The Restart Project,ITA,8,On/Off button,Tablet,Acer,Fixed,????,2015-09-27,it,tasto accensione incastrato e sprofondato
+restart_2225,The Restart Project,GBR,8,On/Off button,Tablet,Polatab,Fixed,????,2016-02-10,en,Switch was busted
+restart_2436,The Restart Project,GBR,8,On/Off button,Tablet,Barnes and Noble,Repairable,????,2016-03-21,en,On/off switch appears broken
+restart_4465,The Restart Project,NOR,8,On/Off button,Tablet,Apple,Fixed,2016,2017-03-04,en,Start button does not work
+restart_4537,The Restart Project,GBR,8,On/Off button,Tablet,Unknown,Fixed,????,2017-03-18,en,"Android, Faulty power button"
+restart_4742,The Restart Project,GBR,8,On/Off button,Tablet,ASUS,Fixed,????,2017-04-13,en,On switch stuck
+restart_5648,The Restart Project,GBR,8,On/Off button,Tablet,Hannspree,Repairable,????,2017-07-15,en,"Won't switch on - was dropped. Works, but power button is still faulty. Advised wait and see for Sugru"
+restart_8613,The Restart Project,GBR,8,On/Off button,Tablet,linx,End of life,????,2018-06-09,en,wont turn on
+rcint_12760,Repair Café International,NLD,26,Other,Tablet,GlobalTronics,End of life,2008,2018-12-29,nl,maakt geen contact met buitensensor
+rcint_24936,Repair Café International,DEU,26,Other,Tablet,TomTom,Fixed,????,2019-11-09,de,Findet kein GPS
+restart_10198,The Restart Project,HKG,26,Other,Tablet,Apple,Fixed,2017,2018-11-11,en,Cracked screen protector - protector removed
+restart_12588,The Restart Project,CAN,26,Other,Tablet,Unknown,End of life,????,2019-04-11,en,Trouble connecting to a bluetooth faulty keyboard
+restart_14343,The Restart Project,SWE,26,Other,Tablet,Samsung,End of life,????,2019-08-04,en,"Completely broken, used only for spare parts."
+restart_14618,The Restart Project,CAN,26,Other,Tablet,Unknown,Repairable,????,2019-09-12,en,Problem with connected keyboard
+restart_6097,The Restart Project,GBR,26,Other,Tablet,Amazon,Repairable,????,2017-09-26,en,"Kindle that was stuttering when playing internet video It worked fine at Little House, so Briony concluded it must be her home broadband connection https://wiki.richmondmakerlabs.uk/index.php/Blog_2017#2017-09-26_Tuesday"
+restart_2522,The Restart Project,GBR,10,Other buttons,Tablet,Apple,Repairable,????,2016-04-09,en,IPAD - faulty button
+restart_6497,The Restart Project,GBR,10,Other buttons,Tablet,Apple,Repairable,????,2017-11-11,en,Defective home button - Advice given on how to source replacement home screen (4 years old)
+rcint_13874,Repair Café International,GBR,21,Performance,Tablet,Apple,Fixed,????,2019-01-26,en,Very slow
+rcint_16004,Repair Café International,GBR,21,Performance,Tablet,Unknown,Fixed,????,2019-03-23,en,Freezes
+rcint_21015,Repair Café International,NLD,21,Performance,Tablet,Asus,Repairable,2013,2019-09-07,nl,Te traag
+rcint_21167,Repair Café International,NLD,21,Performance,Tablet,Samsung,Repairable,????,2019-09-07,nl,is traag
+rcwales_356,Repair Cafe Wales,GBR,21,Performance,Tablet,Unknown,Unknown,????,2018-04-01,en,tablet slow
+restart_11171,The Restart Project,IRL,21,Performance,Tablet,Prestige,Repairable,????,2019-02-02,en,Memory needed
+restart_11695,The Restart Project,CAN,21,Performance,Tablet,Unknown,Fixed,????,2019-02-21,en,Slow
+restart_11696,The Restart Project,CAN,21,Performance,Tablet,Unknown,Fixed,????,2019-02-21,en,Slow
+restart_12006,The Restart Project,GBR,21,Performance,Tablet,Apple,Repairable,2012,2019-03-10,en,Slow to save images iCloud.
+restart_12202,The Restart Project,CAN,21,Performance,Tablet,Unknown,Fixed,????,2019-03-22,en,Slow tablet got optimised!
+restart_12785,The Restart Project,CAN,21,Performance,Tablet,Apple,Fixed,????,2019-04-23,en,Slow...
+restart_12787,The Restart Project,CAN,21,Performance,Tablet,Apple,Fixed,????,2019-04-23,en,Disk full + slow or malfunctioning apps
+restart_12789,The Restart Project,CAN,21,Performance,Tablet,Apple,Fixed,????,2019-04-23,en,Slow
+restart_13135,The Restart Project,CAN,21,Performance,Tablet,Unknown,Fixed,????,2019-05-14,en,Slow tablet got optimised!
+restart_14615,The Restart Project,CAN,21,Performance,Tablet,Unknown,Repairable,????,2019-09-12,en,Slow
+restart_14617,The Restart Project,CAN,21,Performance,Tablet,Unknown,Fixed,????,2019-09-12,en,Optimised a slow tablet!
+restart_15197,The Restart Project,GBR,21,Performance,Tablet,Samsung,Fixed,2013,2019-10-14,en,Keeps freezing. Too many apps running. They have been stopped and owner will delete apps that are not used.
+restart_15541,The Restart Project,CAN,21,Performance,Tablet,Apple,Fixed,2015,2019-10-30,en,Slow device got optimised!
+restart_16065,The Restart Project,BEL,21,Performance,Tablet,Apple,Fixed,????,2019-11-29,en,Very slow starting up
+restart_16848,The Restart Project,GBR,21,Performance,Tablet,Samsung,Fixed,2015,2020-02-01,en,"Running very slowly:solution: Tidied and uninstalled unnecessary apps, cleared cache, updated operating system"
+restart_1687,The Restart Project,GBR,21,Performance,Tablet,Unknown,Fixed,????,2015-09-08,en,Running slow
+restart_16975,The Restart Project,GBR,21,Performance,Tablet,Samsung,Fixed,2016,2020-02-03,en,running slow. CCleaner used.
+restart_1728,The Restart Project,GBR,21,Performance,Tablet,Unknown,Repairable,????,2015-09-26,en,Slow
+restart_1747,The Restart Project,ITA,21,Performance,Tablet,Samsung,Fixed,????,2015-09-27,en,Rooting and deletion of default app that slow down the device
+restart_2310,The Restart Project,GBR,21,Performance,Tablet,ASUS,Fixed,????,2016-03-04,en,running slow - needed a factory reset
+restart_2314,The Restart Project,GBR,21,Performance,Tablet,ASUS,Fixed,????,2016-03-04,en,running slow
+restart_3833,The Restart Project,GBR,21,Performance,Tablet,Apple,Fixed,????,2016-11-22,en,Running slow
+restart_3848,The Restart Project,GBR,21,Performance,Tablet,Unknown,Fixed,????,2016-11-23,en,Slow
+restart_444,The Restart Project,GBR,21,Performance,Tablet,Apple,Fixed,????,2014-02-19,en,Tablet - Running slow -
+restart_4489,The Restart Project,GBR,21,Performance,Tablet,Apple,Repairable,????,2017-03-08,en,"Programmes crashing, running slow - lots of advice on things to try"
+restart_8341,The Restart Project,GBR,21,Performance,Tablet,Apple,End of life,????,2018-05-19,en,Slow - problem explained
+restart_9335,The Restart Project,CAN,21,Performance,Tablet,Unknown,Fixed,????,2018-09-28,en,Slow
+restart_9353,The Restart Project,CAN,21,Performance,Tablet,Apple,Fixed,????,2018-09-28,en,Slow
+restart_9359,The Restart Project,CAN,21,Performance,Tablet,Unknown,Fixed,????,2018-09-28,en,Slow
+restart_9813,The Restart Project,CAN,21,Performance,Tablet,Unknown,Repairable,????,2018-10-24,en,Slow
+restart_9823,The Restart Project,CAN,21,Performance,Tablet,Unknown,Fixed,????,2018-10-24,en,SLow
+anstiftung_4535,anstiftung,DEU,25,Poor data,Tablet,Unknown,Unknown,????,2020-01-07,de,Reparaturnummer 98funktioniert nicht
+anstiftung_5049,anstiftung,DEU,25,Poor data,Tablet,Samsung,Unknown,????,2020-03-01,de,"läd nicht mehr, Fehler konnte nicht gefunden werden"
+fixitclinic_145,Fixit Clinic,USA,25,Poor data,Tablet,Google,Fixed,????,2018-07-02,en,Android Tablet
+fixitclinic_307,Fixit Clinic,USA,25,Poor data,Tablet,Garmin,Unknown,????,2019-01-10,en,GPS
+fixitclinic_310,Fixit Clinic,USA,25,Poor data,Tablet,Nexus,Repairable,2013,2019-01-12,en,tablet ~ not turning on
+fixitclinic_314,Fixit Clinic,USA,25,Poor data,Tablet,Nexus,End of life,????,2019-01-12,en,Tablet
+fixitclinic_358,Fixit Clinic,USA,25,Poor data,Tablet,Samsung,Repairable,????,2019-02-01,en,Tablet
+fixitclinic_428,Fixit Clinic,USA,25,Poor data,Tablet,Apple,Repairable,????,2019-04-23,en,ipad
+rcint_13203,Repair Café International,NLD,25,Poor data,Tablet,Asus,Fixed,2014,2019-01-10,nl,doet het niet
+rcint_13508,Repair Café International,NLD,25,Poor data,Tablet,Denver,End of life,????,2019-01-24,nl,reageert niet
+rcint_13811,Repair Café International,GBR,25,Poor data,Tablet,Unknown,Fixed,????,2019-01-26,en,Not working
+rcint_14200,Repair Café International,NLD,25,Poor data,Tablet,Samsung,Repairable,2011,2019-02-02,nl,doet het niet meer
+rcint_14526,Repair Café International,NLD,25,Poor data,Tablet,Koho,Repairable,????,2019-02-09,nl,Laadt niet meer op
+rcint_14809,Repair Café International,NLD,25,Poor data,Tablet,Kobo,Fixed,????,2019-02-22,nl,Doet het niet meer
+rcint_15610,Repair Café International,NLD,25,Poor data,Tablet,Unknown,Fixed,????,2019-03-09,nl,Werkt niet goed
+rcint_18305,Repair Café International,GBR,25,Poor data,Tablet,NOVA,Fixed,????,2019-05-18,en,"no, didn't look for it"
+rcint_18363,Repair Café International,GBR,25,Poor data,Tablet,Amazon,End of life,????,2019-05-18,en,Not turning on
+rcint_18652,Repair Café International,NLD,25,Poor data,Tablet,Sony,Repairable,????,2019-06-01,nl,werkt niet
+rcint_18996,Repair Café International,NLD,25,Poor data,Tablet,Samsung,End of life,????,2019-06-06,nl,gaat niet meer aan
+rcint_21300,Repair Café International,NLD,25,Poor data,Tablet,TomTom,Repairable,2009,2019-09-07,nl,selecteert niet meer
+rcint_22396,Repair Café International,GBR,25,Poor data,Tablet,Unknown,End of life,????,2019-09-28,en,Not working
+rcint_247,Repair Café International,NLD,25,Poor data,Tablet,China electronics,End of life,????,2017-02-04,de,kabelbreuk
+rcint_25024,Repair Café International,NLD,25,Poor data,Tablet,Tom-Tec,End of life,2009,2019-11-11,nl,werkt niet meer
+rcint_25579,Repair Café International,GBR,25,Poor data,Tablet,TomTom,Fixed,????,2019-11-23,en,Stopped working
+rcint_25580,Repair Café International,GBR,25,Poor data,Tablet,TomTom,End of life,????,2019-11-23,en,Stopped working
+rcint_26662,Repair Café International,GBR,25,Poor data,Tablet,Samsung,Repairable,????,2019-12-07,en,turns itself off
+rcint_26668,Repair Café International,GBR,25,Poor data,Tablet,Samsung,End of life,????,2019-12-07,en,unable to switch on
+rcint_27813,Repair Café International,NLD,25,Poor data,Tablet,Samsung,Fixed,????,2020-01-11,nl,Weet niet hoe het werkt
+rcint_28030,Repair Café International,NLD,25,Poor data,Tablet,Difrince,Repairable,????,2020-01-17,nl,"Doet het niet, ook niet na opladen."
+rcint_28223,Repair Café International,GBR,25,Poor data,Tablet,Tesco,Fixed,????,2020-01-18,en,charges up but does not turn on
+rcint_28665,Repair Café International,CAN,25,Poor data,Tablet,Apple,Fixed,2013,2020-01-25,en,put new frame on
+rcint_2873,Repair Café International,NLD,25,Poor data,Tablet,Unknown,Fixed,2000,2017-10-23,nl,Slijtage
+rcint_29693,Repair Café International,NLD,25,Poor data,Tablet,Unknown,End of life,2016,2020-02-12,nl,vastgelopen
+rcint_30205,Repair Café International,GBR,25,Poor data,Tablet,Apple,Repairable,????,2020-02-15,en,Virus?
+rcint_4395,Repair Café International,NLD,25,Poor data,Tablet,Kobo,End of life,2013,2018-01-13,nl,Onbekend
+rcint_5471,Repair Café International,NLD,25,Poor data,Tablet,Kobo,End of life,????,2018-03-03,nl,verlichting toets?
+rcint_6034,Repair Café International,NLD,25,Poor data,Tablet,Unknown,End of life,????,2018-03-31,nl,doet niks meer
+rcint_7473,Repair Café International,NLD,25,Poor data,Tablet,TomTom,End of life,????,2018-06-02,nl,2e fase reparatie
+rcint_7590,Repair Café International,NLD,25,Poor data,Tablet,TomTom,End of life,2002,2018-06-02,nl,Onbekend
+rcwales_1316,Repair Cafe Wales,GBR,25,Poor data,Tablet,acer tablet,End of life,????,2019-06-01,en,acer tablet won't stay on
+rcwales_1357,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,End of life,????,2019-10-01,en,"iPad, iPhone can't switch on"
+rcwales_1605,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,End of life,????,2019-04-01,en,Sat Nav Can't switch on
+rcwales_1622,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,Fixed,????,2019-05-01,en,sat nav not working
+rcwales_1966,Repair Cafe Wales,GBR,25,Poor data,Tablet,Samsung,End of life,????,2019-11-01,en,samsung tablet device not charging
+rcwales_197,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,Repairable,????,2017-10-01,en,tablet
+rcwales_20,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,End of life,????,2017-04-01,en,tablet Screen replace but now not working
+rcwales_2240,Repair Cafe Wales,GBR,25,Poor data,Tablet,Samsung,End of life,????,2019-11-01,en,tablet don't know
+rcwales_3250,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,End of life,????,2019-04-01,en,Tablet Screen won't turn on
+rcwales_327,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,Fixed,????,2018-03-01,en,Samsung Tablet Not working at all
+rcwales_3308,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,End of life,????,2020-01-01,en,kindle wont turn on screen looks strange
+rcwales_3819,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,End of life,????,2020-02-01,en,phone and tablet
+rcwales_3828,Repair Cafe Wales,GBR,25,Poor data,Tablet,kindle,Fixed,????,2020-01-01,en,kindle wouldn’t start
+rcwales_4444,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,Fixed,????,2020-01-01,en,I pad
+rcwales_4451,Repair Cafe Wales,GBR,25,Poor data,Tablet,Unknown,End of life,????,2020-02-01,en,Samsung Galaxy tablet not turning on
+restart_10105,The Restart Project,GBR,25,Poor data,Tablet,TomTom,Repairable,2008,2018-11-10,en,No function.  Advice given - reset
+restart_10445,The Restart Project,NOR,25,Poor data,Tablet,Samsung,End of life,2014,2018-11-21,en,Won't turn on
+restart_10462,The Restart Project,ISL,25,Poor data,Tablet,Apple,Fixed,2013,2018-11-22,en,Connectivity issues
+restart_10908,The Restart Project,GBR,25,Poor data,Tablet,Samsung,Fixed,2014,2019-01-13,en,wouldn't power on
+restart_11173,The Restart Project,IRL,25,Poor data,Tablet,Samsung,End of life,????,2019-02-02,en,Not turning on
+restart_11208,The Restart Project,GBR,25,Poor data,Tablet,Unknown,Repairable,2015,2019-02-02,en,Not working
+restart_11686,The Restart Project,CAN,25,Poor data,Tablet,Apple,Fixed,????,2019-02-21,en,Not booting
+restart_12213,The Restart Project,CAN,25,Poor data,Tablet,Unknown,Repairable,????,2019-03-22,en,Bugged device that kept shutting down
+restart_1228,The Restart Project,ITA,25,Poor data,Tablet,Unknown,Fixed,????,2015-02-28,en,Satellite navigator
+restart_12308,The Restart Project,IRL,25,Poor data,Tablet,Lenovo,Repairable,????,2019-03-23,en,Tablet does not charge
+restart_1261,The Restart Project,GBR,25,Poor data,Tablet,Amazon,End of life,????,2015-03-21,en,Tablet - No sign of life -
+restart_12631,The Restart Project,GBR,25,Poor data,Tablet,TomTom,Repairable,2012,2019-04-13,en,No connection
+restart_12946,The Restart Project,NOR,25,Poor data,Tablet,Denver,End of life,2014,2019-04-30,en,"""Dead"""
+restart_1298,The Restart Project,ITA,25,Poor data,Tablet,Unknown,Fixed,????,2015-03-28,en,Exact weight 0.3 kg
+restart_1323,The Restart Project,GBR,25,Poor data,Tablet,Motorola,Fixed,????,2015-04-07,en,Tablet - Does not charge -
+restart_13615,The Restart Project,NOR,25,Poor data,Tablet,Samsung,End of life,2017,2019-06-02,en,Black screen
+restart_13627,The Restart Project,GBR,25,Poor data,Tablet,Amazon,Fixed,2012,2019-06-03,en,Screen not responsive. Reset
+restart_13635,The Restart Project,ITA,25,Poor data,Tablet,ASUS,End of life,????,2019-06-06,en,dosen't turn on
+restart_1402,The Restart Project,GBR,25,Poor data,Tablet,Unknown,End of life,????,2015-05-05,en,Tablet - Doesn't boot -
+restart_14296,The Restart Project,GBR,25,Poor data,Tablet,Tesco,End of life,2014,2019-07-29,en,New charge card didn't work. Tablet scrapped and recycled one supplied.
+restart_14501,The Restart Project,GBR,25,Poor data,Tablet,Samsung,Repairable,????,2019-09-07,en,Glitching.  Diagnosed deeper problem than just screen .  User refered to iFix.
+restart_14911,The Restart Project,NOR,25,Poor data,Tablet,Apple,Fixed,????,2019-09-28,en,needs to be rebooted
+restart_15439,The Restart Project,CAN,25,Poor data,Tablet,Unknown,Repairable,????,2019-10-23,en,Not booting
+restart_15552,The Restart Project,CAN,25,Poor data,Tablet,Unknown,Repairable,????,2019-10-30,en,Not booting
+restart_15667,The Restart Project,NOR,25,Poor data,Tablet,Apple,Repairable,2013,2019-11-09,en,"""dead"""
+restart_16116,The Restart Project,ESP,25,Poor data,Tablet,LG,Fixed,????,2019-12-03,en,Not turning on.
+restart_16239,The Restart Project,GBR,25,Poor data,Tablet,Logicom,Repairable,????,2019-12-09,en,Not working
+restart_1729,The Restart Project,GBR,25,Poor data,Tablet,Unknown,Repairable,????,2015-09-26,en,"Slow, won't switch on"
+restart_17309,The Restart Project,GBR,25,Poor data,Tablet,Hannspree,Repairable,2013,2020-02-16,en,Doesn't power on.
+restart_17431,The Restart Project,BEL,25,Poor data,Tablet,Medion,Fixed,????,2020-02-22,nl,kleur
+restart_1827,The Restart Project,GBR,25,Poor data,Tablet,Unknown,Repairable,????,2015-10-31,en,does not switch on - no issue with battery/ microsocket - individual happy with advice received
+restart_1835,The Restart Project,GBR,25,Poor data,Tablet,Apple,Repairable,????,2015-10-31,en,to bring to apple store
+restart_2024,The Restart Project,GBR,25,Poor data,Tablet,Amazon,Repairable,????,2015-12-12,en,Kindle - the spare part were still missing
+restart_2026,The Restart Project,GBR,25,Poor data,Tablet,Samsung,Fixed,????,2015-12-12,en,Not charging
+restart_2027,The Restart Project,GBR,25,Poor data,Tablet,Samsung,Repairable,????,2015-12-12,en,Not turning on
+restart_2041,The Restart Project,GBR,25,Poor data,Tablet,Apple,Repairable,????,2015-12-15,en,Not charging
+restart_2045,The Restart Project,GBR,25,Poor data,Tablet,Amazon,Repairable,????,2015-12-15,en,Not charging - advised to contact manufacturer
+restart_2523,The Restart Project,GBR,25,Poor data,Tablet,Amazon,Repairable,????,2016-04-09,en,loses
+restart_2708,The Restart Project,GBR,25,Poor data,Tablet,Apple,Repairable,????,2016-05-18,en,Doesn't charge. Participant left early not enough time
+restart_2897,The Restart Project,GBR,25,Poor data,Tablet,Apple,Fixed,????,2016-06-11,en,Doesn't turn on or work at all.
+restart_303,The Restart Project,GBR,25,Poor data,Tablet,Unknown,End of life,????,2013-12-15,en,Tablet - Not charging -
+restart_3039,The Restart Project,ARG,25,Poor data,Tablet,Unknown,Fixed,????,2016-07-02,en,0.5kg
+restart_3451,The Restart Project,GBR,25,Poor data,Tablet,Amazon,Fixed,????,2016-10-22,en,Does not turn on
+restart_3533,The Restart Project,NOR,25,Poor data,Tablet,Unknown,End of life,????,2016-11-02,en,Froze
+restart_3691,The Restart Project,GBR,25,Poor data,Tablet,Unknown,Repairable,????,2016-11-16,en,Won't start
+restart_3742,The Restart Project,GBR,25,Poor data,Tablet,Nokia,Repairable,????,2016-11-19,en,One side not working. Advice given.
+restart_3792,The Restart Project,ARG,25,Poor data,Tablet,Unknown,End of life,????,2016-11-19,en,0.6kg
+restart_3796,The Restart Project,ARG,25,Poor data,Tablet,Unknown,Fixed,????,2016-11-19,en,0.4kg
+restart_3835,The Restart Project,GBR,25,Poor data,Tablet,Unknown,Fixed,????,2016-11-22,en,"Mac mini - want to recover parts, did this"
+restart_3980,The Restart Project,GBR,25,Poor data,Tablet,ASUS,Fixed,????,2016-12-03,en,Restarting often - NO OUTCOME RECORDED
+restart_4187,The Restart Project,GBR,25,Poor data,Tablet,Unknown,Fixed,????,2017-01-28,en,Not working - part replaced
+restart_4584,The Restart Project,GBR,25,Poor data,Tablet,Unknown,Repairable,????,2017-03-19,en,Advised on where to get fixed
+restart_5134,The Restart Project,GBR,25,Poor data,Tablet,Unknown,End of life,????,2017-05-20,en,"Kindle. Much testing. Battery, charger & switch all okay. So, main board or screen faulty."
+restart_5181,The Restart Project,GBR,25,Poor data,Tablet,TomTom,End of life,????,2017-05-24,en,car navigation aid
+restart_519,The Restart Project,GBR,25,Poor data,Tablet,Samsung,Fixed,????,2014-03-29,en,Ebook reader - Botched repair -
+restart_5417,The Restart Project,NOR,25,Poor data,Tablet,Apple,Repairable,????,2017-06-17,en,No result.
+restart_5442,The Restart Project,ARG,25,Poor data,Tablet,Unknown,Fixed,????,2017-06-24,en,0.3kg
+restart_551,The Restart Project,GBR,25,Poor data,Tablet,Unknown,Repairable,????,2014-04-12,en,Not charging properly
+restart_5746,The Restart Project,ARG,25,Poor data,Tablet,Unknown,Fixed,????,2017-08-05,en,0.4kg
+restart_5749,The Restart Project,ARG,25,Poor data,Tablet,Unknown,Repairable,????,2017-08-05,en,0.3kg
+restart_5926,The Restart Project,GBR,25,Poor data,Tablet,Samsung,Repairable,????,2017-09-09,en,housekeeping to improve functionality
+restart_6170,The Restart Project,GBR,25,Poor data,Tablet,Apple,Fixed,????,2017-10-07,en,Ghost typing
+restart_6340,The Restart Project,GBR,25,Poor data,Tablet,Amazon,Repairable,????,2017-10-25,en,"Device will not turn on. Probably still in warranty, customer to investigate."
+restart_6381,The Restart Project,GBR,25,Poor data,Tablet,Argos,End of life,????,2017-10-28,en,Doesn't start
+restart_6498,The Restart Project,GBR,25,Poor data,Tablet,Tesco,End of life,2015,2017-11-11,en,Completely dead - reworked battery but still dead
+restart_6717,The Restart Project,NOR,25,Poor data,Tablet,TomTom,End of life,????,2017-11-25,en,GPS machine
+restart_6720,The Restart Project,NOR,25,Poor data,Tablet,Apple,Repairable,2010,2017-11-25,en,No result
+restart_6777,The Restart Project,GBR,25,Poor data,Tablet,Palm,Fixed,????,2017-12-02,en,small handheld computer (POA). never seen one before!
+restart_6892,The Restart Project,GBR,25,Poor data,Tablet,Unknown,Repairable,????,2017-12-09,en,won't turn on
+restart_6906,The Restart Project,GBR,25,Poor data,Tablet,Tesco,End of life,????,2017-12-18,en,Does not turn on
+restart_7093,The Restart Project,GBR,25,Poor data,Tablet,Apple,End of life,????,2018-02-03,en,Not starting up
+restart_7281,The Restart Project,CAN,25,Poor data,Tablet,Unknown,Repairable,????,2018-02-22,en,Game center
+restart_7569,The Restart Project,CAN,25,Poor data,Tablet,Unknown,Repairable,????,2018-03-22,fr,N'allume pas
+restart_7589,The Restart Project,USA,25,Poor data,Tablet,Acer,Repairable,????,2018-03-24,en,wont boot up
+restart_7616,The Restart Project,GBR,25,Poor data,Tablet,Apple,Repairable,????,2018-03-25,en,"No activity but drawing current. Tried reset but didn't work.Advised to try a DFOU reset at home (needs ITunes), then local repairer."
+restart_7662,The Restart Project,CAN,25,Poor data,Tablet,Unknown,Fixed,????,2018-04-05,en,Bug
+restart_9812,The Restart Project,CAN,25,Poor data,Tablet,Unknown,End of life,????,2018-10-24,en,Power/boot
+anstiftung_4687,anstiftung,DEU,1,Power/battery,Tablet,Unknown,Repairable,????,2019-10-16,de,Akku tot
+anstiftung_5456,anstiftung,DEU,1,Power/battery,Tablet,Samsung,Fixed,2017,2020-07-23,de,"Der Akku war schwach. Die Besitzerin hatte schon ein Ersatzteil mit, so konnten wir ihn gleich austauschen. Nach einer Anleitung aus dem Internet gelang das recht schnell."
+anstiftung_5457,anstiftung,DEU,1,Power/battery,Tablet,Sigma,Fixed,2012,2020-07-23,de,"Er zeigte nichts mehr an. Wir untersuchten ihn und besonders die Batterie. Die CR2032 hat kaum noch Spannung, musste also ausgetauscht werden. Danach funktionierte das Teil wieder gut."
+fixitclinic_119,Fixit Clinic,USA,1,Power/battery,Tablet,Amazon / Apple,Repairable,2008,2018-04-27,en,tablet and ipod ~ Won't turn on / won't charge
+fixitclinic_308,Fixit Clinic,USA,1,Power/battery,Tablet,Apple,Fixed,????,2019-01-10,en,tablet ~ needed new battery
+rcint_11207,Repair Café International,NLD,1,Power/battery,Tablet,Samsung,Fixed,2008,2018-11-03,nl,Batterij overzetten
+rcint_13384,Repair Café International,NLD,1,Power/battery,Tablet,Unknown,Fixed,????,2019-01-12,nl,Batterij leeg
+rcint_14973,Repair Café International,NLD,1,Power/battery,Tablet,TomTom,Fixed,????,2019-02-23,nl,Accu kapot
+rcint_17051,Repair Café International,GBR,1,Power/battery,Tablet,Apple,Repairable,????,2019-04-13,en,Not charging
+rcint_20367,Repair Café International,USA,1,Power/battery,Tablet,Apple,Fixed,????,2019-07-27,en,doesn't charge
+rcint_26480,Repair Café International,NLD,1,Power/battery,Tablet,Kobo,End of life,????,2019-12-07,nl,batterij waarschijnlijk stuk
+rcint_4816,Repair Café International,NLD,1,Power/battery,Tablet,Autovision,Repairable,2012,2018-02-03,nl,accuspanning te laag
+rcint_508,Repair Café International,NLD,1,Power/battery,Tablet,TomTom,Fixed,????,2017-03-17,nl,oxide van batterijen
+rcint_9849,Repair Café International,NLD,1,Power/battery,Tablet,Sony,Repairable,????,2018-09-29,nl,wil graag open kunnen maken om batterij te vervangen
+rcwales_1597,Repair Cafe Wales,GBR,1,Power/battery,Tablet,Unknown,Fixed,????,2019-04-01,en,Tablet Does not charge
+rcwales_1965,Repair Cafe Wales,GBR,1,Power/battery,Tablet,Unknown,End of life,????,2019-11-01,en,ipads not charging
+rcwales_1969,Repair Cafe Wales,GBR,1,Power/battery,Tablet,Amazon,Fixed,????,2019-11-01,en,amazon kindle wouldn't charge
+rcwales_2062,Repair Cafe Wales,GBR,1,Power/battery,Tablet,Amazon,Repairable,????,2019-03-01,en,Kindle Will not re-charge
+rcwales_2829,Repair Cafe Wales,GBR,1,Power/battery,Tablet,Samsung,Repairable,????,2019-09-01,en,tablet won't hold charge
+rcwales_3240,Repair Cafe Wales,GBR,1,Power/battery,Tablet,Samsung,Repairable,????,2019-03-01,en,tablet not charging
+rcwales_3244,Repair Cafe Wales,GBR,1,Power/battery,Tablet,Unknown,Fixed,????,2019-03-01,en,x1 Phone and x1 Tablet Won't charge and dead
+rcwales_3753,Repair Cafe Wales,GBR,1,Power/battery,Tablet,Amazon,End of life,????,2020-01-01,en,tablet not charging
+rcwales_4188,Repair Cafe Wales,GBR,1,Power/battery,Tablet,Unknown,Fixed,????,2020-03-01,en,satnav won't charge
+rcwales_4394,Repair Cafe Wales,GBR,1,Power/battery,Tablet,Amazon,End of life,????,2020-02-01,en,tablet not switching on
+restart_10045,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2018-11-07,en,Charging/power
+restart_10425,The Restart Project,NOR,1,Power/battery,Tablet,Lenovo,End of life,2017,2018-11-21,en,Doesn't charge
+restart_10919,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2019-01-17,en,Power/charing problem
+restart_11149,The Restart Project,BEL,1,Power/battery,Tablet,Unknown,Fixed,2016,2019-01-26,en,Doe snot strat up: battery broken. Does work when linked to power supply
+restart_11411,The Restart Project,BEL,1,Power/battery,Tablet,Archos,End of life,2019,2019-02-14,en,Does not charge
+restart_11758,The Restart Project,IRL,1,Power/battery,Tablet,Apple,Repairable,????,2019-02-23,en,Battery not working; needs replacement
+restart_11836,The Restart Project,NOR,1,Power/battery,Tablet,Samsung,End of life,2014,2019-03-02,en,Doesn't charge
+restart_11837,The Restart Project,NOR,1,Power/battery,Tablet,Cisco,End of life,2014,2019-03-02,en,Doesn't charge
+restart_11869,The Restart Project,HKG,1,Power/battery,Tablet,Samsung,Repairable,????,2019-03-03,en,Battery drains too quickly; device shuts down at 20% battery life. Battery replacement needed
+restart_11889,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2019-03-06,en,Not booting/charging
+restart_11890,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,End of life,????,2019-03-06,en,Battery problem
+restart_12040,The Restart Project,ITA,1,Power/battery,Tablet,Mediacom,Repairable,2014,2019-03-14,en,Doesn't charge battery. Battery is dead but could be easily replaced...
+restart_12065,The Restart Project,GBR,1,Power/battery,Tablet,Hudl,Repairable,????,2019-03-16,en,"Unable to charge / couldn't find fault, returning when more time"
+restart_12158,The Restart Project,HKG,1,Power/battery,Tablet,Amazon,End of life,????,2019-03-17,en,"Perpetual ""need charging"" message; cannot reboot or power on/of"
+restart_12209,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2019-03-22,en,Not booting : the battery seemd faulty and need to be changed
+restart_12306,The Restart Project,IRL,1,Power/battery,Tablet,Apple,End of life,????,2019-03-23,en,Battery Not Charging; Needs Replacement
+restart_12402,The Restart Project,HKG,1,Power/battery,Tablet,Samsung,Repairable,2018,2019-03-31,en,Needs new battery
+restart_12598,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2019-04-11,en,Device not charging
+restart_12725,The Restart Project,HKG,1,Power/battery,Tablet,Samsung,Repairable,2014,2019-04-14,en,Unstable battery; requires replacing
+restart_12820,The Restart Project,GBR,1,Power/battery,Tablet,Samsung,Repairable,2013,2019-04-24,en,not charging
+restart_12944,The Restart Project,NOR,1,Power/battery,Tablet,Apple,Fixed,2012,2019-04-30,en,Battery change
+restart_12979,The Restart Project,HKG,1,Power/battery,Tablet,Samsung,Fixed,2014,2019-05-05,en,battery level fluctuations; charges upto certani level
+restart_131,The Restart Project,GBR,1,Power/battery,Tablet,Unknown,Fixed,????,2013-09-14,en,Tablet - Battery issue -
+restart_13390,The Restart Project,GBR,1,Power/battery,Tablet,Amazon,Repairable,????,2019-05-25,en,kindle isnt charging. new battery needed
+restart_13624,The Restart Project,GBR,1,Power/battery,Tablet,Arnova,End of life,2011,2019-06-03,en,Not charging
+restart_13694,The Restart Project,GBR,1,Power/battery,Tablet,Unknown,Unknown,????,2019-06-08,en,Not charging properly.
+restart_13776,The Restart Project,ITA,1,Power/battery,Tablet,Unknown,Repairable,????,2019-06-09,en,Battery
+restart_14174,The Restart Project,GBR,1,Power/battery,Tablet,Tesco,End of life,????,2019-07-15,en,won't charge
+restart_14179,The Restart Project,GBR,1,Power/battery,Tablet,Tesco,Repairable,2014,2019-07-15,en,Battery not charging
+restart_14225,The Restart Project,GBR,1,Power/battery,Tablet,Kindle,Fixed,2016,2019-07-20,en,battery replacement
+restart_14387,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2019-08-15,en,Sudden shutdown
+restart_14467,The Restart Project,IRL,1,Power/battery,Tablet,Unknown,Repairable,????,2019-08-31,en,Not powering up
+restart_14486,The Restart Project,GBR,1,Power/battery,Tablet,Acer,Repairable,2018,2019-09-02,en,Won't charge
+restart_14518,The Restart Project,GBR,1,Power/battery,Tablet,Yaarvick,Repairable,????,2019-09-07,en,Not working.  Found needs new battery.
+restart_14637,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Fixed,????,2019-09-12,en,Battery
+restart_14647,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2019-09-12,en,Change battery
+restart_14818,The Restart Project,IRL,1,Power/battery,Tablet,Apple,Repairable,????,2019-09-25,en,Not powering up
+restart_14976,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2019-09-28,en,Device would restart every now and then : battry seems faulty
+restart_15553,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2019-10-30,en,Not booting
+restart_15723,The Restart Project,HKG,1,Power/battery,Tablet,Samsung,Repairable,2016,2019-11-10,en,Battery replaced by a third party. Still drains. Ordered new battery
+restart_16152,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Fixed,????,2019-12-05,en,Battery draining fast + Messenger bug
+restart_16155,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2019-12-05,en,Not charging
+restart_16630,The Restart Project,GBR,1,Power/battery,Tablet,Google,Repairable,????,2020-01-19,en,New battery required
+restart_17564,The Restart Project,ESP,1,Power/battery,Tablet,Samsung,Repairable,2018,2020-06-15,en,Not starting
+restart_2031,The Restart Project,GBR,1,Power/battery,Tablet,Amazon,Fixed,????,2015-12-15,en,Just needs a new battery
+restart_2410,The Restart Project,GBR,1,Power/battery,Tablet,Samsung,Fixed,????,2016-03-16,en,Tablet - Doesn't power at times
+restart_2513,The Restart Project,GBR,1,Power/battery,Tablet,Unknown,Repairable,????,2016-04-09,en,wont charge
+restart_297,The Restart Project,GBR,1,Power/battery,Tablet,Apple,Repairable,????,2013-12-15,en,Tablet - No power - Lead works; battery problem
+restart_3345,The Restart Project,GBR,1,Power/battery,Tablet,Unknown,End of life,????,2016-10-01,en,No power
+restart_3876,The Restart Project,GBR,1,Power/battery,Tablet,Unknown,End of life,????,2016-11-24,en,Not holding charge
+restart_409,The Restart Project,GBR,1,Power/battery,Tablet,Apple,Fixed,????,2014-02-19,en,Tablet - No power -
+restart_4163,The Restart Project,GBR,1,Power/battery,Tablet,TomTom,Repairable,????,2017-01-28,en,Sat Nav - car charging problem
+restart_423,The Restart Project,GBR,1,Power/battery,Tablet,Unknown,Fixed,????,2014-02-19,en,Tablet - Power in loose - Needs new power supply
+restart_426,The Restart Project,GBR,1,Power/battery,Tablet,Apple,Fixed,????,2014-02-19,en,Tablet - Intermittent power -
+restart_4460,The Restart Project,NOR,1,Power/battery,Tablet,Samsung,Fixed,????,2017-03-04,en,Does not charge
+restart_4522,The Restart Project,GBR,1,Power/battery,Tablet,Nexus,Repairable,????,2017-03-18,en,Not charging. Might be working!
+restart_4534,The Restart Project,GBR,1,Power/battery,Tablet,ASUS,Repairable,????,2017-03-18,en,Not turning on. Charge it and see.
+restart_4881,The Restart Project,GBR,1,Power/battery,Tablet,ASUS,Repairable,????,2017-04-22,en,"No power - checks done. Battery in Deep Sleep state. Restarter offered to take and fix, likely to be repairable"
+restart_5523,The Restart Project,GBR,1,Power/battery,Tablet,Samsung,Repairable,????,2017-06-24,en,Won't turn on. Battery needs changing.
+restart_5568,The Restart Project,ITA,1,Power/battery,Tablet,ASUS,Repairable,????,2017-06-30,en,Changed battery
+restart_6077,The Restart Project,GBR,1,Power/battery,Tablet,Garmin,Fixed,????,2017-09-23,en,Navigator - doesn't charge
+restart_6176,The Restart Project,GBR,1,Power/battery,Tablet,Samsung,Fixed,????,2017-10-07,en,Doesn't charge
+restart_6265,The Restart Project,GBR,1,Power/battery,Tablet,Unknown,Fixed,????,2017-10-21,en,The battery came disconnected. We helped reconnect.
+restart_6341,The Restart Project,GBR,1,Power/battery,Tablet,Amazon,End of life,????,2017-10-25,en,device will not turn on. was too hard for our team
+restart_6430,The Restart Project,GBR,1,Power/battery,Tablet,Lenovo,Fixed,????,2017-11-04,en,No poweer - Dead
+restart_6449,The Restart Project,GBR,1,Power/battery,Tablet,ASUS,Repairable,????,2017-11-04,en,No power
+restart_6661,The Restart Project,GBR,1,Power/battery,Tablet,Samsung,Repairable,????,2017-11-25,en,arrived dismantled. new battery but won't power up. ribbon cable to screen had been torn from connection. owner to try external monitor to save data.
+restart_6779,The Restart Project,GBR,1,Power/battery,Tablet,Samsung,Fixed,????,2017-12-02,en,"Unreliable power, re-connected backlight - worked"
+restart_7126,The Restart Project,GBR,1,Power/battery,Tablet,Samsung,End of life,????,2018-02-03,en,"won't turn on, won't charge"
+restart_7395,The Restart Project,USA,1,Power/battery,Tablet,Sony,Repairable,????,2018-03-03,en,"eReader, appears battery is dead, owner bought a replacement but can't remove old, has watched youtube videos of similar models and bought tools to do but can't. fixer replaced bad battery but still not working; owner will charge battery when home"
+restart_7702,The Restart Project,GBR,1,Power/battery,Tablet,Asus,Repairable,????,2018-04-07,en,Does not start - needs battery
+restart_7873,The Restart Project,GBR,1,Power/battery,Tablet,ASUS,Repairable,????,2018-04-19,en,Does not turn on.Needs a new battery.
+restart_7910,The Restart Project,GBR,1,Power/battery,Tablet,Apple,Fixed,????,2018-04-21,en,Install replacement battery
+restart_7959,The Restart Project,GBR,1,Power/battery,Tablet,Sony,Repairable,????,2018-04-21,en,Not turning on.  Needs charging.
+restart_8302,The Restart Project,GBR,1,Power/battery,Tablet,Asus,Fixed,2015,2018-05-13,en,Battery changed (2nd visit)
+restart_8381,The Restart Project,GBR,1,Power/battery,Tablet,Lenovo,End of life,2015,2018-05-19,en,Doesn't charge
+restart_8896,The Restart Project,GBR,1,Power/battery,Tablet,ASUS,Fixed,2016,2018-08-04,en,Battery replacement diagnosed at previoius sesssion. Battery obtained by owner and fitted
+restart_9148,The Restart Project,GBR,1,Power/battery,Tablet,Google,Repairable,????,2018-09-15,en,Stopped working after commercial repair - Need new battery - Helped to find it on web
+restart_9347,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,End of life,????,2018-09-28,en,Power/boot/charge
+restart_967,The Restart Project,GBR,1,Power/battery,Tablet,Samsung,Fixed,????,2014-10-14,en,Tablet - Not charging - Midas touch
+restart_9721,The Restart Project,NOR,1,Power/battery,Tablet,Samsung,Repairable,2012,2018-10-20,en,Not charging
+restart_9817,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Repairable,????,2018-10-24,en,Power/boot
+restart_9829,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Fixed,????,2018-10-24,en,Not booting
+restart_9832,The Restart Project,CAN,1,Power/battery,Tablet,Unknown,Fixed,????,2018-10-24,en,Power/boot
+anstiftung_3245,anstiftung,DEU,2,Screen,Tablet,TomTom,Fixed,????,2019-07-18,de,"Touch defekt, neues hatte der Gast mit.Wurde gewechselt, Kompettierung zu Hause."
+anstiftung_335,anstiftung,DEU,2,Screen,Tablet,Archos,Unknown,2012,2018-11-06,en,Display
+anstiftung_5572,anstiftung,DEU,2,Screen,Tablet,Microsoft,Fixed,????,2020-09-10,de,"Es war heruntergefallen und hatte die allseits gefürchtete ""Spider-APP"" drauf. Die Besitzerin war gut vorbereitet mit einem neuen Display und hatte sich schon im Internet Videos angesehen, wie der Austausch geht. Wir stellten ihr das Werkzeug und ihr gelang die Reparatur sehr gut."
+fixitclinic_141,Fixit Clinic,USA,2,Screen,Tablet,android nexus,Repairable,2014,2018-07-01,en,tablet ~ Broken screen
+rcint_10804,Repair Café International,NLD,2,Screen,Tablet,Samsung,Fixed,2013,2018-10-27,nl,Werkt niet meer scherm is bij reparatie door fabrikant niet goed terug geplaatst en valt er nu uit
+rcint_14561,Repair Café International,NLD,2,Screen,Tablet,Unknown,Repairable,????,2019-02-09,en,display defect
+rcint_18266,Repair Café International,NLD,2,Screen,Tablet,Apple,Repairable,2016,2019-05-18,nl,barst in het scherm
+rcint_20870,Repair Café International,NLD,2,Screen,Tablet,Samsung,End of life,2014,2019-08-31,nl,Scherm kapot / kapot hard ware
+rcint_21731,Repair Café International,GBR,2,Screen,Tablet,Amazon,End of life,1900,2019-09-14,en,Not responding to input
+rcint_23483,Repair Café International,CAN,2,Screen,Tablet,Apple,Repairable,2014,2019-10-19,en,touch pad are not working
+rcint_24281,Repair Café International,NLD,2,Screen,Tablet,Asus,End of life,2009,2019-11-02,nl,speelt niet/beeldscherm niet goed
+rcint_24419,Repair Café International,NLD,2,Screen,Tablet,Sony,Repairable,2014,2019-11-02,nl,Strepen op scherm en vastloper
+rcint_434,Repair Café International,NLD,2,Screen,Tablet,Teasi,Fixed,2013,2017-03-04,nl,kalibratie scherm
+rcint_7541,Repair Café International,NLD,2,Screen,Tablet,TomTom,End of life,2006,2018-06-02,nl,Verlopen capaciteit touchscreen
+rcint_8059,Repair Café International,GBR,2,Screen,Tablet,Sony,End of life,2013,2018-07-04,en,broken glass
+rcwales_21,Repair Cafe Wales,GBR,2,Screen,Tablet,Unknown,Unknown,????,2017-04-01,en,tablet Broken screen
+rcwales_428,Repair Cafe Wales,GBR,2,Screen,Tablet,Samsung,Unknown,????,2018-10-01,en,Tablet Screen going blank
+restart_1006,The Restart Project,GBR,2,Screen,Tablet,Amazon,Repairable,????,2014-11-22,en,Kindle broken screen
+restart_10281,The Restart Project,IRL,2,Screen,Tablet,Samsung,Repairable,2013,2018-11-17,en,Broken Screen - Client needs to source replacement screen for next Restarter Party
+restart_10440,The Restart Project,NOR,2,Screen,Tablet,Apple,End of life,2016,2018-11-21,en,Broken screen
+restart_1094,The Restart Project,GBR,2,Screen,Tablet,Apple,End of life,????,2015-01-14,en,Tablet - Display problem -
+restart_1101,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2015-01-14,en,Tablet - Screen issue - DIY ready
+restart_11105,The Restart Project,ISL,2,Screen,Tablet,Apple,Repairable,2014,2019-01-24,en,Broken screen
+restart_11114,The Restart Project,ISL,2,Screen,Tablet,HTC,Fixed,2014,2019-01-24,en,Crack in screen but working
+restart_11116,The Restart Project,ISL,2,Screen,Tablet,NextBook,Fixed,2017,2019-01-24,en,Screen falls off
+restart_11753,The Restart Project,IRL,2,Screen,Tablet,Apple,Repairable,????,2019-02-23,en,Broken Screen
+restart_11877,The Restart Project,HKG,2,Screen,Tablet,Samsung,Repairable,2015,2019-03-03,en,Flickering screen; no visible damage. Microsoldering diagnosis needed.
+restart_11881,The Restart Project,HKG,2,Screen,Tablet,Unknown,Fixed,2018,2019-03-03,en,Screen displaying strips
+restart_11886,The Restart Project,GBR,2,Screen,Tablet,Samsung,Repairable,2016,2019-03-05,en,screen cracked not working
+restart_1220,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2015-02-17,en,Tablet - Screen issue - Needs correct spares
+restart_12514,The Restart Project,GBR,2,Screen,Tablet,Hudl,Repairable,????,2019-04-06,en,cracked screen
+restart_12674,The Restart Project,IRL,2,Screen,Tablet,Apple,Repairable,????,2019-04-13,en,Screen broken; replacement needed
+restart_12722,The Restart Project,HKG,2,Screen,Tablet,Apple,Repairable,2017,2019-04-14,en,Cracked digitiser
+restart_13208,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,2014,2019-05-18,en,"Sound, but screen does not light.  Foud backlight cables or circuit faulty.  not able to access and no parts."
+restart_1334,The Restart Project,ITA,2,Screen,Tablet,Samsung,Fixed,????,2015-04-12,it,cambiato display portato dal partecipante
+restart_13569,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2019-06-01,en,Smashed screen
+restart_13923,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2019-06-22,en,advice needed on screen problem - was signposted
+restart_14087,The Restart Project,CAN,2,Screen,Tablet,Unknown,Repairable,????,2019-07-12,en,Broken screen...
+restart_14185,The Restart Project,IRL,2,Screen,Tablet,Acer,Repairable,????,2019-07-18,en,Broken/Cracked Screens; Damaged Charging Port
+restart_14368,The Restart Project,SWE,2,Screen,Tablet,Samsung,Repairable,2013,2019-08-11,en,"screen bubbling up, running slow. Needs screen and battery replacement. Samsung authorised dealer has part, but they twice as much as ifixit (parts only available in US) or ebay prices."
+restart_14411,The Restart Project,CAN,2,Screen,Tablet,Unknown,Fixed,????,2019-08-15,en,Touchscreen not working properly
+restart_14503,The Restart Project,GBR,2,Screen,Tablet,Unknown,Unknown,????,2019-09-07,en,Screen broken.
+restart_14519,The Restart Project,GBR,2,Screen,Tablet,Samsung,Repairable,????,2019-09-07,en,Screen Blank.  New screen needed.  User advised on sources online.
+restart_1471,The Restart Project,GBR,2,Screen,Tablet,Unknown,End of life,????,2015-05-28,en,Needs a spare screen but they are not available
+restart_1503,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2015-06-29,en,"Screen cracked, but no heat gun."
+restart_15049,The Restart Project,GBR,2,Screen,Tablet,Samsung,Fixed,2017,2019-10-05,en,Screen malfunction: reseated ribbon cable
+restart_15192,The Restart Project,HKG,2,Screen,Tablet,Apple,Repairable,????,2019-10-13,en,Broken digitiser. Ordered new digitiser
+restart_15401,The Restart Project,NOR,2,Screen,Tablet,Apple,Repairable,2017,2019-10-21,en,"Broken screen, brought wrong spare screen"
+restart_15599,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,2015,2019-11-02,en,Digitiser needs replacing. Advised a repair with seal
+restart_16043,The Restart Project,BEL,2,Screen,Tablet,Apple,Repairable,????,2019-11-29,en,Lines on the screen
+restart_16044,The Restart Project,BEL,2,Screen,Tablet,Apple,Repairable,????,2019-11-29,en,Broken screen
+restart_1630,The Restart Project,GBR,2,Screen,Tablet,Samsung,Repairable,????,2015-08-11,en,"Screen replacement needed, advice given"
+restart_16382,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2020-01-05,en,"Screen smashed, wrong ordered; pointed towards correct part"
+restart_16774,The Restart Project,ESP,2,Screen,Tablet,Lenovo,Repairable,2018,2020-01-25,en,Broken screen.
+restart_1794,The Restart Project,GBR,2,Screen,Tablet,Samsung,Fixed,????,2015-10-10,en,Broken Screen
+restart_1872,The Restart Project,ITA,2,Screen,Tablet,Majestic,Repairable,????,2015-10-31,en,"problems on the screen, partially broken and unusable"
+restart_1932,The Restart Project,GBR,2,Screen,Tablet,Unknown,Fixed,????,2015-11-21,en,"Screen cracked, touch screen not working. Showed can use with USB mouse."
+restart_2090,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2016-01-11,en,Screen flickered and died after a drop. Couldn't heat the screen to remove it.
+restart_2378,The Restart Project,USA,2,Screen,Tablet,Apple,Fixed,????,2016-03-10,en,Screen replaced
+restart_2564,The Restart Project,GBR,2,Screen,Tablet,Amazon,Repairable,????,2016-04-15,en,Screen broken
+restart_275,The Restart Project,GBR,2,Screen,Tablet,Unknown,End of life,????,2013-12-07,en,Tablet - screen issue -
+restart_276,The Restart Project,GBR,2,Screen,Tablet,Unknown,Fixed,????,2013-12-07,en,Tablet - screen issue -
+restart_3175,The Restart Project,GBR,2,Screen,Tablet,Bush,Fixed,????,2016-08-09,en,Grass replaced. Owner brought a spare
+restart_3344,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2016-10-01,en,Screen replacement
+restart_3498,The Restart Project,GBR,2,Screen,Tablet,Amazon,Repairable,????,2016-10-29,en,"Kindle - doesn't switch on, screen replacement"
+restart_4102,The Restart Project,GBR,2,Screen,Tablet,Unknown,Repairable,????,2017-01-17,en,"Cracked screen - advised on parts, will return"
+restart_4103,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2017-01-17,en,Cracked screen - advised on parts
+restart_4116,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2017-01-28,en,"Broken screen. Has replacement screen, but we don't have a heat gun."
+restart_4133,The Restart Project,GBR,2,Screen,Tablet,Unknown,Repairable,????,2017-01-28,en,"Turns on, but doesn't respond to touch. Need to take back to the shop."
+restart_4155,The Restart Project,GBR,2,Screen,Tablet,Cube,Repairable,????,2017-01-28,en,Cracked screen. Advice given.
+restart_4250,The Restart Project,NOR,2,Screen,Tablet,Apple,Repairable,????,2017-01-28,en,Blurry screen
+restart_4409,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2017-02-27,en,Digitiser cracked
+restart_4434,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2017-03-02,en,Cracked screen
+restart_4459,The Restart Project,NOR,2,Screen,Tablet,Apple,Fixed,????,2017-03-04,en,Change screen
+restart_482,The Restart Project,GBR,2,Screen,Tablet,Unknown,Repairable,????,2014-03-08,en,tablet - Screen issue - Spare part sourced
+restart_491,The Restart Project,GBR,2,Screen,Tablet,Apple,Fixed,????,2014-03-08,en,Tablet - Screen issue - Self-repair
+restart_4953,The Restart Project,USA,2,Screen,Tablet,Apple,Fixed,????,2017-05-01,en,"Cracked screen, continually crashing"
+restart_5038,The Restart Project,GBR,2,Screen,Tablet,Samsung,Repairable,????,2017-05-09,en,Screen is all green.
+restart_5338,The Restart Project,NOR,2,Screen,Tablet,Apple,Repairable,2015,2017-06-15,en,Needs new screen
+restart_5640,The Restart Project,ITA,2,Screen,Tablet,Kobo,End of life,????,2017-07-09,en,eReader Damaged monitor
+restart_5890,The Restart Project,NOR,2,Screen,Tablet,Apple,Repairable,????,2017-09-03,en,Broken screen
+restart_592,The Restart Project,GBR,2,Screen,Tablet,Unknown,Fixed,????,2014-04-30,en,Tablet - Screen issue - We replaced the screen - her 2nd time
+restart_5921,The Restart Project,GBR,2,Screen,Tablet,Amazon,Repairable,????,2017-09-09,en,broken screen
+restart_5930,The Restart Project,GBR,2,Screen,Tablet,Nokia,Repairable,????,2017-09-09,en,Broken screen. Heat gun needed.
+restart_5954,The Restart Project,GBR,2,Screen,Tablet,ASUS,Repairable,????,2017-09-09,en,Broken Screen
+restart_6034,The Restart Project,GBR,2,Screen,Tablet,Samsung,End of life,????,2017-09-23,en,"Touch screen not working. Needs new screen, but not worth it."
+restart_6114,The Restart Project,GBR,2,Screen,Tablet,Lenovo,Repairable,????,2017-09-30,en,Broken screen. No spare parts on site. Advice given.
+restart_627,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2014-05-06,en,Tablet - Screen issue - Coming back for full 3 hours
+restart_6285,The Restart Project,ESP,2,Screen,Tablet,ASUS,Repairable,????,2017-10-21,en,The touch screen won't work.
+restart_6450,The Restart Project,GBR,2,Screen,Tablet,Unknown,Repairable,????,2017-11-04,en,Kindle with broken screen
+restart_6587,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2017-11-18,en,"cracked screen, Restarters present did not have experience with this replacement"
+restart_667,The Restart Project,GBR,2,Screen,Tablet,Apple,Fixed,????,2014-05-25,en,Tablet - Screen replacement incomplete -
+restart_6782,The Restart Project,GBR,2,Screen,Tablet,Alba,Repairable,????,2017-12-02,en,"Cracked screen, advised how/where to order a new one"
+restart_7095,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2018-02-03,en,"Cracked screen, parts not available at the event"
+restart_7373,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2018-03-03,en,Cracked screen. Owner did not have a spare part and neither did we. Repair deferred.
+restart_7525,The Restart Project,GBR,2,Screen,Tablet,Amazon,Fixed,????,2018-03-18,en,replaced screen
+restart_7558,The Restart Project,CAN,2,Screen,Tablet,Unknown,Fixed,????,2018-03-22,fr,Écran noir
+restart_764,The Restart Project,ITA,2,Screen,Tablet,Apple,Fixed,????,2014-07-08,it,schermo rotto
+restart_782,The Restart Project,GBR,2,Screen,Tablet,Amazon,Fixed,????,2014-07-10,en,"E-reader - Screen cracked - Went home, needs to test"
+restart_8572,The Restart Project,GBR,2,Screen,Tablet,Unknown,Repairable,????,2018-06-05,en,"New battery installed but still not working. Tablet seemed to be switched on as the backlight came on when we pushed the power button, and went off if pushed again. This implies a screen lock sort of scenario.We also confirmed her previous battery was dead so that was worth her replacing.Our conclusion was that the screen itself is dead (or its cable/connectors). She will either buy a new screen, or sell the tablet with a known fault, depending on how much she wants to spend.So, known fault, parts available - left the decision with owner."
+restart_858,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2014-09-09,en,Tablet - Screen issue - Needs more time
+restart_8685,The Restart Project,GBR,2,Screen,Tablet,Sony,End of life,2013,2018-06-23,en,The screen for this e-reader is garbled. Research shows a broken glass substrate. Repair is not economically viable.
+restart_8831,The Restart Project,GBR,2,Screen,Tablet,Unknown,Repairable,????,2018-07-21,en,Cracked screen - needs to source replacement part.
+restart_884,The Restart Project,GBR,2,Screen,Tablet,Unknown,Repairable,????,2014-09-20,en,Satnav. Screen cracked.
+restart_8924,The Restart Project,GBR,2,Screen,Tablet,Samsung,Repairable,2015,2018-08-16,en,"Not chargind, smashed screen"
+restart_9147,The Restart Project,GBR,2,Screen,Tablet,Samsung,Repairable,????,2018-09-15,en,Fell - Not working - Cracked screen - Very expensive to replace it £ 258
+restart_9190,The Restart Project,GBR,2,Screen,Tablet,Apple,Repairable,????,2018-09-15,en,Screen
+restart_9519,The Restart Project,SWE,2,Screen,Tablet,Samsung,Fixed,????,2018-10-07,en,tampered glass
+restart_9544,The Restart Project,NOR,2,Screen,Tablet,Apple,Fixed,2013,2018-10-11,en,Broken screen
+restart_9563,The Restart Project,ISL,2,Screen,Tablet,HTC,Fixed,2018,2018-10-11,en,Chrackketd glass
+rcint_13566,Repair Café International,NLD,22,Software issue,Tablet,Samsung,Repairable,2015,2019-01-26,nl,Maakt geen verbinding met de printer.
+rcint_15421,Repair Café International,NLD,22,Software issue,Tablet,Samsung,Fixed,2018,2019-03-07,en,Software
+rcint_18055,Repair Café International,GBR,22,Software issue,Tablet,Apple,Fixed,????,2019-05-11,en,Gaming hardware not recognised by tablet
+rcint_18367,Repair Café International,GBR,22,Software issue,Tablet,Apple,Fixed,????,2019-05-18,en,Keyboard in wrong place
+restart_10049,The Restart Project,CAN,22,Software issue,Tablet,Unknown,Repairable,????,2018-11-07,en,OS problem
+restart_10623,The Restart Project,GBR,22,Software issue,Tablet,Unknown,Repairable,????,2018-12-01,en,Software issue
+restart_12940,The Restart Project,HKG,22,Software issue,Tablet,Apple,Fixed,2014,2019-04-28,en,System crash; OS restored
+restart_12945,The Restart Project,NOR,22,Software issue,Tablet,Apple,Fixed,2014,2019-04-30,en,Needs a software clean
+restart_13625,The Restart Project,GBR,22,Software issue,Tablet,Unknown,End of life,2013,2019-06-03,en,no OS
+restart_14176,The Restart Project,GBR,22,Software issue,Tablet,Apple,Fixed,2017,2019-07-15,en,Calendar won't sync - see above
+restart_14759,The Restart Project,GBR,22,Software issue,Tablet,Samsung,Repairable,2014,2019-09-16,en,Instagram has disappeared. Unable to   fix immediately. Client will try to create a new account.
+restart_14904,The Restart Project,NOR,22,Software issue,Tablet,Apple,Fixed,2014,2019-09-28,en,slow software
+restart_15549,The Restart Project,CAN,22,Software issue,Tablet,Unknown,Repairable,????,2019-10-30,en,Slow/bugged device
+restart_16590,The Restart Project,GBR,22,Software issue,Tablet,Unknown,Fixed,????,2020-01-19,en,Hard reset to be done by owner
+restart_2511,The Restart Project,GBR,22,Software issue,Tablet,Hipstreet,Repairable,????,2016-04-09,en,Software issues
+restart_2979,The Restart Project,GBR,22,Software issue,Tablet,Unknown,Fixed,????,2016-06-24,en,Problems with a video viewing app
+restart_3143,The Restart Project,GBR,22,Software issue,Tablet,Unknown,End of life,????,2016-07-26,en,App not installing - not possible.
+restart_3219,The Restart Project,GBR,22,Software issue,Tablet,Unknown,Fixed,????,2016-09-10,en,Google software issue
+restart_3234,The Restart Project,GBR,22,Software issue,Tablet,Samsung,Repairable,????,2016-09-10,en,software issue
+restart_3737,The Restart Project,GBR,22,Software issue,Tablet,Apple,Repairable,????,2016-11-19,en,Notes app not working. Advice given.
+restart_3875,The Restart Project,GBR,22,Software issue,Tablet,EGL,End of life,????,2016-11-24,en,Switch problem - software needed
+restart_3922,The Restart Project,GBR,22,Software issue,Tablet,Lenovo,Fixed,????,2016-11-26,en,software problem
+restart_4422,The Restart Project,GBR,22,Software issue,Tablet,Apple,Fixed,????,2017-02-27,en,"Browser crashes after two pages. Soft restart, works fine"
+restart_4516,The Restart Project,GBR,22,Software issue,Tablet,Amazon,Repairable,????,2017-03-18,en,Mini Opera broken. More research needed.
+restart_5082,The Restart Project,ITA,22,Software issue,Tablet,Samsung,Fixed,????,2017-05-14,en,F-Droid installation & Clean Up Device
+restart_5976,The Restart Project,GBR,22,Software issue,Tablet,Unknown,Fixed,????,2017-09-16,en,Advised on software problem.
+restart_629,The Restart Project,GBR,22,Software issue,Tablet,Unknown,Repairable,????,2014-05-06,en,Tablet - Won't boot - Failed OS reinstall
+restart_6337,The Restart Project,GBR,22,Software issue,Tablet,Samsung,Fixed,????,2017-10-25,en,needs driver...some progress but still needs work
+restart_7538,The Restart Project,GBR,22,Software issue,Tablet,Synapse,Repairable,????,2018-03-18,en,Operating system out of date or not working?
+restart_8372,The Restart Project,GBR,22,Software issue,Tablet,Samsung,Fixed,2017,2018-05-19,en,Software error. Explained how to fix it.
+restart_9749,The Restart Project,GBR,22,Software issue,Tablet,Samsung,Repairable,2014,2018-10-20,en,No longer supported software. Needs lots more time.
+restart_9769,The Restart Project,GBR,22,Software issue,Tablet,Samsung,Fixed,????,2018-10-20,en,"Turns on and then goes straight off - checked over, installed firefox, and now appears to be working."
+restart_9877,The Restart Project,GBR,22,Software issue,Tablet,BTC (BestTabletCompany),End of life,????,2018-10-27,en,Can't connect to public WiFi hotspots due to obsolete OS
+rcint_18796,Repair Café International,NLD,11,Software update,Tablet,TomTom,End of life,????,2019-06-01,en,update
+rcint_20874,Repair Café International,NLD,11,Software update,Tablet,Mio,Fixed,2013,2019-08-31,nl,Updaten
+rcint_4008,Repair Café International,NLD,11,Software update,Tablet,Samsung,Fixed,2005,2018-01-05,nl,Oude software
+restart_12578,The Restart Project,CAN,11,Software update,Tablet,Unknown,Fixed,????,2019-04-11,en,Updated the OS and fixed the slowing down of the device : too many apps running
+restart_14379,The Restart Project,GBR,11,Software update,Tablet,Apple,End of life,2014,2019-08-12,en,"Old operating system, not updateable"
+restart_15047,The Restart Project,CAN,11,Software update,Tablet,Unknown,Fixed,????,2019-10-03,en,Update the IOS
+restart_15335,The Restart Project,GBR,11,Software update,Tablet,Unknown,Repairable,????,2019-10-19,en,Not linking to 3G
+restart_6657,The Restart Project,GBR,11,Software update,Tablet,Apple,Fixed,????,2017-11-25,en,start up only. factory reset + downloaded new software.
+restart_695,The Restart Project,GBR,11,Software update,Tablet,Google,Repairable,????,2014-06-12,en,Tablet - Not powering off - DIY ready - needs new OS download
+restart_8611,The Restart Project,GBR,11,Software update,Tablet,Lenovo,Fixed,2014,2018-06-09,en,software update
+restart_8612,The Restart Project,GBR,11,Software update,Tablet,Lenovo,Fixed,2014,2018-06-09,en,software update
+restart_8814,The Restart Project,GBR,11,Software update,Tablet,Amazon,Fixed,????,2018-07-21,en,Won't register.  Downloaded up-to-date software and now works.
+restart_13724,The Restart Project,GBR,6,Speaker/amplifier,Tablet,Unknown,Fixed,????,2019-06-08,en,Speaker not working.  Soldered.
+restart_15501,The Restart Project,SWE,6,Speaker/amplifier,Tablet,Lenovo,Repairable,????,2019-10-27,en,continuously at lower volume. Tried switching volume flex cable but this did not address the problem. Tablet is still operable.
+rcint_28182,Repair Café International,GBR,12,Storage problem,Tablet,Samsung,Fixed,????,2020-01-18,en,not enough memory
+rcwales_2258,Repair Cafe Wales,GBR,12,Storage problem,Tablet,Apple,Fixed,????,2019-05-01,en,iPad storage management
+restart_11475,The Restart Project,GBR,12,Storage problem,Tablet,Dell,Fixed,????,2019-02-16,en,Need help to clear memory/Uninstalled software and ran disk clean.
+restart_13629,The Restart Project,GBR,12,Storage problem,Tablet,Apple,Fixed,2009,2019-06-03,en,"Memory full, deleted items"
+restart_14378,The Restart Project,GBR,12,Storage problem,Tablet,Alba,Fixed,2017,2019-08-12,en,No memory left - cleaned
+restart_16634,The Restart Project,GBR,12,Storage problem,Tablet,ASUS,Repairable,2010,2020-01-20,en,Won't boot. Needs new hard drive
+restart_6168,The Restart Project,GBR,12,Storage problem,Tablet,NextBook,Fixed,????,2017-10-07,en,Doesn't recognize memory card
+restart_6667,The Restart Project,GBR,12,Storage problem,Tablet,Amazon,Fixed,????,2017-11-25,en,Access to memory problems. Lots of old data inc games deleted. Now working.
+rcint_23858,Repair Café International,NLD,3,Stuck booting,Tablet,Nexus,Repairable,2014,2019-10-26,nl,Start niet meer op
+restart_10035,The Restart Project,ITA,3,Stuck booting,Tablet,Samsung,Fixed,2016,2018-11-04,it,Bloccato sull'avvio
+restart_10080,The Restart Project,GBR,3,Stuck booting,Tablet,TomTom,Repairable,2016,2018-11-10,en,Failed to start
+restart_10524,The Restart Project,HKG,3,Stuck booting,Tablet,Apple,Repairable,2013,2018-11-25,en,iPad won't boot
+restart_11870,The Restart Project,HKG,3,Stuck booting,Tablet,Unknown,End of life,2017,2019-03-03,en,Tablet will not boot
+restart_11897,The Restart Project,CAN,3,Stuck booting,Tablet,Unknown,Repairable,????,2019-03-06,en,Not booting
+restart_12790,The Restart Project,CAN,3,Stuck booting,Tablet,Apple,Fixed,????,2019-04-23,en,Won't boot: blocks at Apple logo...
+restart_12957,The Restart Project,GBR,3,Stuck booting,Tablet,Acer,End of life,2015,2019-05-04,en,Does not boot
+restart_13139,The Restart Project,CAN,3,Stuck booting,Tablet,Unknown,Repairable,????,2019-05-14,en,Not booting
+restart_13146,The Restart Project,CAN,3,Stuck booting,Tablet,Unknown,Repairable,????,2019-05-14,en,Not booting
+restart_13151,The Restart Project,CAN,3,Stuck booting,Tablet,Unknown,Repairable,????,2019-05-14,en,Not booting after an update
+restart_13634,The Restart Project,ITA,3,Stuck booting,Tablet,ASUS,End of life,????,2019-06-06,en,reboot loop then shuts off
+restart_13861,The Restart Project,GBR,3,Stuck booting,Tablet,Unknown,Fixed,2018,2019-06-17,en,Won't boot - factory reset
+restart_14407,The Restart Project,CAN,3,Stuck booting,Tablet,Unknown,End of life,????,2019-08-15,en,Not booting
+restart_15387,The Restart Project,NOR,3,Stuck booting,Tablet,Samsung,Repairable,2014,2019-10-21,en,Has power but won't start
+restart_15437,The Restart Project,CAN,3,Stuck booting,Tablet,Unknown,Fixed,????,2019-10-23,en,Device not booting
+restart_15657,The Restart Project,NOR,3,Stuck booting,Tablet,Apple,Repairable,2017,2019-11-09,en,Won't start
+restart_15658,The Restart Project,NOR,3,Stuck booting,Tablet,Samsung,Fixed,2010,2019-11-09,en,Won't start
+restart_15729,The Restart Project,GBR,3,Stuck booting,Tablet,Unknown,Repairable,2017,2019-11-10,en,"Fails to boot.  Tried opening to look for physical fault, could not open."
+restart_385,The Restart Project,GBR,3,Stuck booting,Tablet,Unknown,Fixed,????,2014-02-01,en,"Android,Doesn't start properly"
+restart_3971,The Restart Project,GBR,3,Stuck booting,Tablet,Unknown,Repairable,????,2016-12-03,en,Stuck at boot
+restart_4353,The Restart Project,GBR,3,Stuck booting,Tablet,Archos,Fixed,????,2017-02-11,en,Not booting. Reset and all okay.
+restart_7581,The Restart Project,USA,3,Stuck booting,Tablet,Acer,Repairable,????,2018-03-24,en,wont boot up
+restart_990,The Restart Project,GBR,3,Stuck booting,Tablet,Arnova,Fixed,????,2014-10-18,en,Tablet - Not booting - Got into recovery mode
+anstiftung_4552,anstiftung,DEU,13,USB/charging port,Tablet,Unknown,End of life,????,2019-11-23,de,Anschlüsse defekt über Reparaturmöglichkeit hinaus.
+anstiftung_5480,anstiftung,DEU,13,USB/charging port,Tablet,Alcatel,Fixed,2015,2020-08-06,de,"Die Micro-USB-Buchse hatte einen Wackelkontakt und das Tablet konnte nicht mehr sicher geladen werden. Wir zerlegten das Gerät und entnahmen die Leiterplatte mit der Buchse. Der Gast hatte auch schon ein Ersatzteil dabei, da konnte es gleich ans Auswechseln mittels Heißluftlötstation gehen. Die neue Buchse funktionierte gut und das Tablet konnte wieder zuverlässig mit USB verbunden werden."
+rcint_1107,Repair Café International,FRA,13,USB/charging port,Tablet,Unknown,Fixed,????,2017-05-20,fr,Le connecteur est en d?©faut et je souhaite le remplacer
+rcint_20724,Repair Café International,CAN,13,USB/charging port,Tablet,Samsung,Repairable,2014,2019-08-24,en,Doesn't Charge
+rcint_28757,Repair Café International,GBR,13,USB/charging port,Tablet,Arnova,End of life,????,2020-01-26,en,Charging port not working
+rcint_2947,Repair Café International,NLD,13,USB/charging port,Tablet,Empire,Repairable,2013,2017-10-28,nl,aansluiting adapter niet in orde?
+rcint_5105,Repair Café International,NLD,13,USB/charging port,Tablet,Kobo,Repairable,????,2018-02-10,nl,micro usb poort wiebelt
+rcint_7406,Repair Café International,GBR,13,USB/charging port,Tablet,Unknown,End of life,????,2018-05-26,en,Won't charge
+rcwales_2096,Repair Cafe Wales,GBR,13,USB/charging port,Tablet,Apple,End of life,????,2019-04-01,en,iPad Air Not charging- damaged charging port?
+rcwales_3142,Repair Cafe Wales,GBR,13,USB/charging port,Tablet,Unknown,End of life,????,2019-06-01,en,Dashcam Nextbase Wire has separated from plug left in socket
+rcwales_326,Repair Cafe Wales,GBR,13,USB/charging port,Tablet,Unknown,Fixed,????,2018-03-01,en,"Tablet Not charging, I think it needs a new charging port which I have with me to get soldered on."
+rcwales_3270,Repair Cafe Wales,GBR,13,USB/charging port,Tablet,Unknown,Unknown,????,2019-09-01,en,tablet charging port
+rcwales_3689,Repair Cafe Wales,GBR,13,USB/charging port,Tablet,Unknown,End of life,????,2020-01-01,en,Google tablet charging socket
+restart_10452,The Restart Project,NOR,13,USB/charging port,Tablet,Samsung,Repairable,2013,2018-11-21,en,Won't charge
+restart_10486,The Restart Project,GBR,13,USB/charging port,Tablet,Unknown,Repairable,????,2018-11-24,en,Faulty connector
+restart_10672,The Restart Project,GBR,13,USB/charging port,Tablet,Amazon,Unknown,????,2018-12-08,en,Micro-USB port damaged.  User had sourced replacement usb ports but these not suitable for use in the unit.  Needs direct replacement.
+restart_10886,The Restart Project,GBR,13,USB/charging port,Tablet,Unknown,Fixed,2015,2019-01-13,en,Charge point issues
+restart_10930,The Restart Project,CAN,13,USB/charging port,Tablet,Unknown,Repairable,????,2019-01-17,en,Charging port
+restart_10946,The Restart Project,GBR,13,USB/charging port,Tablet,Unknown,Repairable,????,2019-01-19,en,Damanaged charging port - advised on gettinga  new cable
+restart_11117,The Restart Project,ISL,13,USB/charging port,Tablet,NextBook,Fixed,2017,2019-01-24,en,USB damaged
+restart_12074,The Restart Project,GBR,13,USB/charging port,Tablet,Acer,Repairable,2012,2019-03-16,en,damaged charging socket
+restart_12596,The Restart Project,CAN,13,USB/charging port,Tablet,Unknown,Fixed,????,2019-04-11,en,Charging port not working properly
+restart_1265,The Restart Project,GBR,13,USB/charging port,Tablet,Nexus,Fixed,????,2015-03-21,en,Loose connector. Tightened the socket.
+restart_13666,The Restart Project,GBR,13,USB/charging port,Tablet,Amazon,Repairable,2014,2019-06-08,en,Charger port loose.
+restart_14477,The Restart Project,SWE,13,USB/charging port,Tablet,Samsung,Repairable,2015,2019-09-01,en,charging port not functioning
+restart_14630,The Restart Project,CAN,13,USB/charging port,Tablet,Unknown,Repairable,????,2019-09-12,en,Charging port problem + slow
+restart_14765,The Restart Project,GBR,13,USB/charging port,Tablet,fire,Fixed,????,2019-09-21,en,Charge port not working - cleaned
+restart_15378,The Restart Project,IRL,13,USB/charging port,Tablet,Amazon,Repairable,2017,2019-10-20,en,Bad USB jack
+restart_15436,The Restart Project,CAN,13,USB/charging port,Tablet,Unknown,Fixed,????,2019-10-23,en,Charging problem
+restart_1545,The Restart Project,GBR,13,USB/charging port,Tablet,Samsung,Repairable,????,2015-07-11,en,Port is broken. Needs more time.
+restart_15911,The Restart Project,SWE,13,USB/charging port,Tablet,Samsung,Repairable,2013,2019-11-17,en,cable to the USB
+restart_15997,The Restart Project,ESP,13,USB/charging port,Tablet,Samsung,Fixed,????,2019-11-23,en,A flex connector out of place.
+restart_16030,The Restart Project,IRL,13,USB/charging port,Tablet,Amazon,Repairable,2018,2019-11-24,en,"Broken USB port, This one is tricky since our reflow although on full heat was unable to remove the jack from the board. We need to research if there is some other mechanical aid that is fixing the jack to the board or if we just didnt get it right."
+restart_16156,The Restart Project,CAN,13,USB/charging port,Tablet,Unknown,Repairable,????,2019-12-05,en,Charging port
+restart_1680,The Restart Project,GBR,13,USB/charging port,Tablet,Kobo,Repairable,????,2015-09-08,en,"USB port broken, not repairable. Owner to buy a spare"
+restart_16959,The Restart Project,GBR,13,USB/charging port,Tablet,Amazon,Repairable,2011,2020-02-01,en,Charging port - Solution: Replacment part
+restart_17019,The Restart Project,ESP,13,USB/charging port,Tablet,Airis,Fixed,2014,2020-02-08,en,It won't charge.We replace the carging connector.
+restart_1714,The Restart Project,GBR,13,USB/charging port,Tablet,Tesco,Fixed,????,2015-09-26,en,USB socket
+restart_1791,The Restart Project,GBR,13,USB/charging port,Tablet,TomTom,Fixed,????,2015-10-10,en,Sat Nav - had tried to fix it himself but had broken the USB port in taking it a part.
+restart_281,The Restart Project,GBR,13,USB/charging port,Tablet,BlackBerry,Repairable,????,2013-12-07,en,Tablet - USB ports - Needs replacement part
+restart_3486,The Restart Project,GBR,13,USB/charging port,Tablet,Samsung,Repairable,????,2016-10-26,en,No charge - diaganosed internal socket fault
+restart_358,The Restart Project,GBR,13,USB/charging port,Tablet,Unknown,Fixed,????,2014-01-29,en,Tablet - Power jack - Replaced
+restart_4702,The Restart Project,GBR,13,USB/charging port,Tablet,Samsung,Repairable,????,2017-04-01,en,"Tab3 10"" USB charging port damaged. Spare part available and repair very doable"
+restart_5494,The Restart Project,GBR,13,USB/charging port,Tablet,Wacom,Repairable,????,2017-06-24,en,Ports not working. Needs fine soldering iron.
+restart_6781,The Restart Project,GBR,13,USB/charging port,Tablet,Samsung,Repairable,????,2017-12-02,en,not charging. advised where to order new charging port and shown how to fit
+restart_7215,The Restart Project,GBR,13,USB/charging port,Tablet,Hudl,Fixed,????,2018-02-18,en,broken connector resoldered - surface mounted
+restart_7872,The Restart Project,GBR,13,USB/charging port,Tablet,Pronto Tec,Repairable,????,2018-04-19,en,USB charger. Its not working. The tablet thinks it's charging when it's not.Needs a new micro usb port
+restart_8359,The Restart Project,GBR,13,USB/charging port,Tablet,Amazon,Repairable,????,2018-05-19,en,"Needs new port (not available at the party).  Found eBay service which will do it all for £10, so suggested send off there."
+restart_8369,The Restart Project,GBR,13,USB/charging port,Tablet,Lenovo,Repairable,????,2018-05-19,en,"Charger port broken, and no part of replace at party.  Gave details of Lenovo and local repair shops."
+restart_961,The Restart Project,GBR,13,USB/charging port,Tablet,Unknown,End of life,????,2014-10-14,en,Tablet - USB port - This got worse :(
+restart_972,The Restart Project,GBR,13,USB/charging port,Tablet,Samsung,Repairable,????,2014-10-14,en,Tablet - USB charging port loosen - Needs spare part
+restart_989,The Restart Project,GBR,13,USB/charging port,Tablet,Kobo,Repairable,????,2014-10-18,en,Tablet - USB power socket - Needs a spare
+restart_9904,The Restart Project,GBR,13,USB/charging port,Tablet,Unknown,Repairable,????,2018-10-27,en,Intermittent charging problem - loose USB socket.  Needs to be disassembled - no time.
+restart_9968,The Restart Project,GBR,13,USB/charging port,Tablet,HP,Fixed,2014,2018-11-03,en,Bent docking point
+restart_15089,The Restart Project,SWE,9,Volume buttons,Tablet,Lenovo,Repairable,2015,2019-10-06,en,"The tablet was always booting into a ""secure mode"". We are guessing that the ""volume down"" button is pressed continuesly (at least electronically, because the physical butten worked fine). Found a replacement part online, it's soon on it's way. Costs: ~8€"

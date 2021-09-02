@@ -1,0 +1,996 @@
+id_ords,data_provider,country,fault_type_id,fault_type,product_category,brand,repair_status,year_of_manufacture,event_date,language,problem
+anstiftung_3052,anstiftung,DEU,1,Battery is not the main problem,Mobile,Samson,Repairable,????,2019-06-19,de,"Gerät lässt sich nicht laden, da die USB-Buchse defekt ist.Buchse getauscht, Gerät lädt wieder. Display blitz kurz auf, bleibt aber ansonsten dunkel. Es vibriert auch beim Einschalten -> Display defekt"
+anstiftung_3372,anstiftung,DEU,1,Battery is not the main problem,Power tool,Bosch,Repairable,2016,2019-07-04,de,"Nicht helfen konnten wir einem Bosch „PSR 14,4 LI-2“ Akkubohrschrauber, dessen Motor sofort nach Betätigen des Schalters „Rauchzeichen“ von sich gab. Grund dafür waren die stark abgenutzten Motorkohlen des verbauten Kompaktmotors, die im Betrieb zu glühen begannen. Leider können diese nicht einzeln getauscht werden und es ist ein komplett neuer Motor fällig. Der Gast will versuchen, einen Ersatzmotor zu bekommen."
+anstiftung_4234,anstiftung,DEU,1,Battery is not the main problem,Hair & beauty item,Grundig,Repairable,????,2019-11-07,de,"Da eine Grundig Schallzahnbürste keinerlei Regung zeigte, ging ihre Besitzerin zunächst von einem defekten Akku aus. Beim Nachmessen der Akkuspannung sowie im testweisen Ladebetrieb war mit diesem aber alles offenbar in Ordnung. Wir nahmen deshalb die Elektronik zur Motoransteuerung mit unserem Oszilloskop genauer unter die Lupe und entdeckten dabei ein paar kaputte SMD-Schalttransistoren. Bevor es hier weitergeht, muss nun erst einmal recherchiert werden, um was für Typen es sich genau handelt und woher geeigneter Ersatz beschaffbar ist."
+anstiftung_4438,anstiftung,DEU,1,Battery is not the main problem,Laptop,Unknown,Repairable,2005,2020-01-15,de,"Der 15 Jahre alte Laptop zeigte, nach dem der Gast ein neues Betriebssystem installiert hatte, ein seltsames Stehenbleiben beim Laden des Betriebssystems. Diese Zustände konnten mit einem kurzen Tippen auf die Powertaste immer übersprungen werden und es ging dann weiter mit dem Bootprozess. Im Betrieb war dann alles unauffällig. Wir untersuchten die Speicher mit einem Speichertestprogramm und die Festplattengesundheit. Die Festplatte hatte bereits etliche defekte Sektoren und wurde vom Testprogramm als „bedenklich“ eingestuft. Der Gast entschied sich für den Einbau einer neuen SSD im Tausch gegen die alte 80 GB HD. Beim nächsten Besuch werden wir sehen, was diese Aktion gebracht hat."
+fixitclinic_584,The Restart Project,USA,1,Battery is not the main problem,Handheld entertainment device,Sharper Image,Repairable,????,2019-11-29,en,"A talking photo album - https://dementia.livebetterwith.com/products/talking-photo-album-memories-brought-to-life?variant=29399394025547&currency=USD&sfdr_ptcid=31654_4_498792062&sfdr_hash=034e8e7c519df9f9d3dc07afe1905cd0&gclid=Cj0KCQiAoIPvBRDgARIsAHsCw0_ ~ It won't play the recorded ""captions"" anymore.  I've tried replacing the battery.  I don't want to reset it if I don't have to, because I'll have to re-record all the captions again if I do."
+rcint_10396,Repair Café International,NLD,1,Battery is not the main problem,Watch/clock,WMF,Repairable,2000,2018-10-13,nl,loopt niet meer wel goede batterij
+rcint_14259,Repair Café International,NLD,1,Battery is not the main problem,Portable radio,Philips,Repairable,????,2019-02-02,nl,"weerstand kapot tussen de condensator, onbekende accu"
+rcint_15300,Repair Café International,NLD,1,Battery is not the main problem,Headphones,Sennheiser,Repairable,2011,2019-03-02,nl,na batterij vervanging stopte met werken
+rcint_19703,Repair Café International,NLD,1,Battery is not the main problem,Portable radio,Logitech,Repairable,2016,2019-07-06,nl,laadt niet op ook niet met nieuwe batterij
+rcint_20029,Repair Café International,NLD,1,Battery is not the main problem,Watch/clock,Unknown,Repairable,????,2019-07-13,nl,Zowel opwind als batterijdeel defect
+rcint_22271,Repair Café International,NLD,1,Battery is not the main problem,Headphones,Marmitek,Repairable,2013,2019-09-28,nl,Speelt slechts korte tijd. Accu reeds vervangen
+rcint_23187,Repair Café International,NLD,1,Battery is not the main problem,Hair & beauty item,Braun,Repairable,????,2019-10-12,nl,Aan/uitknop reageert niet meer goed. Niet repareerbaar. De andere wel mits andere accu
+rcint_27587,Repair Café International,NLD,1,Battery is not the main problem,Watch/clock,Unknown,Repairable,????,2020-01-07,nl,"wekker heeft draadloos opladen voor telefoon, dat werkt niet"
+rcint_9849,Repair Café International,NLD,1,Battery is not the main problem,Tablet,Sony,Repairable,????,2018-09-29,nl,wil graag open kunnen maken om batterij te vervangen
+rcwales_2842,Repair Cafe Wales,GBR,1,Battery is not the main problem,Battery/charger/adapter,Unknown,Repairable,????,2019-09-01,en,phone charger clip broken
+restart_10076,The Restart Project,ITA,1,Battery is not the main problem,Hair & beauty item,imetec,Repairable,2015,2018-11-08,en,It charges but it does not work
+restart_10205,The Restart Project,HKG,1,Battery is not the main problem,Mobile,Samsung,Repairable,2016,2018-11-11,en,"Device won't connect via USB, dropped in sea water - request new I/O daughterboard and battery"
+restart_10518,The Restart Project,HKG,1,Battery is not the main problem,Mobile,Apple,Repairable,2016,2018-11-25,en,"Phone runs slow; changed battery 1 month ago but doesn't help, 4Gb of storage left from 64"
+restart_10664,The Restart Project,GBR,1,Battery is not the main problem,Portable radio,Unknown,Repairable,????,2018-12-08,en,Works on battery  but not mains.  Problem not identifed.
+restart_10665,The Restart Project,GBR,1,Battery is not the main problem,Toy,Unknown,Repairable,????,2018-12-08,en,Work on battery but not mains.  Problem not identified.  Likely repairable with new external power supply.
+restart_11724,The Restart Project,GBR,1,Battery is not the main problem,Laptop,Samsung,Repairable,2014,2019-02-23,en,"needs replacing video connector, part changed, but couldn't be tested (as no battery charger)"
+restart_12173,The Restart Project,GBR,1,Battery is not the main problem,Small home electrical,Tennis Tutor,Repairable,2009,2019-03-20,en,<p>Ball launcher wheels not turning.</p><p>Stripped unit.</p><p>Test battery x2</p><p>Test each motor</p><p>Test controls.</p><p>Ball motors work if control panel is bypassed.</p><p>Have contacted Manufacturer for advice.</p>
+restart_12377,The Restart Project,SWE,1,Battery is not the main problem,Laptop,Lenovo,Repairable,????,2019-03-24,en,"It does not charge, and does not start even if there is charge in the battery"
+restart_12531,The Restart Project,GBR,1,Battery is not the main problem,Laptop,Unknown,Repairable,????,2019-04-06,en,"Forgot BIOS password, need help removing CMOS battery - not seen due to lack of time"
+restart_13005,The Restart Project,GBR,1,Battery is not the main problem,Watch/clock,Habitat,Repairable,2016,2019-05-11,en,"Clock.  Keeps losing time, needs a new battery every 3 days.Suggested to get a new mechanism."
+restart_1360,The Restart Project,GBR,1,Battery is not the main problem,PC accessory,Unknown,Repairable,????,2015-04-25,en,iPhone charger - Continuity - Not enough time
+restart_13638,The Restart Project,ITA,1,Battery is not the main problem,Mobile,Apple,Repairable,????,2019-06-06,en,broken screen and recharge circuit not working
+restart_15187,The Restart Project,HKG,1,Battery is not the main problem,Mobile,Apple,Repairable,2016,2019-10-13,en,"Cracked digitizer 4 months ago, screen repaired by 3rd part, Bad battery health(66%). Ordered new screen assembly"
+restart_15243,The Restart Project,SWE,1,Battery is not the main problem,Toy,Unknown,Repairable,2009,2019-10-19,en,only turns one way. Could not inspect because particpant did not bring correct batteries. Will continue next event.
+restart_15734,The Restart Project,GBR,1,Battery is not the main problem,Laptop,Compaq,Repairable,2012,2019-11-10,en,Wont power on - no response to power button.  New PSU + Mains lead tested.  Power at motherboard OK.  Power LED white on mains and amber if battery connected after reassembly but still wont power on.
+restart_15744,The Restart Project,GBR,1,Battery is not the main problem,Small home electrical,Alba Diagnostics,Repairable,2014,2019-11-10,en,Draining battery.  Needs new chip.
+restart_16669,The Restart Project,BEL,1,Battery is not the main problem,Vacuum,LG,Repairable,2018,2020-01-25,en,New battery but reset button does not work. Not possible to upload updates for the electronic control
+restart_1689,The Restart Project,GBR,1,Battery is not the main problem,Portable radio,Unknown,Repairable,????,2015-09-19,en,Wind up radio which doesn't seem to be charging - fixed partly but there was a crack in the cog for the dynamo which meant the dynamo keeps slipping.
+restart_1735,The Restart Project,GBR,1,Battery is not the main problem,Portable radio,Unknown,Repairable,????,2015-09-26,en,speaker burnt ou - need to be charged
+restart_17702,The Restart Project,SWE,1,Battery is not the main problem,Toy,Traxxis,Repairable,2019,2020-08-30,en,"Battery cable needed to be resoldered. However, then the motor is not working..."
+restart_17731,The Restart Project,SWE,1,Battery is not the main problem,Mobile,Fairphone,Repairable,2016,2020-09-13,en,right side of display not working. microphone only working with headset. Does not transfer pictures to computer. Poor charging.
+restart_1827,The Restart Project,GBR,1,Battery is not the main problem,Tablet,Unknown,Repairable,????,2015-10-31,en,does not switch on - no issue with battery/ microsocket - individual happy with advice received
+restart_1995,The Restart Project,GBR,1,Battery is not the main problem,Mobile,Apple,Repairable,????,2015-12-01,en,"dust in the camera. advised to ask Apple to do it free of charge, as not due to usage"
+restart_3701,The Restart Project,GBR,1,Battery is not the main problem,Watch/clock,Unknown,Repairable,????,2016-11-16,en,Battery clock - new motor needed from Ebay
+restart_3856,The Restart Project,GBR,1,Battery is not the main problem,Mobile,Samsung,Repairable,????,2016-11-23,en,Slow and freezes. May need battery replaced.
+restart_5026,The Restart Project,GBR,1,Battery is not the main problem,Laptop,Toshiba,Repairable,????,2017-05-09,en,Owner was not able to restore system from discs. BIOS/password problem. Advised to remove the cmos battery for >25min and reset
+restart_5527,The Restart Project,GBR,1,Battery is not the main problem,Food processor,Unknown,Repairable,????,2017-06-24,en,Hand blender overheated. Needs batteries.
+restart_6048,The Restart Project,GBR,1,Battery is not the main problem,Laptop,Dell,Repairable,????,2017-09-23,en,Keeps blowing charger. needs specialist advice.
+restart_6054,The Restart Project,GBR,1,Battery is not the main problem,Digital compact camera,Olympus,Repairable,????,2017-09-23,en,Water entered the camera. Needs charging to test.
+restart_6503,The Restart Project,GBR,1,Battery is not the main problem,Handheld entertainment device,Apple,Repairable,????,2017-11-11,en,Won't charge - charging power cord corroded. Advised to clean socket (10 years old)
+restart_6661,The Restart Project,GBR,1,Battery is not the main problem,Tablet,Samsung,Repairable,????,2017-11-25,en,arrived dismantled. new battery but won't power up. ribbon cable to screen had been torn from connection. owner to try external monitor to save data.
+restart_6804,The Restart Project,ESP,1,Battery is not the main problem,Mobile,Unknown,Repairable,????,2017-12-02,en,The battery quickly discharges and the mobile gets too warm.We recommend to update the software or a factory reset.
+restart_7062,The Restart Project,GBR,1,Battery is not the main problem,Small kitchen item,Unknown,Repairable,????,2018-01-28,en,Weighing scale. Advised on how to get around broken battery cover.
+restart_7465,The Restart Project,ISL,1,Battery is not the main problem,PC accessory,Apple,Repairable,????,2018-03-14,en,Battery drains really fast. Solved as a software issue
+restart_755,The Restart Project,GBR,1,Battery is not the main problem,Games console,Sony,Repairable,????,2014-06-28,en,"Gaming device (needs category). Won't turn on. Battery needs charging, cleaned up."
+restart_8331,The Restart Project,GBR,1,Battery is not the main problem,Mobile,Sony,Repairable,2014,2018-05-13,en,Brought a spare battery - but the problem wasn't the battery. Professional help needed.
+restart_8834,The Restart Project,GBR,1,Battery is not the main problem,Misc,Unknown,Repairable,1988,2018-07-21,en,Stopped and it's not the battery. Suspect it's the mechanism
+restart_8935,The Restart Project,GBR,1,Battery is not the main problem,Laptop,HP,Repairable,2017,2018-08-16,en,Cannot login (lost password). The owner didn't bring the charger and none of the chargers we had on the day was compatible.
+anstiftung_2109,anstiftung,DEU,9,Battery is not the main problem,Decorative or safety lights,Unknown,End of life,????,2016-03-10,de,"Sie leuchtete nicht mehr. Nicht nur der LiPo-Akku war komplett leer, was für diesen Typ schon den Tod bedeutet, sondern auch eine Sicherung in der Ladestation war defekt. Die haben wir ersetzt, aber auch die Ladeelektronik selbst hatte einen Defekt, den wir nicht beheben konnten."
+rcint_10225,Repair Café International,NLD,9,Battery is not the main problem,Watch/clock,Unknown,End of life,2010,2018-10-06,nl,"Klok op radiosignaal, hij loopt niet meer, ook niet met nieuwe batterijen"
+rcint_15282,Repair Café International,NLD,9,Battery is not the main problem,Portable radio,Sangean,End of life,????,2019-03-02,nl,"Gaat niet aan en uit, ook niet met adapter of batterijen"
+rcint_16037,Repair Café International,GBR,9,Battery is not the main problem,Lamp,Unknown,End of life,????,2019-03-23,en,Charging port loose
+rcint_16624,Repair Café International,NLD,9,Battery is not the main problem,Toy,Jumbo,End of life,1999,2019-04-06,nl,Werkt niet meer op adapter of batterijen
+rcint_19829,Repair Café International,NLD,9,Battery is not the main problem,Power tool,Metabo,End of life,2015,2019-07-06,nl,Acculader defect
+rcint_20247,Repair Café International,CAN,9,Battery is not the main problem,Vacuum,iRobot,End of life,2004,2019-07-27,en,won't start even with new battery installed
+rcint_20293,Repair Café International,GBR,9,Battery is not the main problem,Hair & beauty item,Unknown,End of life,????,2019-07-27,en,Charger not working
+rcint_20688,Repair Café International,CAN,9,Battery is not the main problem,Watch/clock,Seiko,End of life,1991,2019-08-24,en,"stopped working, not a battery issue"
+rcint_22093,Repair Café International,NLD,9,Battery is not the main problem,Watch/clock,Unknown,End of life,1980,2019-09-28,nl,"Loopt niet, terwijl batterij al vervangen is."
+rcint_22216,Repair Café International,NLD,9,Battery is not the main problem,Power tool,Ferm,End of life,2011,2019-09-28,nl,acculader kapot
+rcint_22614,Repair Café International,NLD,9,Battery is not the main problem,Musical instrument,Unknown,End of life,2000,2019-10-05,nl,geeft geen geluid ondanks nieuwe batterijen
+rcint_24897,Repair Café International,CAN,9,Battery is not the main problem,Watch/clock,Quartz,End of life,????,2019-11-09,en,"Watch stopped working, hands don't move, have replaced battery before, but watch dies shortly after"
+rcint_3953,Repair Café International,NLD,9,Battery is not the main problem,Misc,Doc i doc,End of life,2017,2017-12-22,nl,"Contacten schoonmaken, batterijen vernieuwen . Was niet de oorzaak."
+rcint_8940,Repair Café International,NLD,9,Battery is not the main problem,Power tool,Black & Decker,End of life,????,2018-09-01,nl,oplader accu defect
+rcwales_1067,Repair Cafe Wales,GBR,9,Battery is not the main problem,Decorative or safety lights,Unknown,End of life,????,2018-11-01,en,"Headtorch Not working, bulb and batteries fine"
+rcwales_1273,Repair Cafe Wales,GBR,9,Battery is not the main problem,Misc,Unknown,End of life,????,2019-04-01,en,Mobility Scooter No Power - have tried new battery
+rcwales_1534,Repair Cafe Wales,GBR,9,Battery is not the main problem,Decorative or safety lights,Narwol,End of life,????,2019-01-01,en,Battery powered light Won't turn on. Have changed batteries but still doesn't work.
+rcwales_1977,Repair Cafe Wales,GBR,9,Battery is not the main problem,Laptop,Unknown,End of life,????,2019-11-01,en,laptop wont charge loose connection
+rcwales_2467,Repair Cafe Wales,GBR,9,Battery is not the main problem,Battery/charger/adapter,Unknown,End of life,????,2019-12-01,en,battery charger loose wire
+rcwales_2949,Repair Cafe Wales,GBR,9,Battery is not the main problem,Toy,Binatone terrain,End of life,????,2019-11-01,en,Walky talky and charger Walky talkies working ok charging dock not working
+rcwales_3159,Repair Cafe Wales,GBR,9,Battery is not the main problem,Battery/charger/adapter,HP,End of life,????,2019-07-01,en,laptop charger no charge
+rcwales_3482,Repair Cafe Wales,GBR,9,Battery is not the main problem,Portable radio,Unknown,End of life,????,2020-02-01,en,battery radio only plays on earphones
+rcwales_4228,Repair Cafe Wales,GBR,9,Battery is not the main problem,Battery/charger/adapter,Unknown,End of life,????,2020-03-01,en,battery charger 
+rcwales_701,Repair Cafe Wales,GBR,9,Battery is not the main problem,Battery/charger/adapter,Unknown,End of life,????,2018-04-01,en,Mobile Phone Charger charger
+restart_10287,The Restart Project,IRL,9,Battery is not the main problem,Laptop,Unknown,End of life,2010,2018-11-17,en,"Laptop not Charging. Power Supply checked, etc. but no fault found."
+restart_10417,The Restart Project,NOR,9,Battery is not the main problem,Mobile,Apple,End of life,2015,2018-11-21,en,Turns off even when fully charged
+restart_11413,The Restart Project,BEL,9,Battery is not the main problem,Misc,Apple,End of life,????,2019-02-14,en,Charger broken
+restart_11947,The Restart Project,BEL,9,Battery is not the main problem,Misc,Unknown,End of life,????,2019-03-09,nl,"Weegschaal, Werkt niet meer. Batterijen vervangen, toestel blijkt stuk."
+restart_12819,The Restart Project,GBR,9,Battery is not the main problem,Laptop,Dell,End of life,????,2019-04-24,en,"Laptop not charging, needs new motherboard"
+restart_14296,The Restart Project,GBR,9,Battery is not the main problem,Tablet,Tesco,End of life,2014,2019-07-29,en,New charge card didn't work. Tablet scrapped and recycled one supplied.
+restart_14424,The Restart Project,GBR,9,Battery is not the main problem,Misc,Unknown,End of life,2017,2019-08-17,en,hand torch not working even when battery replaced
+restart_14897,The Restart Project,NOR,9,Battery is not the main problem,Laptop,Acer,End of life,2016,2019-09-28,en,"Bent charging port, doesn't charge well"
+restart_15148,The Restart Project,GBR,9,Battery is not the main problem,PC accessory,Unknown,End of life,????,2019-10-12,en,tablet charging port
+restart_15157,The Restart Project,GBR,9,Battery is not the main problem,Toy,Unknown,End of life,????,2019-10-12,en,battery operated toy dog - wiring too old and kept breaking
+restart_15670,The Restart Project,NOR,9,Battery is not the main problem,Misc,Alpen Heat,End of life,2009,2019-11-09,en,Charger is defect (charging port
+restart_16209,The Restart Project,GBR,9,Battery is not the main problem,Portable radio,Sony,End of life,????,2019-12-07,en,"Tapes won't play, radio reception bad, case slightly broken which affects battery connection"
+restart_16322,The Restart Project,GBR,9,Battery is not the main problem,Battery/charger/adapter,Revitive,End of life,????,2019-12-21,en,Charger not working - unable to fix
+restart_16360,The Restart Project,ESP,9,Battery is not the main problem,Power tool,Parkside (Lidl),End of life,2013,2019-12-21,en,"Burnt motor, dead battery."
+restart_1645,The Restart Project,GBR,9,Battery is not the main problem,Mobile,BlackBerry,End of life,????,2015-08-23,en,"Won't power on, even with a new battery"
+restart_16853,The Restart Project,GBR,9,Battery is not the main problem,Portable radio,Bush,End of life,2010,2020-02-01,en,"Dies immediately even with fresh batteries:solution: Faulty motor, not fixable"
+restart_17002,The Restart Project,GBR,9,Battery is not the main problem,Vacuum,Ilife,End of life,2019,2020-02-08,en,Charger not working
+restart_17056,The Restart Project,GBR,9,Battery is not the main problem,Hi-Fi separates,Marley,End of life,2017,2020-02-15,en,charging input broken
+restart_17348,The Restart Project,BEL,9,Battery is not the main problem,Misc,Unknown,End of life,????,2020-02-16,en,loose charger - to small to solder with a normal soldering iron
+restart_3311,The Restart Project,GBR,9,Battery is not the main problem,PC accessory,Unknown,End of life,????,2016-09-22,en,Phone charger
+restart_38,The Restart Project,GBR,9,Battery is not the main problem,PC accessory,Unknown,End of life,????,2013-07-06,en,"Mouse charger - ""Blew"""
+restart_3861,The Restart Project,GBR,9,Battery is not the main problem,Portable radio,Unknown,End of life,????,2016-11-24,en,DAB clock radio - no signal and no clock. Charger fault and no signal after factory reset
+restart_448,The Restart Project,GBR,9,Battery is not the main problem,PC accessory,Unknown,End of life,????,2014-02-19,en,Laptop charger - Continuity fault - Needs replacement jack
+restart_4513,The Restart Project,ITA,9,Battery is not the main problem,Laptop,HP,End of life,????,2017-03-11,en,Not booting. With or without battery or HD. Only running sometimes the BIOS. Not booting from USB. Old model with 512 MB of RAM
+restart_501,The Restart Project,TUN,9,Battery is not the main problem,PC accessory,Apple,End of life,????,2014-03-08,en,Laptop Charger
+restart_5134,The Restart Project,GBR,9,Battery is not the main problem,Tablet,Unknown,End of life,????,2017-05-20,en,"Kindle. Much testing. Battery, charger & switch all okay. So, main board or screen faulty."
+restart_6498,The Restart Project,GBR,9,Battery is not the main problem,Tablet,Tesco,End of life,2015,2017-11-11,en,Completely dead - reworked battery but still dead
+restart_6651,The Restart Project,ITA,9,Battery is not the main problem,Mobile,ASUS,End of life,2015,2017-11-19,en,"Fell into the ocean, battery contacts oxidized, screen dead"
+restart_7371,The Restart Project,GBR,9,Battery is not the main problem,Vacuum,Unknown,End of life,????,2018-03-03,en,"Small battery-powered carpet cleaner attached to a long handle, brand/model forgotten. The handle had snapped off from the hinge, as a clip had snapped off. The hinge also seemed to be stuck in one position. After freeing the hinge and offering to glue the handle onto it with epoxy resin, the user decided that the two positions/angles the handle was now moving between were not practical, and decided against the repair."
+restart_8848,The Restart Project,GBR,9,Battery is not the main problem,Misc,Maplin,End of life,2017,2018-07-21,en,Heated gloves.Think the circuit was damaged inside the gloves. The battery pack and charging checked out fine. Would have to damage to fix them
+restart_9549,The Restart Project,NOR,9,Battery is not the main problem,Mobile,Samsung,End of life,2010,2018-10-11,en,"Charges, but does't start"
+restart_11593,The Restart Project,GBR,10,Battery not readily available,Vacuum,Dyson,End of life,????,2019-02-17,en,"Battery Failure, not repairable"
+restart_4917,The Restart Project,ITA,10,Battery not readily available,DSLR/video camera,Sony,End of life,????,2017-04-22,en,Proprietary battery dead (Old camera)
+restart_57,The Restart Project,GBR,10,Battery not readily available,Laptop,Unknown,End of life,????,2013-07-31,en,Laptop - Power cutting off - Needs new battery
+restart_10254,The Restart Project,GBR,11,"Built-in or soldered battery, cannot remove",Misc,Unknown,End of life,????,2018-11-17,en,Making weird noise - battery running out and not a model where the battery is changeable.
+restart_137,The Restart Project,GBR,11,"Built-in or soldered battery, cannot remove",Decorative or safety lights,Unknown,End of life,????,2013-09-14,en,Bike lights - Battery issue - Soldered together
+restart_177,The Restart Project,GBR,11,"Built-in or soldered battery, cannot remove",PC accessory,Unknown,End of life,????,2013-10-19,en,Solar charger - Battery issue - Needed to break it to get inside
+restart_2273,The Restart Project,GBR,11,"Built-in or soldered battery, cannot remove",Hair & beauty item,OralB,End of life,????,2016-02-20,en,Toothbrush - non-replaceable battery
+restart_3436,The Restart Project,GBR,11,"Built-in or soldered battery, cannot remove",Power tool,Bosch,End of life,????,2016-10-18,en,Lights up looks like its charging but nothing
+fixitclinic_318,Fixit Clinic,USA,2,Clean battery contacts,Digital compact camera,Lumix (pasonic),Repairable,????,2019-01-12,en,camera  ~ clean the battery cage 
+rcint_15235,Repair Café International,NLD,2,Clean battery contacts,Lamp,Unknown,Repairable,????,2019-03-02,nl,werkt niet goed / contact batterijen?
+rcint_23329,Repair Café International,AUS,2,Clean battery contacts,Musical instrument,Casio,Repairable,2013,2019-10-13,en,Won't switch on with adaptor. Battery leaked in compartment
+rcint_769,Repair Café International,NLD,2,Clean battery contacts,Watch/clock,Wanted,Repairable,2010,2017-04-15,nl,Batterij maakt slecht contact
+rcwales_1652,Repair Cafe Wales,GBR,2,Clean battery contacts,Toy,Unknown,Repairable,????,2019-06-01,en,"Toys sound not working, Headtorch not coming on, toy laptop battery spring rusted, gas lighter doesnâ€™t switch on. "
+rcwales_23,Repair Cafe Wales,GBR,2,Clean battery contacts,Portable radio,Unknown,Repairable,????,2017-04-01,en,Radio Batteries leaked
+restart_13183,The Restart Project,GBR,2,Clean battery contacts,Portable radio,Blaupunkt,Repairable,1959,2019-05-17,en,Corroded batteries.  Advice given on cleaning up
+restart_13563,The Restart Project,GBR,2,Clean battery contacts,Decorative or safety lights,Unknown,Repairable,2017,2019-06-01,en,Battery contacts cleaned and checked
+restart_15267,The Restart Project,GBR,2,Clean battery contacts,Laptop,Apple,Repairable,2010,2019-10-19,en,Corroded connection to battery
+anstiftung_1682,anstiftung,DEU,13,Damaged while replacing battery,Decorative or safety lights,Unknown,End of life,????,2018-03-08,de,"Fortsetzung von letztem Mal: Akku defekt.Besitzerin hatte selbst einen neuen Akku eingebaut, aber den falschen. Das hat das Gerät zerstört."
+restart_15009,The Restart Project,SWE,13,Damaged while replacing battery,Headphones,Beats,End of life,2018,2019-10-02,en,The battery doesn't charge. We opened it - which didn't help and ended in a total failure of the device.
+rcint_14277,Repair Café International,NLD,14,Difficult to remove battery,Lamp,Maglite,End of life,????,2019-02-02,nl,Batterij zit vast
+rcint_14798,Repair Café International,NLD,14,Difficult to remove battery,Lamp,Maglite,End of life,????,2019-02-22,nl,batterijvakje gaat niet open
+rcint_18085,Repair Café International,AUS,14,Difficult to remove battery,Watch/clock,Unknown,End of life,????,2019-05-12,en,Can't take it apart to put in new battery
+rcint_22829,Repair Café International,NLD,14,Difficult to remove battery,Vacuum,Black & Decker,End of life,????,2019-10-05,nl,Batterijen zijn op; hoe krijg ik dit open
+rcint_24863,Repair Café International,CAN,14,Difficult to remove battery,Watch/clock,Quartz,End of life,2014,2019-11-09,en,Can't open it to put a new battery in
+restart_11394,The Restart Project,SWE,14,Difficult to remove battery,Misc,Unknown,End of life,2014,2019-02-10,en,Battery stuck in flashlight. Could not get out.
+restart_12148,The Restart Project,BEL,14,Difficult to remove battery,Decorative or safety lights,Magicshine,End of life,2018,2019-03-17,en,"USB-chargable bike light. The charging indicator light shines when plugged in, but even after hours of charging, the light doesn't turn on. It was impossible to dissasemble without destroying the casing due to waterproofing and the overall design."
+restart_12344,The Restart Project,GBR,14,Difficult to remove battery,Decorative or safety lights,Powerplus,End of life,2016,2019-03-24,en,"Solar/wind-up torch - stopped working, No way to open it to check batteries without fully destroying the product."
+restart_12383,The Restart Project,GBR,14,Difficult to remove battery,Decorative or safety lights,Unknown,End of life,2004,2019-03-30,en,Unable to open to replace battery. Probably caused by battery leakage.https://maglite.com/support/faq
+restart_15200,The Restart Project,BEL,14,Difficult to remove battery,Headphones,JBL,End of life,2019,2019-10-16,en,Battery overheated and does not work anymore as a result. No method to open the glued rubber casing
+restart_2334,The Restart Project,GBR,14,Difficult to remove battery,Handheld entertainment device,Apple,End of life,????,2016-03-04,en,"battery dead, can't be fixed without breaking it"
+restart_320,The Restart Project,GBR,14,Difficult to remove battery,Mobile,Unknown,End of life,????,2014-01-25,en,Phone - Not charging - Needed to destroy the case to get into it
+restart_468,The Restart Project,GBR,14,Difficult to remove battery,Decorative or safety lights,Unknown,End of life,????,2014-03-08,en,Watch - Battery - Need better tools
+restart_922,The Restart Project,GBR,14,Difficult to remove battery,Hair & beauty item,Unknown,End of life,????,2014-09-27,en,Electric toothbrush - Not charging - Need to break to open
+anstiftung_4245,anstiftung,DEU,3,Fix connectors or casing,Watch/clock,Unknown,Repairable,2007,2019-12-12,de,"Sie funktionierte nicht mehr. Sie wurde nicht mehr mit der benötigten Betriebsspannung versorgt, weil die Kontakte im Batteriehalter vollkommen weggegammelt waren. Offenbar waren dort verbrauchte Batterien ausgelaufen und das Elektrolyt hat das Metall der Kontakte zersetzt. Die Besucherin wird einen neuen Batteriehalter besorgen und dann reparieren wir das nächste Mal weiter."
+rcint_18578,Repair Café International,USA,3,Fix connectors or casing,Toy,Unknown,Repairable,2000,2019-05-25,en,"battery case eroded, touch control switch not working"
+rcint_19760,Repair Café International,NLD,3,Fix connectors or casing,Misc,Elzo,Repairable,2014,2019-07-06,nl,batterij contact kapot
+rcint_21778,Repair Café International,GBR,3,Fix connectors or casing,Hair & beauty item,Opi,Repairable,2010,2019-09-14,en,Loose charger or connection
+restart_11486,The Restart Project,GBR,3,Fix connectors or casing,Toy,Unknown,Repairable,????,2019-02-16,en,Not working/battery not connecting with function
+restart_15111,The Restart Project,GBR,3,Fix connectors or casing,Portable radio,Unknown,Repairable,????,2019-10-12,en,alarm clock- battery cage needs fixing.
+restart_15617,The Restart Project,GBR,3,Fix connectors or casing,Decorative or safety lights,Linkax,Repairable,????,2019-11-02,en,"Was not powering on, the spring for one end of the battery connection was found to have broken away from a small solder joint. The user was shown how to solder this back on, but the new solder joint was a bit messy and bridged to the other power pole, so this would need to be re-done, but they ran out of time and left it for later. The T-Exchange's local soldering class was advertised for practice."
+restart_16805,The Restart Project,GBR,3,Fix connectors or casing,Misc,Unknown,Repairable,????,2020-01-26,en,Battery holder broken.  Advice given.
+restart_16968,The Restart Project,GBR,3,Fix connectors or casing,Watch/clock,PINEAPPLE FURNITURE LTD,Repairable,2010,2020-02-02,en,Battery mechanism not working.Replace mechanism plus minute and hour hands - low cost kit available online.
+restart_17059,The Restart Project,GBR,3,Fix connectors or casing,Toy,Fisher-Price,Repairable,1990,2020-02-15,en,connection to the battery
+restart_17259,The Restart Project,GBR,3,Fix connectors or casing,PC accessory,Unknown,Repairable,????,2020-02-15,en,charger cable connection
+restart_2325,The Restart Project,GBR,3,Fix connectors or casing,DSLR/video camera,Canon,Repairable,????,2016-03-04,en,loose battery slot. showed how to do it at home
+restart_2868,The Restart Project,GBR,3,Fix connectors or casing,Laptop,Unknown,Repairable,????,2016-06-11,en,Battery connection
+restart_4983,The Restart Project,NOR,3,Fix connectors or casing,Laptop,ASUS,Repairable,????,2017-05-06,en,Bad connection with charger
+restart_8763,The Restart Project,GBR,3,Fix connectors or casing,Laptop,HP,Repairable,2011,2018-07-08,en,Charging point / sticking keys.  Needs spare parts.
+restart_9713,The Restart Project,NOR,3,Fix connectors or casing,Toy,Maisto Tech,Repairable,2017,2018-10-20,en,No contact with battery
+anstiftung_2382,anstiftung,DEU,4,Fix the charging port,Tablet,Samsung,Repairable,????,2017-02-28,de,"Es konnte nicht mehr aufgeladen werden, die USB-Ladebuchse war gebrochen.Das Tablet wurde zerlegt und die USB-Buchse zwecks einer Ersatzteilbestellung fotografiert. Die zu bestellende Buchse wird in einem der nächsten RepairCafés mit passendem Werkzeug gewechselt."
+anstiftung_2577,anstiftung,DEU,4,Fix the charging port,Laptop,Unknown,Repairable,????,2015-11-19,de,"Es ließ sich nicht mehr laden. Die Netzteilbuchse im Laptop war zerbrochen und ein Draht abgerissen. Wir haben die Buchse geklebt und den Draht wieder angelötet. Damit ging es erst einmal wieder, war aber auf Bewegung sehr anfällig (kein Kontakt mehr zum Stecker, wahrscheinlich ausgeleiert). Der Besitzer versucht, eine neue Buchse zu bekommen und wir können sie das nächste Mal tauschen. Alternativ gäbe es noch die Möglichkeit, eine neue Buchse nach außen zu verlegen."
+anstiftung_3065,anstiftung,DEU,4,Fix the charging port,Laptop,Asus,Repairable,2012,2019-06-20,de,"Der Laptop von ASUS lud den Akku nicht mehr auf. Nachdem der Gast das Gerät demontiert hatte, überprüften wir die Ladebuchse und stellten fest, dass der mittlere Kontakt abgebrochen war. Wir versuchten die Buchse nachzulöten, hatten aber keinen Erfolg. Der Gast wird ein Ersatzteil besorgen."
+anstiftung_3071,anstiftung,DEU,4,Fix the charging port,Tablet,Unknown,Repairable,????,2018-11-11,de,"Hier lagen gleich mehrere Fehler vor. Das Glas war mehrfach gesprungen und die USB-Buchse war angeschlagen, so dass es beim Laden zu Aussetzern kam.Display wird bestellt, die USB-Buchse haben wir nachgelötet."
+anstiftung_3374,anstiftung,DEU,4,Fix the charging port,Tablet,Lenovo,Repairable,????,2019-07-04,de,"An einem Lenovo Tablet war die Micro-USB-Buchse ausgeleiert, weshalb es sich nicht mehr aufladen ließ. Im Internet fanden wir eine Bezugsquelle für eine neue Platine mit USB-Buchse sowie eine Anleitung zur Demontage und den Austausch. Der Gast überlegt, ob er das Ersatzteil bestellt und die Reparatur selbst ausführen kann. Falls er Hilfe benötigt, möchte er sonst nochmal wiederkommen."
+rcwales_2224,Repair Cafe Wales,GBR,4,Fix the charging port,Hi-Fi separates,Unknown,Repairable,????,2019-10-01,en,bluetooth speaker usb charge point
+rcwales_29,Repair Cafe Wales,GBR,4,Fix the charging port,Laptop,Unknown,Repairable,????,2017-04-01,en,Laptop Loose charging Port
+restart_10430,The Restart Project,NOR,4,Fix the charging port,Laptop,ASUS,Repairable,2012,2018-11-21,en,Charging gate broken
+restart_10930,The Restart Project,CAN,4,Fix the charging port,Tablet,Unknown,Repairable,????,2019-01-17,en,Charging port
+restart_10946,The Restart Project,GBR,4,Fix the charging port,Tablet,Unknown,Repairable,????,2019-01-19,en,Damanaged charging port - advised on gettinga  new cable
+restart_1204,The Restart Project,GBR,4,Fix the charging port,PC accessory,Unknown,Repairable,????,2015-02-14,en,Mobile charger - Not charging - Needed new USB port
+restart_12074,The Restart Project,GBR,4,Fix the charging port,Tablet,Acer,Repairable,2012,2019-03-16,en,damaged charging socket
+restart_12561,The Restart Project,SWE,4,Fix the charging port,Mobile,Apple,Repairable,????,2019-04-07,en,needed new charging port and screen
+restart_12678,The Restart Project,IRL,4,Fix the charging port,Mobile,Samsung,Repairable,????,2019-04-13,en,Charging Port not working; Replacement Unit needed
+restart_13666,The Restart Project,GBR,4,Fix the charging port,Tablet,Amazon,Repairable,2014,2019-06-08,en,Charger port loose.
+restart_14185,The Restart Project,IRL,4,Fix the charging port,Tablet,Acer,Repairable,????,2019-07-18,en,Broken/Cracked Screens; Damaged Charging Port
+restart_1423,The Restart Project,GBR,4,Fix the charging port,Mobile,Apple,Repairable,????,2015-05-09,en,"Charger, loose connection."
+restart_14477,The Restart Project,SWE,4,Fix the charging port,Tablet,Samsung,Repairable,2015,2019-09-01,en,charging port not functioning
+restart_14630,The Restart Project,CAN,4,Fix the charging port,Tablet,Unknown,Repairable,????,2019-09-12,en,Charging port problem + slow
+restart_14681,The Restart Project,GBR,4,Fix the charging port,Hi-Fi separates,Unknown,Repairable,????,2019-09-14,en,Charging port broken - does work.  Needs new parts.
+restart_14973,The Restart Project,CAN,4,Fix the charging port,Laptop,Unknown,Repairable,????,2019-09-28,en,Charging port problem + slow
+restart_15198,The Restart Project,BEL,4,Fix the charging port,Battery/charger/adapter,Konig,Repairable,2016,2019-10-16,en,usb-charging connection loose: did not take the risk to open the glued casing
+restart_15316,The Restart Project,GBR,4,Fix the charging port,Hi-Fi separates,hIve,Repairable,????,2019-10-19,en,charging port fallen out
+restart_15550,The Restart Project,CAN,4,Fix the charging port,Laptop,Apple,Repairable,????,2019-10-30,en,Charging port + USB not working properly
+restart_15664,The Restart Project,NOR,4,Fix the charging port,Laptop,Apple,Repairable,2014,2019-11-09,en,"Problems with charger, charging port"
+restart_16101,The Restart Project,GBR,4,Fix the charging port,Misc,Unknown,Repairable,????,2019-11-30,en,Not working.  Found USB charge socket broken off from surface mount board.  Attempted re-attachment but not sucessful.
+restart_16103,The Restart Project,GBR,4,Fix the charging port,Handheld entertainment device,Unknown,Repairable,????,2019-11-30,en,Broken.  Probably needs replacement USB charge socket
+restart_16156,The Restart Project,CAN,4,Fix the charging port,Tablet,Unknown,Repairable,????,2019-12-05,en,Charging port
+restart_16163,The Restart Project,CAN,4,Fix the charging port,Mobile,Unknown,Repairable,????,2019-12-05,en,Charging port not working
+restart_16959,The Restart Project,GBR,4,Fix the charging port,Tablet,Amazon,Repairable,2011,2020-02-01,en,Charging port - Solution: Replacment part
+restart_17389,The Restart Project,CAN,4,Fix the charging port,Laptop,Unknown,Repairable,????,2020-02-20,en,Charging port loose
+restart_17392,The Restart Project,CAN,4,Fix the charging port,Mobile,Unknown,Repairable,????,2020-02-20,en,Charging port not always working
+restart_3486,The Restart Project,GBR,4,Fix the charging port,Tablet,Samsung,Repairable,????,2016-10-26,en,No charge - diaganosed internal socket fault
+restart_3511,The Restart Project,GBR,4,Fix the charging port,Portable radio,Unknown,Repairable,????,2016-10-29,en,bose Bluetooth speaker - mini charging input is broken - diagnosis completed
+restart_4088,The Restart Project,GBR,4,Fix the charging port,Laptop,Acer,Repairable,????,2017-01-17,en,"won't charge, needs a new charging port"
+restart_4198,The Restart Project,GBR,4,Fix the charging port,Desktop computer,Samsung,Repairable,????,2017-01-28,en,"Backlight/charging - no computer lead brough, advised on new power socket and check"
+restart_4332,The Restart Project,GBR,4,Fix the charging port,Mobile,Fairphone,Repairable,????,2017-02-05,en,"Will not charge unless cable held at angle. Removed main board and found loss usb socket needs to be reflowed and surface mount, or find working replacement board"
+restart_4523,The Restart Project,GBR,4,Fix the charging port,Mobile,HTC,Repairable,????,2017-03-18,en,Faulty charger connection
+restart_4702,The Restart Project,GBR,4,Fix the charging port,Tablet,Samsung,Repairable,????,2017-04-01,en,"Tab3 10"" USB charging port damaged. Spare part available and repair very doable"
+restart_5524,The Restart Project,GBR,4,Fix the charging port,Laptop,Acer,Repairable,????,2017-06-24,en,Won't turn on. Charging port is damaged.
+restart_5866,The Restart Project,ESP,4,Fix the charging port,Mobile,Samsung,Repairable,????,2017-09-02,en,Loose charger connector.
+restart_6781,The Restart Project,GBR,4,Fix the charging port,Tablet,Samsung,Repairable,????,2017-12-02,en,not charging. advised where to order new charging port and shown how to fit
+restart_6857,The Restart Project,GBR,4,Fix the charging port,Laptop,HP,Repairable,????,2017-12-09,en,new charging socket needed.
+restart_743,The Restart Project,GBR,4,Fix the charging port,Handheld entertainment device,Apple,Repairable,????,2014-06-28,en,"Broken charger connection, started to fix, needs more work"
+restart_7872,The Restart Project,GBR,4,Fix the charging port,Tablet,Pronto Tec,Repairable,????,2018-04-19,en,USB charger. Its not working. The tablet thinks it's charging when it's not.Needs a new micro usb port
+restart_7998,The Restart Project,GBR,4,Fix the charging port,Laptop,HP,Repairable,????,2018-04-22,en,Charger connection.  Needs new component - half fixed!
+restart_8369,The Restart Project,GBR,4,Fix the charging port,Tablet,Lenovo,Repairable,????,2018-05-19,en,"Charger port broken, and no part of replace at party.  Gave details of Lenovo and local repair shops."
+restart_8717,The Restart Project,GBR,4,Fix the charging port,Misc,Unknown,Repairable,????,2018-07-07,en,"Problem: not charging.  Diagnosis: USB connector detached from circuit board.  Solution: requires careful soldering, possible, but no time."
+restart_9311,The Restart Project,GBR,4,Fix the charging port,Mobile,Samsung,Repairable,????,2018-09-24,en,Charge port failing - No part available
+restart_972,The Restart Project,GBR,4,Fix the charging port,Tablet,Samsung,Repairable,????,2014-10-14,en,Tablet - USB charging port loosen - Needs spare part
+restart_978,The Restart Project,GBR,4,Fix the charging port,Mobile,Unknown,Repairable,????,2014-10-14,en,Mobile - Intermittently not charging - Needs new part
+restart_9904,The Restart Project,GBR,4,Fix the charging port,Tablet,Unknown,Repairable,????,2018-10-27,en,Intermittent charging problem - loose USB socket.  Needs to be disassembled - no time.
+anstiftung_2812,anstiftung,DEU,15,New battery too expensive,Battery/charger/adapter,Unknown,End of life,????,2018-07-24,de,"Akku ließ sich mit dem mitgebrachten Ladegerät nicht aufladen. Ladegerät ok, Akku tiefentladen und defekt."
+rcint_2345,Repair Café International,NLD,15,New battery too expensive,Vacuum,Quigg,End of life,2016,2017-09-25,nl,"laadt niet meer op, accu versleten. Nieuwe veervanger kost ca. 90 euro."
+restart_16104,The Restart Project,GBR,15,New battery too expensive,Vacuum,Unknown,End of life,2017,2019-11-30,en,"Runs out of power quickly.  Possible battery problems, but may be issues with charging electronics also. Barrery replacement expensive and may not fix unit.  replacement relatively cheap...  User decied to replace."
+anstiftung_1722,anstiftung,DEU,7,Other,Tablet,Apple,Repairable,????,2019-04-17,de,"Das iPad wurde seit einiger Zeit nicht benutzt und ließ sich nicht mehr einschalten. Wir schlossen es an ein USB-Netzteil an und maßen den Ladestrom. Da es lud, empfahlen wir dem Gast, das Gerät lange Zeit wieder aufzuladen. Sollte es dann immer noch nicht starten, müssen wir weitersuchen."
+anstiftung_2631,anstiftung,DEU,7,Other,Toy,Unknown,Repairable,????,2015-05-21,de,"Wir konnten die Funktion aufgrund eines tiefentladenen Li-Ion-Akkus nicht testen. Ein Ladegerät mit amerikanischer Norm (110V/60Hz) konnte mangels Trafo nicht getestet werden und das zweite Netzteil gab kein Lebenszeichen mehr von sich. Da es nicht zerstörungsfrei zerlegt werden konnte, ließen wir es lieber ungeöffnet."
+anstiftung_2815,anstiftung,DEU,7,Other,Tablet,Samsung,Repairable,????,2018-07-19,de,"Ein Samsung „Galaxy Tab 3“ Tablet gab keinen Mucks von sich; schnell war der tiefentladene Akku als Ursache gefunden. Mit niedriger Stromstärke konnten wir diesen wieder etwas laden, sodass zumindest die Akkuladeanzeige zu sehen war. Daheim soll der Patient voll aufgeladen werden, um zu schauen, ob das Tablet seine ganze Bandbreite an Funktionen wieder erfüllt."
+anstiftung_3440,anstiftung,DEU,7,Other,Laptop,Fujitsu,Repairable,2003,2019-08-22,de,"An dem Notebook von Fujitsu Siemens war die Ladebuchse ausgeleiert, weswegen der Akku bei verbundenem Netzteil nicht mehr aufgeladen wurde. Wir löteten die Ladebuchse von der Platine und recherchierten im Internet nach einem geeigneten Ersatz, wurden jedoch nicht fündig, da auch das Notebook sehr alt war. Der Gast entschied sich daher letztlich gegen eine Reparatur und will sich nun lieber ein neues Gerät kaufen."
+anstiftung_4167,anstiftung,DEU,7,Other,Lamp,Unknown,Repairable,2016,2019-11-14,de,"Der ging in letzter Zeit immer schneller „die Puste aus“. Wir nahmen an, es läge an den kürzer werdenden Tagen mit weniger zu erntender Sonnenenergie, aber der Gast meinte, es war im Sommer schon so. Leider hatte er die Solarzelle nicht mit, daher konnten wir die als Ursache nicht ausschließen. Die Elektronik funktionierte mit einer Fremdspannung gut, der Akku war völlig entladen. Wir werden bis zum nächsten Mal die Kapazität des Akkus messen und der Gast bringt die Solarzelle mit. Dann werden wir sehen, wo das Problem liegt."
+anstiftung_5109,anstiftung,DEU,7,Other,Watch/clock,Unknown,Repairable,????,2020-03-08,de,Akku nicht austauschbar
+fixitclinic_128,Fixit Clinic,USA,7,Other,Mobile,LG Sprint,Repairable,2015,2018-05-18,en,"Cell phone ~ I won't turn on, glass screen cracked, last time I tried to charge it it smelled like it was burning."
+rcint_1708,Repair Café International,NLD,7,Other,Portable radio,Sony,Repairable,2003,2017-08-05,nl,Batterijzuur heeft e.e.a. aangevreten
+restart_12009,The Restart Project,GBR,7,Other,Handheld entertainment device,Bose,Repairable,????,2019-03-10,en,Charges but doesn't play
+restart_15853,The Restart Project,GBR,7,Other,Hi-Fi integrated,HMV,Repairable,1959,2019-11-16,en,"16th Nov 2019 item29: HMV valve radiogram chassisThis was a very old radiogram chassis pre 1960's using valves (no transistors or FETs!). First comment is that these are dangerous with high voltages on exposed parts (300-400V and sometimes higher so if you do not understand how they work and cannot identify danger areas DO NOT DABBLE!!Second comment is that this repair is not something to do at a repair cafe event unless you can guarantee no-one but yourself can touch anything either accidentally or deliberately.I took the chassis home:- step 1, get the service manual- step 2, clean the dust off and check correct valves in place and look for failed components - old capacitors are typical failures. They become leaky and loose their capacitance.All seemed remarkably well given the age!One valve was incorrect and removed. This left 2 missing valves. They were in fact the push pull audio output stage valves type HN309. These are somewhat unusual as they have a 12.6V heater - my hunch is that they were used in old"
+restart_16326,The Restart Project,GBR,7,Other,Musical instrument,Unknown,Repairable,????,2019-12-21,en,Amp setting battery not connecting - suggested to buy new pick up unit and advised how to fit
+restart_16558,The Restart Project,GBR,7,Other,Toy,Top Race,Repairable,2017,2020-01-18,en,Car battery connection oxidised.  Track rod end broken.  Remote controller problem.
+restart_4881,The Restart Project,GBR,7,Other,Tablet,ASUS,Repairable,????,2017-04-22,en,"No power - checks done. Battery in Deep Sleep state. Restarter offered to take and fix, likely to be repairable"
+restart_6070,The Restart Project,GBR,7,Other,Watch/clock,Samsung,Repairable,????,2017-09-23,en,Watch. not working. Needs charging to test.
+restart_7135,The Restart Project,GBR,7,Other,Digital compact camera,Minolta,Repairable,????,2018-02-03,en,Leaked battery - whole circuitboard needs replacing
+restart_7959,The Restart Project,GBR,7,Other,Tablet,Sony,Repairable,????,2018-04-21,en,Not turning on.  Needs charging.
+restart_8378,The Restart Project,GBR,7,Other,Misc,Unknown,Repairable,????,2018-05-19,en,Battery system needs resetting after exposure to cold. Too hard.
+restart_8572,The Restart Project,GBR,7,Other,Tablet,Unknown,Repairable,????,2018-06-05,en,"New battery installed but still not working. Tablet seemed to be switched on as the backlight came on when we pushed the power button, and went off if pushed again. This implies a screen lock sort of scenario.We also confirmed her previous battery was dead so that was worth her replacing.Our conclusion was that the screen itself is dead (or its cable/connectors). She will either buy a new screen, or sell the tablet with a known fault, depending on how much she wants to spend.So, known fault, parts available - left the decision with owner."
+restart_9766,The Restart Project,GBR,7,Other,Laptop,Unknown,Repairable,????,2018-10-20,en,"Not working.  Unable to dismantle laptop, but confirmed charger was OK."
+anstiftung_4007,anstiftung,DEU,17,Other,Mobile,Apple,End of life,2014,2019-10-17,de,"Der Besitzer eines Smartphones „iPhone 5s“ hatte bereits zu Hause den Akku getauscht, leider startete das Gerät danach nicht mehr. Er überprüfte alle Steckverbindungen, das brachte keine Veränderung. Wir vermuteten, dass der Akku nicht ausreichend geladen war und empfahlen, ihn einige Zeit zu laden."
+rcint_20727,Repair Café International,CAN,17,Other,Small kitchen item,Escali,End of life,2005,2019-08-24,en,Read Out almost illegible even with a new battery
+rcint_24389,Repair Café International,NLD,17,Other,Misc,Zero tech,End of life,2018,2019-11-02,nl,accu laadt niet meer op
+rcint_5042,Repair Café International,GBR,17,Other,Laptop,Acer,End of life,2013,2018-02-03,en,Doesn't work on battery
+rcint_7866,Repair Café International,NLD,17,Other,Laptop,Acer,End of life,????,2018-06-21,nl,accu is besteld; verkeerde geleverd!
+rcwales_2096,Repair Cafe Wales,GBR,17,Other,Tablet,Apple,End of life,????,2019-04-01,en,iPad Air Not charging- damaged charging port?
+rcwales_363,Repair Cafe Wales,GBR,17,Other,Battery/charger/adapter,Unknown,End of life,????,2018-04-01,en,android phone charger faulty connection?
+restart_10508,The Restart Project,SWE,17,Other,Laptop,Lenovo,End of life,2012,2018-11-25,en,"Didn't turn on. Found fault in charging plug. Found different plug. Turned on! We thought we were on the way to a fix. Then tried to switch out  wifi card (did not accept it) and backed up hard drive.  When reinstalling hard drive, computer plug  came out and computer shut down. Could not be turned on again.  We could not find why!"
+restart_12306,The Restart Project,IRL,17,Other,Tablet,Apple,End of life,????,2019-03-23,en,Battery Not Charging; Needs Replacement
+restart_16184,The Restart Project,GBR,17,Other,Misc,Unknown,End of life,????,2019-12-07,en,Baby monitor. Charger Won't engage with cable.
+restart_16317,The Restart Project,GBR,17,Other,Portable radio,Matsui,End of life,????,2019-12-21,en,"Radio not playing - believe input transformer broken and part unavailable, use batteries."
+restart_6399,The Restart Project,GBR,17,Other,Mobile,Samsung,End of life,????,2017-10-28,en,doesn't switch on. Battery dead
+restart_6566,The Restart Project,ITA,17,Other,Handheld entertainment device,penny,End of life,????,2017-11-18,en,"Old portable disk player with battery box broken, oxidized contacts, and blocked motor. Keepsake not put in the waste."
+restart_7462,The Restart Project,ISL,17,Other,Mobile,Apple,End of life,????,2018-03-14,en,Battery drains really fast
+restart_9748,The Restart Project,GBR,17,Other,Misc,Unknown,End of life,2014,2018-10-20,en,Various rechargeble batteries. Need to know thether to recycle
+anstiftung_1440,anstiftung,DEU,8,Poor data,Misc,Unknown,Repairable,????,2019-05-18,de,geht nicht mehr - Akku?
+anstiftung_800,anstiftung,DEU,8,Poor data,Power tool,Unknown,Repairable,????,2019-02-16,de,Akku-Schrauber geht nicht
+fixitclinic_119,Fixit Clinic,USA,8,Poor data,Tablet,Amazon / Apple,Repairable,2008,2018-04-27,en,tablet and ipod ~ Won't turn on / won't charge
+fixitclinic_153,Fixit Clinic,USA,8,Poor data,Watch/clock,Pebble,Repairable,2014,2018-08-10,en,Smartwatch ~ Can't turn on. Assuming that the charger didn't actual charge the watch
+fixitclinic_450,Fixit Clinic,USA,8,Poor data,Handheld entertainment device,brookstone and makita respective,Repairable,????,2019-05-21,en,ipod player and charged but not running makita drill
+rcint_10464,Repair Café International,NLD,8,Poor data,Handheld entertainment device,Philips,Repairable,2015,2018-10-13,nl,opladen werkt niet meer
+rcint_11631,Repair Café International,NLD,8,Poor data,Laptop,Toshiba,Repairable,2008,2018-11-23,nl,batterij + harddisk
+rcint_11848,Repair Café International,GBR,8,Poor data,Vacuum,Dyson,Repairable,????,2018-11-24,en,Not charging
+rcint_14587,Repair Café International,NLD,8,Poor data,Vacuum,Black & Decker,Repairable,????,2019-02-09,nl,Opladen gaat niet meer
+rcint_15690,Repair Café International,NLD,8,Poor data,TV and gaming-related accessories,Powerfix,Repairable,????,2019-03-09,nl,doet het niet/ lege batterij
+rcint_15890,Repair Café International,NLD,8,Poor data,Battery/charger/adapter,Unknown,Repairable,????,2019-03-23,nl,Accu probleem
+rcint_16573,Repair Café International,NLD,8,Poor data,DSLR/video camera,Grundig,Repairable,1996,2019-04-06,nl,Hij doet het niet ; batterij?
+rcint_17051,Repair Café International,GBR,8,Poor data,Tablet,Apple,Repairable,????,2019-04-13,en,Not charging
+rcint_17607,Repair Café International,NLD,8,Poor data,Lamp,Unknown,Repairable,????,2019-05-04,nl,batterij laadt niet op
+rcint_18568,Repair Café International,FRA,8,Poor data,Vacuum,Unknown,Repairable,????,2019-05-25,fr,Ne charge plus
+rcint_19141,Repair Café International,NLD,8,Poor data,Tablet,Medion,Repairable,????,2019-06-08,nl,"wachtwoorden vergeten, opladen werkt niet"
+rcint_19275,Repair Café International,AUS,8,Poor data,Games console,Nintendo,Repairable,2009,2019-06-13,en,Not charging. Electrical issue
+rcint_19812,Repair Café International,NLD,8,Poor data,Large home electrical,Gardena,Repairable,2005,2019-07-06,nl,Accu laadt niet goed op
+rcint_20507,Repair Café International,NLD,8,Poor data,Toy,Singer,Repairable,????,2019-08-03,nl,Werkt niet - batterijen compartiment?
+rcint_20649,Repair Café International,AUS,8,Poor data,Lamp,Arlec,Repairable,????,2019-08-11,en,Rechargeable torch doesn't work
+rcint_20724,Repair Café International,CAN,8,Poor data,Tablet,Samsung,Repairable,2014,2019-08-24,en,Doesn't Charge
+rcint_21268,Repair Café International,NLD,8,Poor data,Power tool,Black & Decker,Repairable,2009,2019-09-07,nl,helemaal geen power bij volle accu
+rcint_21301,Repair Café International,NLD,8,Poor data,Tablet,TomTom,Repairable,????,2019-09-07,nl,weigert na het opladen
+rcint_21603,Repair Café International,NLD,8,Poor data,Power tool,Bosch,Repairable,2010,2019-09-14,nl,Is opgeladen maar doet niets
+rcint_21767,Repair Café International,GBR,8,Poor data,Battery/charger/adapter,Hotline,Repairable,2000,2019-09-14,en,Not charging the fence
+rcint_21782,Repair Café International,GBR,8,Poor data,Misc,Unknown,Repairable,2000,2019-09-14,en,Doesnt charge
+rcint_25352,Repair Café International,FRA,8,Poor data,Vacuum,Unknown,Repairable,????,2019-11-21,fr,Batterie certainement HS
+rcint_25732,Repair Café International,NLD,8,Poor data,Laptop,Archos,Repairable,????,2019-11-28,nl,blijft laden
+rcint_26643,Repair Café International,GBR,8,Poor data,Toy,Unknown,Repairable,????,2019-12-07,en,fails to charge battery
+rcint_26932,Repair Café International,FRA,8,Poor data,PC accessory,Unknown,Repairable,????,2019-12-14,fr,Ne charge plus
+rcint_2762,Repair Café International,NLD,8,Poor data,Power tool,Black & Decker,Repairable,????,2017-10-17,nl,misschien de accu
+rcint_28030,Repair Café International,NLD,8,Poor data,Tablet,Difrince,Repairable,????,2020-01-17,nl,"Doet het niet, ook niet na opladen."
+rcint_28180,Repair Café International,GBR,8,Poor data,Vacuum,Bosch,Repairable,????,2020-01-18,en,cordless battery not charging
+rcint_29107,Repair Café International,NLD,8,Poor data,Hi-Fi separates,Logitech,Repairable,????,2020-02-01,nl,Wordt niet opgeladen
+rcint_30304,Repair Café International,GBR,8,Poor data,Toy,Unknown,Repairable,????,2020-02-15,en,mystery battery problem
+rcint_30926,Repair Café International,FRA,8,Poor data,Hair & beauty item,Braun,Repairable,2013,2020-02-29,fr,ne se recharge pas
+rcint_31691,Repair Café International,FRA,8,Poor data,Vacuum,Unknown,Repairable,????,2020-07-04,fr,Ne charge plus
+rcint_6309,Repair Café International,NLD,8,Poor data,TV and gaming-related accessories,Samsung,Repairable,2017,2018-04-07,nl,Batterijen leeg
+rcint_6332,Repair Café International,NLD,8,Poor data,Toy,Chicco,Repairable,2012,2018-04-07,nl,batterijen ?
+rcint_6620,Repair Café International,FRA,8,Poor data,Handheld entertainment device,Unknown,Repairable,????,2018-04-21,fr,Ne charge plus
+rcint_6785,Repair Café International,NLD,8,Poor data,Toy,Fisher-Price,Repairable,1990,2018-05-05,nl,defecte batterijen
+rcint_6918,Repair Café International,NLD,8,Poor data,Mobile,Apple,Repairable,2012,2018-05-05,nl,mogelijk accu probleem
+rcint_7174,Repair Café International,NLD,8,Poor data,Small home electrical,Leifheit,Repairable,????,2018-05-19,en,Accu of adapter?
+rcint_7392,Repair Café International,GBR,8,Poor data,Laptop,Unknown,Repairable,????,2018-05-26,en,Not charging
+rcint_7668,Repair Café International,NLD,8,Poor data,Hair & beauty item,Philips,Repairable,????,2018-06-03,nl,te weinig opgeladen
+rcint_8354,Repair Café International,NLD,8,Poor data,Hair & beauty item,Philips,Repairable,1988,2018-07-14,nl,Batterijen en/of schakelaar
+rcint_9888,Repair Café International,USA,8,Poor data,Battery/charger/adapter,Schumacher,Repairable,????,2018-09-29,en,Won't charge
+rcwales_1604,Repair Cafe Wales,GBR,8,Poor data,Decorative or safety lights,Unknown,Repairable,????,2019-04-01,en,Battery Light Unable to change battery
+rcwales_1679,Repair Cafe Wales,GBR,8,Poor data,Laptop,Dell,Repairable,????,2019-07-01,en,laptop won't charge
+rcwales_1885,Repair Cafe Wales,GBR,8,Poor data,Hair & beauty item,Unknown,Repairable,????,2019-09-01,en,Toothbrush not charging
+rcwales_2062,Repair Cafe Wales,GBR,8,Poor data,Tablet,Amazon,Repairable,????,2019-03-01,en,Kindle Will not re-charge
+rcwales_2166,Repair Cafe Wales,GBR,8,Poor data,Laptop,Dell,Repairable,????,2019-11-01,en,laptop not charging
+rcwales_2239,Repair Cafe Wales,GBR,8,Poor data,Laptop,Unknown,Repairable,????,2019-11-01,en,laptop battery
+rcwales_2574,Repair Cafe Wales,GBR,8,Poor data,Vacuum,Dyson,Repairable,????,2019-02-01,en,Dyson handheld Vac Will not charge
+rcwales_2847,Repair Cafe Wales,GBR,8,Poor data,Battery/charger/adapter,Apple,Repairable,????,2019-09-01,en,speaker/charger no longer plays
+rcwales_3240,Repair Cafe Wales,GBR,8,Poor data,Tablet,Samsung,Repairable,????,2019-03-01,en,tablet not charging
+rcwales_3554,Repair Cafe Wales,GBR,8,Poor data,Hi-Fi separates,JBL,Repairable,????,2020-02-01,en,speaker doesn't charge when plugged
+rcwales_3761,Repair Cafe Wales,GBR,8,Poor data,Power tool,Black & Decker,Repairable,????,2020-01-01,en,drill charger defect? melted battery?
+rcwales_3846,Repair Cafe Wales,GBR,8,Poor data,Vacuum,not known,Repairable,????,2020-02-01,en,battery powered vacuum cleaner not charging
+rcwales_4097,Repair Cafe Wales,GBR,8,Poor data,Decorative or safety lights,Unknown,Repairable,????,2020-01-01,en,rechargeable torch 
+rcwales_4098,Repair Cafe Wales,GBR,8,Poor data,Decorative or safety lights,Unknown,Repairable,????,2020-01-01,en,rechargeable torch 
+rcwales_578,Repair Cafe Wales,GBR,8,Poor data,Mobile,Unknown,Repairable,????,2018-09-01,en,"Sony Experai Z and HTC sense Sony experia z1, is not charging htc sence not charging"
+rcwales_743,Repair Cafe Wales,GBR,8,Poor data,Hair & beauty item,Unknown,Repairable,????,2018-06-01,en,Electric toothbrush Toothbrush won't charge
+restart_10041,The Restart Project,CAN,8,Poor data,Mobile,Unknown,Repairable,????,2018-11-07,en,Battery/power
+restart_10045,The Restart Project,CAN,8,Poor data,Tablet,Unknown,Repairable,????,2018-11-07,en,Charging/power
+restart_10048,The Restart Project,CAN,8,Poor data,Laptop,Unknown,Repairable,????,2018-11-07,en,Charging/power
+restart_10144,The Restart Project,NOR,8,Poor data,Headphones,Unknown,Repairable,2017,2018-11-10,en,Does not charge
+restart_10147,The Restart Project,NOR,8,Poor data,Laptop,Dell,Repairable,2016,2018-11-10,en,Issues with the battery
+restart_10431,The Restart Project,NOR,8,Poor data,Mobile,Apple,Repairable,2015,2018-11-21,en,"Won't charge, loose screen"
+restart_10452,The Restart Project,NOR,8,Poor data,Tablet,Samsung,Repairable,2013,2018-11-21,en,Won't charge
+restart_10472,The Restart Project,GBR,8,Poor data,Mobile,Fairphone,Repairable,????,2018-11-24,en,The Mic & charging module not working. Couldn't fix it.
+restart_10614,The Restart Project,GBR,8,Poor data,Tablet,Samsung,Repairable,2015,2018-12-01,en,blocked password + not charging
+restart_10745,The Restart Project,SWE,8,Poor data,Mobile,Apple,Repairable,????,2018-12-09,en,doesn't charge
+restart_10812,The Restart Project,NOR,8,Poor data,Laptop,Lenovo,Repairable,2014,2019-01-06,en,Does not charge
+restart_10830,The Restart Project,NOR,8,Poor data,Mobile,Unknown,Repairable,????,2019-01-06,en,Doesn't charge
+restart_10870,The Restart Project,GBR,8,Poor data,Vacuum,Bosch,Repairable,2017,2019-01-13,en,Switch jammed. Not charging?
+restart_10887,The Restart Project,GBR,8,Poor data,Misc,Unknown,Repairable,2014,2019-01-13,en,no charge
+restart_11064,The Restart Project,GBR,8,Poor data,Decorative or safety lights,Unknown,Repairable,2014,2019-01-20,en,"battery ran down, not charging."
+restart_11277,The Restart Project,CAN,8,Poor data,Laptop,Unknown,Repairable,????,2019-02-05,en,HDMI bug + battery
+restart_11551,The Restart Project,GBR,8,Poor data,Mobile,Unknown,Repairable,????,2019-02-16,en,won't charge
+restart_1184,The Restart Project,ITA,8,Poor data,Small kitchen item,Unknown,Repairable,????,2015-02-01,en,Cheese grater that doesn't recharge
+restart_11889,The Restart Project,CAN,8,Poor data,Tablet,Unknown,Repairable,????,2019-03-06,en,Not booting/charging
+restart_12031,The Restart Project,CAN,8,Poor data,Mobile,Unknown,Repairable,????,2019-03-13,en,Battery drainage
+restart_12065,The Restart Project,GBR,8,Poor data,Tablet,Hudl,Repairable,????,2019-03-16,en,"Unable to charge / couldn't find fault, returning when more time"
+restart_12308,The Restart Project,IRL,8,Poor data,Tablet,Lenovo,Repairable,????,2019-03-23,en,Tablet does not charge
+restart_12517,The Restart Project,GBR,8,Poor data,TV and gaming-related accessories,Unknown,Repairable,????,2019-04-06,en,Play station 4 controller won't charge or turn on - not seen due to lack of time
+restart_1270,The Restart Project,GBR,8,Poor data,Vacuum,Unknown,Repairable,????,2015-03-21,en,Portablle vacuum. Stopped working. Needs charging.
+restart_12743,The Restart Project,GBR,8,Poor data,Portable radio,Philips,Repairable,????,2019-04-20,en,"No reception - intermittent power issue, but hard to locate broken connection. Returning to investigate with another PSU or batteries."
+restart_1284,The Restart Project,GBR,8,Poor data,Mobile,Nokia,Repairable,????,2015-03-21,en,Not charging. won't turn on. Advice given.
+restart_13008,The Restart Project,GBR,8,Poor data,Mobile,Samsung,Repairable,2017,2019-05-11,en,Doesn't turn on.Could be a battery issue.  Recommended to try a new battery and then if no joy take it to professional repairer.
+restart_13037,The Restart Project,BEL,8,Poor data,Tablet,Unknown,Repairable,????,2019-05-11,nl,laadt niet meer op - doesn't charge anymore
+restart_13608,The Restart Project,ITA,8,Poor data,Laptop,Unknown,Repairable,????,2019-06-02,en,Battery doesn't load
+restart_13682,The Restart Project,GBR,8,Poor data,Misc,Unknown,Repairable,????,2019-06-08,en,Battery and back-light.  Needs glue.
+restart_13949,The Restart Project,GBR,8,Poor data,Laptop,Dell,Repairable,????,2019-06-25,en,Performance. Battery? - Updated - battery need more investigation
+restart_13954,The Restart Project,GBR,8,Poor data,PC accessory,Apple,Repairable,2009,2019-06-25,en,Not charging
+restart_13963,The Restart Project,GBR,8,Poor data,Portable radio,Pure,Repairable,2004,2019-06-25,en,Leaked battery? - Needed a different screwdriver
+restart_14179,The Restart Project,GBR,8,Poor data,Tablet,Tesco,Repairable,2014,2019-07-15,en,Battery not charging
+restart_14206,The Restart Project,GBR,8,Poor data,Digital compact camera,Nikon,Repairable,2009,2019-07-20,en,Battery doesn't charge - suspected connection problem.  More likely to be battery issue.
+restart_14417,The Restart Project,CAN,8,Poor data,Portable radio,Unknown,Repairable,????,2019-08-15,en,Charging problem
+restart_14486,The Restart Project,GBR,8,Poor data,Tablet,Acer,Repairable,2018,2019-09-02,en,Won't charge
+restart_14570,The Restart Project,GBR,8,Poor data,Vacuum,AEG,Repairable,????,2019-09-07,en,"Motor switches off after a few seconds; checked batteries, but need manufacturer diagnosis"
+restart_14634,The Restart Project,CAN,8,Poor data,Laptop,Unknown,Repairable,????,2019-09-12,en,Charging problem
+restart_14666,The Restart Project,GBR,8,Poor data,Misc,Unknown,Repairable,????,2019-09-14,en,Advice given on cable and battery
+restart_14823,The Restart Project,SWE,8,Poor data,Mobile,Samsung,Repairable,2014,2019-09-26,en,doesn't charge
+restart_14840,The Restart Project,SWE,8,Poor data,Mobile,Samsung,Repairable,2014,2019-09-26,en,Not charging
+restart_14841,The Restart Project,SWE,8,Poor data,Mobile,Samsung,Repairable,2014,2019-09-26,en,not charging
+restart_15247,The Restart Project,GBR,8,Poor data,Laptop,Dell,Repairable,????,2019-10-19,en,Problem charging
+restart_15281,The Restart Project,GBR,8,Poor data,Mobile,Unknown,Repairable,2017,2019-10-19,en,"Not switching on, maybe battery gone"
+restart_1529,The Restart Project,GBR,8,Poor data,Games console,Nintendo,Repairable,????,2015-07-11,en,DS console - couldn't find a charger
+restart_15429,The Restart Project,CAN,8,Poor data,Laptop,Unknown,Repairable,????,2019-10-23,en,Slow device + charging problem
+restart_15463,The Restart Project,BEL,8,Poor data,Food processor,Kenwood,Repairable,2017,2019-10-26,en,probably over charged during use
+restart_15779,The Restart Project,GBR,8,Poor data,Laptop,Dell,Repairable,2014,2019-11-11,en,Not charging
+restart_15934,The Restart Project,GBR,8,Poor data,Misc,Unknown,Repairable,2014,2019-11-23,en,"Not charging, no light.  To check at home"
+restart_15962,The Restart Project,GBR,8,Poor data,Hi-Fi separates,Boom,Repairable,2016,2019-11-23,en,Not recharging
+restart_16155,The Restart Project,CAN,8,Poor data,Tablet,Unknown,Repairable,????,2019-12-05,en,Not charging
+restart_16249,The Restart Project,GBR,8,Poor data,Misc,Unknown,Repairable,????,2019-12-10,en,Doesn't charge
+restart_16374,The Restart Project,ESP,8,Poor data,Hi-Fi separates,JBL,Repairable,2019,2019-12-30,en,Battery won't charge.
+restart_16444,The Restart Project,ESP,8,Poor data,Vacuum,Dyson,Repairable,????,2020-01-11,en,"The owner wanted to install a new electronic board, but it wouldn't work. We thought maybe it run out of battery."
+restart_16512,The Restart Project,GBR,8,Poor data,Mobile,Nokia,Repairable,2018,2020-01-18,en,charging problems
+restart_16809,The Restart Project,GBR,8,Poor data,Hi-Fi separates,Apple,Repairable,????,2020-01-26,en,Doesn't work.  Needs batteries to test it.
+restart_16818,The Restart Project,GBR,8,Poor data,Vacuum,Unknown,Repairable,????,2020-01-26,en,Error message is battery related.  PCB fault suspected.  Unable to test as battery low.
+restart_1717,The Restart Project,GBR,8,Poor data,Decorative or safety lights,Unknown,Repairable,????,2015-09-26,en,"Torch. Loose connection. No batteries, unable to test."
+restart_17262,The Restart Project,GBR,8,Poor data,Toy,Unknown,Repairable,????,2020-02-15,en,battery operated toy
+restart_1738,The Restart Project,GBR,8,Poor data,Digital compact camera,Nikon,Repairable,????,2015-09-26,en,cannot charged
+restart_17765,The Restart Project,BEL,8,Poor data,Laptop,Microsoft,Repairable,2010,2020-09-19,fr,ne charge plus
+restart_1818,The Restart Project,GBR,8,Poor data,Mobile,LG,Repairable,????,2015-10-20,en,"Not holding a charge. Spare battery does not appear to work, but needs time to verify."
+restart_2035,The Restart Project,GBR,8,Poor data,Mobile,Nokia,Repairable,????,2015-12-15,en,Not charging
+restart_2041,The Restart Project,GBR,8,Poor data,Tablet,Apple,Repairable,????,2015-12-15,en,Not charging
+restart_2045,The Restart Project,GBR,8,Poor data,Tablet,Amazon,Repairable,????,2015-12-15,en,Not charging - advised to contact manufacturer
+restart_2280,The Restart Project,ESP,8,Poor data,Mobile,Unknown,Repairable,????,2016-02-23,es,sembla que allÃ on s'endolla estÃ xafat i no puc carregar la bateria
+restart_2391,The Restart Project,GBR,8,Poor data,Laptop,Dell,Repairable,????,2016-03-12,en,"Won't work, no battery"
+restart_2398,The Restart Project,GBR,8,Poor data,Mobile,Nokia,Repairable,????,2016-03-12,en,Not charging
+restart_2513,The Restart Project,GBR,8,Poor data,Tablet,Unknown,Repairable,????,2016-04-09,en,wont charge
+restart_2661,The Restart Project,GBR,8,Poor data,Games console,Nintendo,Repairable,????,2016-05-14,en,Not working. Needs charger to test it properly.
+restart_2708,The Restart Project,GBR,8,Poor data,Tablet,Apple,Repairable,????,2016-05-18,en,Doesn't charge. Participant left early not enough time
+restart_2851,The Restart Project,GBR,8,Poor data,Mobile,Samsung,Repairable,????,2016-06-06,en,Doesn't charge
+restart_2870,The Restart Project,GBR,8,Poor data,Mobile,HTC,Repairable,????,2016-06-11,en,Not charging. Gave advice but needs more time to open it and have a look.
+restart_2876,The Restart Project,GBR,8,Poor data,Portable radio,Pure,Repairable,????,2016-06-11,en,"Battery problem. Works, but more work needed."
+restart_2887,The Restart Project,GBR,8,Poor data,Digital compact camera,Nikon,Repairable,????,2016-06-11,en,Sometimes doesn't turn on. Needs charger to test. (Back next time).
+restart_2985,The Restart Project,GBR,8,Poor data,Mobile,Sony,Repairable,????,2016-06-24,en,Not charging
+restart_3341,The Restart Project,GBR,8,Poor data,Mobile,Unknown,Repairable,????,2016-10-01,en,Power issue. Dead battery. Some progress.
+restart_4121,The Restart Project,GBR,8,Poor data,Battery/charger/adapter,Unknown,Repairable,????,2017-01-28,en,"Phone charger, doesn't charge the phone. Advice given."
+restart_4163,The Restart Project,GBR,8,Poor data,Tablet,TomTom,Repairable,????,2017-01-28,en,Sat Nav - car charging problem
+restart_417,The Restart Project,GBR,8,Poor data,Handheld entertainment device,Unknown,Repairable,????,2014-02-19,en,Mp3 player - Not charging - Needs a spare part
+restart_4362,The Restart Project,GBR,8,Poor data,Mobile,Motorola,Repairable,????,2017-02-11,en,No activity. Battery problem needs to be resolved first before looking at other parts of the system
+restart_4522,The Restart Project,GBR,8,Poor data,Tablet,Nexus,Repairable,????,2017-03-18,en,Not charging. Might be working!
+restart_4534,The Restart Project,GBR,8,Poor data,Tablet,ASUS,Repairable,????,2017-03-18,en,Not turning on. Charge it and see.
+restart_4543,The Restart Project,GBR,8,Poor data,Mobile,Unknown,Repairable,????,2017-03-18,en,Moaike - Won't charge
+restart_4976,The Restart Project,NOR,8,Poor data,PC accessory,Apple,Repairable,????,2017-05-06,en,Charger does not charge
+restart_551,The Restart Project,GBR,8,Poor data,Tablet,Unknown,Repairable,????,2014-04-12,en,Not charging properly
+restart_5705,The Restart Project,GBR,8,Poor data,Games console,Nintendo,Repairable,????,2017-07-22,en,Pokemon Game Boy Cartridge - not saving data. Possible battery change needed. Unable to open without proprietary screwdriver. Advice given.
+restart_5719,The Restart Project,GBR,8,Poor data,Watch/clock,Unknown,Repairable,????,2017-07-22,en,Watch - new battery still not working. Outcome unknown
+restart_5887,The Restart Project,NOR,8,Poor data,Large home electrical,Unknown,Repairable,????,2017-09-03,en,Electric bicycle battery
+restart_6211,The Restart Project,GBR,8,Poor data,Decorative or safety lights,Rolson,Repairable,????,2017-10-14,en,Torch Doesn't charge
+restart_6780,The Restart Project,GBR,8,Poor data,Laptop,HP,Repairable,????,2017-12-02,en,"spiller water on it. battery not working. advised to dry out with rich, hairdryer etc and test again"
+restart_6803,The Restart Project,ESP,8,Poor data,Power tool,Bosch,Repairable,????,2017-12-02,en,Dead battery or damaged charger.
+restart_6845,The Restart Project,GBR,8,Poor data,Laptop,Dell,Repairable,????,2017-12-09,en,Battery warnings on screen. non-descript error messages. various issues. guidance given
+restart_6886,The Restart Project,GBR,8,Poor data,Decorative or safety lights,Unknown,Repairable,????,2017-12-09,en,USB charging bike light
+restart_6943,The Restart Project,GBR,8,Poor data,Mobile,Apple,Repairable,????,2018-01-14,en,advice given - battery
+restart_6945,The Restart Project,GBR,8,Poor data,Power tool,Black & Decker,Repairable,????,2018-01-14,en,strimmer battery pack
+restart_7075,The Restart Project,GBR,8,Poor data,Laptop,Unknown,Repairable,????,2018-01-28,en,Possible PSU or battery problem.
+restart_714,The Restart Project,GBR,8,Poor data,PC accessory,Unknown,Repairable,????,2014-06-25,en,Mobile charger-receiver - Circuit board-level? -
+restart_7267,The Restart Project,CAN,8,Poor data,Tablet,Unknown,Repairable,????,2018-02-22,fr,Pb allumage de batterie
+restart_7535,The Restart Project,GBR,8,Poor data,Hi-Fi separates,Unknown,Repairable,????,2018-03-18,en,Battery problems.
+restart_7562,The Restart Project,CAN,8,Poor data,Mobile,Unknown,Repairable,????,2018-03-22,fr,Ne charge pas
+restart_7822,The Restart Project,ISL,8,Poor data,Mobile,fairphone,Repairable,2017,2018-04-11,en,"the batterie was missing, so hard to figure out what is wrong, we'll take it with us next time too and continue with it."
+restart_8013,The Restart Project,GBR,8,Poor data,DSLR/video camera,Unknown,Repairable,????,2018-04-22,en,Camcorder charger.  Owner was signposted to further help.
+restart_8154,The Restart Project,USA,8,Poor data,PC accessory,Belkin,Repairable,????,2018-05-05,en,Charger
+restart_8269,The Restart Project,GBR,8,Poor data,Mobile,Apple,Repairable,2016,2018-05-12,en,does not power on - battery
+restart_8688,The Restart Project,GBR,8,Poor data,Mobile,Samsung,Repairable,????,2018-07-07,en,Charging takes ages
+restart_8868,The Restart Project,GBR,8,Poor data,Laptop,Acer,Repairable,2013,2018-07-21,en,Battery not charging
+restart_8924,The Restart Project,GBR,8,Poor data,Tablet,Samsung,Repairable,2015,2018-08-16,en,"Not chargind, smashed screen"
+restart_8967,The Restart Project,GBR,8,Poor data,Lamp,Unknown,Repairable,2015,2018-09-01,en,"Uneven brightness, owner advised to try recharging on 6v."
+restart_9350,The Restart Project,CAN,8,Poor data,Mobile,Unknown,Repairable,????,2018-09-28,en,Charge/battery
+restart_9420,The Restart Project,GBR,8,Poor data,Misc,Unknown,Repairable,2003,2018-10-06,en,rechargeable torch not turning on
+restart_9721,The Restart Project,NOR,8,Poor data,Tablet,Samsung,Repairable,2012,2018-10-20,en,Not charging
+anstiftung_5424,anstiftung,DEU,18,Poor data,Laptop,Unknown,End of life,????,2020-07-05,de,akku kaput
+rcint_10153,Repair Café International,NLD,18,Poor data,Power tool,Makita,End of life,2011,2018-10-06,nl,"doet niets, beide accu's niet"
+rcint_1042,Repair Café International,NLD,18,Poor data,Power tool,Topcraft,End of life,2005,2017-05-13,nl,Defecte batterij
+rcint_10836,Repair Café International,NLD,18,Poor data,Tablet,Hairgnon,End of life,2000,2018-10-27,nl,kan niet meer laden
+rcint_10892,Repair Café International,NLD,18,Poor data,Power tool,Black & Decker,End of life,2010,2018-11-02,nl,Accu laadt niet op
+rcint_11929,Repair Café International,NLD,18,Poor data,Misc,Sundvall,End of life,2015,2018-11-25,nl,Diverse problemen met accu en wielen
+rcint_11983,Repair Café International,NLD,18,Poor data,Battery/charger/adapter,Sparta,End of life,????,2018-11-30,nl,accu snel leeg
+rcint_12270,Repair Café International,NLD,18,Poor data,Power tool,Gamma,End of life,2008,2018-12-01,nl,Accu probleem
+rcint_12271,Repair Café International,NLD,18,Poor data,Power tool,Skil,End of life,2008,2018-12-01,nl,Waarschijnlijk accu
+rcint_12288,Repair Café International,NLD,18,Poor data,Small home electrical,Leifheit,End of life,2016,2018-12-01,nl,oplaad batterrij defect
+rcint_12327,Repair Café International,NLD,18,Poor data,Lamp,Unknown,End of life,????,2018-12-01,nl,Zonnecel opladen werkt niet
+rcint_12353,Repair Café International,NLD,18,Poor data,Power tool,Kraftworld,End of life,2016,2018-12-01,nl,Opladen werkt niet meer
+rcint_13120,Repair Café International,NLD,18,Poor data,Vacuum,Raido,End of life,2016,2019-01-05,nl,defecte batterij
+rcint_13570,Repair Café International,NLD,18,Poor data,Hair & beauty item,Braun,End of life,????,2019-01-26,nl,Laadt niet meer. Vermoedelijk is de accu niet meer goed.
+rcint_13794,Repair Café International,GBR,18,Poor data,Watch/clock,Unknown,End of life,????,2019-01-26,en,Needs new battery
+rcint_13841,Repair Café International,GBR,18,Poor data,Desktop computer,Unknown,End of life,????,2019-01-26,en,Not charging
+rcint_14403,Repair Café International,NLD,18,Poor data,Battery/charger/adapter,Black & Decker,End of life,????,2019-02-04,nl,Accu's laden niet meer op
+rcint_15278,Repair Café International,NLD,18,Poor data,Power tool,Hitachi,End of life,2014,2019-03-02,nl,Accu laadt niet op. Acculader BSL1415
+rcint_15632,Repair Café International,NLD,18,Poor data,Battery/charger/adapter,Unknown,End of life,????,2019-03-09,nl,Batterijlader laadt niet meer
+rcint_15865,Repair Café International,NLD,18,Poor data,Power tool,Toledo,End of life,????,2019-03-21,nl,Batterij snel leeg
+rcint_15967,Repair Café International,GBR,18,Poor data,Power tool,Unknown,End of life,????,2019-03-23,en,Won't charge
+rcint_15982,Repair Café International,GBR,18,Poor data,Hi-Fi separates,Unknown,End of life,????,2019-03-23,en,Not charging
+rcint_16310,Repair Café International,NLD,18,Poor data,Power tool,Vendex,End of life,????,2019-04-04,nl,accu+oplader
+rcint_17974,Repair Café International,NLD,18,Poor data,Vacuum,SilverCrest,End of life,????,2019-05-11,nl,Doet het niet. Oplader stuk of accu?
+rcint_18117,Repair Café International,AUS,18,Poor data,Small home electrical,Bosch,End of life,2010,2019-05-12,en,Does not charge
+rcint_18485,Repair Café International,NLD,18,Poor data,Power tool,Bosch,End of life,2000,2019-05-25,nl,Doet niets / lader of accu
+rcint_18602,Repair Café International,USA,18,Poor data,Toy,Unknown,End of life,1960,2019-05-25,en,batteries don't work
+rcint_18853,Repair Café International,NLD,18,Poor data,Power tool,Topcraft,End of life,2005,2019-06-01,nl,"Draait niet, accu's luken wel opgeladen"
+rcint_19413,Repair Café International,NLD,18,Poor data,Hi-Fi separates,WVNGR,End of life,????,2019-06-22,nl,Valt na tijdje harde muziek (op accu) uit
+rcint_19754,Repair Café International,NLD,18,Poor data,Misc,Carpoint,End of life,????,2019-07-06,nl,accu defect / oplader defect /  --- kortsluiting
+rcint_19775,Repair Café International,NLD,18,Poor data,Tablet,Icarus,End of life,2017,2019-07-06,nl,wil niet meer opladen
+rcint_19780,Repair Café International,NLD,18,Poor data,Small home electrical,Makita,End of life,2013,2019-07-06,nl,accu is defect   -  ouderdom?
+rcint_2002,Repair Café International,NLD,18,Poor data,Small home electrical,Bosch,End of life,2007,2017-09-02,nl,accu is op
+rcint_20163,Repair Café International,NLD,18,Poor data,Hi-Fi separates,Plusap,End of life,2016,2019-07-27,nl,kan niet opladen
+rcint_20328,Repair Café International,GBR,18,Poor data,Vacuum,Unknown,End of life,????,2019-07-27,en,Not charging
+rcint_20664,Repair Café International,NLD,18,Poor data,Games console,Nintendo,End of life,????,2019-08-24,nl,Batterijhouder
+rcint_20873,Repair Café International,NLD,18,Poor data,Tablet,Kobo,End of life,2010,2019-08-31,nl,Doet het niet meer ws. omdat hij lang stil heeft gestaan en de batterij leeg is
+rcint_21884,Repair Café International,CAN,18,Poor data,Portable radio,Sony,End of life,2002,2019-09-21,en,"won't do a full charge, loses charge after 2 hours"
+rcint_22338,Repair Café International,GBR,18,Poor data,Power tool,Unknown,End of life,????,2019-09-28,en,Not charging
+rcint_22430,Repair Café International,GBR,18,Poor data,Power tool,Bosch,End of life,????,2019-09-28,en,Not working or charging
+rcint_22779,Repair Café International,NLD,18,Poor data,Portable radio,Zazu,End of life,????,2019-10-05,nl,"werkt wel op batterij, niet op stroom"
+rcint_23108,Repair Café International,NLD,18,Poor data,Lamp,Unknown,End of life,2015,2019-10-12,nl,brand niet na plaatsen nieuwe batterijebn
+rcint_23504,Repair Café International,CAN,18,Poor data,Digital compact camera,Minolta,End of life,1990,2019-10-19,en,"issues taking photos, battery"
+rcint_23766,Repair Café International,NLD,18,Poor data,Watch/clock,Zentia,End of life,1999,2019-10-26,nl,Nieuw batterijtje plaasten
+rcint_23785,Repair Café International,NLD,18,Poor data,Watch/clock,Riverdale Clock,End of life,2000,2019-10-26,nl,Na verwisselen van batterij doet hij niets meer.
+rcint_24373,Repair Café International,NLD,18,Poor data,Watch/clock,Newgate Londen,End of life,1999,2019-11-02,nl,doet het niet - nieuwe batterij?
+rcint_24424,Repair Café International,NLD,18,Poor data,Small home electrical,K?§rcher,End of life,2016,2019-11-02,nl,Laden doet het niet
+rcint_24725,Repair Café International,NLD,18,Poor data,Power tool,Black & Decker,End of life,????,2019-11-09,nl,Accu of oplader defect
+rcint_25037,Repair Café International,NLD,18,Poor data,Misc,Absaar,End of life,????,2019-11-12,nl,acculader
+rcint_25504,Repair Café International,GBR,18,Poor data,Lamp,Cluson,End of life,????,2019-11-23,en,Not holding charge
+rcint_26000,Repair Café International,CAN,18,Poor data,Battery/charger/adapter,Unknown,End of life,????,2019-11-30,en,stopped charging
+rcint_26004,Repair Café International,CAN,18,Poor data,Watch/clock,Unknown,End of life,2017,2019-11-30,en,battery change
+rcint_26005,Repair Café International,CAN,18,Poor data,Watch/clock,Unknown,End of life,2017,2019-11-30,en,battery change
+rcint_26175,Repair Café International,NLD,18,Poor data,Lamp,Unknown,End of life,????,2019-12-07,nl,hulp bij batterijwissel
+rcint_26324,Repair Café International,NLD,18,Poor data,Hair & beauty item,Philips,End of life,????,2019-12-07,nl,kabel komt niet aan de batterij
+rcint_26330,Repair Café International,NLD,18,Poor data,Hair & beauty item,Philips,End of life,????,2019-12-07,nl,kabel komt niet aan de batterij
+rcint_26433,Repair Café International,NLD,18,Poor data,Vacuum,Black & Decker,End of life,2008,2019-12-07,nl,laadt niet meer goed op; batterijen/cellen vervangen?
+rcint_26480,Repair Café International,NLD,18,Poor data,Tablet,Kobo,End of life,????,2019-12-07,nl,batterij waarschijnlijk stuk
+rcint_26494,Repair Café International,NLD,18,Poor data,Small home electrical,K?§rcher,End of life,2015,2019-12-07,nl,Accu laadt niet meer op
+rcint_26544,Repair Café International,NLD,18,Poor data,Small home electrical,K?§rcher,End of life,????,2019-12-07,nl,accu stuk
+rcint_27049,Repair Café International,NLD,18,Poor data,Vacuum,Electrolux,End of life,????,2019-12-20,nl,accu kapot
+rcint_27698,Repair Café International,NLD,18,Poor data,Vacuum,Unknown,End of life,????,2020-01-11,nl,batterij laadt niet op
+rcint_28414,Repair Café International,NLD,18,Poor data,Watch/clock,Unknown,End of life,2000,2020-01-25,nl,Batterij  niet goed vervangen
+rcint_2861,Repair Café International,NLD,18,Poor data,Power tool,Makita,End of life,2002,2017-10-23,nl,De accu's zijn op.
+rcint_28629,Repair Café International,CAN,18,Poor data,Large home electrical,Glion,End of life,2017,2020-01-25,en,when plugged into charger battery doesn't charge
+rcint_28637,Repair Café International,CAN,18,Poor data,Hi-Fi separates,Outdoor Tech,End of life,2018,2020-01-25,en,does not charge
+rcint_28757,Repair Café International,GBR,18,Poor data,Tablet,Arnova,End of life,????,2020-01-26,en,Charging port not working
+rcint_28852,Repair Café International,NLD,18,Poor data,Lamp,Unknown,End of life,2013,2020-01-31,nl,"Functioneert niet goed, zonnepaneel laadt batterij niet meer op"
+rcint_29099,Repair Café International,NLD,18,Poor data,Large home electrical,Topcraft,End of life,2013,2020-02-01,nl,"Stopte er opeens mee, ondanks opgeladen batterij"
+rcint_30807,Repair Café International,NLD,18,Poor data,Lamp,Unknown,End of life,????,2020-02-29,nl,batterij zit vast
+rcint_30924,Repair Café International,FRA,18,Poor data,Vacuum,Moulinex,End of life,????,2020-02-29,fr,Ne prend plus la charge
+rcint_31406,Repair Café International,GBR,18,Poor data,Misc,Peugeot,End of life,2008,2020-03-07,en,Battery runs out really quickly; please check the contacts
+rcint_31754,Repair Café International,FRA,18,Poor data,Vacuum,Dirt Devil,End of life,2017,2020-07-25,fr,Clignote au moment de la charge de la batterie
+rcint_31948,Repair Café International,NLD,18,Poor data,Laptop,Acer,End of life,????,2020-09-05,nl,batterij laadt niet op
+rcint_32165,Repair Café International,NLD,18,Poor data,Misc,Stella,End of life,2010,2020-09-26,nl,accu laad niet op
+rcint_3689,Repair Café International,NLD,18,Poor data,Laptop,Siemens,End of life,2007,2017-12-02,nl,Batterij defect
+rcint_5145,Repair Café International,NLD,18,Poor data,Toy,Unknown,End of life,????,2018-02-10,nl,Batterij lek
+rcint_5782,Repair Café International,NLD,18,Poor data,Vacuum,Domo,End of life,2017,2018-03-16,nl,Accu's?
+rcint_5839,Repair Café International,NLD,18,Poor data,Hair & beauty item,Braun,End of life,????,2018-03-17,en,Accu of adapter?
+rcint_6031,Repair Café International,NLD,18,Poor data,Small home electrical,Philips,End of life,2014,2018-03-31,nl,wil niet opladen
+rcint_605,Repair Café International,NLD,18,Poor data,Lamp,Unknown,End of life,????,2017-04-01,nl,Misschien te ver ontladen
+rcint_6089,Repair Café International,NLD,18,Poor data,Vacuum,Tomado,End of life,????,2018-04-02,nl,Accu's zijn op
+rcint_6173,Repair Café International,NLD,18,Poor data,Tablet,Palm OS,End of life,1996,2018-04-07,nl,laadspotcontact kapot of charge controller
+rcint_6429,Repair Café International,NLD,18,Poor data,Battery/charger/adapter,GWA Inc,End of life,????,2018-04-11,nl,Accu zelf
+rcint_6521,Repair Café International,FRA,18,Poor data,Vacuum,Unknown,End of life,????,2018-04-17,fr,Ne charge plus
+rcint_6597,Repair Café International,NLD,18,Poor data,Power tool,Black & Decker,End of life,????,2018-04-21,en,Accu of adapter?
+rcint_6617,Repair Café International,FRA,18,Poor data,Vacuum,Unknown,End of life,????,2018-04-21,fr,Ne se charge plus
+rcint_6891,Repair Café International,NLD,18,Poor data,Laptop,Toshiba,End of life,2013,2018-05-05,nl,Batterij defect
+rcint_7406,Repair Café International,GBR,18,Poor data,Tablet,Unknown,End of life,????,2018-05-26,en,Won't charge
+rcint_750,Repair Café International,NLD,18,Poor data,Hair & beauty item,Philips,End of life,2014,2017-04-15,nl,Accu laadt niet meer op
+rcint_9122,Repair Café International,NLD,18,Poor data,Watch/clock,Benetton,End of life,????,2018-09-01,nl,Batterij leeg?
+rcwales_1147,Repair Cafe Wales,GBR,18,Poor data,Large home electrical,Black & Decker,End of life,????,2019-10-01,en,Hedge cutter Not charging / working
+rcwales_1304,Repair Cafe Wales,GBR,18,Poor data,Flat screen,Unknown,End of life,????,2019-05-01,en,baby monitor won't charge
+rcwales_1323,Repair Cafe Wales,GBR,18,Poor data,Watch/clock,Unknown,End of life,????,2019-06-01,en,clock battery part broken
+rcwales_1362,Repair Cafe Wales,GBR,18,Poor data,Hair & beauty item,Unknown,End of life,????,2019-10-01,en,toothbrush doesn't charge
+rcwales_1524,Repair Cafe Wales,GBR,18,Poor data,Power tool,Gtech,End of life,????,2019-01-01,en,Cleaner Gtech cleaner does not work even after charging
+rcwales_1570,Repair Cafe Wales,GBR,18,Poor data,Headphones,Unknown,End of life,????,2019-03-01,en,Headphones Not charging properly
+rcwales_1965,Repair Cafe Wales,GBR,18,Poor data,Tablet,Unknown,End of life,????,2019-11-01,en,ipads not charging
+rcwales_1966,Repair Cafe Wales,GBR,18,Poor data,Tablet,Samsung,End of life,????,2019-11-01,en,samsung tablet device not charging
+rcwales_2119,Repair Cafe Wales,GBR,18,Poor data,Power tool,Unknown,End of life,????,2019-09-01,en,jet washer no charge
+rcwales_2140,Repair Cafe Wales,GBR,18,Poor data,Lamp,Unknown,End of life,????,2019-09-01,en,screwdriver lamp charger not charging
+rcwales_2417,Repair Cafe Wales,GBR,18,Poor data,Battery/charger/adapter,Unknown,End of life,????,2019-07-01,en,charger not working
+rcwales_2429,Repair Cafe Wales,GBR,18,Poor data,Watch/clock,Unknown,End of life,????,2019-09-01,en,battery clock stopped!
+rcwales_2500,Repair Cafe Wales,GBR,18,Poor data,Games console,Unknown,End of life,????,2019-11-01,en,Xbox sticky battery
+rcwales_2580,Repair Cafe Wales,GBR,18,Poor data,Watch/clock,Unknown,End of life,????,2019-02-01,en,"Watch, silver not copper Battery stopped/run down?"
+rcwales_2622,Repair Cafe Wales,GBR,18,Poor data,Vacuum,Dyson,End of life,????,2019-03-01,en,Vacuum Cleaner Doesnt Charge
+rcwales_2674,Repair Cafe Wales,GBR,18,Poor data,Small home electrical,Karcher,End of life,????,2019-04-01,en,Window Cleaner Not Holding Charge
+rcwales_3596,Repair Cafe Wales,GBR,18,Poor data,Digital compact camera,Unknown,End of life,????,2020-01-01,en,digital camera not charging
+rcwales_3652,Repair Cafe Wales,GBR,18,Poor data,Hair & beauty item,Unknown,End of life,????,2020-01-01,en,Electric toothbrush not charging
+rcwales_3689,Repair Cafe Wales,GBR,18,Poor data,Tablet,Unknown,End of life,????,2020-01-01,en,Google tablet charging socket
+rcwales_3753,Repair Cafe Wales,GBR,18,Poor data,Tablet,Amazon,End of life,????,2020-01-01,en,tablet not charging
+rcwales_38,Repair Cafe Wales,GBR,18,Poor data,Mobile,Unknown,End of life,????,2017-04-01,en,Phone Not charging + not picking up emails
+rcwales_4032,Repair Cafe Wales,GBR,18,Poor data,Small home electrical,Unknown,End of life,????,2020-03-01,en,Window demister Not charging
+rcwales_4041,Repair Cafe Wales,GBR,18,Poor data,Watch/clock,Unknown,End of life,????,2020-01-01,en,small battery clock not working
+rcwales_4206,Repair Cafe Wales,GBR,18,Poor data,Vacuum,Black & Decker,End of life,????,2020-03-01,en,dustbuster mini vacuum will not charge
+rcwales_473,Repair Cafe Wales,GBR,18,Poor data,Headphones,Unknown,End of life,????,2018-01-01,en,headphones not charging properly
+restart_10050,The Restart Project,CAN,18,Poor data,Mobile,Unknown,End of life,????,2018-11-07,en,Charging/power
+restart_10099,The Restart Project,GBR,18,Poor data,Mobile,Apple,End of life,2015,2018-11-10,en,Does not charge plus other damage
+restart_10394,The Restart Project,GBR,18,Poor data,Decorative or safety lights,Unknown,End of life,????,2018-11-18,en,Solar light - rechargable battey won't recharge
+restart_10425,The Restart Project,NOR,18,Poor data,Tablet,Lenovo,End of life,2017,2018-11-21,en,Doesn't charge
+restart_10681,The Restart Project,GBR,18,Poor data,Misc,Unknown,End of life,2016,2018-12-08,en,Not charging fully.
+restart_10764,The Restart Project,GBR,18,Poor data,Misc,Unknown,End of life,????,2018-12-15,en,"Not charging - fuses and leads OK, need CCT diagram to diagnose further."
+restart_10789,The Restart Project,ITA,18,Poor data,Misc,Unknown,End of life,????,2019-01-05,en,doesn't charge
+restart_10874,The Restart Project,SWE,18,Poor data,PC accessory,Unknown,End of life,2017,2019-01-13,en,Power bank does not charge and cannot be charge
+restart_11085,The Restart Project,NOR,18,Poor data,Hair & beauty item,Remington,End of life,2017,2019-01-22,en,Charging gate broken
+restart_11093,The Restart Project,NOR,18,Poor data,Projector,Oregon,End of life,2009,2019-01-22,en,"Induction charger, won't charge"
+restart_11278,The Restart Project,CAN,18,Poor data,Mobile,Unknown,End of life,????,2019-02-05,en,Charging/power problem
+restart_11411,The Restart Project,BEL,18,Poor data,Tablet,Archos,End of life,2019,2019-02-14,en,Does not charge
+restart_11438,The Restart Project,NOR,18,Poor data,PC accessory,Apple,End of life,2017,2019-02-14,en,Won't charge
+restart_115,The Restart Project,GBR,18,Poor data,PC accessory,Unknown,End of life,????,2013-08-18,en,Laptop charger - No power -
+restart_11597,The Restart Project,GBR,18,Poor data,Small kitchen item,Unknown,End of life,????,2019-02-17,en,Not charging
+restart_11836,The Restart Project,NOR,18,Poor data,Tablet,Samsung,End of life,2014,2019-03-02,en,Doesn't charge
+restart_11837,The Restart Project,NOR,18,Poor data,Tablet,Cisco,End of life,2014,2019-03-02,en,Doesn't charge
+restart_11890,The Restart Project,CAN,18,Poor data,Tablet,Unknown,End of life,????,2019-03-06,en,Battery problem
+restart_11930,The Restart Project,GBR,18,Poor data,Vacuum,Dyson,End of life,2012,2019-03-09,en,stopped working after making noise - the battery is dead
+restart_12022,The Restart Project,CAN,18,Poor data,Mobile,Unknown,End of life,????,2019-03-13,en,Sound glitch + charging port
+restart_12158,The Restart Project,HKG,18,Poor data,Tablet,Amazon,End of life,????,2019-03-17,en,"Perpetual ""need charging"" message; cannot reboot or power on/of"
+restart_13187,The Restart Project,GBR,18,Poor data,Handheld entertainment device,Samsung,End of life,2014,2019-05-17,en,Doesn't recharge - battery dead
+restart_13303,The Restart Project,GBR,18,Poor data,Misc,Leap Frog,End of life,????,2019-05-18,en,"Baby monitor, parent unit not charging"
+restart_13329,The Restart Project,GBR,18,Poor data,Toy,Unknown,End of life,????,2019-05-18,en,large kids ride in battery powered car
+restart_13478,The Restart Project,BEL,18,Poor data,Misc,Unknown,End of life,????,2019-05-25,nl,batterij elektrische fiets
+restart_13614,The Restart Project,NOR,18,Poor data,Laptop,Apple,End of life,2011,2019-06-02,en,Doesn't charge
+restart_13624,The Restart Project,GBR,18,Poor data,Tablet,Arnova,End of life,2011,2019-06-03,en,Not charging
+restart_13708,The Restart Project,GBR,18,Poor data,Power tool,Bosch,End of life,????,2019-06-08,en,Not powering up.  Circuit/battery problems.
+restart_14174,The Restart Project,GBR,18,Poor data,Tablet,Tesco,End of life,????,2019-07-15,en,won't charge
+restart_14374,The Restart Project,SWE,18,Poor data,Laptop,Apple,End of life,2009,2019-08-11,en,"Not working, charging, or turning on."
+restart_14442,The Restart Project,SWE,18,Poor data,Misc,Unknown,End of life,2016,2019-08-25,en,battery dead
+restart_148,The Restart Project,GBR,18,Poor data,Decorative or safety lights,Unknown,End of life,????,2013-09-14,en,Watch - Battery issue -
+restart_1483,The Restart Project,ITA,18,Poor data,PC accessory,Unknown,End of life,????,2015-06-06,en,Battery charger
+restart_14896,The Restart Project,NOR,18,Poor data,Handheld entertainment device,Neonate,End of life,2018,2019-09-28,en,Won't charge
+restart_14905,The Restart Project,NOR,18,Poor data,Battery/charger/adapter,mascot,End of life,????,2019-09-28,en,Won't charge
+restart_15046,The Restart Project,CAN,18,Poor data,Mobile,Unknown,End of life,????,2019-10-03,en,Battery and screen problem
+restart_1506,The Restart Project,GBR,18,Poor data,Mobile,Unknown,End of life,????,2015-06-29,en,Will not charge
+restart_15304,The Restart Project,GBR,18,Poor data,Battery/charger/adapter,Marine,End of life,????,2019-10-19,en,No charge.:solution: unrepairable:category_other: Battery charger
+restart_15714,The Restart Project,GBR,18,Poor data,Hair & beauty item,Braun,End of life,2014,2019-11-09,en,Battery needs replacing.
+restart_15952,The Restart Project,GBR,18,Poor data,Laptop,Sony,End of life,2007,2019-11-23,en,Not charging
+restart_16203,The Restart Project,GBR,18,Poor data,Toy,Unknown,End of life,????,2019-12-07,en,Battery powered car
+restart_16419,The Restart Project,GBR,18,Poor data,TV and gaming-related accessories,unknown,End of life,1990,2020-01-11,en,battery not holding charge
+restart_1648,The Restart Project,GBR,18,Poor data,Battery/charger/adapter,Unknown,End of life,????,2015-08-23,en,Charger
+restart_165,The Restart Project,GBR,18,Poor data,Mobile,Samsung,End of life,????,2013-09-26,en,Mobile - Battery issue -
+restart_16586,The Restart Project,GBR,18,Poor data,Portable radio,Unknown,End of life,????,2020-01-18,en,Not working - can't get it to hold any charge.
+restart_16745,The Restart Project,GBR,18,Poor data,Misc,Unknown,End of life,????,2020-01-25,en,battery run clock - too made to be repaired
+restart_17000,The Restart Project,GBR,18,Poor data,Small home electrical,Tommie Tippee,End of life,2018,2020-02-08,en,"Won't charge properly, also has no sound"
+restart_17358,The Restart Project,BEL,18,Poor data,Vacuum,Unknown,End of life,????,2020-02-16,nl,laadt niet meer op - battery doesn't charge
+restart_17687,The Restart Project,BEL,18,Poor data,Small kitchen item,Aspirateur balais Bosch,End of life,2012,2020-08-29,fr,Ne charge plus
+restart_17794,The Restart Project,BEL,18,Poor data,Misc,Unknown,End of life,2018,2020-09-20,fr,Problème batterie.
+restart_303,The Restart Project,GBR,18,Poor data,Tablet,Unknown,End of life,????,2013-12-15,en,Tablet - Not charging -
+restart_3030,The Restart Project,ARG,18,Poor data,Battery/charger/adapter,Unknown,End of life,????,2016-07-02,en,Charger
+restart_3456,The Restart Project,GBR,18,Poor data,Laptop,Unknown,End of life,????,2016-10-22,en,Battery keeps dying and problems connecting to internet
+restart_3529,The Restart Project,GBR,18,Poor data,Mobile,Apple,End of life,????,2016-11-02,en,Doesn't charge
+restart_3876,The Restart Project,GBR,18,Poor data,Tablet,Unknown,End of life,????,2016-11-24,en,Not holding charge
+restart_3899,The Restart Project,GBR,18,Poor data,Laptop,Unknown,End of life,????,2016-11-26,en,Charging problem
+restart_4001,The Restart Project,ARG,18,Poor data,Battery/charger/adapter,Unknown,End of life,????,2016-12-04,en,Cellphone charger
+restart_407,The Restart Project,GBR,18,Poor data,Power tool,Unknown,End of life,????,2014-02-19,en,Drill - Not charging - Needed a spare part
+restart_4115,The Restart Project,GBR,18,Poor data,Mobile,HTC,End of life,????,2017-01-28,en,Doesn't charge/turn on. Beyond repair
+restart_4474,The Restart Project,NOR,18,Poor data,PC accessory,Dell,End of life,????,2017-03-04,en,Charger - Does not work
+restart_5327,The Restart Project,NOR,18,Poor data,Hi-Fi separates,JBL,End of life,2015,2017-06-15,en,Does not charge
+restart_6606,The Restart Project,GBR,18,Poor data,Battery/charger/adapter,Unknown,End of life,????,2017-11-18,en,camera charger
+restart_6809,The Restart Project,ESP,18,Poor data,Laptop,Unknown,End of life,????,2017-12-02,en,The battery isn't working.
+restart_6912,The Restart Project,GBR,18,Poor data,Laptop,Samsung,End of life,????,2017-12-18,en,Notebook - not charging. Needs part for fix
+restart_698,The Restart Project,GBR,18,Poor data,Mobile,Nokia,End of life,????,2014-06-12,en,Mobile - No power - Battery?
+restart_7126,The Restart Project,GBR,18,Poor data,Tablet,Samsung,End of life,????,2018-02-03,en,"won't turn on, won't charge"
+restart_7679,The Restart Project,ITA,18,Poor data,Vacuum,Hoover,End of life,2008,2018-04-07,en,"Portable, very small vacuum cleaner. Batteries exhausted and motor hard to rotate"
+restart_8381,The Restart Project,GBR,18,Poor data,Tablet,Lenovo,End of life,2015,2018-05-19,en,Doesn't charge
+restart_8665,The Restart Project,GBR,18,Poor data,Misc,Unknown,End of life,????,2018-06-16,en,Phone charger
+restart_8939,The Restart Project,GBR,18,Poor data,Misc,Uniross,End of life,????,2018-08-16,en,Doesn't charge. LEDs don't light up
+restart_9347,The Restart Project,CAN,18,Poor data,Tablet,Unknown,End of life,????,2018-09-28,en,Power/boot/charge
+restart_9548,The Restart Project,NOR,18,Poor data,Hair & beauty item,Unknown,End of life,2008,2018-10-11,en,Battery doesn't charge
+restart_9558,The Restart Project,NOR,18,Poor data,Mobile,Apple,End of life,2013,2018-10-11,en,Doesn't charge
+restart_9918,The Restart Project,GBR,18,Poor data,Mobile,Samsung,End of life,2012,2018-10-27,en,Doesn't charge
+anstiftung_1606,anstiftung,DEU,5,Replace the charger or charging cable,Hair & beauty item,Unknown,Repairable,????,2018-04-12,de,Gerät kann icht mehr aufgeladen werden.Am Anschluss für das Ladegerät war ein Pin abgebrochen.
+anstiftung_1772,anstiftung,DEU,5,Replace the charger or charging cable,Vacuum,BEEM,Repairable,????,2019-05-02,de,"Die eingebauten Akkus wurden nicht mehr geladen. Test der NiMH-Akkuzellen - ok.Ladeelektronik - ok. Das Steckernetzteil lieferte im Leerlauf zwar ausreichend Spannung, brach aber mit angestecktem Staubsauger als Last schnell zusammen. Mit einem neuen Netzteil passender Ausgangsspannung und Ausgangsleistung will der Besitzer die Ladeschale nun entsprechend umbauen. Danach sollte er den Sauger wieder wie gewohnt aufladen und nutzen können."
+rcint_21210,Repair Café International,NLD,5,Replace the charger or charging cable,Power tool,Agojama,Repairable,????,2019-09-07,nl,Batterij oplader werkt niet
+rcint_30876,Repair Café International,CAN,5,Replace the charger or charging cable,Misc,Sony,Repairable,1995,2020-02-29,en,charging base connectors no longer conductive
+rcwales_2428,The Restart Project,GBR,5,Replace the charger or charging cable,Battery/charger/adapter,Unknown,Repairable,????,2019-07-01,en,5v battery charger seems dead
+rcwales_2774,Repair Cafe Wales,GBR,5,Replace the charger or charging cable,Power tool,Challenge,Repairable,????,2019-06-01,en,Recharge Tool Set Recharge Battery Not Working
+rcwales_4404,Repair Cafe Wales,GBR,5,Replace the charger or charging cable,Battery/charger/adapter,Unknown,Repairable,????,2020-02-01,en,battery charger 
+restart_10164,The Restart Project,GBR,5,Replace the charger or charging cable,Vacuum,Unknown,Repairable,????,2018-11-10,en,"Hand held vacuum, parts needed, charger/transformer."
+restart_1019,The Restart Project,GBR,5,Replace the charger or charging cable,Laptop,Compaq,Repairable,????,2014-11-22,en,"Audioplug broken, charger dodgy, mouse button broken"
+restart_1024,The Restart Project,GBR,5,Replace the charger or charging cable,Hair & beauty item,Braun,Repairable,????,2014-11-22,en,"Toothbrush. Won't start, charger missing."
+restart_10241,The Restart Project,GBR,5,Replace the charger or charging cable,Decorative or safety lights,Diall,Repairable,????,2018-11-17,en,"Torch light.Won't charge. Charger failing and not fixable, get a new one and the torch will work."
+restart_10438,The Restart Project,NOR,5,Replace the charger or charging cable,Power tool,macc,Repairable,2014,2018-11-21,en,Charger doesn't work
+restart_10583,The Restart Project,GBR,5,Replace the charger or charging cable,Laptop,ASUS,Repairable,2013,2018-12-01,en,charger
+restart_10832,The Restart Project,ITA,5,Replace the charger or charging cable,Power tool,Huawei,Repairable,????,2019-01-12,en,"Smartphone's charger broken inside, probably new transformator needed."
+restart_1108,The Restart Project,GBR,5,Replace the charger or charging cable,PC accessory,Unknown,Repairable,????,2015-01-14,en,Power adapter - Not charging - Needs new power supply
+restart_11190,The Restart Project,GBR,5,Replace the charger or charging cable,Vacuum,Unknown,Repairable,2014,2019-02-02,en,Not working - vac works but the charger seems not to be functioning
+restart_1139,The Restart Project,GBR,5,Replace the charger or charging cable,Tablet,Tesco,Repairable,????,2015-01-24,en,Not charging. Needs new charger.
+restart_11744,The Restart Project,GBR,5,Replace the charger or charging cable,Vacuum,Dyson,Repairable,2014,2019-02-23,en,"doesn't turn on, confirmed its the charger"
+restart_12309,The Restart Project,IRL,5,Replace the charger or charging cable,Laptop,Dell,Repairable,2012,2019-03-23,en,Charger not working
+restart_12598,The Restart Project,CAN,5,Replace the charger or charging cable,Tablet,Unknown,Repairable,????,2019-04-11,en,Device not charging
+restart_1267,The Restart Project,GBR,5,Replace the charger or charging cable,Tablet,Alcatel,Repairable,????,2015-03-21,en,Not turning on. Needs new charger.
+restart_13283,The Restart Project,GBR,5,Replace the charger or charging cable,Mobile,Samsung,Repairable,????,2019-05-18,en,"Doesn't charge well - dodgy cable, so advised to replace"
+restart_13898,The Restart Project,GBR,5,Replace the charger or charging cable,Misc,Unknown,Repairable,????,2019-06-22,en,"Baby monitor - charging lead broken, camera fine."
+restart_1462,The Restart Project,GBR,5,Replace the charger or charging cable,PC accessory,Unknown,Repairable,????,2015-05-28,en,Battery charger
+restart_15242,The Restart Project,SWE,5,Replace the charger or charging cable,Toy,Unknown,Repairable,????,2019-10-19,en,needed charging cable
+restart_15325,The Restart Project,GBR,5,Replace the charger or charging cable,Portable radio,Unknown,Repairable,????,2019-10-19,en,Radio fails to work after 10 secs. No fault found. Possible power issues - advised to change charger and cable
+restart_15331,The Restart Project,GBR,5,Replace the charger or charging cable,Mobile,Mymo,Repairable,????,2019-10-19,en,No longer charging/ needs USB plug
+restart_15626,The Restart Project,GBR,5,Replace the charger or charging cable,Battery/charger/adapter,Bosch,Repairable,????,2019-11-02,en,"drill battery charger not charging battery; opened up, 2 resistors burned out and need to be replaced"
+restart_15643,The Restart Project,ITA,5,Replace the charger or charging cable,Laptop,Unknown,Repairable,????,2019-11-09,it,Alimentatore non si carica
+restart_15774,The Restart Project,SWE,5,Replace the charger or charging cable,Vacuum,Electrolux,Repairable,2016,2019-11-10,en,Charger broken
+restart_16388,The Restart Project,GBR,5,Replace the charger or charging cable,Sewing machine,Amazon,Repairable,????,2020-01-05,en,Not easily charging; advised to buy charging module to be fitted next time
+restart_16582,The Restart Project,GBR,5,Replace the charger or charging cable,Laptop,Unknown,Repairable,????,2020-01-18,en,Doesn't charge - advice given on charger to purchase
+restart_17070,The Restart Project,GBR,5,Replace the charger or charging cable,Laptop,Samsung,Repairable,????,2020-02-15,en,Won't starter - charger broken and needs replacing
+restart_17123,The Restart Project,GBR,5,Replace the charger or charging cable,Portable radio,Pure,Repairable,2014,2020-02-15,en,not working:solution: advised where to get new charger:category_other: clock radio
+restart_17136,The Restart Project,GBR,5,Replace the charger or charging cable,Vacuum,Dyson,Repairable,2015,2020-02-15,en,battery won't charge:solution: advised where to get new charger
+restart_17420,The Restart Project,GBR,5,Replace the charger or charging cable,Power tool,Unknown,Repairable,????,2020-02-22,en,Cordless drill - problem in battery charger (not fuse)
+restart_17782,The Restart Project,BEL,5,Replace the charger or charging cable,Hi-Fi separates,Unknown,Repairable,????,2020-09-19,fr,Ne s'allume plus.Prise du chargeur endommagée.
+restart_2655,The Restart Project,GBR,5,Replace the charger or charging cable,Power tool,Unknown,Repairable,????,2016-05-14,en,"Power drill it does not charged, power supply fault - advice given"
+restart_3710,The Restart Project,GBR,5,Replace the charger or charging cable,Power tool,Bosch,Repairable,????,2016-11-19,en,Not working - needs new charger
+restart_4096,The Restart Project,GBR,5,Replace the charger or charging cable,Power tool,Unknown,Repairable,????,2017-01-17,en,"Battery drill - no charger - needs advice. Advice given, will be workable!"
+restart_4242,The Restart Project,NOR,5,Replace the charger or charging cable,Mobile,Apple,Repairable,????,2017-01-28,en,iPhone charger
+restart_4544,The Restart Project,GBR,5,Replace the charger or charging cable,Laptop,Apple,Repairable,????,2017-03-18,en,Boot up problem (s/w). Needs new charger.
+restart_4986,The Restart Project,NOR,5,Replace the charger or charging cable,PC accessory,Apple,Repairable,????,2017-05-06,en,Charger is broken
+restart_5383,The Restart Project,GBR,5,Replace the charger or charging cable,Tablet,Samsung,Repairable,????,2017-06-17,en,child's tablet. needs right charger & lead & poss battery boost
+restart_5497,The Restart Project,GBR,5,Replace the charger or charging cable,Laptop,Lenovo,Repairable,????,2017-06-24,en,"Laptop charges, but does not turn on. needs a new charger."
+restart_5502,The Restart Project,GBR,5,Replace the charger or charging cable,Portable radio,Sony,Repairable,????,2017-06-24,en,"DAB radio, won't turn on. Needs new charger."
+restart_6109,The Restart Project,GBR,5,Replace the charger or charging cable,Power tool,PB,Repairable,????,2017-09-30,en,electric screwdriver. Charging issue. Incorrect charger was being used. could seek replacement.
+restart_6567,The Restart Project,ITA,5,Replace the charger or charging cable,Small home electrical,Unknown,Repairable,????,2017-11-18,en,"Automatic cleaning machine, problems on the electric charger."
+restart_6724,The Restart Project,ITA,5,Replace the charger or charging cable,Battery/charger/adapter,HP,Repairable,????,2017-11-25,en,Charger
+restart_6806,The Restart Project,ESP,5,Replace the charger or charging cable,Hair & beauty item,Unknown,Repairable,????,2017-12-02,en,It needs a new charger.
+restart_7765,The Restart Project,GBR,5,Replace the charger or charging cable,PC accessory,Unknown,Repairable,????,2018-04-07,en,broken cable on laptop charger
+restart_7818,The Restart Project,ISL,5,Replace the charger or charging cable,Battery/charger/adapter,TORQ,Repairable,????,2018-04-11,en,chargerpropably the transformer is ruined.  One of the restarters had a extra transformer at home that we tried.
+restart_8213,The Restart Project,NOR,5,Replace the charger or charging cable,Mobile,Doro,Repairable,????,2018-05-05,en,Aux to charger is broken
+restart_8872,The Restart Project,GBR,5,Replace the charger or charging cable,Hi-Fi separates,Eton,Repairable,2014,2018-07-21,en,MicroUBS charger failure - problem diagnosed
+anstiftung_1126,anstiftung,DEU,6,Replace with new battery,Toy,Unknown,Repairable,1970,2019-01-17,de,"Bei zwei roten Spielzeugtelefonen aus der Zeit der DDR, die vor einiger Zeit schon einmal bei uns waren, konnte keine Verbindung hergestellt werden. Beide Flachbatterien, welche gerade erst zwei Monate im Einsatz waren, sind am Ende ihrer Lebenszeit angekommen. Die Primärzellen sind einfach überlagert und waren dadurch entladen."
+anstiftung_1276,anstiftung,DEU,6,Replace with new battery,Mobile,Unknown,Repairable,????,2018-10-20,de,Akku immer leer
+anstiftung_1400,anstiftung,DEU,6,Replace with new battery,Hi-Fi separates,JBL,Repairable,2016,2019-05-14,de,Akku wechseln
+anstiftung_1458,anstiftung,DEU,6,Replace with new battery,Laptop,Asus,Repairable,????,2019-03-14,de,"Akkulaufzeit war nur noch kurz, Akku verschlissen.Wir berieten zu Bezugsquellen für einen neuen Akku."
+anstiftung_1652,anstiftung,DEU,6,Replace with new battery,Digital compact camera,Sony,Repairable,????,2019-03-26,de,"Eine DMC-T7 Kamera ist leider in ein Medium eingetaucht, was sie nicht so gut verträgt - Wasser. Sie reagierte auf gar nichts mehr. Um herauszufinden, ob da noch was zu machen ist, haben wir mit der Überprüfung des Akkus und der Stützbatterie angefangen. Leider sah es bei beiden nicht gut aus. Mit einer externen Stromversorgung bewegte sich aber schon mal das Objektiv. Die Besitzerin kommt noch mal mit einem anderen Akku wieder."
+anstiftung_1715,anstiftung,DEU,6,Replace with new battery,Mobile,Doogee,Repairable,????,2019-04-04,de,"Nach einem Sturz zeigte ein „S60“ Smartphone von Doogee auf einmal keine Funktion mehr. Es ließ sich nicht einschalten und lediglich die Lade-LED leuchtete, wenn man es mit dem Ladegerät verband. Nachdem der Besitzer das Telefon zerlegt hatte, testeten wir zuerst den Akku, da dieser erfahrungsgemäß häufig die Ursache solcher Fehlerbilder ist. Tatsächlich diagnostizierten wir dann auch dessen Defekt - hier muss also erst ein neuer Lithium-Ionen-Akku beschafft werden. Beim nächsten Mal geht's dann mit dem Austausch weiter."
+anstiftung_1750,anstiftung,DEU,6,Replace with new battery,Decorative or safety lights,Unknown,Repairable,????,2019-04-23,de,"Die Lampe funktionierte nur, wenn das Netzteil zum Laden angeschlossen war - Akku defekt.Ersatzteil wird versorgt"
+anstiftung_1754,anstiftung,DEU,6,Replace with new battery,Small home electrical,Dremel,Repairable,????,2019-04-25,de,"Das Akku-Graviergerät ließ sich nicht mehr einschalten und es war auch kein Ladebetrieb mehr möglich.Ergebnis des Tests: Motor und Elektronik ok, Akkuzellen tiefentladen.Ersatzzellen werden bestellt und der Austausch beim einem der kommenden Termine vorgenommen."
+anstiftung_1777,anstiftung,DEU,6,Replace with new battery,Watch/clock,Unknown,Repairable,????,2017-11-09,de,"ging nicht mehr, die Batterie war leer. Wir halfen der Besucherin, den Uhrenboden zu öffnen. Sie wird eine neue besorgen und zu Hause wechseln."
+anstiftung_1798,anstiftung,DEU,6,Replace with new battery,Toy,Unknown,Repairable,????,2019-05-16,de,"Reparatur war gestern aus Zeitgründen abgebrochen worden.Heutige Diagnose: mit einer externen Stromversorgung funktionierte das Flugzeug wieder und war auch von weiterer Entfernung her steuerbar. Hier muss also ein neuer LiPo-Akku her, der aber von der Größe und dem Gewicht nicht stark abweichen darf. Wir haben ihm noch im Internet dazu was passendes rausgesucht."
+anstiftung_1812,anstiftung,DEU,6,Replace with new battery,Hair & beauty item,Unknown,Repairable,????,2018-12-27,de,"Akku defekt - ausgebaut, neuer wird versorgt"
+anstiftung_1820,anstiftung,DEU,6,Replace with new battery,Hair & beauty item,Unknown,Repairable,????,2018-11-22,de,Akku defekt - neuer wird versorgt
+anstiftung_1827,anstiftung,DEU,6,Replace with new battery,Hair & beauty item,TCM,Repairable,????,2018-11-22,de,"keine Kraft, Akku zu schwach.Neuer wird versorgt"
+anstiftung_1852,anstiftung,DEU,6,Replace with new battery,Laptop,Unknown,Repairable,????,2017-07-13,de,"zeigte beim Einschalten die Meldung „CMOS battery low“ und ging wieder aus. Wir zerlegten gemeinsam das Gerät, was wegen versteckter Befestigungen sehr aufwändig war, und legten die Batterie frei. Der Besitzer besorgt eine neue und wir werden das Teil dann wieder zusammenbauen."
+anstiftung_1947,anstiftung,DEU,6,Replace with new battery,Vacuum,Unknown,Repairable,????,2019-01-12,de,Akku defekt
+anstiftung_2011,anstiftung,DEU,6,Replace with new battery,Hair & beauty item,Braun,Repairable,????,2019-03-09,de,Akku tauschen
+anstiftung_2032,anstiftung,DEU,6,Replace with new battery,Watch/clock,Unknown,Repairable,????,2018-12-06,de,Pufferbatterie erschöpft. Hilfe beim Aufschrauben und Hinweis auf Bezugsquellen für den Akku. Einbau durch besitzer selbst.
+anstiftung_2106,anstiftung,DEU,6,Replace with new battery,Power tool,Unknown,Repairable,????,2016-04-14,de,"Die frisch geladenen Akkus waren nach kurzer Zeit wieder leer. Wir zerlegten das Gerät und überprüften die Akkus. Einige waren ganz kaputt, andere sehr schwach. Wenn der Besitzer neue Akkus besorgt, können wir das Gerät beim nächsten Mal wieder in Gang setzen."
+anstiftung_2182,anstiftung,DEU,6,Replace with new battery,Tablet,Samsung,Repairable,????,2018-09-25,de,Akku tiefentladen und ließ sich auch nicht mehr mit einem externen Ladegerät aufladen
+anstiftung_2271,anstiftung,DEU,6,Replace with new battery,Tablet,Medion,Repairable,????,2017-09-07,de,"Ließ sich nicht mehr einschalten.Hier vermutete der Gast einen defekten Akku, was wir nur bestätigen konnten. Nun muss erst ein passender Ersatzakku beschafft werden."
+anstiftung_2302,anstiftung,DEU,6,Replace with new battery,Hair & beauty item,Carrera,Repairable,????,2017-07-25,de,"Er lief auch mit voll geladenem Akku nicht mehr; lediglich ohne Scherkopf wollte sich der Motor drehen. Grund hierfür war eine verschlissene NiCd-Zelle. Wir empfahlen ihm geeignete Ersatzzellen und boten an, den Akku beim nächsten Mal auszuwechseln."
+anstiftung_2470,anstiftung,DEU,6,Replace with new battery,Handheld entertainment device,Unknown,Repairable,????,2016-09-01,de,"Er ließ sich nicht mehr aufladen und er blinkte nur während des Ladeversuchs. Wir untersuchten das Gerät und fanden heraus, dass der Akku defekt war. Der Besitzer wird einen neuen Akku beschaffen und wir werden ihn beim nächsten Mal austauschen."
+anstiftung_2663,anstiftung,DEU,6,Replace with new battery,Hair & beauty item,Braun,Repairable,????,2015-03-05,de,"Der Akku war schwach geworden. Wir haben das Gerät zerlegt und den Akku demontiert. Wenn beim nächsten Mal ein neuer Akku da ist, können wir das Gerät wieder zusammenbauen."
+anstiftung_2707,anstiftung,DEU,6,Replace with new battery,Mobile,Unknown,Repairable,????,2014-11-20,de,"Es lud nur noch sporadisch.Es wurde untersucht und keine Auffälligkeiten an dem Ladegerät, der Buchse oder der Platine festgestellt. Als nächstes wird der Besitzer einen anderen Akku testen, um auch das auszuschließen."
+anstiftung_2813,anstiftung,DEU,6,Replace with new battery,Mobile,Siemens,Repairable,????,2018-07-24,de,"Das Mobiltelefon („Nesthäkchen“ von 2004) musste zu oft ans Ladegerät. Hier war noch der Original-Akku drin – erstaunlich, dass dieser überhaupt noch ein bisschen ging. Wir haben ihr einen Neuen bestellt und hoffen auf eine positive Rückmeldung."
+anstiftung_2841,anstiftung,DEU,6,Replace with new battery,PC accessory,Bones,Repairable,????,2018-06-28,de,"Bei einem „Milestone 312“ Diktiergerät von Bones war ein Aufladen des Akkus - sowohl über das Netzteil als auch per USB - nicht mehr möglich. Wie vermutet lag dies an einem defekten Lithium-Polymer-Akku, für den nun Ersatz bestellt wird."
+anstiftung_2912,anstiftung,DEU,6,Replace with new battery,Digital compact camera,Nikon,Repairable,????,2018-02-22,de,"Einstellungen wurden in letzter zeit immer wieder ""vergessen"" und nun ging das Gerät gar nicht mehr an.Wir entdeckten eine defekte Pufferbatterie. Da das Originalteil unseren Recherchen zufolge aber leider schwer zu kriegen ist, werden wir hier wahrscheinlich eine äquivalente Knopfzelle passender Größe einbauen müssen. Sobald das Ersatzteil da ist, wird die Reparatur bei einem der kommenden Termine fortgesetzt."
+anstiftung_2950,anstiftung,DEU,6,Replace with new battery,Mobile,Samsung,Repairable,????,2018-04-26,de,Einer fachgerechten Entsorgung musste auch ein Akku aus dem Telefon zugeführt werden. Dieser wies keine Spannung mehr auf und hatte sich bereits deutlich aufgebläht. Aus diesem Grund zeigte auch das Telefon keine Funktion und lud den Akku nicht auf. Mit einem neuen Ersatzakku dürfte es aber bald wieder funktionieren.
+anstiftung_2959,anstiftung,DEU,6,Replace with new battery,Mobile,Apple,Repairable,????,2018-04-24,de,"Bei dem iPhone 3 hatte das Display abgehoben. Ursache dafür war der eingebaute Akku, der ganz schön aufgebläht war und ersetzt werden muss. Dann wird das Gerät wieder seine ursprüngliche Form haben."
+anstiftung_2970,anstiftung,DEU,6,Replace with new battery,Decorative or safety lights,Unknown,Repairable,????,2018-03-01,de,"Die Taschenlampe, die normalerweise durch Drehen am Kurbelgriff aufgeladen werden kann, leuchtete nicht mehr. Der eingebaute Speicherakku hatte das Ende seiner Lebenszeit erreicht und muss nun gegen einen neuen getauscht werden. Als Ersatz für die alten Zellen, die wir auslöteten, wird nun ein passender Akku beschafft und beim kommenden Mal eingebaut."
+anstiftung_3030,anstiftung,DEU,6,Replace with new battery,Power tool,Dremel,Repairable,????,2019-06-06,de,Fortsetzung vom 25.4.19:Der Akku war schwach geworden. Der Besitzer hat einen neuen besorgt. Wir löteten den alten aus und bereiteten die Platine für den neuen vor.Der wird noch mal aufgeladen und beim nächsten Mal eingesetzt.
+anstiftung_3045,anstiftung,DEU,6,Replace with new battery,Power tool,Kress,Repairable,????,2019-06-17,de,"Für einen Akku-Bohrschrauber „ABS 132“ von Kress wird ein neuer Akku benötigt. Der mitgebrachte NiCd-Akku war defekt. Da wir heute keinen Internetzugang hatten, gaben wir dem Besitzer Tipps zur Suche, auch mit dem Hinweis auf die Rentabilität."
+anstiftung_3060,anstiftung,DEU,6,Replace with new battery,Watch/clock,Opel,Repairable,????,2019-06-19,de,"Uhr geht nicht mehr, obwohl die Batterie vor einem Monat erst gewechselt wurde.Batterie kontrolliert - nur 0,6 Volt. Stromaufnahme der Uhr gemessen - ok.Besitzerin verschafft neue Batterie."
+anstiftung_3083,anstiftung,DEU,6,Replace with new battery,Toy,Unknown,Repairable,????,2019-05-23,de,"Abschließen wollten wir heute die Reparatur des Modellflugzeugs, bei dem während des letzten Termins im Emmers ein defekter Akku festgestellt wurde. Der junge Besitzer wollte allerdings zu hoch hinaus und hatte einen wesentlich größeren gekauft, der dann natürlich auch zu schwer war. Bis zum nächsten Mal muss nun also der richtige Originaltyp bestellt werden, bevor es mit der Reparatur weitergehen kann."
+anstiftung_3423,anstiftung,DEU,6,Replace with new battery,Power tool,Parkside,Repairable,2011,2019-08-01,de,"Recht kraftlos kam ein Parkside „PABS 10,8V-Li“ Akkuschrauber daher. Ursache war lediglich eine schwache Akkuzelle innerhalb des 3er-Akku-Packs, für den der Besitzer nun einen Ersatz besorgen möchte."
+anstiftung_3627,anstiftung,DEU,6,Replace with new battery,Mobile,Motorola,Repairable,2017,2019-08-21,de,"Defekt: Wenn der Akku fast leer ist, wird das Gerät nicht mehr geladen. Das Gerät setzt sich auf Werkseinstellungen zurück.Beratung, dass das Mobiltelefon länger geladen wird. Ladezeit war immer nur ganz kurz.Besucherin beobachtet das Problem und kommt ggf. zum Akkuwechsel wieder."
+anstiftung_3632,anstiftung,DEU,6,Replace with new battery,Watch/clock,Opel,Repairable,????,2019-08-21,de,"Defekt: läuft nicht. Uhr geöffnet und Batterie ausgebaut - leer (0,8 V)Gast besorgt neue Batterie und kommt wieder"
+anstiftung_369,anstiftung,DEU,6,Replace with new battery,Power tool,Black & Decker,Repairable,1988,2018-11-14,de,Akku defekt
+anstiftung_3714,anstiftung,DEU,6,Replace with new battery,Misc,Unknown,Repairable,????,2019-08-28,de,Batterie defekt
+anstiftung_3734,anstiftung,DEU,6,Replace with new battery,Digital compact camera,Nikon,Repairable,????,2019-09-04,de,"Zeigt an, Akku leerAkku defekt"
+anstiftung_3950,anstiftung,DEU,6,Replace with new battery,Laptop,Acer,Repairable,????,2019-10-09,de,"fährt nicht hoch, BIOS Batterie leer"
+anstiftung_3954,anstiftung,DEU,6,Replace with new battery,Mobile,Samsung,Repairable,????,2019-10-02,de,Akku defekt
+anstiftung_3969,anstiftung,DEU,6,Replace with new battery,Hair & beauty item,Remington,Repairable,2009,2019-09-05,de,Der Akku in dem Rasierapparat war nach etlichen Jahren defekt und der Gast bat uns um Hilfe bei der Zerlegung des Gerätes. Mit dem passenden Werkzeug öffneten wir das Gehäuse und notierten den darin verbauten Akkutyp. Für diesen wird nun ein geeigneter Ersatz bestellt und beim kommenden Mal eingebaut.
+anstiftung_4586,anstiftung,DEU,6,Replace with new battery,Vacuum,dyson,Repairable,2017,2020-01-16,de,"Der Akkustaubsauger gab keinerlei Lebenszeichen mehr von sich. Zuerst lag die Vermutung nahe, dass Motor oder komplexe Bauteile defekt wären. Wir überprüften jedoch Akkus und Ladegerät. Dabei stellten sich beide Energiespeicher als „völlig hinüber“ heraus. Sie nahmen weder Strom an, noch gaben sie ihn ab. Der Besucher wird einen neuen Akku erwerben."
+anstiftung_4592,anstiftung,DEU,6,Replace with new battery,Tablet,Nokia,Repairable,????,2020-01-16,de,Das Tablet ging ständig aus - hierfür konnte der defekte Akku ausfindig gemacht werden. Es wird ein Neuer versorgt
+anstiftung_4687,anstiftung,DEU,6,Replace with new battery,Tablet,Unknown,Repairable,????,2019-10-16,de,Akku tot
+anstiftung_4690,anstiftung,DEU,6,Replace with new battery,Hair & beauty item,Unknown,Repairable,????,2019-10-16,de,Akku tot
+anstiftung_4812,anstiftung,DEU,6,Replace with new battery,Hi-Fi separates,Unknown,Repairable,????,2019-12-10,de,Akku und Sound schlecht
+anstiftung_4858,anstiftung,DEU,6,Replace with new battery,Laptop,Lenovo,Repairable,2015,2020-01-28,de,Pieptöne beim Starten gab ein Notebook „MX250“ von sich. Hier wird einen neue BIOS-Batterie benötigt. Die Besitzerin wird eine besorgen und dann zum Einbau wiederkommen.
+anstiftung_499,anstiftung,DEU,6,Replace with new battery,Handheld entertainment device,Unknown,Repairable,2008,2018-11-27,de,Akku wird nicht geladenAkku wird besorgt
+anstiftung_502,anstiftung,DEU,6,Replace with new battery,Tablet,Samsung,Repairable,2015,2018-11-28,de,Akku defekt
+anstiftung_5590,anstiftung,DEU,6,Replace with new battery,Hair & beauty item,Oral-B,Repairable,2014,2020-09-17,de,"Akku hat keine Kapazität mehr. Hier muss ein neuer Akku bestellt werden. Wir haben das Gerät bereits geöffnet, um die Größe herauszufinden.01.10.20: Neuer Akku wurde versorgt, ist aber im Durchmesser zu groß - Reklamation"
+anstiftung_695,anstiftung,DEU,6,Replace with new battery,Mobile,Samsung,Repairable,????,2019-01-29,de,Akku defekt
+anstiftung_917,anstiftung,DEU,6,Replace with new battery,Mobile,Apple,Repairable,????,2019-03-13,de,Akku defekt
+fixitclinic_470,Fixit Clinic,USA,6,Replace with new battery,Hi-Fi separates,UBL,Repairable,2017,2019-07-19,en,"UBL clip 2 small Bluetooth speaker  ~ The battery is no longer holding a charge. Nothing else is wrong with it, so I would like to replace the battery. I need help with the soldering part."
+fixitclinic_493,Fixit Clinic,USA,6,Replace with new battery,Handheld entertainment device,apple,Repairable,2016,2019-08-20,en,ipod touch 6th gen ~ The battery is slowly expanding the display out
+fixitclinic_665,Fixit Clinic,USA,6,Replace with new battery,Vacuum,Black and Decker,Repairable,2017,2020-07-09,en,Cordless Handheld Vacuum ~ Lithium battery dead
+rcint_11173,Repair Café International,NLD,6,Replace with new battery,Toy,Hubsan,Repairable,2018,2018-11-03,nl,Lipo accu is niet goed meer
+rcint_11274,Repair Café International,NLD,6,Replace with new battery,Laptop,Samsung,Repairable,????,2018-11-08,nl,accu problemen
+rcint_1215,Repair Café International,NLD,6,Replace with new battery,Tablet,TomTom,Repairable,????,2017-06-03,nl,configuratie batterij
+rcint_14415,Repair Café International,NLD,6,Replace with new battery,Misc,Phonak,Repairable,????,2019-02-04,nl,Accu laadt na 7 jaar niet meer op
+rcint_16149,Repair Café International,NLD,6,Replace with new battery,Portable radio,Sony,Repairable,2004,2019-03-30,nl,batterijen erg snel leeg
+rcint_17056,Repair Café International,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2019-04-13,en,Battery needs replacing
+rcint_17072,Repair Café International,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2019-04-13,en,Battery issue
+rcint_188,Repair Café International,NLD,6,Replace with new battery,Misc,Microlife,Repairable,2007,2017-02-04,nl,geheugenbatterij defect
+rcint_19115,Repair Café International,NLD,6,Replace with new battery,Toy,Unknown,Repairable,????,2019-06-08,nl,Batterijen wellicht leeg
+rcint_19640,Repair Café International,NLD,6,Replace with new battery,Toy,Hoover,Repairable,2015,2019-06-29,nl,na opladen direct weer leeg
+rcint_20650,Repair Café International,NLD,6,Replace with new battery,Headphones,Marmitek,Repairable,2013,2019-08-24,nl,Speelt slechts korte tijd. Accu in slechte conditie.
+rcint_21388,Repair Café International,AUS,6,Replace with new battery,Lamp,Arlec,Repairable,????,2019-09-08,en,Rechargeable torch batteries need replacing - returned following month & had them installed by Kristian
+rcint_22559,Repair Café International,NLD,6,Replace with new battery,Hair & beauty item,Philips,Repairable,2002,2019-10-05,nl,accu laadt niet op
+rcint_22670,Repair Café International,NLD,6,Replace with new battery,Headphones,Unknown,Repairable,????,2019-10-05,nl,nieuwe batterijen inzetten
+rcint_23614,Repair Café International,NLD,6,Replace with new battery,Vacuum,Black & Decker,Repairable,2004,2019-10-25,nl,Oude batterijen
+rcint_24301,Repair Café International,NLD,6,Replace with new battery,Watch/clock,Unknown,Repairable,????,2019-11-02,nl,nieuwe batterij inzetten
+rcint_24438,Repair Café International,NLD,6,Replace with new battery,Power tool,Bosch,Repairable,2015,2019-11-02,nl,Accu doet het hapert
+rcint_2512,Repair Café International,NLD,6,Replace with new battery,Power tool,Black & Decker,Repairable,2010,2017-10-07,nl,Accu defect (doorgemeten)
+rcint_25221,Repair Café International,USA,6,Replace with new battery,Watch/clock,Unknown,Repairable,????,2019-11-16,en,needs battery
+rcint_25787,Repair Café International,NLD,6,Replace with new battery,Hair & beauty item,Braun,Repairable,2017,2019-11-30,nl,batterij erg snel leeg
+rcint_26541,Repair Café International,NLD,6,Replace with new battery,Laptop,Unknown,Repairable,????,2019-12-07,nl,accu kapot
+rcint_26559,Repair Café International,NLD,6,Replace with new battery,Decorative or safety lights,Philips,Repairable,????,2019-12-07,nl,na opladen brandt hij zeer kort
+rcint_26940,Repair Café International,FRA,6,Replace with new battery,Hair & beauty item,Unknown,Repairable,????,2019-12-14,fr,Ne n'arrive pas ?† remplacer moi-m?™me la batterie !
+rcint_28425,Repair Café International,NLD,6,Replace with new battery,Misc,Unknown,Repairable,2010,2020-01-25,nl,Lekkende batterij
+rcint_29531,Repair Café International,NLD,6,Replace with new battery,Watch/clock,Unknown,Repairable,????,2020-02-08,nl,Batterij vervangen
+rcint_299,Repair Café International,NLD,6,Replace with new battery,Power tool,Unknown,Repairable,????,2017-02-10,nl,ouderdom accu
+rcint_30210,Repair Café International,GBR,6,Replace with new battery,Vacuum,Dyson,Repairable,????,2020-02-15,en,Not holding charge
+rcint_30890,Repair Café International,CAN,6,Replace with new battery,Vacuum,Electrolux,Repairable,2015,2020-02-29,en,won't hold charge
+rcint_31684,Repair Café International,NLD,6,Replace with new battery,Power tool,Bosch,Repairable,????,2020-07-04,nl,accu snel leeg
+rcint_3195,Repair Café International,GBR,6,Replace with new battery,Laptop,Toshiba,Repairable,2012,2017-11-04,en,"Dead battery, not much disk space left"
+rcint_352,Repair Café International,NLD,6,Replace with new battery,Vacuum,Bosch,Repairable,????,2017-02-17,nl,accu leeg (te oud)
+rcint_416,Repair Café International,NLD,6,Replace with new battery,Toy,Fiat,Repairable,????,2017-03-04,nl,accu moet worden vervangen
+rcint_4348,Repair Café International,NLD,6,Replace with new battery,Mobile,Apple,Repairable,2010,2018-01-13,nl,Oude batterij
+rcint_5313,Repair Café International,NLD,6,Replace with new battery,Power tool,Black & Decker,Repairable,1995,2018-02-24,nl,defecte accu
+rcint_542,Repair Café International,NLD,6,Replace with new battery,Hair & beauty item,Philips,Repairable,????,2017-03-24,nl,accu leeg
+rcint_5954,Repair Café International,NLD,6,Replace with new battery,Hair & beauty item,Philips,Repairable,2016,2018-03-29,nl,accu slecht
+rcint_6186,Repair Café International,NLD,6,Replace with new battery,Hi-Fi separates,Philips,Repairable,2015,2018-04-07,nl,accu defect
+rcint_6190,Repair Café International,NLD,6,Replace with new battery,Misc,LG,Repairable,2000,2018-04-07,nl,accu oud en kapot
+rcint_6797,Repair Café International,NLD,6,Replace with new battery,Power tool,Bosch,Repairable,????,2018-05-05,nl,accu stuk
+rcint_6996,Repair Café International,NLD,6,Replace with new battery,Lamp,Unknown,Repairable,????,2018-05-12,nl,batterijen moeten vervangen worden
+rcint_7168,Repair Café International,NLD,6,Replace with new battery,Lamp,MultiLight,Repairable,2011,2018-05-19,nl,Accu vermoeid
+rcint_8112,Repair Café International,NLD,6,Replace with new battery,Misc,Siemens,Repairable,2014,2018-07-07,nl,Waarschijnlijk niet opgeladen
+rcint_817,Repair Café International,NLD,6,Replace with new battery,Misc,Panasonic,Repairable,2015,2017-04-22,nl,Verkeerde soort batterij
+rcint_827,Repair Café International,NLD,6,Replace with new battery,Hair & beauty item,Philips,Repairable,????,2017-04-28,nl,accu leeg
+rcint_8920,Repair Café International,NLD,6,Replace with new battery,Tablet,Kobo Rakuten,Repairable,2014,2018-08-30,nl,batterij laadt niet op
+rcwales_1489,Repair Cafe Wales,GBR,6,Replace with new battery,Watch/clock,Unknown,Repairable,????,2019-11-01,en,"solar powered alarm clock ceiling display incomplete, only lasts 5 days on batteries"
+rcwales_1608,Repair Cafe Wales,GBR,6,Replace with new battery,Power tool,Unknown,Repairable,????,2019-04-01,en,Screwdriver Corroded battery
+rcwales_1851,Repair Cafe Wales,GBR,6,Replace with new battery,Vacuum,Dyson,Repairable,????,2019-09-01,en,Dyson hoover doesn't hold charge
+rcwales_2584,Repair Cafe Wales,GBR,6,Replace with new battery,Vacuum,Dyson,Repairable,????,2019-02-01,en,Dyson Vacuum Doesn't keep it's charge
+rcwales_2829,Repair Cafe Wales,GBR,6,Replace with new battery,Tablet,Samsung,Repairable,????,2019-09-01,en,tablet won't hold charge
+rcwales_2971,Repair Cafe Wales,GBR,6,Replace with new battery,Vacuum,AEG ErgoRapido,Repairable,????,2019-11-01,en,Cordless vacuum cleaner Not holding charge
+rcwales_3171,Repair Cafe Wales,GBR,6,Replace with new battery,Vacuum,Unknown,Repairable,????,2019-09-01,en,cordless vacuum not holding charge
+rcwales_4235,Repair Cafe Wales,GBR,6,Replace with new battery,Watch/clock,Unknown,Repairable,????,2020-01-01,en,Clock Battery not working
+rcwales_721,Repair Cafe Wales,GBR,6,Replace with new battery,Portable radio,Unknown,Repairable,????,2018-05-01,en,Wind up - Battery operated radio Loses charge easily - + Aerial not coming out
+restart_10194,The Restart Project,HKG,6,Replace with new battery,Mobile,Apple,Repairable,2014,2018-11-11,en,"Display coming off, battery health low - request new screen assembly and battery"
+restart_10200,The Restart Project,HKG,6,Replace with new battery,Mobile,Apple,Repairable,2014,2018-11-11,en,"Cracked digitiser; LCD ok touch ok, battery health low - request new screen assembly and battery"
+restart_10226,The Restart Project,GBR,6,Replace with new battery,Laptop,HP,Repairable,2011,2018-11-11,en,"Only stays powered for about 20 minutes on battery.  Participant was not aware the battery could be removed and replaced, shown how to do this and how to order a replacement."
+restart_1023,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2014-11-22,en,Poor battery ilfe and screen cracked
+restart_10408,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,????,2018-11-18,en,keyboard and track pad not working. Needs new battery
+restart_10506,The Restart Project,ITA,6,Replace with new battery,Vacuum,Unknown,Repairable,????,2018-11-24,en,Old batteries not maintaining the charge
+restart_10516,The Restart Project,HKG,6,Replace with new battery,Mobile,Apple,Repairable,2016,2018-11-25,en,"Cracked Screen, battery dying fast"
+restart_10527,The Restart Project,HKG,6,Replace with new battery,Mobile,Apple,Repairable,????,2018-11-25,en,"Cracked digitiser, low battery health"
+restart_10639,The Restart Project,ITA,6,Replace with new battery,Mobile,Samsung,Repairable,2014,2018-12-02,en,"Fell into water, battery dead. Just replace the battery."
+restart_10651,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,2010,2018-12-08,en,Trackpad not working.  Found the battery swollen and pressing on trackpad sensor.  Repairable by batter replacement.  User considering doing this but usig USB mouse pro tem.
+restart_10964,The Restart Project,GBR,6,Replace with new battery,Mobile,Samsung,Repairable,????,2019-01-19,en,Not always staying on - needs new battery
+restart_10969,The Restart Project,GBR,6,Replace with new battery,Laptop,Unknown,Repairable,????,2019-01-19,en,"dropped, not booting - needs new battery"
+restart_10972,The Restart Project,GBR,6,Replace with new battery,Laptop,Unknown,Repairable,????,2019-01-19,en,battery dies - advice given
+restart_10973,The Restart Project,GBR,6,Replace with new battery,Handheld entertainment device,Unknown,Repairable,????,2019-01-19,en,MP3 player not turning on - internal battery gone
+restart_10981,The Restart Project,GBR,6,Replace with new battery,Mobile,Unknown,Repairable,????,2019-01-19,en,Android - battery needs replacing - more time needed
+restart_11107,The Restart Project,ISL,6,Replace with new battery,Mobile,Sony,Repairable,2015,2019-01-24,en,Bad battery
+restart_11120,The Restart Project,ISL,6,Replace with new battery,Mobile,Apple,Repairable,2014,2019-01-24,en,Looks like overheated battery
+restart_11170,The Restart Project,IRL,6,Replace with new battery,Mobile,Apple,Repairable,????,2019-02-02,en,Replacement Battery needed
+restart_11202,The Restart Project,GBR,6,Replace with new battery,Power tool,Unknown,Repairable,2014,2019-02-02,en,Battery replacement needed (ni-cd)
+restart_1143,The Restart Project,GBR,6,Replace with new battery,DSLR/video camera,FUJIFILM,Repairable,????,2015-01-24,en,Not charging. needs new battery.
+restart_11719,The Restart Project,GBR,6,Replace with new battery,Mobile,Samsung,Repairable,2012,2019-02-23,en,"overheats /malfunctions, battery bulging, needs new battery"
+restart_11746,The Restart Project,GBR,6,Replace with new battery,Hi-Fi separates,Unknown,Repairable,2017,2019-02-23,en,"battery gone, replacement service available from manufacturer"
+restart_11749,The Restart Project,GBR,6,Replace with new battery,Hair & beauty item,Braun,Repairable,2009,2019-02-23,en,"needs battery replacement, learning what to do"
+restart_11758,The Restart Project,IRL,6,Replace with new battery,Tablet,Apple,Repairable,????,2019-02-23,en,Battery not working; needs replacement
+restart_11771,The Restart Project,GBR,6,Replace with new battery,Toy,Unknown,Repairable,2018,2019-02-23,en,possibly needs new battery
+restart_11833,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,????,2019-03-02,en,Swollen/failed battery. Needs new battery and SSD
+restart_11863,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2017,2019-03-03,en,"SSD not detected; not booting up. Gassing battery. Ordered parts, will come back next party."
+restart_11869,The Restart Project,HKG,6,Replace with new battery,Tablet,Samsung,Repairable,????,2019-03-03,en,Battery drains too quickly; device shuts down at 20% battery life. Battery replacement needed
+restart_11874,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,????,2019-03-03,en,Battery reaching end-of-life
+restart_11931,The Restart Project,GBR,6,Replace with new battery,Laptop,HP,Repairable,2012,2019-03-09,en,battery dead
+restart_12040,The Restart Project,ITA,6,Replace with new battery,Tablet,Mediacom,Repairable,2014,2019-03-14,en,Doesn't charge battery. Battery is dead but could be easily replaced...
+restart_12041,The Restart Project,ITA,6,Replace with new battery,Mobile,Apple,Repairable,2012,2019-03-14,en,Dead battery. Needs replacement and specialized screwdrivers.
+restart_12150,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2017,2019-03-17,en,"SSD not detected, not booting up. Gassing battery removed"
+restart_12154,The Restart Project,HKG,6,Replace with new battery,Mobile,Apple,Repairable,2016,2019-03-17,en,"Gassing battery, cracked screen, broken camera lens"
+restart_12165,The Restart Project,HKG,6,Replace with new battery,Mobile,Samsung,Repairable,2015,2019-03-17,en,Likely short circuit in charging port or IO board - needs new battery and charging port
+restart_12209,The Restart Project,CAN,6,Replace with new battery,Tablet,Unknown,Repairable,????,2019-03-22,en,Not booting : the battery seemd faulty and need to be changed
+restart_12359,The Restart Project,GBR,6,Replace with new battery,Misc,Unknown,Repairable,????,2019-03-24,en,"Not closing, needs new battery."
+restart_12375,The Restart Project,SWE,6,Replace with new battery,Mobile,Huawei,Repairable,2016,2019-03-24,en,needs new battery
+restart_12400,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2017,2019-03-31,en,Needs new battery
+restart_12402,The Restart Project,HKG,6,Replace with new battery,Tablet,Samsung,Repairable,2018,2019-03-31,en,Needs new battery
+restart_1250,The Restart Project,ITA,6,Replace with new battery,Power tool,Unknown,Repairable,????,2015-03-04,en,electric screwdriver with exhausted batteries
+restart_12567,The Restart Project,BEL,6,Replace with new battery,Power tool,Bosch,Repairable,2014,2019-04-10,en,Battery does not charge
+restart_12568,The Restart Project,BEL,6,Replace with new battery,Power tool,Unknown,Repairable,2011,2019-04-10,en,Battery does not charge - replacement needed
+restart_12719,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2015,2019-04-14,en,Gassing battery requires replacement
+restart_12725,The Restart Project,HKG,6,Replace with new battery,Tablet,Samsung,Repairable,2014,2019-04-14,en,Unstable battery; requires replacing
+restart_12805,The Restart Project,CAN,6,Replace with new battery,Mobile,Apple,Repairable,????,2019-04-23,en,Swolen battery
+restart_12817,The Restart Project,GBR,6,Replace with new battery,Laptop,HP,Repairable,2014,2019-04-24,en,"Dead battery, head phone socket broken"
+restart_12818,The Restart Project,GBR,6,Replace with new battery,Laptop,HP,Repairable,2014,2019-04-24,en,Dead battery
+restart_12820,The Restart Project,GBR,6,Replace with new battery,Tablet,Samsung,Repairable,2013,2019-04-24,en,not charging
+restart_12934,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2015,2019-04-28,en,"Swollen battery cell, trackpad disabled. Needs battery replacement and trackpad flex cable replacement"
+restart_12969,The Restart Project,ITA,6,Replace with new battery,Mobile,Apple,Repairable,????,2019-05-05,en,"Needed a new battery. But after replacing the battery, the phone stopped working (even using the old battery). It looks like a mistake was made during the repair (possible short circuit). The phone was repaired after the event by replacing the display and vibration motor."
+restart_12978,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2015,2019-05-05,en,"swollen battery, non-responsive trackpad and keyboard except the power button, no display on screen"
+restart_12982,The Restart Project,ESP,6,Replace with new battery,Handheld entertainment device,Apple,Repairable,????,2019-05-06,en,Old battery
+restart_13368,The Restart Project,GBR,6,Replace with new battery,Vacuum,Philips,Repairable,2007,2019-05-19,en,"rechargeable batteries dead, need replacing"
+restart_13372,The Restart Project,GBR,6,Replace with new battery,Vacuum,Unknown,Repairable,2017,2019-05-19,en,battery not charging - needs new rechargeable battery
+restart_13390,The Restart Project,GBR,6,Replace with new battery,Tablet,Amazon,Repairable,????,2019-05-25,en,kindle isnt charging. new battery needed
+restart_1352,The Restart Project,GBR,6,Replace with new battery,Vacuum,Unknown,Repairable,????,2015-04-25,en,Handheld vacuum - No power - Needs a new battery
+restart_13529,The Restart Project,GBR,6,Replace with new battery,Toy,Unknown,Repairable,2014,2019-06-01,en,battery dead
+restart_13607,The Restart Project,ITA,6,Replace with new battery,Misc,Unknown,Repairable,????,2019-06-02,en,"Litio batteries exhausted, little running time"
+restart_13748,The Restart Project,BEL,6,Replace with new battery,Misc,Unknown,Repairable,????,2019-06-08,nl,"zaklampen - nakijken op werking, batterijen te vervangen"
+restart_13810,The Restart Project,GBR,6,Replace with new battery,Mobile,Nexus,Repairable,2011,2019-06-15,en,Need to replace battery - difficult to remove
+restart_13830,The Restart Project,GBR,6,Replace with new battery,Decorative or safety lights,Unknown,Repairable,????,2019-06-15,en,"No light - stripped and cleaned, needs new rechargable batteries"
+restart_13902,The Restart Project,GBR,6,Replace with new battery,Vacuum,Dyson,Repairable,????,2019-06-22,en,needs new battery
+restart_13918,The Restart Project,GBR,6,Replace with new battery,Power tool,Unknown,Repairable,????,2019-06-22,en,Drill - issued identified as battery pack
+restart_1400,The Restart Project,GBR,6,Replace with new battery,Mobile,Unknown,Repairable,????,2015-05-05,en,"Mobile - Software fault - Diagnosed, needs new battery"
+restart_14039,The Restart Project,GBR,6,Replace with new battery,Laptop,Dell,Repairable,2004,2019-07-01,en,Needed updated. Memory updated and new battery ordered . Windows 10 to be added.
+restart_1421,The Restart Project,GBR,6,Replace with new battery,Mobile,Samsung,Repairable,????,2015-05-09,en,"Doesn't charge, doesn't switch on. Needs new battery."
+restart_14361,The Restart Project,GBR,6,Replace with new battery,Vacuum,Unknown,Repairable,2017,2019-08-10,en,New battery needed.
+restart_14368,The Restart Project,SWE,6,Replace with new battery,Tablet,Samsung,Repairable,2013,2019-08-11,en,"screen bubbling up, running slow. Needs screen and battery replacement. Samsung authorised dealer has part, but they twice as much as ifixit (parts only available in US) or ebay prices."
+restart_14460,The Restart Project,IRL,6,Replace with new battery,Mobile,Apple,Repairable,2014,2019-08-31,en,Screen & Battery Replacements
+restart_14473,The Restart Project,SWE,6,Replace with new battery,Power tool,Bosch,Repairable,????,2019-09-01,en,old battery
+restart_14494,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2019-09-07,en,"Not starting properly.  Battery faulty, replacement needed.  User referred to local business."
+restart_14518,The Restart Project,GBR,6,Replace with new battery,Tablet,Yaarvick,Repairable,????,2019-09-07,en,Not working.  Found needs new battery.
+restart_14595,The Restart Project,GBR,6,Replace with new battery,Toy,Unknown,Repairable,????,2019-09-08,en,battery not working.  Advised to see if can source battery that can fit it.
+restart_14614,The Restart Project,CAN,6,Replace with new battery,Mobile,Unknown,Repairable,????,2019-09-12,en,Swapped an aging battery to keep this device alive!
+restart_14647,The Restart Project,CAN,6,Replace with new battery,Tablet,Unknown,Repairable,????,2019-09-12,en,Change battery
+restart_14892,The Restart Project,NOR,6,Replace with new battery,Portable radio,Sandstrom,Repairable,2014,2019-09-28,en,"Needs to change a chargable battery, will return with new battery"
+restart_1508,The Restart Project,GBR,6,Replace with new battery,Vacuum,Unknown,Repairable,????,2015-06-29,en,Battery fault.
+restart_15117,The Restart Project,ITA,6,Replace with new battery,Hair & beauty item,Philips,Repairable,????,2019-10-12,en,Did't keep the charge - new battery needed
+restart_15185,The Restart Project,HKG,6,Replace with new battery,Mobile,HTC,Repairable,2016,2019-10-13,en,"Gassing battery. Battery replacement, maybe screen replacement."
+restart_15194,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2015,2019-10-13,en,User reports short battery life. 1102 battery cycles recorded. New battery ordered (A1582)
+restart_15195,The Restart Project,HKG,6,Replace with new battery,Mobile,Samsung,Repairable,2015,2019-10-13,en,"Second hand phone, user requests new battery. Battery ordered"
+restart_15219,The Restart Project,GBR,6,Replace with new battery,Misc,Unknown,Repairable,????,2019-10-19,en,"Dismantled, cleaned with compressed air - battery voltage appears low.  Suggest new battery"
+restart_15282,The Restart Project,GBR,6,Replace with new battery,Mobile,Huawei,Repairable,2017,2019-10-19,en,Battery expandind
+restart_15411,The Restart Project,NOR,6,Replace with new battery,Hi-Fi separates,JBL,Repairable,2016,2019-10-21,en,"Change battery, melted plastic"
+restart_1549,The Restart Project,GBR,6,Replace with new battery,Laptop,Dell,Repairable,????,2015-07-11,en,"Doesn't hold charge, slow."
+restart_15508,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2011,2019-10-27,en,User reports low computer suddenly. Activity monitor reveals no intense power usage - RAM seems fine too. Battery requires servicing. Likely cause of issues. Order new battery A1322
+restart_15509,The Restart Project,HKG,6,Replace with new battery,Mobile,Google,Repairable,2016,2019-10-27,en,User reports sudden shutdowns at 20% - battery runs out quickly. Never repaired before. Order new battery
+restart_15513,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2017,2019-10-27,en,"Battery drains fast, shuts down at around 50%. Order new battery"
+restart_15514,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2015,2019-10-27,en,"Battery requires servicing, Order new battery"
+restart_15515,The Restart Project,HKG,6,Replace with new battery,Laptop,Apple,Repairable,2015,2019-10-27,en,"Battery requires servicing, Order new battery"
+restart_1555,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,????,2015-07-11,en,Battery dead. Out of memory.
+restart_15637,The Restart Project,SWE,6,Replace with new battery,Laptop,Apple,Repairable,2012,2019-11-03,en,slow needs battery change?
+restart_15710,The Restart Project,GBR,6,Replace with new battery,Small home electrical,Amazon,Repairable,2018,2019-11-09,en,Not charging. Needs battery.
+restart_15721,The Restart Project,HKG,6,Replace with new battery,Mobile,HTC,Repairable,2016,2019-11-10,en,Gassing battery. Ordered new battery
+restart_15723,The Restart Project,HKG,6,Replace with new battery,Tablet,Samsung,Repairable,2016,2019-11-10,en,Battery replaced by a third party. Still drains. Ordered new battery
+restart_15724,The Restart Project,HKG,6,Replace with new battery,Mobile,Apple,Repairable,2017,2019-11-10,en,Fast battery drain. Ordered new battery
+restart_15728,The Restart Project,HKG,6,Replace with new battery,Mobile,Apple,Repairable,2017,2019-11-10,en,Low battery health. Ordered new battery
+restart_15748,The Restart Project,GBR,6,Replace with new battery,Laptop,Sony,Repairable,2012,2019-11-10,en,"Slow running. poor battery life.  Deleted surplus software, recommended battery provider."
+restart_15881,The Restart Project,GBR,6,Replace with new battery,Handheld entertainment device,Unknown,Repairable,????,2019-11-16,en,Not working - need new battery in receiver box
+restart_1599,The Restart Project,GBR,6,Replace with new battery,Handheld entertainment device,Apple,Repairable,????,2015-07-25,en,Had no power. Restarter told person that they needed to get a new battery and gave them information verbally on how to open it and fit. The person said that she will try to do this and if she couldn't get into it then she would return for help.
+restart_16004,The Restart Project,IRL,6,Replace with new battery,Laptop,Toshiba,Repairable,2015,2019-11-24,en,Integrated Battery and RTC battery dead
+restart_16005,The Restart Project,IRL,6,Replace with new battery,Toy,Unknown,Repairable,2017,2019-11-24,en,Dead battery - needs replacement
+restart_16240,The Restart Project,GBR,6,Replace with new battery,Laptop,HP,Repairable,2011,2019-12-09,en,New battery required and security update.New battery to be purchased and updated to Windows 10.
+restart_16329,The Restart Project,GBR,6,Replace with new battery,Toy,Unknown,Repairable,????,2019-12-21,en,Volume too low - need to get new batteries
+restart_16334,The Restart Project,GBR,6,Replace with new battery,Laptop,Unknown,Repairable,????,2019-12-21,en,Queries over how it's working and not - advised to replace battery
+restart_16404,The Restart Project,GBR,6,Replace with new battery,Vacuum,Unknown,Repairable,2015,2020-01-11,en,Possible battery priblem
+restart_16562,The Restart Project,GBR,6,Replace with new battery,Misc,Unknown,Repairable,2000,2020-01-18,en,"Battery & motor not working, needs replacing"
+restart_16630,The Restart Project,GBR,6,Replace with new battery,Tablet,Google,Repairable,????,2020-01-19,en,New battery required
+restart_16882,The Restart Project,GBR,6,Replace with new battery,Mobile,Unknown,Repairable,????,2020-02-01,en,Stopped working.  Rechargable batteries dead.  Advised to buy new batteries.
+restart_16963,The Restart Project,GBR,6,Replace with new battery,Small kitchen item,Cww,Repairable,2016,2020-02-01,en,Battery flat - Solution: Needs a replacement battery
+restart_1701,The Restart Project,GBR,6,Replace with new battery,Hair & beauty item,Unknown,Repairable,????,2015-09-26,en,"E-toothbrush, needs a new battery"
+restart_1719,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2015-09-26,en,Needs new battery
+restart_17202,The Restart Project,GBR,6,Replace with new battery,Handheld entertainment device,CATEYE,Repairable,2012,2020-02-15,en,battery failed
+restart_17542,The Restart Project,GBR,6,Replace with new battery,Misc,Unknown,Repairable,????,2020-03-14,en,Batteries rusted in
+restart_1768,The Restart Project,ESP,6,Replace with new battery,Vacuum,Unknown,Repairable,????,2015-10-03,es,No enciende - Hay que cambiar y soltar baterias nuevas
+restart_1787,The Restart Project,GBR,6,Replace with new battery,Hi-Fi separates,Unknown,Repairable,????,2015-10-10,en,Speakers that can charge the batteries too. Turned out to have fake batteries! This is why the item wasn't working. Advised to buy rechargeable batteries and test.
+restart_1915,The Restart Project,GBR,6,Replace with new battery,Laptop,Toshiba,Repairable,????,2015-11-21,en,Only works on mains. needs new battery.
+restart_1996,The Restart Project,GBR,6,Replace with new battery,Laptop,ASUS,Repairable,????,2015-12-01,en,"battery problem. checked the capacity of the battery, provided help to get a new one"
+restart_2049,The Restart Project,ESP,6,Replace with new battery,DSLR/video camera,GoPro,Repairable,????,2015-12-19,es,No funciona disconectada / Falta una bateria nueva
+restart_2063,The Restart Project,ITA,6,Replace with new battery,Digital compact camera,Lumix,Repairable,????,2015-12-20,it,Batteria da sostituire
+restart_2165,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2016-01-25,en,"Not charging, battery replaced"
+restart_227,The Restart Project,GBR,6,Replace with new battery,Digital compact camera,Unknown,Repairable,????,2013-11-12,en,Camera - No power - New battery needed
+restart_239,The Restart Project,GBR,6,Replace with new battery,Laptop,Unknown,Repairable,????,2013-11-16,en,"Overheating, dead battery"
+restart_2430,The Restart Project,GBR,6,Replace with new battery,DSLR/video camera,Unknown,Repairable,????,2016-03-21,en,Super 8 camera with batteries exploded and lens problem
+restart_2433,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2016-03-21,en,Cracked LCD but appears to need a new battery
+restart_2541,The Restart Project,GBR,6,Replace with new battery,Mobile,Fairphone,Repairable,????,2016-04-13,en,Needs a new battery
+restart_2548,The Restart Project,GBR,6,Replace with new battery,Power tool,Unknown,Repairable,????,2016-04-13,en,Drill needing a new battery pack
+restart_2647,The Restart Project,GBR,6,Replace with new battery,Power tool,Unknown,Repairable,????,2016-05-14,en,"Cordless drill - not charging, not working. needs new battery"
+restart_2691,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2016-05-18,en,"Not charging - needs a new battery, diagnosed"
+restart_2695,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,????,2016-05-18,en,Dies very quickly - needs new battery
+restart_2711,The Restart Project,GBR,6,Replace with new battery,Mobile,Samsung,Repairable,????,2016-05-18,en,Not hold a charge - new battery needed
+restart_2878,The Restart Project,GBR,6,Replace with new battery,Small kitchen item,Unknown,Repairable,????,2016-06-11,en,Rice cooker. Working but needs help putting in new battery. Manufacturer has welded in battery even though it is supposed to be changeable by user.
+restart_297,The Restart Project,GBR,6,Replace with new battery,Tablet,Apple,Repairable,????,2013-12-15,en,Tablet - No power - Lead works; battery problem
+restart_2992,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,????,2016-06-24,en,Battery bulging - sent to Apple
+restart_3164,The Restart Project,GBR,6,Replace with new battery,Handheld entertainment device,Unknown,Repairable,????,2016-08-06,en,mp3 player - battery does not charged - find a way to put a rechargeable battery - advice given - lithium battery either need replacing or used an external charger
+restart_3263,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,????,2016-09-17,en,"Won't turn on, battery won't charge. Needs replacement battery."
+restart_3354,The Restart Project,GBR,6,Replace with new battery,Laptop,Unknown,Repairable,????,2016-10-08,en,Would not switch on. Needed new battery
+restart_3396,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,????,2016-10-15,en,Faulty battery
+restart_3468,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2016-10-22,en,Battery needs replacing - not applicable
+restart_3494,The Restart Project,GBR,6,Replace with new battery,Power tool,Unknown,Repairable,????,2016-10-29,en,24v drill battery cells - exhausted
+restart_3593,The Restart Project,GBR,6,Replace with new battery,Portable radio,Stella,Repairable,????,2016-11-12,en,Vintage radio needed 9V batteries
+restart_3713,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2016-11-19,en,Battery swap- screw stuck
+restart_3714,The Restart Project,GBR,6,Replace with new battery,Mobile,Samsung,Repairable,????,2016-11-19,en,Doesn't switch on - dead battery
+restart_4027,The Restart Project,GBR,6,Replace with new battery,Power tool,Unknown,Repairable,????,2016-12-10,en,Power workshop - battery gone
+restart_4098,The Restart Project,GBR,6,Replace with new battery,Power tool,Unknown,Repairable,????,2017-01-17,en,"Cordless Screwdriver - faulty battery. Diagnosed, advice given"
+restart_4154,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2017-01-28,en,Battery needs changing.
+restart_4211,The Restart Project,NOR,6,Replace with new battery,Handheld entertainment device,Apple,Repairable,????,2017-01-28,en,Turns off after charging
+restart_4234,The Restart Project,NOR,6,Replace with new battery,Power tool,Bosch,Repairable,????,2017-01-28,en,Week battery
+restart_4329,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,????,2017-02-05,en,needs to replace battery and would like to upgrade memoryÂ and HDD noted tools needed and model numbers of better and laptop.Â
+restart_4343,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2017-02-05,en,iPhone - needed battery change (also needed spare battery)
+restart_4598,The Restart Project,ESP,6,Replace with new battery,Mobile,Unknown,Repairable,????,2017-03-22,en,Battery lasts two hours
+restart_4875,The Restart Project,GBR,6,Replace with new battery,Vacuum,Unknown,Repairable,????,2017-04-22,en,"3.6v Hoover. Charger plug issue - needs new battery, charger, and resistor. Client to decide whether this is economical for her."
+restart_5131,The Restart Project,GBR,6,Replace with new battery,Digital compact camera,Unknown,Repairable,????,2017-05-20,en,Battery check. Needs new battery.
+restart_5513,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,????,2017-06-24,en,Battery/declutter needed. Partially decluttered.
+restart_5523,The Restart Project,GBR,6,Replace with new battery,Tablet,Samsung,Repairable,????,2017-06-24,en,Won't turn on. Battery needs changing.
+restart_5568,The Restart Project,ITA,6,Replace with new battery,Tablet,ASUS,Repairable,????,2017-06-30,en,Changed battery
+restart_5679,The Restart Project,GBR,6,Replace with new battery,Hair & beauty item,Braun,Repairable,????,2017-07-19,en,Determined the battery was indeed user replaceable.
+restart_5925,The Restart Project,GBR,6,Replace with new battery,Mobile,Samsung,Repairable,????,2017-09-09,en,"intermittent screen flicker, short battery life"
+restart_5999,The Restart Project,GBR,6,Replace with new battery,Watch/clock,Unknown,Repairable,????,2017-09-16,en,Digital watch. Safe opening of case not achieved. Likely new battery only needed.
+restart_6060,The Restart Project,GBR,6,Replace with new battery,Headphones,Marshall,Repairable,????,2017-09-23,en,"Battery won't charge. advice given, needs new batery."
+restart_6260,The Restart Project,GBR,6,Replace with new battery,Decorative or safety lights,Moleskine,Repairable,????,2017-10-21,en,"Book Lamp - The soldered-in 3.7v 80mAh battery had gone after less than 1 year of use. Very difficult to open, lots of double-sided tape. Owner will go home and attempt fix"
+restart_6281,The Restart Project,ESP,6,Replace with new battery,Hair & beauty item,Braun,Repairable,????,2017-10-21,en,It won't work.It needs to have the battery replaced.
+restart_6438,The Restart Project,GBR,6,Replace with new battery,Handheld entertainment device,Apple,Repairable,????,2017-11-04,en,Doesn't work - Dead - Need new battery
+restart_6443,The Restart Project,GBR,6,Replace with new battery,Laptop,Compaq,Repairable,????,2017-11-04,en,Battery doesn't charge Need new battery
+restart_6778,The Restart Project,GBR,6,Replace with new battery,Hair & beauty item,Boots,Repairable,????,2017-12-02,en,electric razor. new lithium battery needed (order online)
+restart_6851,The Restart Project,GBR,6,Replace with new battery,Laptop,Dell,Repairable,????,2017-12-09,en,wont turn on without charger plugged in. New battery required.
+restart_6854,The Restart Project,GBR,6,Replace with new battery,Mobile,Apple,Repairable,????,2017-12-09,en,battery losing charge quickly. new battery needed
+restart_700,The Restart Project,GBR,6,Replace with new battery,Mobile,Unknown,Repairable,????,2014-06-12,en,Mobile - No power - Battery
+restart_7131,The Restart Project,GBR,6,Replace with new battery,Digital compact camera,Minolta,Repairable,????,2018-02-03,en,Leaked battery - whole circuitboard needs replacing
+restart_7168,The Restart Project,CAN,6,Replace with new battery,Desktop computer,Unknown,Repairable,????,2018-02-13,fr,Batterie ne charge pas Pc Fonctionne sous tension
+restart_7395,The Restart Project,USA,6,Replace with new battery,Tablet,Sony,Repairable,????,2018-03-03,en,"eReader, appears battery is dead, owner bought a replacement but can't remove old, has watched youtube videos of similar models and bought tools to do but can't. fixer replaced bad battery but still not working; owner will charge battery when home"
+restart_740,The Restart Project,GBR,6,Replace with new battery,Digital compact camera,Unknown,Repairable,????,2014-06-28,en,"Lens jammed, needs new battery"
+restart_7702,The Restart Project,GBR,6,Replace with new battery,Tablet,Asus,Repairable,????,2018-04-07,en,Does not start - needs battery
+restart_7873,The Restart Project,GBR,6,Replace with new battery,Tablet,ASUS,Repairable,????,2018-04-19,en,Does not turn on.Needs a new battery.
+restart_7878,The Restart Project,GBR,6,Replace with new battery,Hair & beauty item,Unknown,Repairable,????,2018-04-19,en,Electric shaver. Battery needs replacing.
+restart_7879,The Restart Project,GBR,6,Replace with new battery,Lamp,Unknown,Repairable,????,2018-04-19,en,"Outside light, intermittently working. Needs new battery."
+restart_7890,The Restart Project,GBR,6,Replace with new battery,Games console,nintendo,Repairable,2014,2018-04-21,en,not charging. new battery needed as old gave no voltage output
+restart_7928,The Restart Project,GBR,6,Replace with new battery,Mobile,Nokia,Repairable,????,2018-04-21,en,Does not switch on.  Battery dead.
+restart_8298,The Restart Project,ITA,6,Replace with new battery,Decorative or safety lights,Emergency lamp,Repairable,????,2018-05-13,en,NI-Cd battery failed
+restart_8363,The Restart Project,GBR,6,Replace with new battery,Power tool,Unknown,Repairable,????,2018-05-19,en,"Appears to be a bad battery, as motor and charger seem to be OK.  Adviced to replace battery."
+restart_8379,The Restart Project,GBR,6,Replace with new battery,Vacuum,Dirt Devil,Repairable,????,2018-05-19,en,"Reduced suction. Needs battery pack, can be done at home."
+restart_840,The Restart Project,GBR,6,Replace with new battery,Digital compact camera,Unknown,Repairable,????,2014-09-09,en,Compact digital camera - Lens stuck - New battery needed
+restart_8566,The Restart Project,GBR,6,Replace with new battery,Laptop,HP,Repairable,????,2018-06-05,en,"Screen stays black. Seems ok when plugged into mains, needs new battery. "
+restart_8592,The Restart Project,GBR,6,Replace with new battery,Small home electrical,Maplin,Repairable,2018,2018-06-07,en,Clamp meter. Zeros but does not function otherwise. Problem diagnosed: new batteries needed.
+restart_8699,The Restart Project,GBR,6,Replace with new battery,Mobile,Samsung,Repairable,????,2018-07-07,en,"Problem: Won't charge.  Diagnosis:  It was charging 20 mA, which looked like it was fully charged and trickle charging. It wasn't recognised by a laptop (nothing appeared on the USB) so it was not a case of it being switched on with a dead screen. We tried all the Android resetting key combinations we could find with no effect. Accessing the battery requires taking out the (broken) screen and a mid plate. The phone is under warranty but Samsung refused to repair it under warranty as the screen is broken on the sides and would shatter when opening the phone.  Owner was going to check with Lovephone."
+restart_8713,The Restart Project,GBR,6,Replace with new battery,Laptop,Dell,Repairable,????,2018-07-07,en,Doesn't light up. Needs new battery.
+restart_8821,The Restart Project,GBR,6,Replace with new battery,Toy,Unknown,Repairable,????,2018-07-21,en,Doesn't work - needs batteries replacing.
+restart_883,The Restart Project,GBR,6,Replace with new battery,Hi-Fi separates,Unknown,Repairable,????,2014-09-20,en,DVD player (needs category). Needs new rechargeable battery.
+restart_8835,The Restart Project,GBR,6,Replace with new battery,Vacuum,Dyson,Repairable,2013,2018-07-21,en,"Does not charge. Checked the charger and contacts, and the battery. Appeared to need a new battery."
+restart_8844,The Restart Project,GBR,6,Replace with new battery,Portable radio,Roberts,Repairable,1983,2018-07-21,en,Needed a new speaker and battery
+restart_8851,The Restart Project,GBR,6,Replace with new battery,Small kitchen item,Unknown,Repairable,2011,2018-07-21,en,Needed a new battery
+restart_8853,The Restart Project,GBR,6,Replace with new battery,Mobile,Samsung,Repairable,2014,2018-07-21,en,Needed a battery replacement. No heatgun at this event.
+restart_8861,The Restart Project,GBR,6,Replace with new battery,Vacuum,Morphy Richards,Repairable,2008,2018-07-21,en,"Needed a new battery, charger was fine"
+restart_9051,The Restart Project,GBR,6,Replace with new battery,Laptop,Apple,Repairable,2013,2018-09-09,en,"Trackpad not working, bulging out of case.  Battery not charging.  Battery had failed and bulged, pushing trackpad out of alignment.  Removed battery and realigned trackpad.  User given instruction on how to find and fit new battery (iFixit guide)."
+restart_9148,The Restart Project,GBR,6,Replace with new battery,Tablet,Google,Repairable,????,2018-09-15,en,Stopped working after commercial repair - Need new battery - Helped to find it on web
+restart_9183,The Restart Project,GBR,6,Replace with new battery,Vacuum,Unknown,Repairable,????,2018-09-15,en,"Cordless vacuum cleaner, parts needed, battery"
+restart_9372,The Restart Project,ITA,6,Replace with new battery,Mobile,Samsung,Repairable,2013,2018-09-29,en,swollen battery
+restart_9566,The Restart Project,GBR,6,Replace with new battery,Hair & beauty item,Braun,Repairable,2015,2018-10-13,en,Not charging to capacity.  Was able to open without damage to works.  Motor assembly needs cleaning and NiCad battery probably end of life.  Appears replaceable.  No time for further work. may be repairable with battery if available.
+restart_9578,The Restart Project,GBR,6,Replace with new battery,Vacuum,Dyson,Repairable,2016,2018-10-13,en,"Works intemittantly.  Rechargable battery appeared to be deterirating, but could not be  easily removed due to broken catch.  Some improvement noted, so probably poor contact at battery."
+restart_9754,The Restart Project,GBR,6,Replace with new battery,Misc,Unknown,Repairable,2015,2018-10-20,en,Torch. Duracell AA batteries expanded in use. Can't remove. Advice given.
+restart_9761,The Restart Project,GBR,6,Replace with new battery,Digital compact camera,Olympus,Repairable,????,2018-10-20,en,"No picture on screen - seems that battery is broken, as works with plugged into mains, but screen broken."
+restart_9768,The Restart Project,GBR,6,Replace with new battery,Power tool,Eckman,Repairable,????,2018-10-20,en,"Not working.  Unable to id fault, but suspect battery packs dead."
+restart_9927,The Restart Project,SWE,6,Replace with new battery,Mobile,Samsung,Repairable,????,2018-10-28,en,needs new battery
+anstiftung_2772,anstiftung,DEU,16,Unrepairable corrosion or leakage,Portable radio,VEB Stern-Radio Berlin,End of life,????,2018-08-05,de,"Taschenradio hat lange rumgelegen, Batterien ausgelaufen.In der Folge waren zahlreiche Kontakte und Teile der Leiterplatte korrodiert. In diesem Fall wäre wirklich eine aufwändige Komplettrestauration notwendig, wozu wir uns vor Ort nicht in der Lage sahen. Eventuell kommt die Besitzerin damit zu einem anderen Termin mit etwas mehr Zeit wieder."
+anstiftung_3210,anstiftung,DEU,16,Unrepairable corrosion or leakage,Hair & beauty item,Braun,End of life,1979,2019-07-07,de,Akku hinüber und ausgelaufen
+anstiftung_3977,anstiftung,DEU,16,Unrepairable corrosion or leakage,Watch/clock,Unknown,End of life,????,2019-09-26,de,"Der Wecker zeigte keinerlei Funktion, was uns in Anbetracht des stark korrodierten Batteriefaches nicht sehr verwunderte. Nach einer Reinigung und dem Anlöten neuer Leitungen lief das Uhrwerk immerhin kurzzeitig. Es blieb aber trotz aller unserer Bemühungen sehr schwergängig. Und eine komplette Reinigung erschien uns und der Besitzerin dann letztlich zu viel Aufwand."
+rcint_23641,Repair Café International,NLD,16,Unrepairable corrosion or leakage,Lamp,Unknown,End of life,????,2019-10-25,nl,"gaat niet meer uit, batterij heeft gelekt"
+rcint_29834,Repair Café International,FRA,16,Unrepairable corrosion or leakage,Large home electrical,Unknown,End of life,????,2020-02-15,fr,Oxydation circuit de la batterie NI-MH
+rcint_3818,Repair Café International,NLD,16,Unrepairable corrosion or leakage,Watch/clock,Unknown,End of life,????,2017-12-08,nl,oxide bij batterij
+rcint_866,Repair Café International,NLD,16,Unrepairable corrosion or leakage,Watch/clock,Unknown,End of life,????,2017-05-05,nl,lekkende batterijen
+restart_10084,The Restart Project,GBR,16,Unrepairable corrosion or leakage,Portable radio,Tevlon,End of life,2008,2018-11-10,en,Not working - battery leak leading to serious corrosion.
+restart_15571,The Restart Project,ITA,16,Unrepairable corrosion or leakage,Misc,Unknown,End of life,????,2019-11-02,en,acid lost by batteries corroded the electronic board
+restart_16033,The Restart Project,SWE,16,Unrepairable corrosion or leakage,DSLR/video camera,Nikon,End of life,????,2019-11-24,en,completely oxidated with battery fluid (flash component)
+restart_16283,The Restart Project,GBR,16,Unrepairable corrosion or leakage,Watch/clock,Unknown,End of life,????,2019-12-14,en,<p>Clock. Battery had leaked.</p>
+restart_17593,The Restart Project,GBR,16,Unrepairable corrosion or leakage,Misc,Unknown,End of life,????,2020-07-01,en,Batteries corroded in (aluminium case)
+restart_5377,The Restart Project,GBR,16,Unrepairable corrosion or leakage,Toy,Unknown,End of life,????,2017-06-17,en,large robot. battery terminal corrosion excessive and beyond repair
