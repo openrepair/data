@@ -1,11 +1,11 @@
 [
     {
         "product_category_id": "1",
-        "product_category": "Aircon \/ dehumidifier"
+        "product_category": "Aircon\/dehumidifier"
     },
     {
         "product_category_id": "2",
-        "product_category": "Battery \/ charger \/ adapter"
+        "product_category": "Battery\/charger\/adapter"
     },
     {
         "product_category_id": "3",
@@ -21,7 +21,7 @@
     },
     {
         "product_category_id": "6",
-        "product_category": "DSLR \/ video camera"
+        "product_category": "DSLR\/video camera"
     },
     {
         "product_category_id": "7",
@@ -97,7 +97,7 @@
     },
     {
         "product_category_id": "25",
-        "product_category": "Printer \/ scanner"
+        "product_category": "Printer\/scanner"
     },
     {
         "product_category_id": "26",
@@ -137,11 +137,11 @@
     },
     {
         "product_category_id": "35",
-        "product_category": "Watch \/ clock"
+        "product_category": "Watch\/clock"
     },
     {
         "product_category_id": "36",
-        "product_category": "Coffee Maker"
+        "product_category": "Coffee maker"
     },
     {
         "product_category_id": "37",

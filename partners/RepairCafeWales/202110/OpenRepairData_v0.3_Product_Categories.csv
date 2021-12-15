@@ -1,10 +1,10 @@
 product_category_id,product_category
-1,"Aircon / dehumidifier"
-2,"Battery / charger / adapter"
+1,Aircon/dehumidifier
+2,Battery/charger/adapter
 3,"Decorative or safety lights"
 4,"Desktop computer"
 5,"Digital compact camera"
-6,"DSLR / video camera"
+6,"DSLR/video camera"
 7,Fan
 8,"Flat screen"
 9,"Hair & beauty item"
@@ -23,7 +23,7 @@ product_category_id,product_category
 22,"PC Accessory"
 23,"Portable radio"
 24,"Power tool"
-25,"Printer / scanner"
+25,Printer/scanner
 26,Projector
 27,"Sewing machine"
 28,"Small home electrical"
@@ -33,8 +33,8 @@ product_category_id,product_category
 32,Toy
 33,"TV and gaming-related accessories"
 34,Vacuum
-35,"Watch / clock"
-36,"Coffee Maker"
+35,Watch/clock
+36,"Coffee maker"
 37,"Food processor"
 38,"Games console"
 39,"Hair dryer"

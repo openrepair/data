@@ -14,7 +14,7 @@
               "title": "ID",
               "description": "ORDS unique identifier.",
               "constraints": {
-                  "pattern": "[a-z]+-[0-9]+",
+                  "pattern": "^[a-z]+-[0-9]+$",
                   "unique": "true"
               }
             },
@@ -32,7 +32,7 @@
               "title": "Country",
               "description": "3 char ISO country code.",
               "constraints": {
-                  "pattern": "[A-Z]{3}",
+                  "pattern": "^[A-Z]{3}$",
                   "minimum": "3",
                   "maximum": "3"
               }
@@ -56,7 +56,10 @@
               "type": "integer",
               "format": "default",
               "title": "Product Category ORDS ID",
-              "description": "ORDS-defined product type unique identifier."
+              "description": "ORDS-defined product type unique identifier.",
+              "constraints": {
+                  "pattern": "^[0-9]{1,2}$"
+              }
             },
             {
               "name": "brand",
@@ -73,16 +76,17 @@
               "title": "Year of Manufacture",
               "description": "Product year of manufacture estimate. Optional.",
               "constraints": {
-                  "pattern": "[?0-9]{4}"
+                  "pattern": "^[0-9]{4}$"
               },
               "missingValues": [""]
             },
             {
               "name": "product_age",
-              "type": "integer",
+              "type": "number",
               "format": "default",
               "title": "Product Age",
-              "description": "Product age estimate. Optional."
+              "description": "Product age estimate. Integer or decimal. Optional.",
+              "missingValues": [""]
             },
             {
               "name": "repair_status",
@@ -152,7 +156,7 @@
                 "description": "ORDS-defined product type."
               }
           ],
-          "primaryKey": "id"
+          "primaryKey": "product_category_id"
         },
         "format": "CSV",
         "title": "Open Repair Product Categories v0.3 2021-10"
