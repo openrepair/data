@@ -208,6 +208,22 @@
         "problem": "ging nicht mehr..."
     },
     {
+        "id": "anstiftung_17",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Unknown",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-03-25",
+        "problem": "???"
+    },
+    {
         "id": "anstiftung_18",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -234,6 +250,22 @@
         "year_of_manufacture": "",
         "product_age": "",
         "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-03-25",
+        "problem": "???"
+    },
+    {
+        "id": "anstiftung_20",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
         "repair_barrier_if_end_of_life": "",
         "group_identifier": "5457",
         "event_date": "2017-03-25",
@@ -304,6 +336,22 @@
         "problem": "???"
     },
     {
+        "id": "anstiftung_25",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Unknown",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-04-22",
+        "problem": "???"
+    },
+    {
         "id": "anstiftung_26",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -320,6 +368,38 @@
         "problem": "Tretlager und Schalter defekt"
     },
     {
+        "id": "anstiftung_28",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-04-22",
+        "problem": "kein Strom"
+    },
+    {
+        "id": "anstiftung_29",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-04-22",
+        "problem": "???"
+    },
+    {
         "id": "anstiftung_30",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -330,6 +410,38 @@
         "year_of_manufacture": "",
         "product_age": "",
         "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-04-22",
+        "problem": "???"
+    },
+    {
+        "id": "anstiftung_31",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Unknown",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-04-22",
+        "problem": "???"
+    },
+    {
+        "id": "anstiftung_32",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
         "repair_barrier_if_end_of_life": "",
         "group_identifier": "5457",
         "event_date": "2017-04-22",
@@ -398,6 +510,22 @@
         "group_identifier": "5457",
         "event_date": "2017-05-20",
         "problem": "???"
+    },
+    {
+        "id": "anstiftung_37",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-09-30",
+        "problem": "HDMI-Kabel defekt"
     },
     {
         "id": "anstiftung_39",
@@ -494,6 +622,38 @@
         "group_identifier": "5457",
         "event_date": "2017-09-30",
         "problem": "Ausl\u00f6ser kaputt"
+    },
+    {
+        "id": "anstiftung_45",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-09-30",
+        "problem": "???"
+    },
+    {
+        "id": "anstiftung_46",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-09-30",
+        "problem": "???"
     },
     {
         "id": "anstiftung_47",
@@ -976,6 +1136,22 @@
         "problem": "geht nicht mehr"
     },
     {
+        "id": "anstiftung_89",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2018-06-23",
+        "problem": "geht nicht"
+    },
+    {
         "id": "anstiftung_90",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -1006,6 +1182,22 @@
         "group_identifier": "5457",
         "event_date": "2018-06-23",
         "problem": "defekt"
+    },
+    {
+        "id": "anstiftung_92",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2018-06-23",
+        "problem": "Wackelkontakt"
     },
     {
         "id": "anstiftung_93",
@@ -1152,6 +1344,22 @@
         "problem": "LED leuchtet nicht"
     },
     {
+        "id": "anstiftung_105",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "2016",
+        "product_age": "2",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "9473",
+        "event_date": "2018-07-06",
+        "problem": "Ohne Funktion, MOSFET defekt"
+    },
+    {
         "id": "anstiftung_106",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -1166,6 +1374,22 @@
         "group_identifier": "2983",
         "event_date": "2018-07-08",
         "problem": "Ventilator funktioniert nicht. Kommentar Reparateur: Motor hat Unterbrechung"
+    },
+    {
+        "id": "anstiftung_107",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "2016",
+        "product_age": "2",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2983",
+        "event_date": "2018-07-08",
+        "problem": "Ladeger\u00e4t l\u00e4dt nicht mehr. L\u00f6tstelle wurde nachgel\u00f6tet. Kunde testet zuhause."
     },
     {
         "id": "anstiftung_108",
@@ -1264,6 +1488,22 @@
         "problem": "Einschalter funktioniert nicht. Diagnose: Wackelkontakt im Stecker"
     },
     {
+        "id": "anstiftung_114",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "End of life",
+        "repair_barrier_if_end_of_life": "Lack of equipment",
+        "group_identifier": "2983",
+        "event_date": "2018-07-08",
+        "problem": "Steuerung der Geschwindigkeit defekt. Kommentar Reparateur: Kondensator defekt. Motorlager in Ordnung"
+    },
+    {
         "id": "anstiftung_115",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -1312,6 +1552,22 @@
         "problem": "Aussetzer beim Abspielen Kommentar Reparateur: Linse verschmutzt, CD springt. Kunde testet zuhause."
     },
     {
+        "id": "anstiftung_118",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2983",
+        "event_date": "2018-07-08",
+        "problem": "Stecker ist defekt"
+    },
+    {
         "id": "anstiftung_119",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -1358,6 +1614,22 @@
         "group_identifier": "2983",
         "event_date": "2018-07-08",
         "problem": "r\u00fchrt sich nicht. Reparateur: Lok 1: Achslagerung ausgeschlagen, Kurzschluss. Lok 2: Getriebe gereinigt"
+    },
+    {
+        "id": "anstiftung_122",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "End of life",
+        "repair_barrier_if_end_of_life": "Spare parts not available",
+        "group_identifier": "2983",
+        "event_date": "2018-07-08",
+        "problem": "Zahnrad kaputt Reparateur: Gu\u00dfzahnrad mit fehlenden Z\u00e4hnen nicht reparabel"
     },
     {
         "id": "anstiftung_123",
@@ -1582,6 +1854,22 @@
         "group_identifier": "4726",
         "event_date": "2018-07-17",
         "problem": "Anschluss"
+    },
+    {
+        "id": "anstiftung_141",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "4726",
+        "event_date": "2018-07-17",
+        "problem": "Motor defekt"
     },
     {
         "id": "anstiftung_142",
@@ -2016,6 +2304,22 @@
         "problem": "Ersatzteil soll eingebaut bzw. getauscht werden"
     },
     {
+        "id": "anstiftung_176",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2520",
+        "event_date": "2018-09-08",
+        "problem": "dampft nicht"
+    },
+    {
         "id": "anstiftung_177",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -2046,6 +2350,22 @@
         "group_identifier": "2520",
         "event_date": "2018-09-08",
         "problem": "Antenne besch\u00e4digt"
+    },
+    {
+        "id": "anstiftung_179",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "End of life",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2520",
+        "event_date": "2018-09-08",
+        "problem": "S\u00e4geblatt bewegt sich nicht"
     },
     {
         "id": "anstiftung_180",
@@ -2144,6 +2464,22 @@
         "problem": "ohne Funktion"
     },
     {
+        "id": "anstiftung_186",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "End of life",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2520",
+        "event_date": "2018-09-08",
+        "problem": "sehr laut und quietscht"
+    },
+    {
         "id": "anstiftung_187",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -2238,6 +2574,22 @@
         "group_identifier": "2520",
         "event_date": "2018-09-08",
         "problem": "Kabelaufwicklung funktioniert nicht"
+    },
+    {
+        "id": "anstiftung_193",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Merlin",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "End of life",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2520",
+        "event_date": "2018-09-08",
+        "problem": "Sicherung fliegt immer raus..."
     },
     {
         "id": "anstiftung_194",
@@ -2496,6 +2848,22 @@
         "problem": "Platine korrodiert"
     },
     {
+        "id": "anstiftung_226",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2520",
+        "event_date": "2018-09-22",
+        "problem": "elektrische \u00dcberpr\u00fcfung"
+    },
+    {
         "id": "anstiftung_227",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -2512,6 +2880,22 @@
         "problem": "Motor defekt?"
     },
     {
+        "id": "anstiftung_228",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "End of life",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2520",
+        "event_date": "2018-09-22",
+        "problem": "ohne Funktion"
+    },
+    {
         "id": "anstiftung_229",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -2526,6 +2910,22 @@
         "group_identifier": "2520",
         "event_date": "2018-09-22",
         "problem": "Beim einschalten fliegt Sicherung raus"
+    },
+    {
+        "id": "anstiftung_230",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Hit Company",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "End of life",
+        "repair_barrier_if_end_of_life": "Spare parts not available",
+        "group_identifier": "2520",
+        "event_date": "2018-09-22",
+        "problem": "ohne Funktion"
     },
     {
         "id": "anstiftung_231",
@@ -2606,6 +3006,22 @@
         "group_identifier": "2520",
         "event_date": "2018-09-22",
         "problem": "L\u00fcfter lose?"
+    },
+    {
+        "id": "anstiftung_236",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Bosch",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2520",
+        "event_date": "2018-09-22",
+        "problem": "Motor l\u00e4uft nicht"
     },
     {
         "id": "anstiftung_238",
@@ -2734,6 +3150,22 @@
         "group_identifier": "2520",
         "event_date": "2018-09-22",
         "problem": "schaltet nicht mehr ab"
+    },
+    {
+        "id": "anstiftung_249",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2018-09-29",
+        "problem": "Motor l\u00e4uft, Fl\u00fcgel drehen sich nicht und lassen sich nicht in Stufen schalten."
     },
     {
         "id": "anstiftung_250",
@@ -2928,6 +3360,22 @@
         "problem": "neuer Schalter?"
     },
     {
+        "id": "anstiftung_262",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Unknown",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-10-21",
+        "problem": "geht nicht mehr"
+    },
+    {
         "id": "anstiftung_264",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -3072,6 +3520,22 @@
         "problem": "Kabel defekt?"
     },
     {
+        "id": "anstiftung_273",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-11-18",
+        "problem": "Schalter defekt"
+    },
+    {
         "id": "anstiftung_274",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -3094,6 +3558,22 @@
         "partner_product_category": "Haushaltsger\u00e4te ~ Entsafter",
         "product_category": "Food processor",
         "product_category_id": "37",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2017-11-18",
+        "problem": "kaputt"
+    },
+    {
+        "id": "anstiftung_276",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
         "brand": "Unknown",
         "year_of_manufacture": "",
         "product_age": "",
@@ -3146,6 +3626,22 @@
         "year_of_manufacture": "",
         "product_age": "",
         "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2018-01-27",
+        "problem": "defekt"
+    },
+    {
+        "id": "anstiftung_282",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
         "repair_barrier_if_end_of_life": "",
         "group_identifier": "5457",
         "event_date": "2018-01-27",
@@ -3214,6 +3710,22 @@
         "group_identifier": "5457",
         "event_date": "2018-04-21",
         "problem": "defekt"
+    },
+    {
+        "id": "anstiftung_287",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2018-04-21",
+        "problem": "Schalter?!"
     },
     {
         "id": "anstiftung_288",
@@ -3374,6 +3886,22 @@
         "group_identifier": "3595",
         "event_date": "2018-09-27",
         "problem": "Spule klemmt"
+    },
+    {
+        "id": "anstiftung_299",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "2006",
+        "product_age": "12",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2018-10-20",
+        "problem": "Die Taste zum \u00d6ffnen der Wagent\u00fcren funktionierten bei beiden Chipkarten nicht mehr."
     },
     {
         "id": "anstiftung_300",
@@ -4576,6 +5104,22 @@
         "problem": "defekt"
     },
     {
+        "id": "anstiftung_391",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Bosch",
+        "year_of_manufacture": "2015",
+        "product_age": "3",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2018-11-17",
+        "problem": "defekt"
+    },
+    {
         "id": "anstiftung_392",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -4672,6 +5216,22 @@
         "problem": "Tickt nicht mehr"
     },
     {
+        "id": "anstiftung_398",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Philips",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Unknown",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2018-11-17",
+        "problem": "Papiereinzug funktioniert nicht"
+    },
+    {
         "id": "anstiftung_399",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -4702,6 +5262,22 @@
         "group_identifier": "5457",
         "event_date": "2018-11-17",
         "problem": "funktioniert nicht"
+    },
+    {
+        "id": "anstiftung_401",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Grundig",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "End of life",
+        "repair_barrier_if_end_of_life": "Spare parts not available",
+        "group_identifier": "5457",
+        "event_date": "2018-11-17",
+        "problem": "funktionier6t nicht mehr"
     },
     {
         "id": "anstiftung_402",
@@ -4766,6 +5342,22 @@
         "group_identifier": "2983",
         "event_date": "2017-11-18",
         "problem": "Deckelscharnier abgebrochen. Besucherin geht ins HEi. In der Metallwerkstatt wird der Deckel nach Bohren mit Schrauben befestigt."
+    },
+    {
+        "id": "anstiftung_407",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "DeLonghi",
+        "year_of_manufacture": "2014",
+        "product_age": "3",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2983",
+        "event_date": "2017-11-18",
+        "problem": "Kondenswasser sammelt sich unten. Beratung hat weitergeholfen."
     },
     {
         "id": "anstiftung_408",
@@ -4910,6 +5502,22 @@
         "group_identifier": "2983",
         "event_date": "2017-11-18",
         "problem": "CD Drive Motor dreht nicht"
+    },
+    {
+        "id": "anstiftung_418",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "2015",
+        "product_age": "2",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2983",
+        "event_date": "2017-11-18",
+        "problem": "Schalter ist abgebrochen. Zuk\u00fcnftig \u00fcber Steckdose ein- und ausschalten."
     },
     {
         "id": "anstiftung_419",
@@ -5504,6 +6112,22 @@
         "problem": "defekt"
     },
     {
+        "id": "anstiftung_459",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "iPoint",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2711",
+        "event_date": "2018-11-27",
+        "problem": "Motor l\u00e4uft nicht mehr, Getrieber\u00e4dchen abgebrochen"
+    },
+    {
         "id": "anstiftung_460",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -5824,6 +6448,22 @@
         "problem": "Bohrfutter"
     },
     {
+        "id": "anstiftung_480",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2711",
+        "event_date": "2018-12-11",
+        "problem": "Akku"
+    },
+    {
         "id": "anstiftung_481",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -5886,6 +6526,22 @@
         "group_identifier": "2711",
         "event_date": "2018-11-22",
         "problem": "Knarren beim n\u00e4hen"
+    },
+    {
+        "id": "anstiftung_491",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "2018",
+        "product_age": "0",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2711",
+        "event_date": "2018-11-27",
+        "problem": "Funkenflug"
     },
     {
         "id": "anstiftung_492",
@@ -6126,6 +6782,22 @@
         "group_identifier": "2711",
         "event_date": "2018-12-04",
         "problem": "Zahnrad abgebrochen Zeit reichte nicht aus"
+    },
+    {
+        "id": "anstiftung_516",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "2008",
+        "product_age": "10",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2711",
+        "event_date": "2018-12-04",
+        "problem": "Kontaktfehler"
     },
     {
         "id": "anstiftung_517",
@@ -6382,6 +7054,22 @@
         "group_identifier": "2711",
         "event_date": "2018-12-12",
         "problem": "neues Kabel"
+    },
+    {
+        "id": "anstiftung_537",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2711",
+        "event_date": "2018-12-12",
+        "problem": "Kunstprojekt, Zeichenmaschine neu gebaut aus alten Teilen"
     },
     {
         "id": "anstiftung_538",
@@ -8160,6 +8848,22 @@
         "problem": "ohne Funktion"
     },
     {
+        "id": "anstiftung_674",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2019-01-26",
+        "problem": "leuchtet nicht mehr - Schalter \/ Kabel defekt"
+    },
+    {
         "id": "anstiftung_675",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -8430,6 +9134,22 @@
         "group_identifier": "2711",
         "event_date": "2019-01-29",
         "problem": "T\u00fcrschalter defekt Mechanische Erm\u00fcdung des T\u00fcr-Kontakt-Schalters"
+    },
+    {
+        "id": "anstiftung_692",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Samson",
+        "year_of_manufacture": "2013",
+        "product_age": "6",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "2711",
+        "event_date": "2019-01-29",
+        "problem": "Aktiver Lautsprecher funktioniert mal, mal nicht"
     },
     {
         "id": "anstiftung_693",
@@ -15280,6 +16000,22 @@
         "problem": "kaputt. Durchgebrannt."
     },
     {
+        "id": "anstiftung_1245",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Unknown",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "15886",
+        "event_date": "2018-10-20",
+        "problem": "defekt"
+    },
+    {
         "id": "anstiftung_1246",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -17070,6 +17806,22 @@
         "group_identifier": "5457",
         "event_date": "2019-05-18",
         "problem": "n\u00e4ht nicht"
+    },
+    {
+        "id": "anstiftung_1440",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5457",
+        "event_date": "2019-05-18",
+        "problem": "geht nicht mehr - Akku?"
     },
     {
         "id": "anstiftung_1441",
@@ -24032,6 +24784,22 @@
         "problem": "Grill funktioniert, Mikrowellenfunktion nicht - Teller drehte sich, die Zeituhr lief und die Garraumbeleuchtung wurde eingeschaltet. In der Zuleitung vom Transformator fanden wir eine durchgebrannte Hochspannungssicherung, die Abdeckung vom Mikrowellen-Hohlleiter war auch ziemlich mit Fett zugesetzt. Beides wird versorgt"
     },
     {
+        "id": "anstiftung_1905",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Unknown",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "3389",
+        "event_date": "2017-01-12",
+        "problem": "Sie l\u00f6ste aus, ohne dass jemand am Gartentor geklingelt hat. Ein Austauschger\u00e4t zeigte das Verhalten nicht. Leider konnten wir die Elektronik nur in Augenschein nehmen und keinen Fehler finden, da uns die Schaltungsunterlagen und entsprechende Messtechnik fehlten. Erkl\u00e4rbar ist das Ph\u00e4nomen mit St\u00f6reinwirkungen durch andere Funkfernbedienungen f\u00fcr Auto oder Garage, aber reparieren konnten wir da leider nichts."
+    },
+    {
         "id": "anstiftung_1906",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -24352,6 +25120,22 @@
         "problem": "Heizelement durchgebrannt; kein Ersatz zu finden"
     },
     {
+        "id": "anstiftung_1928",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "3389",
+        "event_date": "2016-11-10",
+        "problem": "Es wurde nicht mehr hei\u00df, denn die Heizung war kaputt. Beim Auseinandernehmen stellten wir fest, dass sich der Anschlussdraht einer Heizwendel gel\u00f6st und so den Stromkreis unterbrochen hatte. Nachdem der Draht wieder neu angeschlossen war, heizte das Ger\u00e4t wieder ordentlich und auch die Bereitschaftsanzeige leuchtete wieder."
+    },
+    {
         "id": "anstiftung_1929",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -24366,6 +25150,22 @@
         "group_identifier": "3389",
         "event_date": "2016-11-10",
         "problem": "der Blitz hatte in die Basisstation eingeschlagen (fachm\u00e4nnischer gesagt: die \u00fcberh\u00f6hte Netzspannung hatte zu Sch\u00e4den gef\u00fchrt). Wir sahen uns das Netzteil und die Basisstation von innen an und mussten einen Totalschaden verzeichnen. Diverse Bauelemente waren explodiert und Leiterz\u00fcge weggebrannt. Das muss ein ordentliches Feuerwerk gegeben haben."
+    },
+    {
+        "id": "anstiftung_1930",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "3389",
+        "event_date": "2016-11-10",
+        "problem": "heizte sich nicht mehr richtig auf und zeigte \u201eError\u201c an. Wir vermuteten einen Kabelbruch am Schaft und bauten den Kolben auseinander. Es zeigte sich aber dann, dass eine Klemmverbindung des Kabels am Temperatursensor locker war. Nachdem die Verbindung erneuert war, funktionierte das Ger\u00e4t wieder einwandfrei."
     },
     {
         "id": "anstiftung_1931",
@@ -25936,6 +26736,22 @@
         "problem": "Pufferbatterie ersch\u00f6pft. Hilfe beim Aufschrauben und Hinweis auf Bezugsquellen f\u00fcr den Akku.  Einbau durch besitzer selbst."
     },
     {
+        "id": "anstiftung_2033",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5073",
+        "event_date": "2018-12-06",
+        "problem": "Wie ein Tennisschl\u00e4ger geformt und soll Fluginsekten durch eine zwischen zwei Metallgittern anliegende Hochspannung zur Strecke bringen. Batterie sollte getauscht werden.  Nach dem Zerlegen stellten wir fest, dass es sich um einen eingebauten Akku handelte, der offenbar auch defekt war. Ohne Aufdruck jedoch fiel die Identifikation ziemlich schwer. Unsere Recherchen mussten wir dann allerdings abbrechen, da der Gast wieder weg musste. Er will damit aber zu einem anderen Termin noch einmal wiederkommen."
+    },
+    {
         "id": "anstiftung_2034",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -26350,6 +27166,22 @@
         "group_identifier": "3389",
         "event_date": "2016-05-12",
         "problem": "funktionierte nicht mehr richtig und fing nach kurzer Zeit zu stinken an. Wir zerlegten das Teil und stellten fest, dass das obere Motorenlager festgerostet war und sich das Lager im Plastikgeh\u00e4use drehte. Dadurch lief der Motor nicht mehr rund und das Plastik schmorte. Wenn sie beim n\u00e4chstem Mal mit einem neuen Lager oder Motor kommt, k\u00f6nnen wir das defekte Teil ersetzen."
+    },
+    {
+        "id": "anstiftung_2064",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "3389",
+        "event_date": "2016-05-12",
+        "problem": "Er hatte Bildschirmfehler. Es konnten Kontaktprobleme zwischen Display und Hauptplatine festgestellt werden. Einfache, kurzzeitige Abhilfe brachte das gef\u00fchlvolle Zusammendr\u00fccken der Verbindungskabel. Ob der Fehler dauerhaft behebbar ist, muss zu einem der n\u00e4chsten RepairCaf\u00e9s ausgekundschaftet werden."
     },
     {
         "id": "anstiftung_2065",
@@ -27296,6 +28128,22 @@
         "problem": "Fortsetzung von 9\/15: Wir konnten das mitgebrachte Ersatzteil einsetzen und die Drehzahl l\u00e4sst sich nun wieder in drei Stufen einstellen."
     },
     {
+        "id": "anstiftung_2128",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "3389",
+        "event_date": "2016-01-14",
+        "problem": "Die abgefallenen Anschlussdr\u00e4hte zweier elektronischer Baugruppen konnten wir wieder anbringen und sie werden dem Besitzer in Zukunft gute Dienste leisten."
+    },
+    {
         "id": "anstiftung_2129",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -27536,6 +28384,22 @@
         "problem": "Es funktionierte die mobile Internetverbindung nicht mehr, aber leider konnte wir das nicht testen, da der Surf-Stick nicht vorhanden war. Wir testeten die Internetverbindung \u00fcber WLAN - die funktionierte. Dann erkl\u00e4rten wir die Verwendung der einzelnen Komponenten und gaben auch ein paar Tipps mit auf den Weg. Wenn das Problem weiterhin besteht, soll die Besitzerin das n\u00e4chste Mal noch einmal mit allen Teilen vorbeikommen."
     },
     {
+        "id": "anstiftung_2146",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Unknown",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "3389",
+        "event_date": "2015-10-08",
+        "problem": "Laminierger\u00e4t wurde untersucht, weil es angeblich nicht warm wurde. Ein Test zeigte aber, dass es problemlos funktionierte. Wir haben es zerlegt und nach offensichtlichen Fehlern gesucht, doch nichts gefunden. Es muss weiterhin beobachtete werden. Momentan gehen wir eher von einem Bedienfehler aus."
+    },
+    {
         "id": "anstiftung_2147",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -27550,6 +28414,22 @@
         "group_identifier": "3389",
         "event_date": "2015-10-08",
         "problem": "Es war keine Sendereinstellung mehr m\u00f6glich. Nach eingehender Untersuchung haben wir eine gebrochene Lagerung der Welle am Drehkondensator ausmachen k\u00f6nnen. Das l\u00e4sst sich leider nicht reparieren, aber mit einem Ersatzteil k\u00f6nnen wir das Radio beim n\u00e4chsten Mal wiederbeleben."
+    },
+    {
+        "id": "anstiftung_2148",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "3389",
+        "event_date": "2015-10-08",
+        "problem": "Fortsetzung vom letzten Mal:  Das Geh\u00e4use haben wir zugeklebt und nun ist es wieder komplett."
     },
     {
         "id": "anstiftung_2149",
@@ -27616,6 +28496,22 @@
         "problem": "Er wurde etwas aufgearbeitet. Wir s\u00e4uberten ihn und machten einen klemmenden Schalter wieder g\u00e4ngig. Die Funktionskontrolle war leider wegen eines fehlenden Hei\u00dfger\u00e4tekabels nicht m\u00f6glich. Aber wir sind zuversichtlich, dass diese robuste Technik noch funktioniert."
     },
     {
+        "id": "anstiftung_2153",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "3389",
+        "event_date": "2015-09-10",
+        "problem": "Es war das Anschlusskabel gebrochen und wurde neu angel\u00f6tet."
+    },
+    {
         "id": "anstiftung_2154",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -27646,6 +28542,22 @@
         "group_identifier": "3389",
         "event_date": "2015-09-10",
         "problem": "Es fehlte der Batteriefachdeckel. Diesen bauten wir aus Alu-Blech nach und so kann diese wieder genutzt werden."
+    },
+    {
+        "id": "anstiftung_2156",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "3389",
+        "event_date": "2015-09-10",
+        "problem": "Die Fehlersuche an dem Ger\u00e4t, dass sich nur noch langsam drehte, gestaltete sich sehr schwierig, weil nicht zu erkennen war, wie man es zerst\u00f6rungsfrei \u00f6ffnen kann. Nach langem erfolglosen Suchen nach Verrieglungen oder versteckten Mechanismen haben wir uns f\u00fcr die \u201eAufklopf-Methode\u201c entschieden, bei der vorsichtig entlang von sichtbaren oder vermuteten Klebekanten mit dem Hammer geklopft wird. Und siehe da, das Ger\u00e4t \u00f6ffnete sich! Die Ger\u00e4teteile waren tats\u00e4chlich verklebt worden. Den Konstrukteuren sollte man die Ohren lang ziehen f\u00fcr diese gewollte Unreparierbarkeit! Aber wir haben ihnen wieder einmal ein Schnippchen geschlagen. :-D Reparieren werden wir das Ger\u00e4t das n\u00e4chste Mal, denn die Zeit war leider um."
     },
     {
         "id": "anstiftung_2157",
@@ -28176,6 +29088,22 @@
         "problem": "Der Besucherin arbeitete das Laptop zu langsam. Wir gaben ihr Tipps, wie sie dem Notebook wieder auf die Spr\u00fcnge helfen kann, nahmen einige Konfigurationen im Browser vor und empfahlen f\u00fcr die Zukunft ein aktuelleres Betriebssystem."
     },
     {
+        "id": "anstiftung_2192",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Unknown",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5073",
+        "event_date": "2017-12-07",
+        "problem": "Es tat sich nichts mehr, nachdem der Besitzer die Versorgungsspannung verpolt hatte. Wir pr\u00fcften die Funktion der Schutzdioden und verschiedener Schalttransistoren, konnten aber keinerlei Fehler entdecken. Im ausgebauten Zustand und ohne Schaltplan lie\u00df sich die Baugruppe zudem nicht eingehender testen, sodass wir hier leider nicht helfen konnten."
+    },
+    {
         "id": "anstiftung_2194",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -28462,6 +29390,22 @@
         "group_identifier": "5073",
         "event_date": "2017-11-16",
         "problem": "Es war der Ton sehr leise. Nach den Recherchen des Besitzers m\u00fcssen dazu ein paar SMD-Elkos ausgewechselt werden, die wir schon besorgt hatten. Leider war dazu aber dann doch die Zeit zu knapp, sodass wir nur drei St\u00fcck wechseln konnten. Hier geht es das n\u00e4chste Mal weiter."
+    },
+    {
+        "id": "anstiftung_2212",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5073",
+        "event_date": "2017-11-02",
+        "problem": "Gast ben\u00f6tigte Hilfe beim Bau eines Adapterkabels. Da das Originalnetzteil zu wenig Strom lieferte, hatte er ein neues mit allerdings anderem Ausgangs-Steckverbinder besorgt und wollte f\u00fcr dieses nun ein passendes Anschlusskabel basteln. Die Bauteile daf\u00fcr hatte er bereits dabei und so zeigten wir ihm, wie die Kontaktschuhe mit dem Kabel gecrimpt, d.h. ganz ohne L\u00f6ten miteinander verpresst werden k\u00f6nnen."
     },
     {
         "id": "anstiftung_2213",
@@ -28960,6 +29904,22 @@
         "problem": "CDs wurden nicht mehr erkannt. Wir reinigten die Laseroptik, aber auch danach setzte die CD-Wiedergabe noch sporadisch aus und sprang h\u00e4ufig zwischen den Titeln. Eine eingehendere Untersuchung des Fehlers war uns an diesem Abend aus Zeitgr\u00fcnden dann leider nicht mehr m\u00f6glich. Eventuell l\u00e4sst sich aber bis zu einem der kommenden Termine etwas mehr \u00fcber das Laser-Pickup in Erfahrung bringen und ein Abgleich der Steuerelektronik durchf\u00fchren."
     },
     {
+        "id": "anstiftung_2246",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5073",
+        "event_date": "2017-09-26",
+        "problem": "Als Ersatz f\u00fcr ein defektes Netzteil wurde ein gleichartiges mit identischer Ausgangsspannung und Leistung, aber anderem Stecker beschafft. Hier bedurfte es nun nur noch einiger Handgriffe und L\u00f6tarbeit, um das neue Netzteil mit dem alten Stecker f\u00fcr das zugeh\u00f6rige Ger\u00e4t zu versehen."
+    },
+    {
         "id": "anstiftung_2247",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -29022,6 +29982,22 @@
         "group_identifier": "5073",
         "event_date": "2017-09-21",
         "problem": "Er wollte einfach nicht angehen. Trotz zweist\u00fcndiger Fehlersuche konnte der Fehler nicht gefunden werden. Aus irgendeinem unerfindlichen Grund wurde der Einschaltimpuls nicht erzeugt."
+    },
+    {
+        "id": "anstiftung_2251",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5073",
+        "event_date": "2017-09-21",
+        "problem": "Das Schaltnetzteil erzeugte keine Spannung mehr. Wir haben dem Besitzer im Internet ein neues rausgesucht, das er nun besorgen will. An dieses werden wir beim n\u00e4chsten Mal den Stecker vom alten Netzteil anl\u00f6ten."
     },
     {
         "id": "anstiftung_2252",
@@ -29248,6 +30224,22 @@
         "problem": "Funktionierte nicht mehr. Wir fanden einen defekten Regelungsschaltkreis im integrierten Netzteil. Ersatzteil n\u00f6tig."
     },
     {
+        "id": "anstiftung_2267",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Repairable",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5073",
+        "event_date": "2017-09-07",
+        "problem": "Aus einer defekten Waschmaschine ausgebaut. Wir haben eine zerst\u00f6rte Leiterbahn und einen defekten Triac gefunden. Die Leiterbahn konnte repariert werden, f\u00fcr den Triac wird ein Ersatz beschafft."
+    },
+    {
         "id": "anstiftung_2268",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -29390,6 +30382,22 @@
         "group_identifier": "5073",
         "event_date": "2017-08-22",
         "problem": "Ein Deckel blieb nicht geschlossen und ging immer wieder auf. Die Ursache war eine gebrochene Feder, die wir allerdings aufgrund fehlender Ersatzteile nicht reparieren konnten. Die Besitzerin will eine neue Feder besorgen."
+    },
+    {
+        "id": "anstiftung_2277",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5073",
+        "event_date": "2017-08-22",
+        "problem": "Es funktionierte nicht mehr. Beim angeschlossenen Netzteil war die Zugentlastung defekt. Das Kabel erlitt daraufhin einen Bruch. Mithilfe unseres Werkzeugs konnte die Besitzerin das selbst\u00e4ndig reparieren."
     },
     {
         "id": "anstiftung_2278",
@@ -31408,6 +32416,22 @@
         "problem": "Er funktionierte nicht mehr, der Motor blieb beharrlich stehen. Nach dem Zerlegen stellten wir eine defekte Thermosicherung fest. Diese tauschten wir aus, aber der Motor drehte sich immer noch etwas schwerg\u00e4ngig. Entweder war dies die Ursache f\u00fcr die ausgel\u00f6ste Sicherung oder eine zu intensive Benutzung. Der Besitzer wird das Ger\u00e4t unter Beobachtung weiterbetreiben und bei Bedarf wiederkommen."
     },
     {
+        "id": "anstiftung_2407",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5073",
+        "event_date": "2017-01-05",
+        "problem": "Bei dem waren ein paar Bauelemente zu wechseln. Wir leisteten Hilfe beim L\u00f6ten und tauschten die Teile gemeinsam aus."
+    },
+    {
         "id": "anstiftung_2408",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -32656,6 +33680,22 @@
         "problem": "Es zeigte das Display nichts mehr an. Der Besitzer vermutete einen Defekt der Anzeige oder Kontaktschwierigkeiten. Leider konnten wir das Ger\u00e4t nicht vollst\u00e4ndig zerlegen und fanden auch keinen Fehler. Zwischendurch ging es sogar einmal kurz an. Vielleicht handelt es sich auch um ein L\u00f6tproblem, bei dem sich nach einiger Zeit die Bauteile von der Leiterplatte l\u00f6sen. Wir k\u00f6nnen da leider nicht weiterhelfen, da sollten besser Profis ran."
     },
     {
+        "id": "anstiftung_2487",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5073",
+        "event_date": "2016-07-21",
+        "problem": "Ein Besucher brachte zwei Festplatten-Leiterplatten. Ein kleiner BIOS-Chip von der einen sollte auf die andere umgel\u00f6tet werden. Mit dem richtigen Werkzeug und kompetenter Hilfe war das kein Problem."
+    },
+    {
         "id": "anstiftung_2488",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -33152,6 +34192,22 @@
         "problem": "Funktionierte nicht mehr zuverl\u00e4ssig. Wir stellten einen Kabelbruch fest, haben ihn zerlegt und das Kabel wieder neu angeschlossen. Nun sorgt er wieder f\u00fcr viel hei\u00dfe Luft."
     },
     {
+        "id": "anstiftung_2520",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "Fixed",
+        "repair_barrier_if_end_of_life": "",
+        "group_identifier": "5073",
+        "event_date": "2016-04-07",
+        "problem": "Funktionierte nicht mehr zuverl\u00e4ssig. Neu sollte das Pedal ca. 300\u20ac kosten! Auch hier haben wir gemeinsam das Kabel neu am Stecker angel\u00f6tet."
+    },
+    {
         "id": "anstiftung_2521",
         "data_provider": "anstiftung",
         "country": "DEU",
@@ -33182,6 +34238,22 @@
         "group_identifier": "5073",
         "event_date": "2016-04-07",
         "problem": "Zeigte keine Regung mehr. Nach dem \u00d6ffnen stellten wir fest, dass die Sekund\u00e4r-Sicherung durchgebrannt war. Den Grund der defekten Sicherung fanden wir auch schnell. Eine Halteschraube der Leiterplatte war weg und so lagen Leiterz\u00fcge auf dem Metall-Chassis auf. Wir befestigten die Leiterplatte wieder und ersetzten die Sicherung, nun dreht der Plattenspieler."
+    },
+    {
+        "id": "anstiftung_2523",
+        "data_provider": "anstiftung",
+        "country": "DEU",
+        "partner_product_category": "Elektro Sonstiges ~ Sonstiges",
+        "product_category": "Misc",
+        "product_category_id": "18",
+        "brand": "Unknown",
+        "year_of_manufacture": "",
+        "product_age": "",
+        "repair_status": "End of life",
+        "repair_barrier_if_end_of_life": "Spare parts not available",
+        "group_identifier": "5073",
+        "event_date": "2016-04-07",
+        "problem": "Wurde nicht mehr warm. Wir stellten eine defekte Heizung fest, die leider nicht reparabel war."
     },
     {
         "id": "anstiftung_2524",
