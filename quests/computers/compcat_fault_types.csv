@@ -1,0 +1,21 @@
+ID,Title,Description
+1,Boot,"Computer has issue during bootstrap phase, before loading OS"
+2,Case/chassis,"Damage to outer shell, broken hinge etc."
+3,Configuration,"BIOS, drivers, OS settings, other software settings"
+4,Integrated keyboard,"Can be physical or software related issues; for liquid damage see ""Internal damage"""
+5,Integrated pointing device,"Trackpad, touch bar etc.; for stylus use PC Accessory category"
+6,Integrated media component,"Physical or software related issues with built-in camera, microphone, speakers etc."
+7,Integrated screen,Can be physical or software related issues
+8,Internal damage,"Internal components affected by liquids, impact etc."
+9,Integrated optical drive,CD/DVD
+10,Internal storage,Can be physical or software related issues
+11,Multiple,Please select a main fault type rather than Multiple wherever possible
+12,Operating system,"Issues caused by the OS e.g. not updating, bad updatee etc."
+13,Other,A recognisable fault that does not fall into one of the listed fault types
+14,Overheating,Usually a hardware issue due to dirt and/or faulty fans
+15,Performance,Computer works but software is slow or crashes frequently
+16,Ports/slots/connectors,"SD/SC card slot, headphone/power jack..."
+17,Power/battery,"Device does not power on, battery no longer charging etc."
+18,System board,"Motherboard, memory, cards (gfx, audio…), CPU etc."
+19,Unknown,The fault cannot be determined
+20,Virus/malware,Issues due to the presence of malignant software or firmware
