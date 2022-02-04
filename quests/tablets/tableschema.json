@@ -158,7 +158,6 @@
       "title": "List of fault types for quest TabiCat"
     }
   ],
-  "name": "tabicat.csv",
   "title": "Results of Open Repair Data quest TabiCat",
   "description": "Dataset of tablet repair records from the Open Repair Alliance in ORDS format style with added `fault_type` values. ",
   "homepage": "https://openrepair.org/open-data/insights/tablets",

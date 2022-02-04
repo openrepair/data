@@ -1,0 +1,584 @@
+id_ords,data_provider,country,fault_type_id,fault_type,product_category,brand,repair_status,year_of_manufacture,event_date,problem
+anstiftung_1530,anstiftung,DEU,18,System board,Desktop computer,Unknown,Unknown,,2019-05-25,Bauelement auf Platine
+anstiftung_1762,anstiftung,DEU,18,System board,Desktop computer,HP,Repairable,2004,2019-05-25,Rechner läuft nicht mehr an. Power-LED pulsiert nur schwach.Ursache: Elkos auf dem Mainboard sind ausgelaufen.
+anstiftung_1875,anstiftung,DEU,18,System board,Desktop computer,Commodore,Repairable,,2018-11-15,"Die Ersatzteile für den Amiga 600 waren besorgt. Insgesamt wurden 15 SMD-Elkos und vier Becher-Elkos auf der Hauptplatine gewechselt.Einen Test konnte er dann erst zu Hause durchführen. Leider gibt es nur einen Teilerfolg: der Computer bootet immer noch nicht, es wird aber jetzt immerhin ein Videosignal ausgegeben. Er will sich im Kollegenkreis noch einmal umhören, ob da noch jemand eine Idee hat."
+anstiftung_1902,anstiftung,DEU,18,System board,Desktop computer,Commodore,Repairable,,2018-11-01,"Der Heimcomputer ließ sich partout nicht mehr einschalten. Wir diagnostizierten zahlreiche ausgetrocknete Elektrolytkondensatoren, für die der Gast nun Ersatz besorgt, bevor es dann beim nächsten Mal an den Austausch gehen kann."
+anstiftung_2069,anstiftung,DEU,17,Power/battery,Desktop computer,Unknown,Fixed,,2016-04-23,"funktionierte nicht mehr und roch sehr streng, wenn man versuchte, ihn zu starten. Wir stellten ein defektes Netzteil fest und konnten im Elektroschrottcontainer ein funktionierendes finden und einbauen. Der Stecker musste noch etwas angepasst werden, weil das Netzteil deutlich neuer war als der Rechner, aber das klappte."
+anstiftung_217,anstiftung,DEU,2,Case/chassis,Desktop computer,Medion,Fixed,,2018-09-22,Powerschalter defekt
+anstiftung_22,anstiftung,DEU,19,Unknown,Desktop computer,Unknown,Fixed,,2017-03-25,???
+anstiftung_2216,anstiftung,DEU,10,Internal storage,Desktop computer,Commodore,Fixed,,2017-11-02,"Funktionierte nicht mehr zuverlässig und zeigte nur noch Fehlermeldungen an.Der angezeigte Fehlercode führte zu einem defekten RAM-Speicherbaustein, der schließlich ausgelötet und gegen einen neuen getauscht wurde. Des Weiteren war es auf der Platine stellenweise zu einer Ablösung der Kupferschicht gekommen, weshalb auch einige delaminierte Leiterzüge ausgebessert werden mussten."
+anstiftung_2243,anstiftung,DEU,7,Integrated screen,Desktop computer,Unknown,Fixed,,2017-09-26,"Er verweigerte angeblich seinen Dienst. Der Nutzer berichtete zudem von Problemen mit dem Monitor, dessen Bildschirm - wohl aufgrund einer kaputten Hintergrundbeleuchtung - dunkel blieb. Er hatte daher gleich einen neuen im Gepäck, mit dem der Rechner jedoch tadellos funktionierte, sodass wir vor Ort lediglich einige Tests durchführten und Leistungsoptimierungen vornahmen, um den PC etwas flotter zu machen."
+anstiftung_2280,anstiftung,DEU,8,Internal damage,Desktop computer,Zotac,Fixed,,2017-08-22,Es war der CPU-Lüfter defekt. Ein neuer wurde bereits mitgebracht. Allerdings waren die Anschlussleitungen des neuen Lüfters ein wenig zu kurz. Der Lötkolben war noch warm und die Leitung des neuen Lüfters wurde mit der alten Anschlussleitung verlängert.
+anstiftung_2285,anstiftung,DEU,1,Boot,Desktop computer,Unknown,Fixed,,2017-08-17,"PC seiner Tochter mit, der immer abstürzte und jedes Mal unterschiedliche Fehler im Bluescreen anzeigte. Da der Rechner auch schon bei der vorher versuchten Neuinstallation von Windows abstürzte, wurden die Einstellungen im BIOS genauer unter die Lupe genommen. Nach der Deaktivierung einiger Funktionen lief der Rechner wieder und hat auch die Belastungstests – Prozessor- und Speicherauslastung – bestanden."
+anstiftung_2388,anstiftung,DEU,17,Power/battery,Desktop computer,Unknown,Fixed,,2017-02-16,"PC ließ sich nicht einschalten.Er hatte einen kaputten Einschaltknopf, der aber nur herausgefallen war und eigentlich noch funktionierte. Als wirkliche Fehlerquelle ließ sich das Netzteil ausmachen, welches durch ein gebrauchtes Ersatzteil ersetzt wurde (nachdem noch der Lüfter darin ausgetauscht wurde)."
+anstiftung_2925,anstiftung,DEU,15,Performance,Desktop computer,Terra,Fixed,2010,2019-06-13,"Ausgemustert, läuft zu langsam.Wir haben ihn gereinigt und mehr RAM eingebaut. Damit kann er wieder mithalten."
+anstiftung_3062,anstiftung,DEU,15,Performance,Desktop computer,MSI,Unknown,2009,2019-06-19,"Der kleine PC, schon ein bisschen in die Jahre gekommen, lief sehr langsam.Es dauerte über 15 min, bis er dann mal seinen Desktop zeigte. Nach der Entfernung des Virenscanners wurde es dann schon besser. Von der Ausrüstung war er auch ganz schön schwach auf der Brust. Der Besitzer überlegt, ob er ihn für seinen Kinder neu installiert bzw. überhaupt weiterverwenden wird."
+anstiftung_3078,anstiftung,DEU,18,System board,Desktop computer,Firefly,Unknown,2017,2019-06-25,"Einer unsere Helfer hatte für den Tausch eines BGA-Flash-Speichers eine Heißluftlötstation mitgebracht. Der Besitzer hatte die Vermutung, dass sein Mini-PC-Board einen neuen Speicherchip brauchte. Da solch ein Wechsel nicht so einfach ist, waren wir alle gespannt, ob die Operation gelingen würde. Am Ende wurde der neue Chip zwar vom System erkannt, zeigte jedoch 0 GB Speicherkapazität an. Wir vermuten einen weiteren Fehler am Speichercontroller. Der Gast überlegt nun in Ruhe wie er weiter machen möchte."
+anstiftung_3141,anstiftung,DEU,17,Power/battery,Desktop computer,Unknown,Repairable,,2019-05-21,Netzteil defekt
+anstiftung_3159,anstiftung,DEU,17,Power/battery,Desktop computer,Unknown,Repairable,,2019-05-29,Netzteil kaputtNoch in Arbeit
+anstiftung_3207,anstiftung,DEU,19,Unknown,Desktop computer,Apple,Unknown,2009,2019-07-07,"nicht genau gefunden,er fährt immer runter"
+anstiftung_3380,anstiftung,DEU,10,Internal storage,Desktop computer,HP,Fixed,,2019-08-08,"Mitgebrachte SSD eingebaut, Tipps zum installieren des Betriebssystems gegeben."
+anstiftung_3387,anstiftung,DEU,8,Internal damage,Desktop computer,Unknown,Fixed,2013,2019-08-08,"Hilfe beim Einbau des CPU-Kühler benötigt. Der Plastikrahmen auf dem Mainboard war gebrochen und der Kühler abgefallen. Die mitgebrachten Ersatzteile passten aber leider nicht zu den vorgesehenen Schraublöchern, sodass der Besucher nochmal los musste, die richtigen Teile zu besorgen. Mit denen konnten wir dann den CPU-Kühler (mit neuer Wärmeleitpaste) wieder befestigen."
+anstiftung_3442,anstiftung,DEU,11,Multiple,Desktop computer,Medion,Fixed,,2019-08-22,Um eine fachliche Meinung zum korrekten Anschluss der SSD-Festplatte in seinem Medion „MT14“ Desktop-PC bat ein anderer Besucher. Wir prüften den Sitz des SATA-Kabels und des Stromversorgungsanschlusses und befanden beides für in Ordnung. Auch seine Fragen zur BIOS-Batterie und zur geplanten Windows-Neuinstallation konnten wir zu seiner Zufriedenheit beantworten.
+anstiftung_3657,anstiftung,DEU,10,Internal storage,Desktop computer,Packard Bell,Fixed,2014,2019-08-06,Festplatte gerettet
+anstiftung_3675,anstiftung,DEU,10,Internal storage,Desktop computer,Unknown,Repairable,,2019-08-13,Festplatte einbauen
+anstiftung_393,anstiftung,DEU,19,Unknown,Desktop computer,Unknown,Unknown,,2018-11-17,defekt
+anstiftung_3946,anstiftung,DEU,1,Boot,Desktop computer,Acer,Fixed,2007,2019-10-08,fährt nicht hoch
+anstiftung_3993,anstiftung,DEU,18,System board,Desktop computer,Atmel,Unknown,,2019-10-13,"Reparatur am Atmel „XMega-A3BU“ Mikrocontroller-Entwicklerboard, an dem einige Pins der Stiftleiste verbogen und abgebrochen waren. Eine neue Stiftleiste wurde eingebaut."
+anstiftung_4193,anstiftung,DEU,1,Boot,Desktop computer,Soennecken,Unknown,2014,2019-11-30,geht nicht an.
+anstiftung_4365,anstiftung,DEU,15,Performance,Desktop computer,Unknown,Fixed,,2020-01-12,sehr langsam
+anstiftung_4376,anstiftung,DEU,19,Unknown,Desktop computer,Unknown,Unknown,,2019-01-13,defekt
+anstiftung_4386,anstiftung,DEU,3,Configuration,Desktop computer,Unknown,Fixed,,2019-01-13,Anwendungsproblem
+anstiftung_4710,anstiftung,DEU,12,Operating system,Desktop computer,Unknown,Fixed,,2019-10-15,Linux installieren
+anstiftung_4815,anstiftung,DEU,16,Ports/slots/connectors,Desktop computer,Unknown,Fixed,,2019-12-17,Kabel innen anstecken weil USB Buchsen nicht funktionieren
+anstiftung_5284,anstiftung,DEU,19,Unknown,Desktop computer,Sharp,Fixed,2012,2020-03-12,"Sie reagierte auf keine Tastenbetätigung und zeigte nur viele Nullen an. Wir mussten erst einmal herausfinden, wie so ein Ding funktioniert, Wir stellten dabei fest, dass der Bondrucker dauert lief, wenn man ihn wieder ansteckte. Bei genauerem Hinsehen erkannten wir einen verschmutzten Schleifkontakt. Nachdem der gereinigt war, ging plötzlich die ganze Kasse wieder, da ein funktionierender Bondrucker offenbar für die Gesamtfunktion essentiell ist."
+anstiftung_550,anstiftung,DEU,16,Ports/slots/connectors,Desktop computer,Unknown,Fixed,,2018-12-18,"Gerät für separate Festplatte, Stromversorgung neu angelötet"
+anstiftung_645,anstiftung,DEU,7,Integrated screen,Desktop computer,Medion,Repairable,,2019-01-19,Gerät schaltet sich nicht ein (Monitor defekt)
+anstiftung_763,anstiftung,DEU,7,Integrated screen,Desktop computer,Unknown,Fixed,,2019-02-13,Bildschirm schwarz
+fixitclinic_147,Fixit Clinic,USA,14,Overheating,Desktop computer,HP,Fixed,2008,2018-07-15,Desktop computer  ~ Fan failed error message at boot up 
+fixitclinic_268,Fixit Clinic,USA,19,Unknown,Desktop computer,MacBook,Repairable,,2018-10-28,Computer
+fixitclinic_322,Fixit Clinic,USA,15,Performance,Desktop computer,Toshiba ,Repairable,2012,2019-01-12,Computers  ~ slow prosessing and not connecting to internet 
+fixitclinic_378,Fixit Clinic,USA,19,Unknown,Desktop computer,Apple,Repairable,,2019-02-02,Computer
+fixitclinic_391,Fixit Clinic,USA,12,Operating system,Desktop computer,Apple,Repairable,2014,2019-03-02,Computer  ~ Mouse get stuck on start up screen and could not log in or do anything. Keep board is not responding either 
+fixitclinic_505,Fixit Clinic,USA,15,Performance,Desktop computer,Dell,Repairable,2014,2019-09-30,Desktop computer ~ Too slow even after running antivirus and Malwarebytes
+fixitclinic_582,Fixit Clinic,USA,17,Power/battery,Desktop computer,air pple,Fixed,2013,2019-11-18,"computer ~ did not charge , noise fan"
+rcint_10273,Repair Café International,GBR,19,Unknown,Desktop computer,Packard Bell,Fixed,,2018-10-06,
+rcint_10609,Repair Café International,USA,19,Unknown,Desktop computer,Unknown,Fixed,,2018-10-20,
+rcint_10805,Repair Café International,NLD,18,System board,Desktop computer,Dell,End of life,2012,2018-10-27,Doet het niet meer ws. door kortsluiting
+rcint_1083,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,End of life,,2017-05-20,
+rcint_10932,Repair Café International,NLD,3,Configuration,Desktop computer,Dell,Repairable,2017,2018-11-03,programma probleem
+rcint_1106,Repair Café International,FRA,1,Boot,Desktop computer,Unknown,Fixed,,2017-05-20,S'allume mais ne d?©marre pas correctement
+rcint_1109,Repair Café International,FRA,17,Power/battery,Desktop computer,Unknown,Fixed,,2017-05-20,Arr?™t Brutal : ne se charge plus + fum?©e constat?©
+rcint_1111,Repair Café International,FRA,7,Integrated screen,Desktop computer,Unknown,Fixed,,2017-05-20,pas d'affichage sur l'?©cran
+rcint_1114,Repair Café International,FRA,19,Unknown,Desktop computer,Unknown,Fixed,,2017-05-20,
+rcint_1176,Repair Café International,NLD,19,Unknown,Desktop computer,HP,Fixed,,2017-06-03,iets vaags
+rcint_11869,Repair Café International,NLD,3,Configuration,Desktop computer,Packard Bell,Fixed,,2018-11-25,wachtwoord kwijt
+rcint_1208,Repair Café International,NLD,19,Unknown,Desktop computer,Lifetec,Fixed,2004,2017-06-03,
+rcint_12109,Repair Café International,NLD,19,Unknown,Desktop computer,Asus,Repairable,,2018-12-01,
+rcint_1221,Repair Café International,NLD,19,Unknown,Desktop computer,HP,End of life,,2017-06-03,
+rcint_12387,Repair Café International,GBR,19,Unknown,Desktop computer,Dell,End of life,,2018-12-01,
+rcint_12961,Repair Café International,NLD,3,Configuration,Desktop computer,HP,Fixed,2000,2019-01-05,nieuw programma opzetten
+rcint_13126,Repair Café International,NLD,17,Power/battery,Desktop computer,Paradigit,End of life,2009,2019-01-05,moet andere voeding in
+rcint_13660,Repair Café International,NLD,1,Boot,Desktop computer,Apple,Fixed,2000,2019-01-26,Opstart niet goed
+rcint_13661,Repair Café International,NLD,17,Power/battery,Desktop computer,Kebe mini,End of life,2018,2019-01-26,Laad niet
+rcint_13662,Repair Café International,NLD,3,Configuration,Desktop computer,Apple,End of life,2000,2019-01-26,Installeren
+rcint_13663,Repair Café International,NLD,17,Power/battery,Desktop computer,Denver,Fixed,2016,2019-01-26,Hij doet niets
+rcint_13664,Repair Café International,NLD,4,Integrated keyboard,Desktop computer,Dell,Fixed,2000,2019-01-26,Toetsenbord werkt soms/laptop is traag/accu snel leeg
+rcint_13841,Repair Café International,GBR,17,Power/battery,Desktop computer,Unknown,End of life,,2019-01-26,Not charging
+rcint_1390,Repair Café International,NLD,19,Unknown,Desktop computer,Acer,End of life,2010,2017-06-08,
+rcint_14024,Repair Café International,NLD,3,Configuration,Desktop computer,Brother,Fixed,,2019-02-02,printopdracht werkt niet
+rcint_1422,Repair Café International,NLD,19,Unknown,Desktop computer,Apple,Repairable,2005,2017-06-10,
+rcint_14262,Repair Café International,NLD,17,Power/battery,Desktop computer,Paradigit,Fixed,2008,2019-02-02,"nieuwe voeding nodig, moederboard fan draaide niet meer"
+rcint_14463,Repair Café International,NLD,17,Power/battery,Desktop computer,Dell,End of life,,2019-02-09,start niet op
+rcint_14619,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,Fixed,,2019-02-14,
+rcint_14643,Repair Café International,NLD,3,Configuration,Desktop computer,HP,Fixed,2009,2019-02-14,Software
+rcint_14648,Repair Café International,NLD,7,Integrated screen,Desktop computer,Toshiba,End of life,2004,2019-02-15,"Geen schermbeeld, laptop start wel op"
+rcint_14744,Repair Café International,GBR,16,Ports/slots/connectors,Desktop computer,Focusrite,Fixed,2015,2019-02-16,USB connector broken
+rcint_1489,Repair Café International,FRA,19,Unknown,Desktop computer,Unknown,Fixed,,2017-06-17,Plus rien ne fonctionne
+rcint_1490,Repair Café International,FRA,19,Unknown,Desktop computer,Unknown,End of life,,2017-06-17,Pb concernant la mise en veille
+rcint_1491,Repair Café International,FRA,17,Power/battery,Desktop computer,Sony,Repairable,,2017-06-17,Ne d?©marre pas
+rcint_14919,Repair Café International,NLD,3,Configuration,Desktop computer,Unknown,Fixed,2000,2019-02-23,Alle data verwijderen
+rcint_14920,Repair Café International,NLD,3,Configuration,Desktop computer,Unknown,Repairable,2000,2019-02-23,Software defect
+rcint_14922,Repair Café International,NLD,19,Unknown,Desktop computer,LG,Fixed,2000,2019-02-23,Onbekend
+rcint_14923,Repair Café International,NLD,15,Performance,Desktop computer,Compaq,End of life,2008,2019-02-23,Valt uit en kraakt soms
+rcint_15292,Repair Café International,NLD,19,Unknown,Desktop computer,PEAQ,Fixed,,2019-03-02,Werkt niet
+rcint_15495,Repair Café International,NLD,19,Unknown,Desktop computer,Amazon,End of life,2000,2019-03-09,
+rcint_15757,Repair Café International,NLD,7,Integrated screen,Desktop computer,Packard Bell,End of life,2010,2019-03-14,Geen beeld
+rcint_15864,Repair Café International,NLD,17,Power/battery,Desktop computer,HP,Fixed,2005,2019-03-21,Start niet op
+rcint_16102,Repair Café International,NLD,3,Configuration,Desktop computer,Packard Bell,Fixed,2004,2019-03-28,afbeeldingen/documenten overzetten
+rcint_16140,Repair Café International,NLD,13,Other,Desktop computer,Vaio,Fixed,2005,2019-03-30,Harde schijf moet eruit om computer weg te kunnen gooien.
+rcint_16288,Repair Café International,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2019-04-02,
+rcint_16398,Repair Café International,NLD,17,Power/battery,Desktop computer,Compaq,Fixed,2000,2019-04-06,stroom valt uit
+rcint_16568,Repair Café International,NLD,7,Integrated screen,Desktop computer,Medion,End of life,2012,2019-04-06,Geeft geen beeld
+rcint_16969,Repair Café International,NLD,17,Power/battery,Desktop computer,Packard Bell,Repairable,,2019-04-13,Probleem met de voeding. Gaat niet meer goed aan.
+rcint_1698,Repair Café International,NLD,19,Unknown,Desktop computer,Medion,Repairable,,2017-08-05,
+rcint_17181,Repair Café International,NLD,17,Power/battery,Desktop computer,Acer,Fixed,,2019-04-18,doet het niet
+rcint_17649,Repair Café International,NLD,19,Unknown,Desktop computer,Acer,Fixed,2010,2019-05-04,div.
+rcint_17734,Repair Café International,NLD,17,Power/battery,Desktop computer,Acer,End of life,2000,2019-05-04,Werkt niet meer
+rcint_17876,Repair Café International,NLD,3,Configuration,Desktop computer,Medion,Fixed,2017,2019-05-09,Geoptimaliseerd
+rcint_180,Repair Café International,NLD,19,Unknown,Desktop computer,Toshiba,Fixed,,2017-02-04,
+rcint_18178,Repair Café International,NLD,2,Case/chassis,Desktop computer,IBM,Fixed,,2019-05-16,aan/uit knop doet het niet + draadbreuk
+rcint_18326,Repair Café International,GBR,7,Integrated screen,Desktop computer,Lenovo,End of life,,2019-05-18,Touch screen faulty
+rcint_1837,Repair Café International,NLD,19,Unknown,Desktop computer,Microsoft,Fixed,,2017-08-24,
+rcint_19165,Repair Café International,GBR,17,Power/battery,Desktop computer,Spectrum,End of life,1982,2019-06-08,Not switching on
+rcint_19178,Repair Café International,GBR,2,Case/chassis,Desktop computer,Unknown,Repairable,,2019-06-08,Glue advice needed
+rcint_19184,Repair Café International,GBR,18,System board,Desktop computer,Unknown,Repairable,2000,2019-06-08,PCB
+rcint_19287,Repair Café International,FRA,17,Power/battery,Desktop computer,Unknown,Repairable,,2019-06-15,Ne fonctionne plus
+rcint_19352,Repair Café International,NLD,15,Performance,Desktop computer,Acorn,Fixed,1997,2019-06-20,oud
+rcint_19479,Repair Café International,NLD,15,Performance,Desktop computer,Medion,Fixed,2016,2019-06-27,Te langzaam
+rcint_19726,Repair Café International,NLD,1,Boot,Desktop computer,MSI,End of life,2009,2019-07-06,BIOS niet bereikbaar
+rcint_19913,Repair Café International,NLD,17,Power/battery,Desktop computer,HP,End of life,2008,2019-07-11,start  niet meer op
+rcint_20353,Repair Café International,GBR,14,Overheating,Desktop computer,Unknown,Repairable,,2019-07-27,Fan not working
+rcint_20368,Repair Café International,USA,19,Unknown,Desktop computer,Unknown,End of life,,2019-07-27,
+rcint_2048,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,Repairable,2011,2017-09-02,Niet in te stellen
+rcint_2053,Repair Café International,NLD,15,Performance,Desktop computer,Toshiba,Fixed,2011,2017-09-02,Is traag
+rcint_207,Repair Café International,NLD,19,Unknown,Desktop computer,WD,Repairable,2015,2017-02-04,
+rcint_20705,Repair Café International,CAN,9,Integrated optical drive,Desktop computer,Sony,Repairable,2010,2019-08-24,broken ODD
+rcint_20871,Repair Café International,NLD,8,Internal damage,Desktop computer,Acer,End of life,2011,2019-08-31,Computer werkt niet ws. kabels  kapot
+rcint_20875,Repair Café International,NLD,12,Operating system,Desktop computer,Medion,Repairable,2010,2019-08-31,Internet/ windows 10 ??
+rcint_21276,Repair Café International,NLD,3,Configuration,Desktop computer,Apple,Fixed,,2019-09-07,advies
+rcint_21415,Repair Café International,NLD,1,Boot,Desktop computer,HP Compaq,End of life,,2019-09-12,aanknop geef rood
+rcint_2220,Repair Café International,NLD,3,Configuration,Desktop computer,HP,Repairable,2013,2017-09-09,software
+rcint_22322,Repair Café International,FRA,17,Power/battery,Desktop computer,Unknown,End of life,,2019-09-28,Ne s'allume plus
+rcint_22523,Repair Café International,NLD,14,Overheating,Desktop computer,HP,Fixed,2013,2019-10-03,Word te warm
+rcint_22570,Repair Café International,NLD,17,Power/battery,Desktop computer,Commodore,End of life,1980,2019-10-05,werkt niet
+rcint_22680,Repair Café International,NLD,3,Configuration,Desktop computer,HP,Fixed,,2019-10-05,kan geen backup maken
+rcint_22690,Repair Café International,NLD,14,Overheating,Desktop computer,Asus,Fixed,,2019-10-05,ventilator
+rcint_22730,Repair Café International,NLD,4,Integrated keyboard,Desktop computer,Aser,End of life,,2019-10-05,toets zit los
+rcint_22736,Repair Café International,NLD,6,Integrated media component,Desktop computer,HP,End of life,,2019-10-05,geluid werkt niet goed
+rcint_22748,Repair Café International,NLD,3,Configuration,Desktop computer,Asus,Repairable,,2019-10-05,geen mailbox meer
+rcint_22997,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,Fixed,,2019-10-10,
+rcint_23,Repair Café International,FRA,17,Power/battery,Desktop computer,Unknown,Fixed,,2016-01-16,d?©faut de charge
+rcint_2324,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,Repairable,2015,2017-09-21,
+rcint_23355,Repair Café International,NLD,6,Integrated media component,Desktop computer,Unknown,Fixed,2017,2019-10-17,aansluiten webcam
+rcint_23532,Repair Café International,CAN,7,Integrated screen,Desktop computer,Apple,End of life,2013,2019-10-19,screen not working
+rcint_23655,Repair Café International,CAN,1,Boot,Desktop computer,Unknown,Fixed,2000,2019-10-25,computer does not boot up. Would like to re-format the computer to original factory default. Do not need to backup data which can be erased.
+rcint_23672,Repair Café International,NLD,8,Internal damage,Desktop computer,Asus,End of life,2014,2019-10-26,waterschade
+rcint_23719,Repair Café International,NLD,17,Power/battery,Desktop computer,Toshiba,End of life,2000,2019-10-26,Doet het niet
+rcint_2374,Repair Café International,NLD,12,Operating system,Desktop computer,HP,End of life,2010,2017-09-28,"WinXP hangt, Win7/10 installatie faalt."
+rcint_2387,Repair Café International,NLD,3,Configuration,Desktop computer,Unknown,End of life,,2017-09-30,Oorzaak ligt waarschijnlijk bij provider (Yahoo).
+rcint_23920,Repair Café International,FRA,17,Power/battery,Desktop computer,Unknown,End of life,,2019-10-26,Probl?®me d'alimentation
+rcint_23943,Repair Café International,USA,19,Unknown,Desktop computer,Unknown,End of life,,2019-10-26,
+rcint_24134,Repair Café International,NLD,3,Configuration,Desktop computer,Packard Bell,Repairable,,2019-11-02,Internet werkt niet
+rcint_24160,Repair Café International,NLD,3,Configuration,Desktop computer,Dell,Fixed,,2019-11-02,software
+rcint_24354,Repair Café International,NLD,12,Operating system,Desktop computer,Medion,Fixed,2009,2019-11-02,besturingssysteem niet in orde
+rcint_24528,Repair Café International,GBR,10,Internal storage,Desktop computer,Synology,Repairable,2012,2019-11-02,Drive not powering up
+rcint_24590,Repair Café International,NLD,19,Unknown,Desktop computer,Medion,End of life,,2019-11-08,
+rcint_24621,Repair Café International,NLD,1,Boot,Desktop computer,Acer,Fixed,2017,2019-11-08,"start niet op, komt niet verder dan ACER logo"
+rcint_2476,Repair Café International,NLD,10,Internal storage,Desktop computer,Asus,Repairable,2010,2017-10-07,Hardeschijf is instabiel
+rcint_24871,Repair Café International,CAN,17,Power/battery,Desktop computer,Samsung,End of life,2013,2019-11-09,Does not turn on
+rcint_24880,Repair Café International,CAN,1,Boot,Desktop computer,Unknown,End of life,,2019-11-09,Stuck at boot logo
+rcint_24912,Repair Café International,CAN,17,Power/battery,Desktop computer,Dell,Repairable,,2019-11-09,Doesn't turn on
+rcint_24920,Repair Café International,CAN,15,Performance,Desktop computer,Microsoft,Repairable,,2019-11-09,Running too slow
+rcint_25506,Repair Café International,GBR,1,Boot,Desktop computer,Compaq,Repairable,,2019-11-23,Not starting up
+rcint_25661,Repair Café International,NLD,17,Power/battery,Desktop computer,AOpen,End of life,,2019-11-25,start niet op
+rcint_2570,Repair Café International,NLD,8,Internal damage,Desktop computer,Cybermaxx,End of life,,2017-10-07,Draadje los
+rcint_26045,Repair Café International,FRA,17,Power/battery,Desktop computer,MSI,End of life,2012,2019-11-30,ne d?©marre plus
+rcint_26051,Repair Café International,FRA,7,Integrated screen,Desktop computer,Dell,End of life,,2019-11-30,?©cran noir
+rcint_26296,Repair Café International,NLD,3,Configuration,Desktop computer,HP,Fixed,,2019-12-07,omzette Xubuntu van engels naar nederlands
+rcint_26342,Repair Café International,NLD,19,Unknown,Desktop computer,Medion,Fixed,,2019-12-07,moet nagekeken worden
+rcint_26570,Repair Café International,GBR,19,Unknown,Desktop computer,Instagram,Repairable,,2019-12-07,
+rcint_26571,Repair Café International,GBR,19,Unknown,Desktop computer,Dell,Repairable,,2019-12-07,
+rcint_26706,Repair Café International,NLD,12,Operating system,Desktop computer,Acer,Fixed,2019,2019-12-12,update
+rcint_2691,Repair Café International,NLD,19,Unknown,Desktop computer,Dell,Repairable,,2017-10-12,
+rcint_26911,Repair Café International,NLD,3,Configuration,Desktop computer,Toshiba,Fixed,,2019-12-14,software probleem
+rcint_26998,Repair Café International,NLD,8,Internal damage,Desktop computer,Sony,End of life,2005,2019-12-19,zekering los?
+rcint_27358,Repair Café International,NLD,1,Boot,Desktop computer,Unknown,Fixed,2012,2020-01-04,start soms wel en soms niet
+rcint_27618,Repair Café International,NLD,17,Power/battery,Desktop computer,Unknown,Fixed,2012,2020-01-09,start niet
+rcint_27678,Repair Café International,DEU,17,Power/battery,Desktop computer,Lenovo,End of life,,2020-01-10,l?§sst sich nicht mehr einschalten
+rcint_27709,Repair Café International,NLD,17,Power/battery,Desktop computer,Unknown,End of life,,2020-01-11,schakelt niet in
+rcint_27868,Repair Café International,DEU,18,System board,Desktop computer,Unknown,Repairable,,2020-01-11,Fehler mit Grafikkarte
+rcint_28001,Repair Café International,NLD,17,Power/battery,Desktop computer,Unknown,Fixed,2016,2020-01-16,start niet op
+rcint_28284,Repair Café International,USA,19,Unknown,Desktop computer,Unknown,Fixed,,2020-01-18,
+rcint_28307,Repair Café International,USA,15,Performance,Desktop computer,Unknown,Fixed,,2020-01-18,slow
+rcint_28314,Repair Café International,USA,19,Unknown,Desktop computer,Unknown,Fixed,,2020-01-18,
+rcint_28322,Repair Café International,NLD,17,Power/battery,Desktop computer,PC Gear,Fixed,,2020-01-23,start niet op
+rcint_28353,Repair Café International,NLD,3,Configuration,Desktop computer,Raspberry,Fixed,2016,2020-01-23,Software fout
+rcint_28538,Repair Café International,NLD,10,Internal storage,Desktop computer,Lenovo,End of life,2017,2020-01-25,Harde schijf werkt niet
+rcint_28671,Repair Café International,CAN,17,Power/battery,Desktop computer,Apple,Fixed,2012,2020-01-25,doesn't turn on
+rcint_28729,Repair Café International,FRA,19,Unknown,Desktop computer,Acer,End of life,,2020-01-25,Remontage
+rcint_28761,Repair Café International,NLD,17,Power/battery,Desktop computer,Q-motion,End of life,,2020-01-28,Geeft geen signaal
+rcint_29006,Repair Café International,NLD,19,Unknown,Desktop computer,Apple,Repairable,2016,2020-02-01,vastgelopen
+rcint_29029,Repair Café International,NLD,17,Power/battery,Desktop computer,Apple,End of life,,2020-02-01,reageert niet meer
+rcint_29257,Repair Café International,GBR,19,Unknown,Desktop computer,Dell,End of life,,2020-02-01,
+rcint_29378,Repair Café International,NLD,10,Internal storage,Desktop computer,Samsung,End of life,,2020-02-06,8x harde schijven
+rcint_29387,Repair Café International,NLD,15,Performance,Desktop computer,Unknown,Repairable,2009,2020-02-06,traag
+rcint_29550,Repair Café International,NLD,17,Power/battery,Desktop computer,HP,Repairable,2000,2020-02-08,Voeding defect
+rcint_29836,Repair Café International,FRA,7,Integrated screen,Desktop computer,Asus,Repairable,,2020-02-15,Affichage anormal ?† l'allumage de l'ordinateur
+rcint_29986,Repair Café International,GBR,7,Integrated screen,Desktop computer,Lenovo,End of life,,2020-02-15,Faulty screen
+rcint_30270,Repair Café International,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2020-02-15,not working
+rcint_30321,Repair Café International,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2020-02-15,
+rcint_30393,Repair Café International,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2020-02-15,
+rcint_30397,Repair Café International,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2020-02-15,
+rcint_30407,Repair Café International,GBR,19,Unknown,Desktop computer,Amazon,Repairable,,2020-02-15,
+rcint_30479,Repair Café International,NLD,9,Integrated optical drive,Desktop computer,HP,Fixed,,2020-02-20,CD-rom doet het niet
+rcint_30519,Repair Café International,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2020-02-24,
+rcint_30760,Repair Café International,NLD,7,Integrated screen,Desktop computer,Lenovo,Fixed,2015,2020-02-29,Opschonen en herstellen / scherm stuk
+rcint_30882,Repair Café International,CAN,17,Power/battery,Desktop computer,Asus,Fixed,2014,2020-02-29,power supply had a problem
+rcint_30899,Repair Café International,FRA,7,Integrated screen,Desktop computer,Acer,End of life,,2020-02-29,Ecran noir
+rcint_30901,Repair Café International,FRA,17,Power/battery,Desktop computer,LDLC,Repairable,2013,2020-02-29,Ne se rrallumait plus
+rcint_30981,Repair Café International,NLD,10,Internal storage,Desktop computer,HP,End of life,2009,2020-03-05,geheugenkaart plaatsen
+rcint_31007,Repair Café International,NLD,12,Operating system,Desktop computer,Acer,Repairable,2010,2020-03-07,USB poort heeft probleem na update Windows 10
+rcint_31059,Repair Café International,NLD,17,Power/battery,Desktop computer,Sharp,Fixed,1983,2020-03-07,werkt niet
+rcint_31171,Repair Café International,NLD,19,Unknown,Desktop computer,Acer,Fixed,2013,2020-03-07,moet nagekeken worden
+rcint_31186,Repair Café International,NLD,19,Unknown,Desktop computer,Anatel,End of life,,2020-03-07,
+rcint_31363,Repair Café International,GBR,19,Unknown,Desktop computer,Apple,Fixed,,2020-03-07,
+rcint_31487,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,Repairable,2000,2020-03-14,Bevestigingen
+rcint_31610,Repair Café International,FRA,2,Case/chassis,Desktop computer,Unknown,Repairable,,2020-06-20,"est tomb?© sur la tranche droite. L'attache s'est d?©solidaris?©e, et en ouvrant/fermant de nombreuses fois, cela a augment?© la cassure. Je le garde ouvert depuis quelques jours. J'ai peur que les fils reliant l'?©cran au clavier sur cette attache droite se"
+rcint_31613,Repair Café International,FRA,4,Integrated keyboard,Desktop computer,Unknown,Fixed,,2020-06-20,Pav?© num?©rique inactif
+rcint_31696,Repair Café International,FRA,19,Unknown,Desktop computer,Unknown,Repairable,,2020-07-04,Panne non pris en compte
+rcint_31760,Repair Café International,NLD,15,Performance,Desktop computer,Dell,Repairable,2015,2020-08-01,werkt erg langzaam
+rcint_31852,Repair Café International,FRA,7,Integrated screen,Desktop computer,Unknown,End of life,,2020-08-29,probl?®me ?©cran
+rcint_31986,Repair Café International,FRA,19,Unknown,Desktop computer,Unknown,End of life,,2020-09-05,Probl?®me informatique
+rcint_32090,Repair Café International,NLD,3,Configuration,Desktop computer,Compaq,End of life,2007,2020-09-19,kan niet meer aanmelden
+rcint_34,Repair Café International,FRA,3,Configuration,Desktop computer,Unknown,Repairable,,2016-05-21,Pack office ne marche pas bien
+rcint_36,Repair Café International,FRA,7,Integrated screen,Desktop computer,MSI,Repairable,,2016-05-21,l'?©cran de l'ordinateur portable reste noir
+rcint_3767,Repair Café International,GBR,19,Unknown,Desktop computer,Dell,Repairable,,2017-12-02,
+rcint_385,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,Fixed,,2017-03-04,
+rcint_40,Repair Café International,FRA,3,Configuration,Desktop computer,Unknown,Repairable,,2016-10-22,Pas de connexion avec internet
+rcint_4038,Repair Café International,NLD,19,Unknown,Desktop computer,Dell,Fixed,2004,2018-01-06,
+rcint_4128,Repair Café International,NLD,19,Unknown,Desktop computer,Dell,End of life,2007,2018-01-06,Nvt
+rcint_4137,Repair Café International,NLD,19,Unknown,Desktop computer,Asus,Fixed,2007,2018-01-06,Nvt
+rcint_43,Repair Café International,FRA,8,Internal damage,Desktop computer,Unknown,Repairable,,2016-10-22,d?©faut de c?¢blage
+rcint_4346,Repair Café International,NLD,12,Operating system,Desktop computer,Compaq,End of life,2010,2018-01-13,Corrupte windows installatie
+rcint_4453,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,End of life,,2018-01-18,
+rcint_4520,Repair Café International,NLD,1,Boot,Desktop computer,Qmotion,Fixed,,2018-01-19,start steeds opnieuw op
+rcint_4581,Repair Café International,NLD,19,Unknown,Desktop computer,Asus,End of life,,2018-01-25,
+rcint_4812,Repair Café International,NLD,19,Unknown,Desktop computer,Packard Bell,End of life,2009,2018-02-03,
+rcint_4885,Repair Café International,NLD,19,Unknown,Desktop computer,Acer,Fixed,2010,2018-02-03,N.v.t.
+rcint_4896,Repair Café International,NLD,3,Configuration,Desktop computer,Dell,Fixed,2010,2018-02-03,Wachtwoord
+rcint_4911,Repair Café International,NLD,19,Unknown,Desktop computer,Acer,End of life,2013,2018-02-03,N.v.t.
+rcint_4928,Repair Café International,NLD,1,Boot,Desktop computer,Siemens,Fixed,2010,2018-02-03,Volledig opnieuw geinstalleerd. Bios had erg veel problemen
+rcint_4933,Repair Café International,NLD,1,Boot,Desktop computer,Siemens,Fixed,2010,2018-02-03,Volledig opnieuw geinstalleerd. Bios had erg veel problemen
+rcint_516,Repair Café International,FRA,1,Boot,Desktop computer,Unknown,Repairable,,2017-03-18,Probl?®me au d?©marrage
+rcint_519,Repair Café International,FRA,7,Integrated screen,Desktop computer,Acer,Repairable,,2017-03-18,l'?©cran ne s'allume pas
+rcint_5192,Repair Café International,NLD,12,Operating system,Desktop computer,Unknown,Repairable,,2018-02-15,windows vista is gecrashed
+rcint_5220,Repair Café International,NLD,19,Unknown,Desktop computer,Lenovo,Fixed,2006,2018-02-16,
+rcint_5222,Repair Café International,NLD,17,Power/battery,Desktop computer,Unknown,End of life,,2018-02-16,doet niks
+rcint_537,Repair Café International,FRA,18,System board,Desktop computer,Unknown,End of life,,2017-03-18,pb de carte graphique
+rcint_5411,Repair Café International,NLD,18,System board,Desktop computer,Acer,Fixed,2010,2018-03-03,kortsluiting door rondzwervend onderdeel
+rcint_5417,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,End of life,2013,2018-03-03,
+rcint_5439,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,Repairable,,2018-03-03,
+rcint_5755,Repair Café International,NLD,19,Unknown,Desktop computer,LG,End of life,,2018-03-15,
+rcint_576,Repair Café International,NLD,19,Unknown,Desktop computer,HP,Repairable,2007,2017-04-01,
+rcint_578,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,Fixed,2010,2017-04-01,
+rcint_5806,Repair Café International,NLD,19,Unknown,Desktop computer,Lenovo,Fixed,2005,2018-03-16,
+rcint_5871,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,Fixed,,2018-03-22,
+rcint_5901,Repair Café International,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2018-03-24,Knackered
+rcint_5927,Repair Café International,GBR,20,Virus/malware,Desktop computer,Unknown,Fixed,,2018-03-24,Virus
+rcint_5952,Repair Café International,NLD,18,System board,Desktop computer,HP,Fixed,2010,2018-03-29,videokaart
+rcint_6092,Repair Café International,NLD,19,Unknown,Desktop computer,Apple,End of life,,2018-04-02,
+rcint_6111,Repair Café International,NLD,10,Internal storage,Desktop computer,Asus,Repairable,2013,2018-04-05,error in HD blok
+rcint_6148,Repair Café International,NLD,19,Unknown,Desktop computer,Dell,Fixed,2007,2018-04-07,
+rcint_6488,Repair Café International,NLD,19,Unknown,Desktop computer,Acer,Fixed,2013,2018-04-14,
+rcint_6616,Repair Café International,FRA,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-21,PC PORTABLE de PIRRERA
+rcint_6633,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,End of life,,2018-04-26,
+rcint_6634,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,End of life,,2018-04-26,
+rcint_6732,Repair Café International,NLD,19,Unknown,Desktop computer,Compaq,End of life,,2018-05-03,
+rcint_6784,Repair Café International,NLD,18,System board,Desktop computer,Packard Bell,End of life,,2018-05-05,netwerkkaart defect
+rcint_6912,Repair Café International,NLD,3,Configuration,Desktop computer,Packard Bell,Repairable,2009,2018-05-05,waarschijnlijk software probleem
+rcint_7145,Repair Café International,NLD,10,Internal storage,Desktop computer,Unknown,Fixed,1981,2018-05-18,schijf leegmaken
+rcint_7597,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,Repairable,2013,2018-06-02,Onbekend
+rcint_7963,Repair Café International,NLD,19,Unknown,Desktop computer,Apple,End of life,2000,2018-06-30,Onbekend
+rcint_7966,Repair Café International,NLD,19,Unknown,Desktop computer,Unknown,End of life,2000,2018-06-30,Onbekend
+rcint_8061,Repair Café International,GBR,20,Virus/malware,Desktop computer,Medion,End of life,2005,2018-07-04,viruses
+rcint_8083,Repair Café International,NLD,3,Configuration,Desktop computer,Unknown,Fixed,,2018-07-06,probleem met versturen van e-mails met bijlagen
+rcint_8129,Repair Café International,NLD,1,Boot,Desktop computer,Toshiba,Repairable,2006,2018-07-07,Opstart optie van besturingssysteem defect
+rcint_8621,Repair Café International,NLD,3,Configuration,Desktop computer,Unknown,Repairable,,2018-08-04,Geheugen Firefox blijft hangen
+rcint_8645,Repair Café International,NLD,19,Unknown,Desktop computer,Dell,Fixed,,2018-08-04,Aan en klachtr
+rcint_8730,Repair Café International,NLD,19,Unknown,Desktop computer,Commodore,End of life,1987,2018-08-25,
+rcint_889,Repair Café International,NLD,17,Power/battery,Desktop computer,Unknown,Fixed,,2017-05-06,kabelkortsluiting
+rcint_9031,Repair Café International,NLD,17,Power/battery,Desktop computer,Packard Bell,End of life,2012,2018-09-01,Start niet meer op
+rcint_9062,Repair Café International,NLD,2,Case/chassis,Desktop computer,Dell,Repairable,2014,2018-09-01,Aan/uit knop werkt niet
+rcint_9071,Repair Café International,NLD,14,Overheating,Desktop computer,Unknown,Fixed,2015,2018-09-01,Koelprobleem
+rcint_9502,Repair Café International,NLD,15,Performance,Desktop computer,HP,End of life,2000,2018-09-20,langzaam
+rcint_9591,Repair Café International,GBR,13,Other,Desktop computer,Unknown,End of life,,2018-09-22,Connectivity
+rcint_9739,Repair Café International,NLD,17,Power/battery,Desktop computer,Acer,Fixed,,2018-09-29,doet het niet...
+rcint_9976,Repair Café International,NLD,16,Ports/slots/connectors,Desktop computer,Asus,Repairable,,2018-10-06,contactingang defect
+rcwales_1174,Repair Cafe Wales,GBR,15,Performance,Desktop computer,Unknown,Fixed,,2019-01-01,Computer Turns off after 30 seconds
+rcwales_2077,Repair Cafe Wales,GBR,15,Performance,Desktop computer,Unknown,End of life,,2019-04-01,desktop computer freezing
+rcwales_2352,Repair Cafe Wales,GBR,1,Boot,Desktop computer,Unknown,Unknown,,2019-01-01,Locked computer Loading up
+rcwales_2384,Repair Cafe Wales,GBR,15,Performance,Desktop computer,Unknown,Fixed,,2019-05-01,Computer Slow
+rcwales_2514,Repair Cafe Wales,GBR,17,Power/battery,Desktop computer,Unknown,Fixed,,2019-01-01,Computer Slow charging battery
+rcwales_288,Repair Cafe Wales,GBR,10,Internal storage,Desktop computer,Unknown,Repairable,,2017-12-01,Computer Motherboard/SSD
+rcwales_3204,Repair Cafe Wales,GBR,1,Boot,Desktop computer,Unknown,Fixed,,2019-09-01,computer tower looping
+rcwales_3230,Repair Cafe Wales,GBR,11,Multiple,Desktop computer,Unknown,Fixed,,2019-03-01,"PC, Keyboard and VDV Can't get it to load up windows/word"
+rcwales_3253,Repair Cafe Wales,GBR,4,Integrated keyboard,Desktop computer,HP,Repairable,,2019-04-01,Computer Some keys stuck
+rcwales_3310,Repair Cafe Wales,GBR,19,Unknown,Desktop computer,Acer Aspire m 3400,End of life,,2020-01-01,PC stopped working this morning
+rcwales_335,Repair Cafe Wales,GBR,16,Ports/slots/connectors,Desktop computer,Unknown,Fixed,,2018-03-01,Computer USB plug
+rcwales_3643,Repair Cafe Wales,GBR,12,Operating system,Desktop computer,Unknown,Fixed,,2020-01-01,pc tower fault window issue
+rcwales_4018,Repair Cafe Wales,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2020-02-01,Computer 
+rcwales_4031,Repair Cafe Wales,GBR,7,Integrated screen,Desktop computer,Unknown,Unknown,,2020-03-01,Computer No signal to screen
+rcwales_4106,Repair Cafe Wales,GBR,3,Configuration,Desktop computer,Unknown,Fixed,,2020-01-01,computer tower needs hard drive wiping
+rcwales_4158,Repair Cafe Wales,GBR,17,Power/battery,Desktop computer,Dell,Fixed,,2020-02-01,PC doesn't start
+rcwales_4174,Repair Cafe Wales,GBR,1,Boot,Desktop computer,Acer,Fixed,,2020-03-01,computer no bootable device on screen
+rcwales_4325,Repair Cafe Wales,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2020-02-01,computer 
+rcwales_4386,Repair Cafe Wales,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2020-02-01,pc no signal
+rcwales_4419,Repair Cafe Wales,GBR,3,Configuration,Desktop computer,Dell,Repairable,,2020-01-01,computer password locked
+rcwales_510,Repair Cafe Wales,GBR,19,Unknown,Desktop computer,Unknown,Unknown,,2018-04-01,PC Tower Not functioning
+rcwales_533,Repair Cafe Wales,GBR,3,Configuration,Desktop computer,Unknown,Repairable,,2018-05-01,Computer Wireless Driver- Completing download from last visit (ran out of time)
+rcwales_562,Repair Cafe Wales,GBR,15,Performance,Desktop computer,Unknown,Fixed,,2018-06-01,Computer Really slow in working
+rcwales_671,Repair Cafe Wales,GBR,16,Ports/slots/connectors,Desktop computer,Unknown,Unknown,,2018-03-01,Computer USB plug
+rcwales_90,Repair Cafe Wales,GBR,19,Unknown,Desktop computer,Unknown,Unknown,,2017-06-01,"Computer Brain keeps searching for other options and wont stick to one. CD, radios needed!"
+rcwales_979,Repair Cafe Wales,GBR,19,Unknown,Desktop computer,Unknown,Unknown,,2018-09-01,Computer 
+restart_10042,The Restart Project,CAN,1,Boot,Desktop computer,Unknown,Repairable,,2018-11-07,Not booting
+restart_10062,The Restart Project,CAN,1,Boot,Desktop computer,Unknown,Repairable,,2018-11-07,Not booting
+restart_1031,The Restart Project,GBR,16,Ports/slots/connectors,Desktop computer,Unknown,Repairable,,2014-11-22,"Tower. Turns on but no signal to monitor. Seems ok, needs test.."
+restart_10475,The Restart Project,GBR,17,Power/battery,Desktop computer,Acer,Repairable,,2018-11-24,Doesn't turn on. Needed a new power switch.
+restart_10608,The Restart Project,GBR,17,Power/battery,Desktop computer,Unknown,Repairable,2008,2018-12-01,broken power supply - Failed PAT test and startup signal even when disconnect from motherboard. Will revisit Leicester Hackspace Open hack Night and replace PSU
+restart_10911,The Restart Project,CAN,15,Performance,Desktop computer,Unknown,End of life,,2019-01-17,Slow
+restart_10913,The Restart Project,CAN,15,Performance,Desktop computer,Unknown,Fixed,,2019-01-17,Slow
+restart_10932,The Restart Project,CAN,15,Performance,Desktop computer,Unknown,Fixed,,2019-01-17,Slow device + RAM problem
+restart_1106,The Restart Project,GBR,19,Unknown,Desktop computer,Apple,Repairable,,2015-01-14,PC computer - Hardware? - No time
+restart_11209,The Restart Project,GBR,19,Unknown,Desktop computer,Acer,Repairable,2014,2019-02-02,
+restart_1125,The Restart Project,GBR,10,Internal storage,Desktop computer,Lenovo,Repairable,,2015-01-24,Hard drive corrupted. Needs recovery disk.
+restart_11258,The Restart Project,GBR,17,Power/battery,Desktop computer,Unknown,Fixed,2009,2019-02-02,Needed PSU replacing.
+restart_1130,The Restart Project,GBR,1,Boot,Desktop computer,Packard Bell,Fixed,,2015-01-24,Doesn't boot properly. Wiped the drive.
+restart_11333,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2019-02-09,
+restart_11378,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2019-02-09,
+restart_11478,The Restart Project,GBR,18,System board,Desktop computer,Dell,Repairable,,2019-02-16,Not working/Motherboard seems broken
+restart_11682,The Restart Project,CAN,3,Configuration,Desktop computer,Unknown,Repairable,,2019-02-21,Network adapter
+restart_11689,The Restart Project,CAN,15,Performance,Desktop computer,Unknown,Fixed,,2019-02-21,Slow
+restart_11698,The Restart Project,CAN,1,Boot,Desktop computer,Unknown,Repairable,,2019-02-21,Booting bug
+restart_11709,The Restart Project,BEL,19,Unknown,Desktop computer,Unknown,Fixed,2016,2019-02-22,
+restart_11710,The Restart Project,BEL,19,Unknown,Desktop computer,Unknown,Fixed,2016,2019-02-22,
+restart_11894,The Restart Project,CAN,15,Performance,Desktop computer,Unknown,Fixed,,2019-03-06,Slow PC got optimised!
+restart_11979,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2019-03-09,
+restart_12206,The Restart Project,CAN,15,Performance,Desktop computer,Unknown,Fixed,,2019-03-22,Added some RAM to and old PC to keep it running smoothly
+restart_1239,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,End of life,,2015-03-01,
+restart_12591,The Restart Project,CAN,3,Configuration,Desktop computer,Unknown,Fixed,,2019-04-11,Password forgot
+restart_12682,The Restart Project,GBR,4,Integrated keyboard,Desktop computer,HP,Repairable,,2019-04-13,some keys not working
+restart_12734,The Restart Project,GBR,3,Configuration,Desktop computer,Unknown,Fixed,,2019-04-15,Wouldn't connect to internet
+restart_12753,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2019-04-23,
+restart_12754,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2019-04-23,
+restart_12814,The Restart Project,GBR,15,Performance,Desktop computer,Dell,Fixed,2012,2019-04-24,"New hard drive, additional memory"
+restart_12832,The Restart Project,BEL,19,Unknown,Desktop computer,Unknown,End of life,,2019-04-27,valt altijd uit
+restart_12833,The Restart Project,BEL,13,Other,Desktop computer,Unknown,Fixed,,2019-04-27,wifi-problemen
+restart_12885,The Restart Project,BEL,1,Boot,Desktop computer,Unknown,Repairable,,2019-04-28,start niet meer
+restart_12891,The Restart Project,BEL,10,Internal storage,Desktop computer,Unknown,Repairable,,2019-04-28,wordt niet meer gelezen
+restart_12972,The Restart Project,ITA,1,Boot,Desktop computer,Data Pool,Repairable,,2019-05-05,"A very old desktop PC. Powers on but doesn't work. Tried testing as many components as possible, but ran out of time."
+restart_13128,The Restart Project,GBR,15,Performance,Desktop computer,Unknown,Fixed,2009,2019-05-13,Refurb. Computer rebuild using recycled HDD and ODD
+restart_13131,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2019-05-14,Teardown
+restart_13502,The Restart Project,BEL,19,Unknown,Desktop computer,Unknown,End of life,,2019-05-25,"gaat niet meer aan, blijft draaien"
+restart_13637,The Restart Project,ITA,14,Overheating,Desktop computer,ASUS,Fixed,,2019-06-06,overheating
+restart_13639,The Restart Project,ITA,16,Ports/slots/connectors,Desktop computer,HP,Fixed,2010,2019-06-06,lan not working
+restart_13641,The Restart Project,ITA,15,Performance,Desktop computer,HP,Repairable,2010,2019-06-06,loud fan
+restart_13644,The Restart Project,ITA,3,Configuration,Desktop computer,HP,Fixed,2010,2019-06-06,needed lan drivers
+restart_13650,The Restart Project,ITA,18,System board,Desktop computer,ASUS,End of life,,2019-06-06,broken motherboard
+restart_13651,The Restart Project,ITA,17,Power/battery,Desktop computer,Unknown,Fixed,2013,2019-06-06,defective powersupply
+restart_13653,The Restart Project,ITA,12,Operating system,Desktop computer,HP,Fixed,,2019-06-06,no OS
+restart_13658,The Restart Project,ESP,18,System board,Desktop computer,Medion,Repairable,2013,2019-06-07,It needs a new motherboard.
+restart_13837,The Restart Project,GBR,12,Operating system,Desktop computer,Apple,Repairable,2008,2019-06-16,needs updating to most recent OS
+restart_13852,The Restart Project,SWE,18,System board,Desktop computer,Unknown,Fixed,2015,2019-06-16,Change of CPU and RAM
+restart_13863,The Restart Project,GBR,12,Operating system,Desktop computer,Acer,Fixed,2013,2019-06-18,locked as had forgotten password. fresh install
+restart_13932,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2019-06-22,
+restart_14038,The Restart Project,GBR,3,Configuration,Desktop computer,Medion,Fixed,,2019-07-01,Help required transferring date from desktop to USB - data transferred and machine donated to WFCC
+restart_14259,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2019-07-20,
+restart_14304,The Restart Project,GBR,8,Internal damage,Desktop computer,ASUS,Fixed,2015,2019-08-03,Water damage. Used compressed air and isopropyl alcohol to dry/clean ram and gpu slots
+restart_14397,The Restart Project,CAN,18,System board,Desktop computer,Unknown,Repairable,,2019-08-15,Motherboard/boot light
+restart_1442,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,End of life,,2015-05-09,
+restart_14545,The Restart Project,GBR,18,System board,Desktop computer,Unknown,Fixed,,2019-09-07,needs connections soldering
+restart_14636,The Restart Project,CAN,1,Boot,Desktop computer,Unknown,Fixed,,2019-09-12,Not booting
+restart_14686,The Restart Project,GBR,19,Unknown,Desktop computer,HP,End of life,2011,2019-09-14,Not turning on.
+restart_14761,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,2006,2019-09-16,"Running vista, Wants update to Windows 10"
+restart_14931,The Restart Project,NOR,19,Unknown,Desktop computer,Unknown,Repairable,,2019-09-28,Turns on and then off after a while
+restart_14936,The Restart Project,BEL,19,Unknown,Desktop computer,Unknown,End of life,,2019-09-28,
+restart_14966,The Restart Project,CAN,12,Operating system,Desktop computer,Unknown,End of life,,2019-09-28,Problem with a Windows update
+restart_14967,The Restart Project,CAN,17,Power/battery,Desktop computer,Unknown,End of life,,2019-09-28,Electric problem
+restart_1515,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2015-07-02,
+restart_15181,The Restart Project,SWE,19,Unknown,Desktop computer,Apple,Repairable,2010,2019-10-13,"Black screen. Bootup sound comes after starting the iMac, but no response from the screen. As the visitor was only interested in the data, we were able to backup all information to an external harddrive. The iMac got donated and will get tested for possible repair solutions."
+restart_15283,The Restart Project,GBR,7,Integrated screen,Desktop computer,Apple,End of life,,2019-10-19,"Broken screen, information recovered"
+restart_15430,The Restart Project,CAN,3,Configuration,Desktop computer,Unknown,Fixed,,2019-10-23,GPU driver problem
+restart_15435,The Restart Project,CAN,1,Boot,Desktop computer,Unknown,Fixed,,2019-10-23,Black screen when booted
+restart_15687,The Restart Project,BEL,19,Unknown,Desktop computer,Unknown,End of life,,2019-11-09,
+restart_15799,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2019-11-16,
+restart_15846,The Restart Project,GBR,19,Unknown,Desktop computer,Lenovo,Repairable,2019,2019-11-16,not working
+restart_16053,The Restart Project,BEL,15,Performance,Desktop computer,ASUS,Fixed,,2019-11-29,very slow
+restart_16084,The Restart Project,BEL,10,Internal storage,Desktop computer,Unknown,Repairable,,2019-11-29,"Doesn't start up. Due to: missing hard disk, no cable"
+restart_16166,The Restart Project,BEL,12,Operating system,Desktop computer,Unknown,Repairable,2009,2019-12-07,software update
+restart_1620,The Restart Project,GBR,17,Power/battery,Desktop computer,Philips,Fixed,,2015-08-11,Work around for broken power switch
+restart_1626,The Restart Project,GBR,12,Operating system,Desktop computer,HP,Fixed,,2015-08-11,Linux mint clean install
+restart_16380,The Restart Project,GBR,4,Integrated keyboard,Desktop computer,Dell,Repairable,,2020-01-05,"Keyboard broken, unclear how to open; shown iFixit guide and initial pointers, shown eBay keyboard replacement to order"
+restart_1655,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,End of life,,2015-09-05,
+restart_16864,The Restart Project,GBR,17,Power/battery,Desktop computer,Asus,Repairable,2017,2020-02-01,Not turning on
+restart_17375,The Restart Project,GBR,10,Internal storage,Desktop computer,AMD,Fixed,2019,2020-02-17,Drives upgrade. Upgrades completed.
+restart_17393,The Restart Project,CAN,10,Internal storage,Desktop computer,Unknown,Fixed,,2020-02-20,HDD configs
+restart_17536,The Restart Project,CAN,1,Boot,Desktop computer,Unknown,Fixed,,2020-03-12,Not booting
+restart_17703,The Restart Project,BEL,17,Power/battery,Desktop computer,Acer,Fixed,2014,2020-09-05,Ne démarre pas Alimentation out
+restart_17732,The Restart Project,SWE,12,Operating system,Desktop computer,AMP,Fixed,2010,2020-09-13,needed ubuntu installed.
+restart_17811,The Restart Project,BEL,13,Other,Desktop computer,Unknown,Repairable,,2020-09-22,Pistes ressoudées mais pas testé.
+restart_1820,The Restart Project,GBR,15,Performance,Desktop computer,Apple,Fixed,,2015-10-20,Needed an upgrade. New RAM installed
+restart_1860,The Restart Project,ITA,19,Unknown,Desktop computer,Olidata,End of life,,2015-10-31,
+restart_1877,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2015-10-31,
+restart_205,The Restart Project,GBR,17,Power/battery,Desktop computer,Unknown,Fixed,,2013-11-10,PC Tower - Power issue; not booting -
+restart_2100,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2016-01-16,
+restart_2109,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,End of life,,2016-01-16,
+restart_2347,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,End of life,,2016-03-05,
+restart_2363,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2016-03-05,desktop computer
+restart_2368,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2016-03-05,
+restart_2369,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2016-03-05,
+restart_2505,The Restart Project,GBR,17,Power/battery,Desktop computer,Unknown,Repairable,,2016-04-09,"won't turn on, next time"
+restart_251,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2013-11-16,Not working
+restart_2615,The Restart Project,ITA,12,Operating system,Desktop computer,Unknown,Fixed,,2016-04-30,installato Linux
+restart_2616,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2016-04-30,
+restart_2635,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,End of life,,2016-05-07,
+restart_2835,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2016-06-04,
+restart_284,The Restart Project,GBR,17,Power/battery,Desktop computer,Unknown,Fixed,,2013-12-07,PC Tower - No sound; power supply -
+restart_286,The Restart Project,GBR,15,Performance,Desktop computer,Unknown,Fixed,,2013-12-07,PC Tower - Needed memory upgrade -
+restart_3015,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2016-06-25,
+restart_3168,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2016-08-06,
+restart_3169,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2016-08-06,
+restart_3206,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2016-09-03,
+restart_3315,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,End of life,,2016-09-24,
+restart_3348,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2016-10-01,
+restart_341,The Restart Project,GBR,18,System board,Desktop computer,Unknown,End of life,,2014-01-25,PC tower - Power cuts out - Needs new motherboard
+restart_3415,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Repairable,,2016-10-15,
+restart_3480,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2016-10-22,
+restart_3850,The Restart Project,GBR,12,Operating system,Desktop computer,eMachines,Repairable,,2016-11-23,MS windows not starting
+restart_3894,The Restart Project,GBR,1,Boot,Desktop computer,Unknown,Fixed,,2016-11-26,Starts and then stops. NO OUTCOME LISTED
+restart_3948,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2016-11-26,
+restart_4016,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,End of life,,2016-12-08,
+restart_4080,The Restart Project,ITA,14,Overheating,Desktop computer,Unknown,Fixed,,2017-01-14,Fan unblocked
+restart_4198,The Restart Project,GBR,17,Power/battery,Desktop computer,Samsung,Repairable,,2017-01-28,"Backlight/charging - no computer lead brough, advised on new power socket and check"
+restart_4199,The Restart Project,GBR,19,Unknown,Desktop computer,Dell,Repairable,,2017-01-28,"Couldn't check, as no power lead"
+restart_4207,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2017-01-28,Phon
+restart_4256,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2017-01-28,
+restart_4257,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2017-01-28,
+restart_4301,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2017-02-04,Computer
+restart_4308,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Fixed,,2017-02-04,
+restart_4347,The Restart Project,GBR,19,Unknown,Desktop computer,Lenovo,Fixed,,2017-02-11,Needs some assembly
+restart_4348,The Restart Project,GBR,15,Performance,Desktop computer,Lenovo,Fixed,,2017-02-11,Running slow - install SSD
+restart_4356,The Restart Project,GBR,12,Operating system,Desktop computer,Unknown,Repairable,,2017-02-11,Needs Linux but also has fault which needs further investigation. No time to complete
+restart_4403,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-02-23,
+restart_4404,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-02-23,
+restart_4732,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-12,
+restart_4738,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-12,
+restart_4765,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4766,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4767,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4768,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4769,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4770,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2017-04-19,
+restart_4771,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2017-04-19,
+restart_4799,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_48,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2013-07-06,Desktop computer - -
+restart_4800,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4801,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4802,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4803,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4804,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4817,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2017-04-19,
+restart_4820,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-04-19,
+restart_4821,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-04-19,
+restart_4822,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-04-19,
+restart_4823,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-04-19,
+restart_4835,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4836,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4837,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4859,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4860,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-04-19,
+restart_4864,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2017-04-19,
+restart_4865,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2017-04-19,
+restart_500,The Restart Project,TUN,19,Unknown,Desktop computer,Unknown,Fixed,,2014-03-08,
+restart_508,The Restart Project,GBR,17,Power/battery,Desktop computer,Unknown,Repairable,,2014-03-29,Desktop PC - Won't boot - Needs new power supply
+restart_5091,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-05-17,
+restart_5092,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-05-17,
+restart_5298,The Restart Project,GBR,17,Power/battery,Desktop computer,Dell,Repairable,,2017-06-12,"Powers off after a few seconds. Work in progress, possible power supply"
+restart_5300,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2017-06-12,More time needed
+restart_5409,The Restart Project,NOR,19,Unknown,Desktop computer,Unknown,Fixed,2006,2017-06-17,
+restart_543,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2014-04-04,
+restart_5563,The Restart Project,ITA,12,Operating system,Desktop computer,Fujitsu Siemens,Fixed,,2017-06-30,Reinstalled with xubuntu
+restart_5564,The Restart Project,ITA,12,Operating system,Desktop computer,Fujitsu Siemens,Fixed,,2017-06-30,Reinstalled with xubuntu
+restart_5565,The Restart Project,ITA,12,Operating system,Desktop computer,Fujitsu Siemens,Fixed,,2017-06-30,Reinstalled with xubuntu
+restart_5566,The Restart Project,ITA,12,Operating system,Desktop computer,Fujitsu Siemens,Fixed,,2017-06-30,Reinstalled with xubuntu
+restart_5567,The Restart Project,ITA,12,Operating system,Desktop computer,Fujitsu Siemens,Fixed,,2017-06-30,Reinstalled with xubuntu
+restart_5577,The Restart Project,ITA,12,Operating system,Desktop computer,HP,Fixed,,2017-06-30,reinstalled with windows 10
+restart_5578,The Restart Project,ITA,12,Operating system,Desktop computer,Unknown,Fixed,,2017-06-30,reinstalled with ubuntu
+restart_5582,The Restart Project,ITA,12,Operating system,Desktop computer,HP,Fixed,,2017-06-30,reinstalled windows 10
+restart_5585,The Restart Project,ITA,12,Operating system,Desktop computer,ASUS,Fixed,,2017-06-30,reinstalled with xubuntu
+restart_5781,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2017-08-05,
+restart_5830,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-08-29,
+restart_5839,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-08-29,
+restart_5845,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-08-29,
+restart_5854,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2017-09-02,
+restart_6100,The Restart Project,GBR,10,Internal storage,Desktop computer,HP,Fixed,,2017-09-26,Full computer with screen. 64 bit. Replaces hard drive for SSD.installed Ubuntu 16.04
+restart_6190,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2017-10-07,
+restart_6218,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2017-10-18,Games console.
+restart_6274,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2017-10-21,
+restart_6308,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-10-22,
+restart_6322,The Restart Project,NOR,12,Operating system,Desktop computer,HP,Repairable,,2017-10-24,Wouldn't update.
+restart_6342,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2017-10-25,
+restart_6345,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-10-25,
+restart_6349,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-10-25,
+restart_6353,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-10-25,
+restart_6356,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-10-25,
+restart_6369,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-10-25,
+restart_642,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,End of life,,2014-05-10,
+restart_6485,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2017-11-04,
+restart_657,The Restart Project,ITA,15,Performance,Desktop computer,Unknown,Fixed,,2014-05-18,era lento
+restart_6573,The Restart Project,ITA,3,Configuration,Desktop computer,ASUS,Repairable,,2017-11-18,Problems with audio
+restart_6574,The Restart Project,ITA,12,Operating system,Desktop computer,Acer,Fixed,,2017-11-18,Problems with the Hard Disk and a damaged Windows Vista. Installed Linux Mint.
+restart_6624,The Restart Project,ESP,19,Unknown,Desktop computer,Acer,Repairable,,2017-11-18,
+restart_6674,The Restart Project,GBR,18,System board,Desktop computer,Dell,End of life,,2017-11-25,no output. tested. many capacitors blown on main board. uneconomic repair.
+restart_6793,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2017-12-02,
+restart_6836,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2017-12-07,
+restart_6888,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2017-12-09,
+restart_7004,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2018-01-20,
+restart_706,The Restart Project,GBR,10,Internal storage,Desktop computer,Dell,Repairable,,2014-06-12,PC Tower - Running slow - Needs new HD
+restart_7122,The Restart Project,GBR,10,Internal storage,Desktop computer,HP,Fixed,,2018-02-03,HD needed removing
+restart_7163,The Restart Project,CAN,20,Virus/malware,Desktop computer,Unknown,Fixed,,2018-02-13,Surchauffe/Infection virus
+restart_7165,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2018-02-13,Ã  préciser
+restart_7166,The Restart Project,CAN,10,Internal storage,Desktop computer,Unknown,Repairable,,2018-02-13,Pc ne reconnait pas le disque et problème de LED
+restart_7167,The Restart Project,CAN,16,Ports/slots/connectors,Desktop computer,Unknown,Fixed,,2018-02-13,Connecteur de charge brisé USB type B
+restart_7168,The Restart Project,CAN,17,Power/battery,Desktop computer,Unknown,Repairable,,2018-02-13,Batterie ne charge pas Pc Fonctionne sous tension
+restart_7169,The Restart Project,CAN,14,Overheating,Desktop computer,Unknown,Repairable,,2018-02-13,Ventilateur ne fonctionne pas
+restart_7170,The Restart Project,CAN,17,Power/battery,Desktop computer,Unknown,Repairable,,2018-02-13,Ne s'allume pas
+restart_7174,The Restart Project,CAN,3,Configuration,Desktop computer,Unknown,Repairable,,2018-02-13,Problème de synchonisation de courriel
+restart_7177,The Restart Project,CAN,17,Power/battery,Desktop computer,Unknown,End of life,,2018-02-13,Ne veut plus redémarrer
+restart_7178,The Restart Project,CAN,10,Internal storage,Desktop computer,Unknown,Fixed,,2018-02-13,Problème disque dur besoin de récupérer photos et sauvegarde ipad
+restart_7179,The Restart Project,CAN,11,Multiple,Desktop computer,Unknown,Fixed,,2018-02-13,Clavier et trackpad ne marchent plus
+restart_7180,The Restart Project,CAN,17,Power/battery,Desktop computer,Unknown,Fixed,,2018-02-13,Chargeur
+restart_7181,The Restart Project,CAN,3,Configuration,Desktop computer,Unknown,Repairable,,2018-02-13,Difficulté wifi et lenteur
+restart_7183,The Restart Project,CAN,16,Ports/slots/connectors,Desktop computer,Unknown,Repairable,,2018-02-13,Besoin nouveau connecteur
+restart_7185,The Restart Project,CAN,10,Internal storage,Desktop computer,Unknown,Fixed,,2018-02-13,Prise sata data lll
+restart_7186,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-02-13,
+restart_7187,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-02-13,
+restart_7204,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2018-02-17,
+restart_7256,The Restart Project,CAN,17,Power/battery,Desktop computer,Unknown,Repairable,,2018-02-22,allume pas
+restart_7263,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-02-22,
+restart_7274,The Restart Project,CAN,15,Performance,Desktop computer,Unknown,Fixed,,2018-02-22,Lenteur
+restart_7275,The Restart Project,CAN,17,Power/battery,Desktop computer,Unknown,Repairable,,2018-02-22,N'allume pas
+restart_7283,The Restart Project,CAN,12,Operating system,Desktop computer,Unknown,Fixed,,2018-02-22,Problème M.Ã .J
+restart_7284,The Restart Project,CAN,10,Internal storage,Desktop computer,Unknown,Fixed,,2018-02-22,HDD
+restart_7291,The Restart Project,GBR,13,Other,Desktop computer,Unknown,Fixed,,2018-02-23,"2017-10-13 Friday Donated HP desktop, laptop, Screen, keyboard, mouse and Ethernet cable. The screen was faulty and flickered off (at a later date replaced with a working screen). Gave a short introduction to Ubuntu gnu/Linux. Conclusion very intuitive"
+restart_7552,The Restart Project,CAN,10,Internal storage,Desktop computer,Unknown,End of life,,2018-03-22,Disque dure Problème Intallation
+restart_7559,The Restart Project,CAN,10,Internal storage,Desktop computer,Unknown,Repairable,,2018-03-22,Lecteur +0.5
+restart_7560,The Restart Project,CAN,9,Integrated optical drive,Desktop computer,Unknown,Fixed,,2018-03-22,Lecteur
+restart_7650,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-05,
+restart_7660,The Restart Project,CAN,7,Integrated screen,Desktop computer,Unknown,Repairable,,2018-04-05,Écran décollé
+restart_7664,The Restart Project,CAN,3,Configuration,Desktop computer,Unknown,Fixed,,2018-04-05,N'éteign pas ok
+restart_7667,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2018-04-05,
+restart_768,The Restart Project,GBR,3,Configuration,Desktop computer,Unknown,Fixed,,2014-07-10,PC - No internet -
+restart_78,The Restart Project,GBR,18,System board,Desktop computer,HP,End of life,,2013-07-31,Desktop computer - Power cutting off - Motherboard Ã¢€' terminal
+restart_7869,The Restart Project,GBR,17,Power/battery,Desktop computer,HP Compaq ,Fixed,,2018-04-19,"Needs a new battery - need to access the battery to find out what to buy. Battery replaced, SSD mounted. Mint installed."
+restart_8086,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-24,
+restart_8088,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2018-04-24,
+restart_8097,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2018-04-24,
+restart_8120,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2018-04-24,
+restart_8128,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-24,
+restart_8129,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-24,
+restart_8130,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-24,
+restart_8131,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-24,
+restart_8136,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-24,
+restart_8137,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-24,
+restart_8138,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-24,
+restart_8139,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-04-24,
+restart_8239,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Repairable,,2018-05-05,
+restart_8278,The Restart Project,ESP,19,Unknown,Desktop computer,Unknown,Fixed,,2018-05-12,
+restart_8440,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-05-24,
+restart_8441,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2018-05-24,
+restart_8445,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2018-05-24,
+restart_8452,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-05-24,
+restart_8471,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2018-05-24,
+restart_8530,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2018-06-02,
+restart_9008,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2018-09-01,
+restart_9119,The Restart Project,GBR,18,System board,Desktop computer,Unknown,End of life,,2018-09-15,Need to remove data from harddrive as computer dead.
+restart_9260,The Restart Project,ESP,19,Unknown,Desktop computer,eMachines,Fixed,,2018-09-22,
+restart_9327,The Restart Project,CAN,15,Performance,Desktop computer,Unknown,Fixed,,2018-09-28,Software/Slow
+restart_9328,The Restart Project,CAN,15,Performance,Desktop computer,Unknown,Fixed,,2018-09-28,Software/Slow
+restart_9329,The Restart Project,CAN,17,Power/battery,Desktop computer,Unknown,Fixed,,2018-09-28,Power/boot
+restart_933,The Restart Project,ITA,19,Unknown,Desktop computer,Unknown,Repairable,,2014-09-27,
+restart_9330,The Restart Project,CAN,17,Power/battery,Desktop computer,Unknown,Fixed,,2018-09-28,Power/boot
+restart_9331,The Restart Project,CAN,17,Power/battery,Desktop computer,Unknown,Fixed,,2018-09-28,Power/boot
+restart_937,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,End of life,,2014-10-04,
+restart_9514,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2018-10-06,
+restart_9616,The Restart Project,GBR,19,Unknown,Desktop computer,Unknown,Fixed,,2018-10-13,
+restart_9661,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2018-10-16,
+restart_9666,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Fixed,,2018-10-16,
+restart_9670,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2018-10-16,
+restart_9673,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2018-10-16,
+restart_9675,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,End of life,,2018-10-16,
+restart_9690,The Restart Project,CAN,19,Unknown,Desktop computer,Unknown,Repairable,,2018-10-16,
+restart_9722,The Restart Project,NOR,17,Power/battery,Desktop computer,Apple,Repairable,2000,2018-10-20,Not starting
+restart_9799,The Restart Project,BEL,19,Unknown,Desktop computer,Ace,Fixed,2015,2018-10-22,
+restart_9819,The Restart Project,CAN,16,Ports/slots/connectors,Desktop computer,Unknown,End of life,,2018-10-24,Connexion R545

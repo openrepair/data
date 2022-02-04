@@ -160,7 +160,6 @@
       "title": "List of 'next steps' and 'barriers to repair' for quest BattCat"
     }
   ],
-  "name": "battcat.csv",
   "title": "Results of Open Repair Data quest BattCat",
   "description": "Dataset of battery-powered device repair records from the Open Repair Alliance in ORDS format style with added `step_barrier` values. ",
   "homepage": "https://openrepair.org/open-data/insights/batteries",
