@@ -8,7 +8,7 @@ The tableschema.json file describes the data structure, validation, licensing an
 
 ## Where did it come from?
 
-[DustUp](https://restarters.net/dustup/status) was an online quest held in 2021 using data from ORA partners.
+[DustUp](https://restarters.net/dustup/status) was an online quest held in 2022 using data from ORA partners.
 
 ## What was DustUp all about?
 
