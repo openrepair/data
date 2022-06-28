@@ -2,7 +2,7 @@
 
 ## What is this?
 
-The data in the dustup.csv file is the result of an online quest where volunteer participants looked at tablet repair attempts recorded at community events. For more information about repair events and repair data, visit the [Open Repair Alliance](https://openrepair.org/open-data/) website.
+The data in the dustup.csv file is the result of an online quest where volunteer participants looked at vacuum cleaner repair attempts recorded at community events. For more information about repair events and repair data, visit the [Open Repair Alliance](https://openrepair.org/open-data/) website.
 
 The tableschema.json file describes the data structure, validation, licensing and source.
 
