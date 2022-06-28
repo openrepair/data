@@ -1,0 +1,19 @@
+fault_type,id,description
+Accessories/attachments,1,Optional external component of the appliance
+Blockage,2,Object obstructing suction or air flow 
+Brush,3,"External brushes, carpet beaters etc."
+Button/switch,4,"External controller, knob, slider, lever etc."
+Cable/cord,5,"Broken/exposed wiring, plug, unwinding and retraction"
+Display/LED,6,Dlectronic status indicator
+Dustbag/canister,7,The container that holds the ingested dirt and dust
+External damage,8,Damage to the chassis/case
+Filter,9,Damage or clogging of the filtering mechanism
+Hose/tube/pipe,10,Damage to a tubular component that siphons dirts and dust
+Internal damage,11,Problem with a circuit board or other internal component
+Liquid damage,12,Water/fluid leaks or has caused damage
+Motor,13,"Motor, drive belt, carbon brushes etc."
+Overheating,14,"Device is hot, emits burning smell"
+Power/battery,15,Issues with the internal battery or power supply
+Wheels/rollers,16,Problem with external rotating elements
+Poor data,25,Not enough info to determine the main fault
+Other,26,Main fault is known but there is no option for it
