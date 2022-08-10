@@ -12,7 +12,7 @@ Partner dataset to 2020-03-31 provided by [The Restart Project](https://restarte
 
 ## Schema version
 
-[ORDS v0.1](https://docs.google.com/document/d/1zR7GO2Jot_1g7QFPNo5R9wgEFXYo9CiyByM264BAsB4/)
+[ORDS v0.1](https://standard.openrepair.org/)
 
 With additions. For details see the tableschema.json
 

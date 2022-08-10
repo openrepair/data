@@ -3,8 +3,8 @@
   "resources": [
     {
 	  "name": "Open Repair Data from Fixit Clinic to 2020-09",
-	  "path": "https://raw.githubusercontent.com/openrepair/data/master/partners/FixitClinic/202009/OpenRepairData_v0.2_FixitClinic_202009.csv",
-      "profile": "tabular-data-resource",      
+	  "path": "https://github.com/openrepair/data/blob/master/partners/FixitClinic/202009/OpenRepairData_v0.2.1_FixitClinic_202009.csv",
+      "profile": "tabular-data-resource",
 	  "schema": {
         "fields": [
           {
@@ -99,7 +99,7 @@
             "constraints": {
                 "enum": "[Spare parts not available,Spare parts too expensive,No way to open product,Repair information not available,Lack of equipment,Too worn out]"
             }
-          },		  
+          },
           {
             "name": "group_identifier",
             "type": "string",

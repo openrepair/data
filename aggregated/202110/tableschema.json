@@ -3,7 +3,7 @@
     "resources": [
       {
         "name": "Open Repair Data Aggregated 2021-10",
-        "path": "https://github.com/openrepair/data/tree/master/aggregated/202110/OpenRepairData_v0.3_aggregate_202110.csv",
+        "path": "https://github.com/openrepair/data/blob/master/aggregated/202110/OpenRepairData_v0.3_aggregate_202110.csv",
         "profile": "tabular-data-resource",
         "schema": {
           "fields": [
@@ -137,7 +137,7 @@
       },
       {
           "name": "Open Repair Product Categories v0.3 2021-10",
-          "path": "{github-path}/OpenRepairData_v0.3_Product_Categories_202110.csv",
+          "path": "https://github.com/openrepair/data/blob/master/aggregated/202110/OpenRepairData_v0.3_Product_Categories.csv",
           "profile": "tabular-data-resource",
           "schema": {
             "fields": [

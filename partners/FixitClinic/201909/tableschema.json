@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "Open Repair Data from Fixit Clinic 2019-09",
-      "path": "https://raw.githubusercontent.com/openrepair/data/master/partners/FixitClinic/201909/OpenRepairData_v0.1_FixitClinic_201909.csv",
+      "path": "https://github.com/openrepair/data/blob/master/partners/FixitClinic/201909/OpenRepairData_v0.1_FixitClinic_201909.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
