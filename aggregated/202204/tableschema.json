@@ -137,7 +137,7 @@
       },
       {
           "name": "Open Repair Product Categories v0.3",
-          "path": "https://github.com/openrepair/data/tree/master/partners/aggregate/202204/OpenRepairData_v0.3_Product_Categories.csv",
+          "path": "https://github.com/openrepair/data/blob/master/partners/aggregate/202204/OpenRepairData_v0.3_Product_Categories.csv",
           "profile": "tabular-data-resource",
           "schema": {
             "fields": [
