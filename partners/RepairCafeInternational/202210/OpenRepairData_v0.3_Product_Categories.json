@@ -1,0 +1,162 @@
+[
+    {
+        "product_category_id": "1",
+        "product_category": "Aircon\/dehumidifier"
+    },
+    {
+        "product_category_id": "2",
+        "product_category": "Battery\/charger\/adapter"
+    },
+    {
+        "product_category_id": "3",
+        "product_category": "Decorative or safety lights"
+    },
+    {
+        "product_category_id": "4",
+        "product_category": "Desktop computer"
+    },
+    {
+        "product_category_id": "5",
+        "product_category": "Digital compact camera"
+    },
+    {
+        "product_category_id": "6",
+        "product_category": "DSLR\/video camera"
+    },
+    {
+        "product_category_id": "7",
+        "product_category": "Fan"
+    },
+    {
+        "product_category_id": "8",
+        "product_category": "Flat screen"
+    },
+    {
+        "product_category_id": "9",
+        "product_category": "Hair & beauty item"
+    },
+    {
+        "product_category_id": "10",
+        "product_category": "Handheld entertainment device"
+    },
+    {
+        "product_category_id": "11",
+        "product_category": "Headphones"
+    },
+    {
+        "product_category_id": "12",
+        "product_category": "Hi-Fi integrated"
+    },
+    {
+        "product_category_id": "13",
+        "product_category": "Hi-Fi separates"
+    },
+    {
+        "product_category_id": "14",
+        "product_category": "Kettle"
+    },
+    {
+        "product_category_id": "15",
+        "product_category": "Lamp"
+    },
+    {
+        "product_category_id": "16",
+        "product_category": "Laptop"
+    },
+    {
+        "product_category_id": "17",
+        "product_category": "Large home electrical"
+    },
+    {
+        "product_category_id": "18",
+        "product_category": "Misc"
+    },
+    {
+        "product_category_id": "19",
+        "product_category": "Mobile"
+    },
+    {
+        "product_category_id": "20",
+        "product_category": "Musical instrument"
+    },
+    {
+        "product_category_id": "21",
+        "product_category": "Paper shredder"
+    },
+    {
+        "product_category_id": "22",
+        "product_category": "PC Accessory"
+    },
+    {
+        "product_category_id": "23",
+        "product_category": "Portable radio"
+    },
+    {
+        "product_category_id": "24",
+        "product_category": "Power tool"
+    },
+    {
+        "product_category_id": "25",
+        "product_category": "Printer\/scanner"
+    },
+    {
+        "product_category_id": "26",
+        "product_category": "Projector"
+    },
+    {
+        "product_category_id": "27",
+        "product_category": "Sewing machine"
+    },
+    {
+        "product_category_id": "28",
+        "product_category": "Small home electrical"
+    },
+    {
+        "product_category_id": "29",
+        "product_category": "Small kitchen item"
+    },
+    {
+        "product_category_id": "30",
+        "product_category": "Tablet"
+    },
+    {
+        "product_category_id": "31",
+        "product_category": "Toaster"
+    },
+    {
+        "product_category_id": "32",
+        "product_category": "Toy"
+    },
+    {
+        "product_category_id": "33",
+        "product_category": "TV and gaming-related accessories"
+    },
+    {
+        "product_category_id": "34",
+        "product_category": "Vacuum"
+    },
+    {
+        "product_category_id": "35",
+        "product_category": "Watch\/clock"
+    },
+    {
+        "product_category_id": "36",
+        "product_category": "Coffee maker"
+    },
+    {
+        "product_category_id": "37",
+        "product_category": "Food processor"
+    },
+    {
+        "product_category_id": "38",
+        "product_category": "Games console"
+    },
+    {
+        "product_category_id": "39",
+        "product_category": "Hair dryer"
+    },
+    {
+        "product_category_id": "40",
+        "product_category": "Iron"
+    }
+]
