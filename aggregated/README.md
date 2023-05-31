@@ -8,4 +8,4 @@ The data to the end of March 2023 contains new data from core partners anstiftun
 
 A new dataset from Repair Connects has been added as part of a special release for the Sharepair project.
 
-Data from Repair Café Denmark and Repair Cafe Wales contain records up to the end of October 2022.
+The aggregation contains records from Repair Café Denmark and Repair Cafe Wales up to the end of October 2022.
