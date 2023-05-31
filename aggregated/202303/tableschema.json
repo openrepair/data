@@ -165,7 +165,7 @@
     ],
     "name": "Open Repair Data from The Open Repair Alliance 2023-03",
     "title": "Aggregated Open Repair Data to March 31 2023",
-    "description": "Dataset from the Open Repair Alliance. For notes about this dataset see https://github.com/openrepair/data/blob/master/aggregated/README.md",
+    "description": "Dataset from the Open Repair Alliance. See https://github.com/openrepair/data/blob/master/aggregated/README.md",
     "homepage": "https://openrepair.org/open-data/",
     "contributors": [
       {
