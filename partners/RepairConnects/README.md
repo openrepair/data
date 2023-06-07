@@ -1,3 +1,3 @@
 # Open Repair Data
 
-Partner datasets from the [Repair Connects](https://www.repairconnects.org/)
+Partner datasets from [Repair Connects](https://www.repairconnects.org/).
