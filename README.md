@@ -1,6 +1,8 @@
 # Open Repair Data
 
-Compiled and published datasets of repair data from the [Open Repair Alliance](https://openrepair.org/).
+Compiled and published datasets of repair data from the [Open Repair Alliance](https://openrepair.org/)
+
+Latest [zipped datasets](https://openrepair.org/open-data/downloads/) are available for download
 
 Data last updated: June 2023 (including data to end of March 2023)
 
