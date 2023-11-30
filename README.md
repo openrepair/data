@@ -2,11 +2,11 @@
 
 Compiled and published datasets of repair data from the [Open Repair Alliance](https://openrepair.org/)
 
-Latest [zipped datasets](https://openrepair.org/open-data/downloads/) are available for download
+Previous [zipped datasets](https://openrepair.org/open-data/downloads/) are available for download. Latest zipped datasets will be made available soon.
 
-Data last updated: June 2023 (including data to end of March 2023)
+Data last updated: November 2023 (including data to end of September 2023)
 
-Current record count: 103,076
+Current record count: 133,426
 
 Current structure: [ORDS v0.3](https://github.com/openrepair/datastandard)
 
