@@ -25,7 +25,7 @@
         "profile": "tabular-data-resource",
         "format": "CSV",
         "name": "OpenRepairData_v0.3_aggregate_202407.csv",
-        "path": "https://github.com/openrepair/data/tree/master/aggregate/202407",
+        "path": "https://github.com/openrepair/data/tree/master/aggregated/202407",
         "title": "Open Repair Data - Aggregate - 2024/07",
         "schema": {
           "fields": [
@@ -161,7 +161,7 @@
         "profile": "tabular-data-resource",
         "format": "CSV",
         "name": "OpenRepairData_v0.3_Product_Categories.csv",
-        "path": "https://github.com/openrepair/data/tree/master/aggregate/202407",
+        "path": "https://github.com/openrepair/data/tree/master/aggregated/202407",
         "title": "Open Repair Product Categories v0.3",
         "schema": {
           "fields": [
