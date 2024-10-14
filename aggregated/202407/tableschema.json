@@ -1,0 +1,187 @@
+{
+    "profile": "tabular-data-package",
+    "title": "Open Repair Data - Aggregate - 2024/07",
+    "description": "Dataset from the Open Repair Alliance.",
+    "homepage": "https://openrepair.org/open-data/",
+    "contributors": [
+      {
+        "title": "Monique Szpak",
+        "role": "author"
+      },
+      {
+        "title": "Neil Mather",
+        "role": "author"
+      }
+    ],
+    "licenses": [
+      {
+        "name": "CC-BY-SA-4.0",
+        "title": "Creative Commons Attribution Share-Alike 4.0",
+        "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "resources": [
+      {
+        "profile": "tabular-data-resource",
+        "format": "CSV",
+        "name": "OpenRepairData_v0.3_aggregate_202407.csv",
+        "path": "https://github.com/openrepair/data/tree/master/aggregated/202407",
+        "title": "Open Repair Data - Aggregate - 2024/07",
+        "schema": {
+          "fields": [
+            {
+              "name": "id",
+              "type": "string",
+              "format": "default",
+              "title": "ID",
+              "description": "ORDS unique identifier.",
+              "constraints": {
+                  "pattern": "^[a-z]+-[0-9]+$",
+                  "unique": "true"
+              }
+            },
+            {
+              "name": "data_provider",
+              "type": "string",
+              "format": "default",
+              "title": "Data Provider",
+              "description": "Name of the organisation that contributes the data."
+            },
+            {
+              "name": "country",
+              "type": "string",
+              "format": "default",
+              "title": "Country",
+              "description": "3 char ISO country code.",
+              "constraints": {
+                  "pattern": "^[A-Z]{3}$",
+                  "minimum": "3",
+                  "maximum": "3"
+              }
+            },
+            {
+              "name": "partner_product_category",
+              "type": "string",
+              "format": "default",
+              "title": "Partner Product Category",
+              "description": "Contributor-defined product type."
+            },
+            {
+              "name": "product_category",
+              "type": "string",
+              "format": "default",
+              "title": "Product Category ORDS",
+              "description": "ORDS-defined product type."
+            },
+            {
+              "name": "product_category_id",
+              "type": "integer",
+              "format": "default",
+              "title": "Product Category ORDS ID",
+              "description": "ORDS-defined product type unique identifier.",
+              "constraints": {
+                  "pattern": "^[0-9]{1,2}$"
+              }
+            },
+            {
+              "name": "brand",
+              "type": "string",
+              "format": "default",
+              "title": "Brand",
+              "description": "Product brand name. Optional.",
+              "missingValues": ["Unknown"]
+            },
+            {
+              "name": "year_of_manufacture",
+              "type": "string",
+              "format": "default",
+              "title": "Year of Manufacture",
+              "description": "Product year of manufacture estimate. Optional.",
+              "constraints": {
+                  "pattern": "^[0-9]{4}$"
+              },
+              "missingValues": [""]
+            },
+            {
+              "name": "product_age",
+              "type": "number",
+              "format": "default",
+              "title": "Product Age",
+              "description": "Product age estimate. Integer or decimal. Optional.",
+              "missingValues": [""]
+            },
+            {
+              "name": "repair_status",
+              "type": "string",
+              "format": "default",
+              "title": "Repair Status",
+              "description": "Result of the repair attempt.",
+              "constraints": {
+                  "enum": "[Fixed, Repairable, End of life, Unknown]"
+              }
+            },
+            {
+              "name": "repair_barrier_if_end_of_life",
+              "type": "string",
+              "format": "default",
+              "title": "Repair Barrier",
+              "description": "If repair status is 'End of life', what prevented repair? Optional.",
+              "missingValues": [""],
+              "constraints": {
+                  "enum": "[Spare parts not available,Spare parts too expensive,No way to open product,Repair information not available,Lack of equipment,Too worn out]"
+              }
+            },
+            {
+              "name": "group_identifier",
+              "type": "string",
+              "format": "default",
+              "title": "Repair Group",
+              "description": "Name or ID of the group that hosted the event."
+            },
+            {
+              "name": "event_date",
+              "type": "date",
+              "format": "yyyy-mm-dd",
+              "title": "Repair Event Date",
+              "description": "Date the repair event was held."
+            },
+            {
+              "name": "problem",
+              "type": "string",
+              "format": "default",
+              "title": "Problem Text",
+              "description": "Description of the fault and solution. Optional.",
+              "missingValues": [""]
+            }
+          ],
+          "primaryKey": "id"
+        }
+      },
+      {
+        "profile": "tabular-data-resource",
+        "format": "CSV",
+        "name": "OpenRepairData_v0.3_Product_Categories.csv",
+        "path": "https://github.com/openrepair/data/tree/master/aggregated/202407",
+        "title": "Open Repair Product Categories v0.3",
+        "schema": {
+          "fields": [
+            {
+              "name": "product_category_id",
+              "type": "integer",
+              "format": "default",
+              "title": "Product Category ID",
+              "description": "ORDS unique identifier for product categories."
+            },
+            {
+              "name": "product_category",
+              "type": "string",
+              "format": "default",
+              "title": "Product Category",
+              "description": "ORDS-defined product type."
+            }
+        ],
+        "primaryKey": "product_category_id"
+        }
+      }
+    ]
+  }

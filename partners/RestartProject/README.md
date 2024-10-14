@@ -1,3 +1,3 @@
 # Open Repair Data
 
-Partner datasets from [The Restart Project](https://restarters.net/)
+Data contributed by [The Restart Project](https://therestartproject.org/)

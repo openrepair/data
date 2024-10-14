@@ -1,3 +1,3 @@
 # Open Repair Data
 
-Partner datasets from [anstiftung](https://anstiftung.de/selbermachen/reparatur-initiativen)
+Data contributed by [anstiftung](https://anstiftung.de/selbermachen/reparatur-initiativen)
