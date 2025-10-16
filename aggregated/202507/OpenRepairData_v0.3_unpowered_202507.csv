@@ -1,0 +1,157 @@
+data_provider,product_category,repair_status,total
+Fixit Clinic,Unpowered - Bicycle,End of life,2
+Fixit Clinic,Unpowered - Bicycle,Fixed,17
+Fixit Clinic,Unpowered - Bicycle,Repairable,11
+Fixit Clinic,Unpowered - Bicycle,Unknown,4
+Fixit Clinic,Unpowered - Furniture,End of life,1
+Fixit Clinic,Unpowered - Furniture,Fixed,18
+Fixit Clinic,Unpowered - Furniture,Repairable,14
+Fixit Clinic,Unpowered - Furniture,Unknown,7
+Fixit Clinic,Unpowered - Household,End of life,5
+Fixit Clinic,Unpowered - Household,Fixed,54
+Fixit Clinic,Unpowered - Household,Repairable,24
+Fixit Clinic,Unpowered - Household,Unknown,18
+Fixit Clinic,Unpowered - Jewellery,Fixed,29
+Fixit Clinic,Unpowered - Jewellery,Repairable,6
+Fixit Clinic,Unpowered - Jewellery,Unknown,5
+Fixit Clinic,Unpowered - Other,End of life,2
+Fixit Clinic,Unpowered - Other,Fixed,1
+Fixit Clinic,Unpowered - Other,Repairable,4
+Fixit Clinic,Unpowered - Other,Unknown,2
+Fixit Clinic,Unpowered - Textile,End of life,2
+Fixit Clinic,Unpowered - Textile,Fixed,59
+Fixit Clinic,Unpowered - Textile,Repairable,23
+Fixit Clinic,Unpowered - Textile,Unknown,8
+Repair Cafe Wales,Unpowered - Bicycle,End of life,29
+Repair Cafe Wales,Unpowered - Bicycle,Fixed,1323
+Repair Cafe Wales,Unpowered - Bicycle,Repairable,293
+Repair Cafe Wales,Unpowered - Bicycle,Unknown,52
+Repair Cafe Wales,Unpowered - Furniture,End of life,68
+Repair Cafe Wales,Unpowered - Furniture,Fixed,1124
+Repair Cafe Wales,Unpowered - Furniture,Repairable,270
+Repair Cafe Wales,Unpowered - Furniture,Unknown,64
+Repair Cafe Wales,Unpowered - Household,End of life,107
+Repair Cafe Wales,Unpowered - Household,Fixed,1717
+Repair Cafe Wales,Unpowered - Household,Repairable,160
+Repair Cafe Wales,Unpowered - Household,Unknown,77
+Repair Cafe Wales,Unpowered - Jewellery,End of life,68
+Repair Cafe Wales,Unpowered - Jewellery,Fixed,1079
+Repair Cafe Wales,Unpowered - Jewellery,Repairable,174
+Repair Cafe Wales,Unpowered - Jewellery,Unknown,63
+Repair Cafe Wales,Unpowered - Other,End of life,377
+Repair Cafe Wales,Unpowered - Other,Fixed,2815
+Repair Cafe Wales,Unpowered - Other,Repairable,639
+Repair Cafe Wales,Unpowered - Other,Unknown,236
+Repair Cafe Wales,Unpowered - Textile,End of life,132
+Repair Cafe Wales,Unpowered - Textile,Fixed,5601
+Repair Cafe Wales,Unpowered - Textile,Repairable,548
+Repair Cafe Wales,Unpowered - Textile,Unknown,191
+Repair Café Denmark,Unpowered - Bicycle,End of life,73
+Repair Café Denmark,Unpowered - Bicycle,Fixed,844
+Repair Café Denmark,Unpowered - Bicycle,Unknown,16
+Repair Café Denmark,Unpowered - Furniture,End of life,89
+Repair Café Denmark,Unpowered - Furniture,Fixed,609
+Repair Café Denmark,Unpowered - Furniture,Unknown,20
+Repair Café Denmark,Unpowered - Household,End of life,470
+Repair Café Denmark,Unpowered - Household,Fixed,2366
+Repair Café Denmark,Unpowered - Household,Unknown,64
+Repair Café Denmark,Unpowered - Jewellery,End of life,28
+Repair Café Denmark,Unpowered - Jewellery,Fixed,257
+Repair Café Denmark,Unpowered - Jewellery,Unknown,7
+Repair Café Denmark,Unpowered - Other,End of life,227
+Repair Café Denmark,Unpowered - Other,Fixed,1076
+Repair Café Denmark,Unpowered - Other,Unknown,53
+Repair Café Denmark,Unpowered - Textile,End of life,103
+Repair Café Denmark,Unpowered - Textile,Fixed,1125
+Repair Café Denmark,Unpowered - Textile,Unknown,67
+Repair Café International,Unpowered - Bicycle,End of life,350
+Repair Café International,Unpowered - Bicycle,Fixed,4039
+Repair Café International,Unpowered - Bicycle,Repairable,416
+Repair Café International,Unpowered - Furniture,End of life,182
+Repair Café International,Unpowered - Furniture,Fixed,1420
+Repair Café International,Unpowered - Furniture,Repairable,307
+Repair Café International,Unpowered - Household,End of life,1396
+Repair Café International,Unpowered - Household,Fixed,9886
+Repair Café International,Unpowered - Household,Repairable,1028
+Repair Café International,Unpowered - Household,Unknown,1
+Repair Café International,Unpowered - Jewellery,End of life,220
+Repair Café International,Unpowered - Jewellery,Fixed,1984
+Repair Café International,Unpowered - Jewellery,Repairable,190
+Repair Café International,Unpowered - Other,End of life,272
+Repair Café International,Unpowered - Other,Fixed,970
+Repair Café International,Unpowered - Other,Repairable,184
+Repair Café International,Unpowered - Textile,End of life,796
+Repair Café International,Unpowered - Textile,Fixed,18316
+Repair Café International,Unpowered - Textile,Repairable,815
+Repair Café International,Unpowered - Textile,Unknown,1
+Repair Café Toronto,Unpowered - Bicycle,End of life,1
+Repair Café Toronto,Unpowered - Bicycle,Fixed,18
+Repair Café Toronto,Unpowered - Bicycle,Repairable,1
+Repair Café Toronto,Unpowered - Bicycle,Unknown,35
+Repair Café Toronto,Unpowered - Furniture,End of life,2
+Repair Café Toronto,Unpowered - Furniture,Fixed,32
+Repair Café Toronto,Unpowered - Furniture,Repairable,3
+Repair Café Toronto,Unpowered - Furniture,Unknown,47
+Repair Café Toronto,Unpowered - Household,End of life,58
+Repair Café Toronto,Unpowered - Household,Fixed,269
+Repair Café Toronto,Unpowered - Household,Repairable,28
+Repair Café Toronto,Unpowered - Household,Unknown,652
+Repair Café Toronto,Unpowered - Jewellery,End of life,13
+Repair Café Toronto,Unpowered - Jewellery,Fixed,224
+Repair Café Toronto,Unpowered - Jewellery,Repairable,18
+Repair Café Toronto,Unpowered - Jewellery,Unknown,519
+Repair Café Toronto,Unpowered - Other,Fixed,17
+Repair Café Toronto,Unpowered - Other,Repairable,1
+Repair Café Toronto,Unpowered - Other,Unknown,61
+Repair Café Toronto,Unpowered - Textile,End of life,69
+Repair Café Toronto,Unpowered - Textile,Fixed,707
+Repair Café Toronto,Unpowered - Textile,Repairable,46
+Repair Café Toronto,Unpowered - Textile,Unknown,1614
+The Restart Project,Unpowered - Bicycle,End of life,86
+The Restart Project,Unpowered - Bicycle,Fixed,4021
+The Restart Project,Unpowered - Bicycle,Repairable,633
+The Restart Project,Unpowered - Bicycle,Unknown,31
+The Restart Project,Unpowered - Furniture,End of life,149
+The Restart Project,Unpowered - Furniture,Fixed,2112
+The Restart Project,Unpowered - Furniture,Repairable,658
+The Restart Project,Unpowered - Furniture,Unknown,10
+The Restart Project,Unpowered - Household,End of life,233
+The Restart Project,Unpowered - Household,Fixed,9561
+The Restart Project,Unpowered - Household,Repairable,387
+The Restart Project,Unpowered - Household,Unknown,67
+The Restart Project,Unpowered - Jewellery,End of life,111
+The Restart Project,Unpowered - Jewellery,Fixed,2698
+The Restart Project,Unpowered - Jewellery,Repairable,534
+The Restart Project,Unpowered - Jewellery,Unknown,14
+The Restart Project,Unpowered - Other,End of life,822
+The Restart Project,Unpowered - Other,Fixed,7873
+The Restart Project,Unpowered - Other,Repairable,1911
+The Restart Project,Unpowered - Other,Unknown,74
+The Restart Project,Unpowered - Textile,End of life,293
+The Restart Project,Unpowered - Textile,Fixed,22794
+The Restart Project,Unpowered - Textile,Repairable,1756
+The Restart Project,Unpowered - Textile,Unknown,144
+anstiftung,Unpowered - Bicycle,End of life,78
+anstiftung,Unpowered - Bicycle,Fixed,928
+anstiftung,Unpowered - Bicycle,Repairable,124
+anstiftung,Unpowered - Bicycle,Unknown,10
+anstiftung,Unpowered - Furniture,End of life,33
+anstiftung,Unpowered - Furniture,Fixed,345
+anstiftung,Unpowered - Furniture,Repairable,41
+anstiftung,Unpowered - Furniture,Unknown,6
+anstiftung,Unpowered - Household,End of life,117
+anstiftung,Unpowered - Household,Fixed,844
+anstiftung,Unpowered - Household,Repairable,83
+anstiftung,Unpowered - Household,Unknown,11
+anstiftung,Unpowered - Jewellery,End of life,6
+anstiftung,Unpowered - Jewellery,Fixed,68
+anstiftung,Unpowered - Jewellery,Repairable,5
+anstiftung,Unpowered - Jewellery,Unknown,1
+anstiftung,Unpowered - Other,End of life,10
+anstiftung,Unpowered - Other,Fixed,55
+anstiftung,Unpowered - Other,Repairable,9
+anstiftung,Unpowered - Other,Unknown,1
+anstiftung,Unpowered - Textile,End of life,85
+anstiftung,Unpowered - Textile,Fixed,3179
+anstiftung,Unpowered - Textile,Repairable,168
+anstiftung,Unpowered - Textile,Unknown,15
