@@ -4,3 +4,5 @@ Quests are forays into Open Repair Data organised by [The Restart Project](https
 
 Data is collected at community events and enriched via quests to become strong evidence for better products. With the help of data volunteers we can change the system.
 
+[We won the European Union Prize for Citizen Science—Digital Communities Award!](https://therestartproject.org/data-and-insights/we-won-the-european-union-prize-for-citizen-science-digital-communities-award/)
+
