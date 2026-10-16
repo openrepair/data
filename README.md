@@ -2,7 +2,7 @@
 
 Community repair data from the [Open Repair Alliance](https://openrepair.org/)
 
-[Zipped datasets](https://openrepair.org/open-data/downloads/) are available for download from the ORA website
+[A zipped dataset](https://openrepair.org/open-data/downloads/) is available for download from the ORA website
 
 Last updated: October 2026 with data to end of July 2026
 
