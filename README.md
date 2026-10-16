@@ -1,13 +1,21 @@
 # Open Repair Data
 
-Compiled and published datasets of repair data from the [Open Repair Alliance](https://openrepair.org/)
+Community repair data from the [Open Repair Alliance](https://openrepair.org/)
 
-[Zipped datasets](https://openrepair.org/open-data/downloads/) are available for download.
+[Zipped datasets](https://openrepair.org/open-data/downloads/) are available for download from the ORA website
 
-Data last updated: October 2025 with data to end of July 2025
+Last updated: October 2026 with data to end of July 2026
 
-Current record count: 305,649 powered items
 
-Current structure: [ORDS v0.3](https://github.com/openrepair/datastandard)
+| Current record count| |
+|-------------|---------|
+|     **eee** | 416,284 |
+| **non-eee** | 203,591 |
+|   **total** | 619,875 |
 
-Licence: [CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+
+[Open Repair Data Standard v0.3](https://github.com/openrepair/datastandard)
+
+[CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-sa/4.0/)
