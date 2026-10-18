@@ -9,9 +9,9 @@ Last updated: October 2026 with data to end of July 2026
 
 | Current record count| |
 |-------------|---------|
-|     **eee** | 416,284 |
+|     **eee** | 416,282 |
 | **non-eee** | 203,591 |
-|   **total** | 619,875 |
+|   **total** | 619,873 |
 
 
 
