@@ -14,7 +14,7 @@ Last updated: October 2026 with data to end of July 2026
 |   **total** | 619,873 |
 
 
-
+The [ords-extra](https://codeberg.org/zenlan/ords-extra) repo provides additional data that can be joined to the ORDS dataset for further insights. 
 
 [Open Repair Data Standard v0.3](https://github.com/openrepair/datastandard)
 
